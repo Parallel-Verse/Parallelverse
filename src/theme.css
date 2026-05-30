@@ -9,7 +9,7 @@
   --accent: #071f3a;
   --accent-strong: #071f3a;
   --pane-shadow: 0 18px 52px rgba(8, 27, 52, 0.1);
-  --header-h: 82px;
+  --header-h: 62px;
   --reader-font: Palatino, "Palatino Linotype", "Book Antiqua", Georgia, serif;
   font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   background: var(--bg);
@@ -84,19 +84,19 @@ button {
   z-index: 20;
   display: grid;
   grid-template-columns: 1fr auto auto;
-  gap: 0.75rem;
+  gap: 0.55rem;
   align-items: center;
   min-height: var(--header-h);
-  padding: 0.7rem clamp(0.75rem, 3vw, 1.35rem);
+  padding: 0.45rem clamp(0.55rem, 2vw, 1rem);
   background: color-mix(in srgb, var(--surface-raised) 88%, transparent);
   border-bottom: 1px solid var(--line);
   backdrop-filter: blur(18px);
 }
 
-.brand-mark {
+.book-menu-wrap {
+  position: relative;
   display: flex;
   align-items: center;
-  gap: 0.7rem;
   min-width: 0;
 }
 
@@ -104,13 +104,14 @@ button {
 .icon-button {
   display: grid;
   place-items: center;
-  width: 44px;
-  height: 44px;
+  width: 42px;
+  height: 42px;
   flex: 0 0 auto;
   border-radius: 8px;
 }
 
 .brand-icon {
+  border: 0;
   color: #ffffff;
   background: var(--accent);
 }
@@ -122,22 +123,55 @@ button {
   height: 1.25rem;
 }
 
-.brand-mark strong {
-  display: block;
-  overflow: hidden;
-  color: var(--ink);
-  font-size: clamp(0.98rem, 2vw, 1.1rem);
-  line-height: 1.15;
-  text-overflow: ellipsis;
-  white-space: nowrap;
+.book-menu {
+  position: absolute;
+  top: calc(100% + 0.55rem);
+  left: 0;
+  z-index: 35;
+  display: grid;
+  gap: 0.8rem;
+  width: min(92vw, 420px);
+  padding: 0.85rem;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--surface-raised);
+  box-shadow: 0 22px 60px rgba(8, 27, 52, 0.18);
+  opacity: 0;
+  pointer-events: none;
+  transform: translateY(-0.3rem);
+  transition: opacity 160ms ease, transform 160ms ease;
 }
 
-.brand-mark span:not(.brand-icon) {
+.book-menu.is-open {
+  opacity: 1;
+  pointer-events: auto;
+  transform: translateY(0);
+}
+
+.book-menu-title strong {
+  display: block;
+  color: var(--ink);
+  font-size: 1rem;
+  line-height: 1.15;
+}
+
+.book-menu-title span {
   display: block;
   margin-top: 0.15rem;
   color: var(--muted);
   font-size: 0.82rem;
   font-weight: 750;
+}
+
+.current-reference {
+  overflow: hidden;
+  max-width: min(44vw, 280px);
+  color: var(--accent-strong);
+  font-size: 0.86rem;
+  font-weight: 850;
+  text-align: center;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 .icon-button {
@@ -215,12 +249,12 @@ select {
   align-items: center;
   justify-content: space-between;
   gap: 1rem;
-  min-height: 48px;
-  padding: 0 1rem;
+  min-height: 32px;
+  padding: 0 0.75rem;
   border-bottom: 1px solid var(--line);
   color: var(--muted);
   background: color-mix(in srgb, var(--surface-raised) 84%, var(--bg));
-  font-size: 0.78rem;
+  font-size: 0.68rem;
   font-weight: 850;
   letter-spacing: 0.06em;
   text-transform: uppercase;
@@ -231,7 +265,7 @@ select {
 }
 
 .pane-scroll {
-  height: calc(100% - 48px);
+  height: calc(100% - 32px);
   overflow-y: auto;
   overscroll-behavior: contain;
   scroll-behavior: smooth;
@@ -429,17 +463,11 @@ rt {
 
 @media (max-width: 760px) {
   :root {
-    --header-h: 126px;
+    --header-h: 52px;
   }
 
   .top-bar {
-    grid-template-columns: 1fr auto;
-  }
-
-  .chapter-selector {
-    grid-column: 1 / -1;
-    order: 3;
-    width: 100%;
+    grid-template-columns: auto minmax(0, 1fr) auto;
   }
 
   .chapter-selector label {
@@ -452,19 +480,13 @@ rt {
 }
 
 @media (max-width: 420px) {
-  .brand-mark strong {
-    max-width: 230px;
-    white-space: normal;
-    text-overflow: clip;
-  }
-
   .reader-main {
-    padding: 0.5rem;
+    padding: 0.35rem;
   }
 
   .reader-layout {
-    gap: 0.5rem;
-    height: calc(100dvh - var(--header-h) - 58px - 1rem);
+    gap: 0.35rem;
+    height: calc(100dvh - var(--header-h) - 58px - 0.7rem);
   }
 
   .pane-scroll {
