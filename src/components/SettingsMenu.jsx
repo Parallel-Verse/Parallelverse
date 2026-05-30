@@ -6,7 +6,14 @@ const themes = [
   { value: 'sepia', label: 'Sepia', icon: Sunset },
 ];
 
-export default function SettingsMenu({ open, preferences, languageOptions, onChange, onClose }) {
+export default function SettingsMenu({
+  open,
+  preferences,
+  languageOptions,
+  visitCount,
+  onChange,
+  onClose,
+}) {
   const showFuriganaToggle =
     preferences.pane1Language === 'jpn' || preferences.pane2Language === 'jpn';
 
@@ -89,6 +96,11 @@ export default function SettingsMenu({ open, preferences, languageOptions, onCha
         <p className="settings-disclaimer">
           Unofficial study tool. Not affiliated with The Church of Jesus Christ of Latter-day Saints.
         </p>
+
+        <div className="visit-counter" aria-label="Website visits on this device">
+          <span>Visits on this device</span>
+          <strong>{visitCount.toLocaleString()}</strong>
+        </div>
       </aside>
     </div>
   );

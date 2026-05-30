@@ -6,6 +6,7 @@ import ChapterSelector from './components/ChapterSelector.jsx';
 import { chapters, languageOptions } from './data/scriptureData.js';
 
 const preferenceKey = 'bilingual-bom-reader-preferences';
+const visitCountKey = 'parallel-verse-visit-count';
 
 const defaultPreferences = {
   theme: 'light',
@@ -38,6 +39,7 @@ export default function App() {
   const [preferences, setPreferences] = useState(readPreferences);
   const [settingsOpen, setSettingsOpen] = useState(false);
   const [bookMenuOpen, setBookMenuOpen] = useState(false);
+  const [visitCount, setVisitCount] = useState(0);
 
   const currentChapter = useMemo(() => {
     return (
@@ -59,6 +61,13 @@ export default function App() {
     document.documentElement.dataset.theme = preferences.theme;
     localStorage.setItem(preferenceKey, JSON.stringify(preferences));
   }, [preferences]);
+
+  useEffect(() => {
+    const currentCount = Number(localStorage.getItem(visitCountKey) ?? 0);
+    const nextCount = Number.isFinite(currentCount) ? currentCount + 1 : 1;
+    localStorage.setItem(visitCountKey, String(nextCount));
+    setVisitCount(nextCount);
+  }, []);
 
   const updatePreference = (key, value) => {
     setPreferences((current) => ({ ...current, [key]: value }));
@@ -141,6 +150,7 @@ export default function App() {
         open={settingsOpen}
         preferences={preferences}
         languageOptions={languageOptions}
+        visitCount={visitCount}
         onChange={updatePreference}
         onClose={() => setSettingsOpen(false)}
       />

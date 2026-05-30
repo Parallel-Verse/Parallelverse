@@ -1,7 +1,7 @@
 import { useCallback, useEffect, useRef, useState } from 'react';
 import ScripturePane from './ScripturePane.jsx';
 
-const lockMs = 420;
+const lockMs = 70;
 const swipeThreshold = 72;
 const swipeVerticalTolerance = 54;
 const transitionMs = 280;
@@ -23,6 +23,7 @@ export default function ReaderLayout({
   const syncLock = useRef(null);
   const releaseTimer = useRef(null);
   const alignFrame = useRef(null);
+  const syncFrame = useRef(null);
   const touchStart = useRef(null);
   const pendingDirection = useRef(0);
   const transitionTimer = useRef(null);
@@ -54,7 +55,11 @@ export default function ReaderLayout({
   }, [chapter]);
 
   useEffect(() => {
-    return () => window.clearTimeout(transitionTimer.current);
+    return () => {
+      window.clearTimeout(transitionTimer.current);
+      window.clearTimeout(releaseTimer.current);
+      window.cancelAnimationFrame(syncFrame.current);
+    };
   }, []);
 
   const alignVerseRows = useCallback(() => {
@@ -135,9 +140,9 @@ export default function ReaderLayout({
     if (!source || !target) return;
 
     syncLock.current = activePane;
-    target.scrollTo({
-      top: source.scrollTop,
-      behavior: 'auto',
+    window.cancelAnimationFrame(syncFrame.current);
+    syncFrame.current = window.requestAnimationFrame(() => {
+      target.scrollTop = source.scrollTop;
     });
 
     window.clearTimeout(releaseTimer.current);
