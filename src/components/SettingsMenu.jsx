@@ -7,6 +7,9 @@ const themes = [
 ];
 
 export default function SettingsMenu({ open, preferences, languageOptions, onChange, onClose }) {
+  const showFuriganaToggle =
+    preferences.pane1Language === 'jpn' || preferences.pane2Language === 'jpn';
+
   return (
     <div className={`settings-layer ${open ? 'is-open' : ''}`} aria-hidden={!open}>
       <button className="settings-scrim" type="button" aria-label="Close settings" onClick={onClose} />
@@ -21,7 +24,7 @@ export default function SettingsMenu({ open, preferences, languageOptions, onCha
           </button>
         </div>
 
-        <section className="setting-group" aria-labelledby="theme-title">
+        <section className="setting-group theme-setting" aria-labelledby="theme-title">
           <h3 id="theme-title">Theme</h3>
           <div className="theme-options">
             {themes.map((theme) => {
@@ -41,7 +44,7 @@ export default function SettingsMenu({ open, preferences, languageOptions, onCha
           </div>
         </section>
 
-        <section className="setting-group" aria-labelledby="language-title">
+        <section className="setting-group language-setting" aria-labelledby="language-title">
           <h3 id="language-title">Languages</h3>
           <label>
             <span>Pane 1</span>
@@ -71,15 +74,21 @@ export default function SettingsMenu({ open, preferences, languageOptions, onCha
             </select>
           </label>
 
-          <label className="toggle-setting">
-            <span>Japanese furigana</span>
-            <input
-              type="checkbox"
-              checked={Boolean(preferences.japaneseFurigana)}
-              onChange={(event) => onChange('japaneseFurigana', event.target.checked)}
-            />
-          </label>
+          {showFuriganaToggle && (
+            <label className="toggle-setting">
+              <span>Japanese furigana</span>
+              <input
+                type="checkbox"
+                checked={Boolean(preferences.japaneseFurigana)}
+                onChange={(event) => onChange('japaneseFurigana', event.target.checked)}
+              />
+            </label>
+          )}
         </section>
+
+        <p className="settings-disclaimer">
+          Unofficial study tool. Not affiliated with The Church of Jesus Christ of Latter-day Saints.
+        </p>
       </aside>
     </div>
   );

@@ -137,10 +137,6 @@ export default function App() {
         />
       </main>
 
-      <footer className="reader-footer">
-        Unofficial study tool. Not affiliated with The Church of Jesus Christ of Latter-day Saints.
-      </footer>
-
       <SettingsMenu
         open={settingsOpen}
         preferences={preferences}

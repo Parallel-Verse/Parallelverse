@@ -26,13 +26,21 @@ export default function ReaderLayout({
   const touchStart = useRef(null);
   const pendingDirection = useRef(0);
   const transitionTimer = useRef(null);
+  const visibleChapterRef = useRef(chapter);
 
   useEffect(() => {
-    if (chapter.book === visibleChapter.book && chapter.chapter === visibleChapter.chapter) return;
+    const currentVisibleChapter = visibleChapterRef.current;
+    if (
+      chapter.book === currentVisibleChapter.book &&
+      chapter.chapter === currentVisibleChapter.chapter
+    ) {
+      return;
+    }
 
     const direction = pendingDirection.current || 1;
     pendingDirection.current = 0;
-    setPreviousChapter(visibleChapter);
+    visibleChapterRef.current = chapter;
+    setPreviousChapter(currentVisibleChapter);
     setVisibleChapter(chapter);
     setTransitionDirection(direction);
     setIsTransitioning(true);
@@ -43,9 +51,11 @@ export default function ReaderLayout({
       setIsTransitioning(false);
       setTransitionDirection(0);
     }, transitionMs);
+  }, [chapter]);
 
+  useEffect(() => {
     return () => window.clearTimeout(transitionTimer.current);
-  }, [chapter, visibleChapter]);
+  }, []);
 
   const alignVerseRows = useCallback(() => {
     const panes = [paneRefs.current.pane1, paneRefs.current.pane2];
