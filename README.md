@@ -70,18 +70,18 @@ Source note: the full English Book of Mormon text comes from the public-domain [
 
 ## GitHub Pages Deployment
 
-This project uses `base: '/'` in `vite.config.js`, so the production build is configured for the root GitHub Pages site:
+This project uses `base: '/Parallelverse/'` in `vite.config.js`, so the production build is configured for this GitHub Pages project site:
 
 ```text
-https://parallelverse.github.io/
+https://parallel-verse.github.io/Parallelverse/
 ```
 
-The `homepage` field in `package.json` is set to `https://parallelverse.github.io/`.
+The `homepage` field in `package.json` is set to `https://parallel-verse.github.io/Parallelverse/`.
 
 ### Create a New GitHub Repo
 
-1. Create a GitHub organization named `parallelverse`.
-2. Create a repository inside that organization named `parallelverse.github.io`.
+1. Create or open the GitHub organization `Parallel-Verse`.
+2. Create or open the repository `Parallelverse`.
 2. Push this project to the new repository.
 3. In GitHub, open **Settings > Pages**.
 4. Under **Build and deployment**, choose **GitHub Actions**.

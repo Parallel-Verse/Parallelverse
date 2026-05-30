@@ -2,7 +2,7 @@
   "name": "bilingual-book-of-mormon-reader",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://parallelverse.github.io/",
+  "homepage": "https://parallel-verse.github.io/Parallelverse/",
   "type": "module",
   "scripts": {
     "dev": "vite",
