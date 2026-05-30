@@ -19,7 +19,16 @@ const defaultPreferences = {
 function readPreferences() {
   try {
     const saved = JSON.parse(localStorage.getItem(preferenceKey));
-    return { ...defaultPreferences, ...saved };
+    const preferences = { ...defaultPreferences, ...saved };
+    if (preferences.pane1Language === 'jpn_furigana') {
+      preferences.pane1Language = 'jpn';
+      preferences.japaneseFurigana = true;
+    }
+    if (preferences.pane2Language === 'jpn_furigana') {
+      preferences.pane2Language = 'jpn';
+      preferences.japaneseFurigana = true;
+    }
+    return preferences;
   } catch {
     return defaultPreferences;
   }

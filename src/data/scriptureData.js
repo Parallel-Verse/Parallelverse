@@ -10,7 +10,6 @@ export const languageOptions = [
   { code: 'eng', name: 'English', active: true },
   { code: 'spa', name: 'Spanish', active: true },
   { code: 'jpn', name: 'Japanese', active: true },
-  { code: 'jpn_furigana', name: 'Japanese Furigana', active: true },
   { code: 'deu', name: 'German', active: true },
   { code: 'tgl', name: 'Tagalog', active: true },
   { code: 'fra', name: 'French', active: true },

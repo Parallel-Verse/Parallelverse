@@ -7,13 +7,6 @@ const themes = [
 ];
 
 export default function SettingsMenu({ open, preferences, languageOptions, onChange, onClose }) {
-  const handleLanguageChange = (key, value) => {
-    onChange(key, value);
-    if (value === 'jpn_furigana') {
-      onChange('japaneseFurigana', true);
-    }
-  };
-
   return (
     <div className={`settings-layer ${open ? 'is-open' : ''}`} aria-hidden={!open}>
       <button className="settings-scrim" type="button" aria-label="Close settings" onClick={onClose} />
@@ -54,7 +47,7 @@ export default function SettingsMenu({ open, preferences, languageOptions, onCha
             <span>Pane 1</span>
             <select
               value={preferences.pane1Language}
-              onChange={(event) => handleLanguageChange('pane1Language', event.target.value)}
+              onChange={(event) => onChange('pane1Language', event.target.value)}
             >
               {languageOptions.map((language) => (
                 <option key={language.code} value={language.code} disabled={language.disabled}>
@@ -68,7 +61,7 @@ export default function SettingsMenu({ open, preferences, languageOptions, onCha
             <span>Pane 2</span>
             <select
               value={preferences.pane2Language}
-              onChange={(event) => handleLanguageChange('pane2Language', event.target.value)}
+              onChange={(event) => onChange('pane2Language', event.target.value)}
             >
               {languageOptions.map((language) => (
                 <option key={language.code} value={language.code} disabled={language.disabled}>

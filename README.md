@@ -1,6 +1,6 @@
 # Bilingual Book of Mormon Reader
 
-A mobile-first React + Vite reader for studying Book of Mormon text in two synced language panes. Version 1 ships with the full English, Spanish, Japanese, Japanese Furigana, French, German, and Tagalog Book of Mormon text with full book/chapter navigation.
+A mobile-first React + Vite reader for studying Book of Mormon text in two synced language panes. Version 1 ships with the full English, Spanish, Japanese with optional furigana, French, German, and Tagalog Book of Mormon text with full book/chapter navigation.
 
 Unofficial study tool. Not affiliated with The Church of Jesus Christ of Latter-day Saints.
 
@@ -36,7 +36,7 @@ npm run preview
 
 ## Scripture Data
 
-The English text source lives in `src/data/book-of-mormon-reference.json`. User-provided translation files live in `src/data/bookOfMormon.*.json` for Spanish, Japanese, Japanese Furigana, French, German, and Tagalog. The reader data is assembled in `src/data/scriptureData.js`:
+The English text source lives in `src/data/book-of-mormon-reference.json`. User-provided translation files live in `src/data/bookOfMormon.*.json` for Spanish, Japanese, French, German, and Tagalog. The Japanese furigana file is used when the Japanese furigana setting is enabled. The reader data is assembled in `src/data/scriptureData.js`:
 
 ```js
 {
