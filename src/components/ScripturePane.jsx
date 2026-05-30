@@ -28,7 +28,7 @@ export default function ScripturePane({
   const chapterLabel = chapterLabels[language] ?? 'Chapter';
 
   useEffect(() => {
-    onPaneReady(paneId, paneRef.current);
+    onPaneReady?.(paneId, paneRef.current);
   }, [onPaneReady, paneId]);
 
   useEffect(() => {
@@ -44,7 +44,7 @@ export default function ScripturePane({
       <div
         className="pane-scroll"
         ref={paneRef}
-        onScroll={() => onScroll(paneId)}
+        onScroll={onScroll ? () => onScroll(paneId) : undefined}
         tabIndex="0"
         aria-label={`${languageName} scripture text`}
       >

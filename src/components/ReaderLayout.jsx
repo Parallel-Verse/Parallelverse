@@ -1,9 +1,10 @@
-import { useCallback, useEffect, useRef } from 'react';
+import { useCallback, useEffect, useRef, useState } from 'react';
 import ScripturePane from './ScripturePane.jsx';
 
 const lockMs = 420;
 const swipeThreshold = 72;
 const swipeVerticalTolerance = 54;
+const transitionMs = 280;
 
 export default function ReaderLayout({
   chapter,
@@ -14,11 +15,37 @@ export default function ReaderLayout({
   onNextChapter,
   onPreviousChapter,
 }) {
+  const [visibleChapter, setVisibleChapter] = useState(chapter);
+  const [previousChapter, setPreviousChapter] = useState(null);
+  const [transitionDirection, setTransitionDirection] = useState(0);
+  const [isTransitioning, setIsTransitioning] = useState(false);
   const paneRefs = useRef({});
   const syncLock = useRef(null);
   const releaseTimer = useRef(null);
   const alignFrame = useRef(null);
   const touchStart = useRef(null);
+  const pendingDirection = useRef(0);
+  const transitionTimer = useRef(null);
+
+  useEffect(() => {
+    if (chapter.book === visibleChapter.book && chapter.chapter === visibleChapter.chapter) return;
+
+    const direction = pendingDirection.current || 1;
+    pendingDirection.current = 0;
+    setPreviousChapter(visibleChapter);
+    setVisibleChapter(chapter);
+    setTransitionDirection(direction);
+    setIsTransitioning(true);
+
+    window.clearTimeout(transitionTimer.current);
+    transitionTimer.current = window.setTimeout(() => {
+      setPreviousChapter(null);
+      setIsTransitioning(false);
+      setTransitionDirection(0);
+    }, transitionMs);
+
+    return () => window.clearTimeout(transitionTimer.current);
+  }, [chapter, visibleChapter]);
 
   const alignVerseRows = useCallback(() => {
     const panes = [paneRefs.current.pane1, paneRefs.current.pane2];
@@ -87,7 +114,7 @@ export default function ReaderLayout({
       observer?.disconnect();
       window.removeEventListener('resize', scheduleAlignment);
     };
-  }, [chapter.book, chapter.chapter, pane1Language, pane2Language, scheduleAlignment]);
+  }, [visibleChapter.book, visibleChapter.chapter, pane1Language, pane2Language, scheduleAlignment]);
 
   const handlePaneScroll = (activePane) => {
     if (syncLock.current && syncLock.current !== activePane) return;
@@ -129,39 +156,49 @@ export default function ReaderLayout({
     if (Math.abs(deltaX) < swipeThreshold || Math.abs(deltaY) > swipeVerticalTolerance) return;
 
     if (deltaX < 0) {
+      pendingDirection.current = 1;
       onNextChapter?.();
     } else {
+      pendingDirection.current = -1;
       onPreviousChapter?.();
     }
   };
 
-  return (
-    <section
-      className="reader-layout"
-      aria-label="Parallel scripture reader"
-      onTouchStart={handleTouchStart}
-      onTouchEnd={handleTouchEnd}
-    >
+  const renderPaneSet = (chapterToRender, className, register = false) => (
+    <div className={`pane-set ${className}`}>
       <ScripturePane
-        paneId="pane1"
-        chapter={chapter}
+        paneId={register ? 'pane1' : 'previous-pane1'}
+        chapter={chapterToRender}
         language={pane1Language}
         label="Language 1"
         languageOptions={languageOptions}
         japaneseFurigana={japaneseFurigana}
-        onPaneReady={registerPane}
-        onScroll={handlePaneScroll}
+        onPaneReady={register ? registerPane : undefined}
+        onScroll={register ? handlePaneScroll : undefined}
       />
       <ScripturePane
-        paneId="pane2"
-        chapter={chapter}
+        paneId={register ? 'pane2' : 'previous-pane2'}
+        chapter={chapterToRender}
         language={pane2Language}
         label="Language 2"
         languageOptions={languageOptions}
         japaneseFurigana={japaneseFurigana}
-        onPaneReady={registerPane}
-        onScroll={handlePaneScroll}
+        onPaneReady={register ? registerPane : undefined}
+        onScroll={register ? handlePaneScroll : undefined}
       />
+    </div>
+  );
+
+  return (
+    <section
+      className={`reader-layout ${isTransitioning ? 'is-transitioning' : ''}`}
+      data-transition-direction={transitionDirection}
+      aria-label="Parallel scripture reader"
+      onTouchStart={handleTouchStart}
+      onTouchEnd={handleTouchEnd}
+    >
+      {previousChapter && renderPaneSet(previousChapter, 'pane-set-previous')}
+      {renderPaneSet(visibleChapter, 'pane-set-current', true)}
     </section>
   );
 }
