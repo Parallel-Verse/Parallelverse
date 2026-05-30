@@ -37,6 +37,9 @@ export default function ScripturePane({
 
   return (
     <article className="scripture-pane">
+      <div className="pane-header">
+        <span>{languageName}</span>
+      </div>
       <div
         className="pane-scroll"
         ref={paneRef}

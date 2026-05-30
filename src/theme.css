@@ -288,6 +288,8 @@ select {
 
 .scripture-pane {
   position: relative;
+  display: grid;
+  grid-template-rows: auto minmax(0, 1fr);
   min-height: 0;
   overflow: hidden;
   border: 1px solid var(--line);
@@ -306,6 +308,27 @@ select {
   height: 0.68rem;
   pointer-events: none;
   background: linear-gradient(to bottom, transparent, var(--surface));
+}
+
+.pane-header {
+  display: flex;
+  align-items: center;
+  min-height: 1.35rem;
+  padding: 0 0.7rem;
+  border-bottom: 1px solid var(--line);
+  color: var(--accent);
+  background: color-mix(in srgb, var(--surface-raised) 72%, var(--surface));
+  font-size: 0.66rem;
+  font-weight: 800;
+  letter-spacing: 0.04em;
+  line-height: 1;
+  text-transform: uppercase;
+}
+
+.pane-header span {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 .pane-scroll {
