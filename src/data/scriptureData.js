@@ -5,11 +5,15 @@ import japaneseFuriganaReference from './bookOfMormon.ja.furigana.json';
 import frenchReference from './bookOfMormon.fr.json';
 import germanReference from './bookOfMormon.de.json';
 import tagalogReference from './bookOfMormon.tl.json';
+import portugueseReference from './bookOfMormon.pt.json';
+import koreanReference from './bookOfMormon.ko.json';
 
 export const languageOptions = [
   { code: 'eng', name: 'English', active: true },
   { code: 'spa', name: 'Spanish', active: true },
   { code: 'jpn', name: 'Japanese', active: true },
+  { code: 'pt', name: 'Portuguese', active: true },
+  { code: 'ko', name: 'Korean', active: true },
   { code: 'deu', name: 'German', active: true },
   { code: 'tgl', name: 'Tagalog', active: true },
   { code: 'fra', name: 'French', active: true },
@@ -239,6 +243,42 @@ const tagalogBookTitles = {
   Moroni: 'Ang Aklat ni Moroni',
 };
 
+const portugueseBookTitles = {
+  '1 Nephi': '1 Néfi',
+  '2 Nephi': '2 Néfi',
+  Jacob: 'Jacó',
+  Enos: 'Enos',
+  Jarom: 'Jarom',
+  Omni: 'Ômni',
+  'Words of Mormon': 'Palavras de Mórmon',
+  Mosiah: 'Mosias',
+  Alma: 'Alma',
+  Helaman: 'Helamã',
+  '3 Nephi': '3 Néfi',
+  '4 Nephi': '4 Néfi',
+  Mormon: 'Mórmon',
+  Ether: 'Éter',
+  Moroni: 'Morôni',
+};
+
+const koreanBookTitles = {
+  '1 Nephi': '니파이전서',
+  '2 Nephi': '니파이후서',
+  Jacob: '야곱서',
+  Enos: '이노스서',
+  Jarom: '예이롬서',
+  Omni: '옴나이서',
+  'Words of Mormon': '몰몬의 말씀',
+  Mosiah: '모사이야서',
+  Alma: '앨마서',
+  Helaman: '힐라맨서',
+  '3 Nephi': '제3니파이',
+  '4 Nephi': '제4니파이',
+  Mormon: '몰몬서',
+  Ether: '이더서',
+  Moroni: '모로나이서',
+};
+
 const spanishBookMap = new Map(spanishReference.books.map((book) => [book.title, book]));
 const japaneseBookMap = new Map(japaneseReference.books.map((book) => [book.title, book]));
 const japaneseFuriganaBookMap = new Map(
@@ -247,10 +287,14 @@ const japaneseFuriganaBookMap = new Map(
 const frenchBookMap = new Map(frenchReference.books.map((book) => [book.title, book]));
 const germanBookMap = new Map(germanReference.books.map((book) => [book.title, book]));
 const tagalogBookMap = new Map(tagalogReference.books.map((book) => [book.title, book]));
+const portugueseBookMap = new Map(portugueseReference.books.map((book) => [book.title, book]));
+const koreanBookMap = new Map(koreanReference.books.map((book) => [book.title, book]));
 
 const translationSources = [
   { code: 'spa', titles: spanishBookTitles, bookMap: spanishBookMap },
   { code: 'jpn', titles: japaneseBookTitles, bookMap: japaneseBookMap },
+  { code: 'pt', titles: portugueseBookTitles, bookMap: portugueseBookMap },
+  { code: 'ko', titles: koreanBookTitles, bookMap: koreanBookMap },
   { code: 'fra', titles: frenchBookTitles, bookMap: frenchBookMap },
   { code: 'deu', titles: germanBookTitles, bookMap: germanBookMap },
   { code: 'tgl', titles: tagalogBookTitles, bookMap: tagalogBookMap },
@@ -293,6 +337,8 @@ const createPlaceholderChapter = (book, chapter) => ({
       eng: `${book} chapter ${chapter} is available in navigation. Text for this chapter has not been loaded yet.`,
       spa: `${book} capitulo ${chapter} esta disponible en la navegacion. El texto de este capitulo aun no se ha cargado.`,
       jpn: `${book} ${chapter}章はナビゲーションで選択できます。この章の本文はまだ読み込まれていません。`,
+      pt: `${book} capítulo ${chapter} está disponível na navegação. O texto deste capítulo ainda não foi carregado.`,
+      ko: `${book} ${chapter}장은 탐색에서 선택할 수 있습니다. 이 장의 본문은 아직 로드되지 않았습니다.`,
       fra: `${book} chapitre ${chapter} est disponible dans la navigation. Le texte de ce chapitre n'a pas encore ete charge.`,
       deu: `${book} Kapitel ${chapter} ist in der Navigation verfugbar. Der Text dieses Kapitels wurde noch nicht geladen.`,
       tgl: `Maaaring piliin ang ${book} kabanata ${chapter} sa nabigasyon. Hindi pa nailalagay ang teksto ng kabanatang ito.`,

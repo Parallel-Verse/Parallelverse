@@ -5,6 +5,8 @@ const chapterLabels = {
   spa: 'Capítulo',
   jpn: '章',
   jpn_furigana: '章',
+  pt: 'Capítulo',
+  ko: '장',
   fra: 'Chapitre',
   deu: 'Kapitel',
   tgl: 'Kabanata',

@@ -8,7 +8,11 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
+    "convert:portuguese": "node scripts/downloadAndConvertPortugueseBOM.js",
+    "convert:korean": "node scripts/downloadAndConvertKoreanBOM.js",
     "convert:japanese-furigana": "node scripts/downloadAndConvertJapaneseBOMWithFurigana.js",
+    "convert:all-languages": "npm run convert:portuguese && npm run convert:korean && npm run convert:japanese-furigana",
+    "validate:scriptures": "node scripts/validateScriptures.js",
     "deploy": "npm run build && gh-pages -d dist"
   },
   "dependencies": {

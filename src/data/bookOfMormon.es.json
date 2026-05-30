@@ -2,7 +2,7 @@
   "language": "es",
   "books": [
     {
-      "id": "1-nefi",
+      "id": "1-nephi",
       "title": "1 Nefi",
       "chapters": [
         {
@@ -2590,7 +2590,7 @@
       ]
     },
     {
-      "id": "2-nefi",
+      "id": "2-nephi",
       "title": "2 Nefi",
       "chapters": [
         {
@@ -7051,7 +7051,7 @@
       ]
     },
     {
-      "id": "palabras-de-mormon",
+      "id": "words-of-mormon",
       "title": "Palabras de Mormón",
       "chapters": [
         {
@@ -20716,7 +20716,7 @@
       ]
     },
     {
-      "id": "3-nefi",
+      "id": "3-nephi",
       "title": "3 Nefi",
       "chapters": [
         {
@@ -24012,7 +24012,7 @@
       ]
     },
     {
-      "id": "4-nefi",
+      "id": "4-nephi",
       "title": "4 Nefi",
       "chapters": [
         {
@@ -25178,7 +25178,7 @@
       ]
     },
     {
-      "id": "eter",
+      "id": "ether",
       "title": "Éter",
       "chapters": [
         {
