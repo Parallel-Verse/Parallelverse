@@ -295,28 +295,8 @@ select {
   box-shadow: var(--pane-shadow);
 }
 
-.pane-header {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 1rem;
-  min-height: 32px;
-  padding: 0 0.75rem;
-  border-bottom: 1px solid var(--line);
-  color: var(--muted);
-  background: color-mix(in srgb, var(--surface-raised) 84%, var(--bg));
-  font-size: 0.68rem;
-  font-weight: 850;
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
-}
-
-.pane-header strong {
-  color: var(--accent-strong);
-}
-
 .pane-scroll {
-  height: calc(100% - 32px);
+  height: 100%;
   overflow-y: auto;
   overscroll-behavior: contain;
   scroll-behavior: smooth;
