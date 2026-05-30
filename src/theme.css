@@ -313,6 +313,7 @@ select {
 .pane-header {
   display: flex;
   align-items: center;
+  justify-content: flex-end;
   min-height: 1.35rem;
   padding: 0 0.7rem;
   border-bottom: 1px solid var(--line);
@@ -327,6 +328,7 @@ select {
 
 .pane-header span {
   overflow: hidden;
+  text-align: right;
   text-overflow: ellipsis;
   white-space: nowrap;
 }
