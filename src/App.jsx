@@ -6,7 +6,8 @@ import ChapterSelector from './components/ChapterSelector.jsx';
 import { chapters, languageOptions } from './data/scriptureData.js';
 
 const preferenceKey = 'bilingual-bom-reader-preferences';
-const visitCountKey = 'parallel-verse-visit-count';
+const visitCounterUrl =
+  'https://countapi.mileshilliard.com/api/v1/hit/parallelverse_github_io_total_visits';
 
 const defaultPreferences = {
   theme: 'light',
@@ -39,7 +40,7 @@ export default function App() {
   const [preferences, setPreferences] = useState(readPreferences);
   const [settingsOpen, setSettingsOpen] = useState(false);
   const [bookMenuOpen, setBookMenuOpen] = useState(false);
-  const [visitCount, setVisitCount] = useState(0);
+  const [visitCount, setVisitCount] = useState(null);
 
   const currentChapter = useMemo(() => {
     return (
@@ -63,10 +64,24 @@ export default function App() {
   }, [preferences]);
 
   useEffect(() => {
-    const currentCount = Number(localStorage.getItem(visitCountKey) ?? 0);
-    const nextCount = Number.isFinite(currentCount) ? currentCount + 1 : 1;
-    localStorage.setItem(visitCountKey, String(nextCount));
-    setVisitCount(nextCount);
+    let ignore = false;
+
+    fetch(visitCounterUrl)
+      .then((response) => {
+        if (!response.ok) throw new Error('Visit counter request failed.');
+        return response.json();
+      })
+      .then((data) => {
+        const count = Number(data.value);
+        if (!ignore && Number.isFinite(count)) setVisitCount(count);
+      })
+      .catch(() => {
+        if (!ignore) setVisitCount(null);
+      });
+
+    return () => {
+      ignore = true;
+    };
   }, []);
 
   const updatePreference = (key, value) => {
@@ -143,6 +158,7 @@ export default function App() {
           japaneseFurigana={preferences.japaneseFurigana}
           onNextChapter={() => navigateToChapter(1)}
           onPreviousChapter={() => navigateToChapter(-1)}
+          onOpenSettings={() => setSettingsOpen(true)}
         />
       </main>
 

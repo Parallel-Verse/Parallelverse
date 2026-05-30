@@ -97,9 +97,9 @@ export default function SettingsMenu({
           Unofficial study tool. Not affiliated with The Church of Jesus Christ of Latter-day Saints.
         </p>
 
-        <div className="visit-counter" aria-label="Website visits on this device">
-          <span>Visits on this device</span>
-          <strong>{visitCount.toLocaleString()}</strong>
+        <div className="visit-counter" aria-label="Total website visits">
+          <span>Website visits</span>
+          <strong>{visitCount === null ? 'Unavailable' : visitCount.toLocaleString()}</strong>
         </div>
       </aside>
     </div>

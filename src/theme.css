@@ -83,7 +83,7 @@ button {
   top: 0;
   z-index: 20;
   display: grid;
-  grid-template-columns: 1fr auto auto;
+  grid-template-columns: 42px minmax(0, 1fr) 42px;
   gap: 0.55rem;
   align-items: center;
   min-height: var(--header-h);
@@ -97,6 +97,7 @@ button {
   position: relative;
   display: flex;
   align-items: center;
+  justify-self: start;
   min-width: 0;
 }
 
@@ -164,8 +165,9 @@ button {
 }
 
 .current-reference {
+  justify-self: center;
   overflow: hidden;
-  max-width: min(44vw, 280px);
+  max-width: min(52vw, 340px);
   color: var(--accent-strong);
   font-size: 0.86rem;
   font-weight: 850;
@@ -175,6 +177,7 @@ button {
 }
 
 .icon-button {
+  justify-self: end;
   border: 1px solid var(--line);
   color: var(--ink);
   background: var(--surface);
@@ -326,11 +329,24 @@ select {
   text-transform: uppercase;
 }
 
-.pane-header span {
+.pane-header button {
+  min-height: 100%;
+  max-width: 65%;
+  margin: 0;
+  border: 0;
+  padding: 0 0 0 1rem;
+  overflow: hidden;
+  color: inherit;
+  background: transparent;
+  font: inherit;
   overflow: hidden;
   text-align: right;
   text-overflow: ellipsis;
   white-space: nowrap;
+}
+
+.pane-header button:hover {
+  color: var(--accent-strong);
 }
 
 .pane-scroll {
@@ -582,10 +598,6 @@ rt {
 @media (max-width: 760px) {
   :root {
     --header-h: 52px;
-  }
-
-  .top-bar {
-    grid-template-columns: auto minmax(0, 1fr) auto;
   }
 
   .chapter-selector label {

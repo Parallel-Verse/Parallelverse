@@ -21,6 +21,7 @@ export default function ScripturePane({
   japaneseFurigana,
   onPaneReady,
   onScroll,
+  onOpenSettings,
 }) {
   const paneRef = useRef(null);
   const activeLanguage = languageOptions.find((option) => option.code === language);
@@ -40,7 +41,9 @@ export default function ScripturePane({
   return (
     <article className="scripture-pane">
       <div className="pane-header">
-        <span>{languageName}</span>
+        <button type="button" onClick={onOpenSettings} aria-label={`Change ${languageName} language`}>
+          {languageName}
+        </button>
       </div>
       <div
         className="pane-scroll"

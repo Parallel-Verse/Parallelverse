@@ -15,6 +15,7 @@ export default function ReaderLayout({
   japaneseFurigana,
   onNextChapter,
   onPreviousChapter,
+  onOpenSettings,
 }) {
   const [visibleChapter, setVisibleChapter] = useState(chapter);
   const [previousChapter, setPreviousChapter] = useState(null);
@@ -214,6 +215,7 @@ export default function ReaderLayout({
         japaneseFurigana={japaneseFurigana}
         onPaneReady={register ? registerPane : undefined}
         onScroll={register ? handlePaneScroll : undefined}
+        onOpenSettings={onOpenSettings}
       />
       <ScripturePane
         paneId={register ? 'pane2' : 'previous-pane2'}
@@ -224,6 +226,7 @@ export default function ReaderLayout({
         japaneseFurigana={japaneseFurigana}
         onPaneReady={register ? registerPane : undefined}
         onScroll={register ? handlePaneScroll : undefined}
+        onOpenSettings={onOpenSettings}
       />
     </div>
   );
