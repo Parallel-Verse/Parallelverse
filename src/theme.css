@@ -287,12 +287,25 @@ select {
 }
 
 .scripture-pane {
+  position: relative;
   min-height: 0;
   overflow: hidden;
   border: 1px solid var(--line);
   border-radius: 8px;
   background: var(--surface);
   box-shadow: var(--pane-shadow);
+}
+
+.scripture-pane:first-child::after {
+  content: "";
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 2;
+  height: 0.68rem;
+  pointer-events: none;
+  background: linear-gradient(to bottom, transparent, var(--surface));
 }
 
 .pane-scroll {
