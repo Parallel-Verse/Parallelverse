@@ -164,6 +164,55 @@ button {
   font-weight: 750;
 }
 
+.bookmark-row {
+  display: grid;
+  grid-template-columns: 42px minmax(0, 1fr);
+  gap: 0.55rem;
+  align-items: center;
+}
+
+.bookmark-save,
+.bookmark-jump {
+  min-height: 42px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  color: var(--ink);
+  background: var(--surface);
+}
+
+.bookmark-save {
+  display: grid;
+  place-items: center;
+  color: var(--accent);
+}
+
+.bookmark-save svg {
+  width: 1.12rem;
+  height: 1.12rem;
+}
+
+.bookmark-jump {
+  overflow: hidden;
+  padding: 0 0.8rem;
+  color: var(--accent-strong);
+  font-size: 0.9rem;
+  font-weight: 800;
+  text-align: left;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.bookmark-jump:disabled {
+  color: var(--muted);
+  cursor: default;
+  opacity: 0.72;
+}
+
+.bookmark-save:hover,
+.bookmark-jump:not(:disabled):hover {
+  border-color: color-mix(in srgb, var(--accent) 48%, var(--line));
+}
+
 .current-reference {
   justify-self: center;
   overflow: hidden;

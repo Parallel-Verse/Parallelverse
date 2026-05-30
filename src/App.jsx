@@ -1,11 +1,12 @@
 import { useEffect, useMemo, useState } from 'react';
-import { BookOpen, Menu } from 'lucide-react';
+import { BookOpen, Flag, Menu } from 'lucide-react';
 import ReaderLayout from './components/ReaderLayout.jsx';
 import SettingsMenu from './components/SettingsMenu.jsx';
 import ChapterSelector from './components/ChapterSelector.jsx';
 import { chapters, languageOptions } from './data/scriptureData.js';
 
 const preferenceKey = 'bilingual-bom-reader-preferences';
+const bookmarkKey = 'parallel-verse-bookmark';
 const visitCounterUrl =
   'https://countapi.mileshilliard.com/api/v1/hit/parallelverse_github_io_total_visits';
 
@@ -36,11 +37,25 @@ function readPreferences() {
   }
 }
 
+function readBookmark() {
+  try {
+    const saved = JSON.parse(localStorage.getItem(bookmarkKey));
+    if (!saved?.book || !saved?.chapter) return null;
+    return {
+      book: saved.book,
+      chapter: Number(saved.chapter),
+    };
+  } catch {
+    return null;
+  }
+}
+
 export default function App() {
   const [preferences, setPreferences] = useState(readPreferences);
   const [settingsOpen, setSettingsOpen] = useState(false);
   const [bookMenuOpen, setBookMenuOpen] = useState(false);
   const [visitCount, setVisitCount] = useState(null);
+  const [bookmark, setBookmark] = useState(readBookmark);
 
   const currentChapter = useMemo(() => {
     return (
@@ -100,6 +115,25 @@ export default function App() {
     }));
   };
 
+  const saveBookmark = () => {
+    const nextBookmark = {
+      book: currentChapter.book,
+      chapter: currentChapter.chapter,
+    };
+    localStorage.setItem(bookmarkKey, JSON.stringify(nextBookmark));
+    setBookmark(nextBookmark);
+  };
+
+  const goToBookmark = () => {
+    if (!bookmark) return;
+    setPreferences((current) => ({
+      ...current,
+      book: bookmark.book,
+      chapter: bookmark.chapter,
+    }));
+    setBookMenuOpen(false);
+  };
+
   return (
     <div className="app-shell">
       <header className="top-bar">
@@ -117,6 +151,24 @@ export default function App() {
             <div className="book-menu-title">
               <strong>Bilingual Book of Mormon Reader</strong>
               <span>{currentChapter.book} {currentChapter.chapter}</span>
+            </div>
+            <div className="bookmark-row">
+              <button
+                className="bookmark-save"
+                type="button"
+                aria-label={`Bookmark ${currentChapter.book} ${currentChapter.chapter}`}
+                onClick={saveBookmark}
+              >
+                <Flag aria-hidden="true" />
+              </button>
+              <button
+                className="bookmark-jump"
+                type="button"
+                disabled={!bookmark}
+                onClick={goToBookmark}
+              >
+                {bookmark ? `${bookmark.book} ${bookmark.chapter}` : 'No bookmark set'}
+              </button>
             </div>
             <ChapterSelector
               chapters={chapters}
