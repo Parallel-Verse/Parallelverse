@@ -253,6 +253,12 @@ button {
   text-transform: uppercase;
 }
 
+.chapter-selector select {
+  min-height: 52px;
+  font-size: 1rem;
+  font-weight: 750;
+}
+
 .toggle-setting {
   grid-template-columns: 1fr auto;
   align-items: center;
