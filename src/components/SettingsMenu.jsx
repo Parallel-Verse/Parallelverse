@@ -7,7 +7,7 @@ const themes = [
 ];
 
 const scrollModes = [
-  { value: 'native', label: 'Native', detail: 'One shared scroll' },
+  { value: 'native', label: 'Merged', detail: 'One shared scroll' },
   { value: 'synced', label: 'Synced', detail: 'Split panes' },
 ];
 
