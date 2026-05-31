@@ -7,6 +7,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
+    "build:ios": "VITE_IOS_BUNDLE=true vite build",
     "preview": "vite preview",
     "convert:mandarin": "node scripts/downloadAndConvertMandarinBOM.js",
     "convert:cebuano": "node scripts/downloadAndConvertCebuanoBOM.js",
@@ -17,9 +18,14 @@
     "convert:japanese-furigana": "node scripts/downloadAndConvertJapaneseBOMWithFurigana.js",
     "convert:all-languages": "npm run convert:mandarin && npm run convert:cebuano && npm run convert:samoan && npm run convert:tongan && npm run convert:portuguese && npm run convert:korean && npm run convert:japanese-furigana",
     "validate:scriptures": "node scripts/validateScriptures.js",
-    "deploy": "npm run build && gh-pages -d dist"
+    "deploy": "npm run build && gh-pages -d dist",
+    "ios:sync": "npm run build:ios && cap sync ios",
+    "ios:open": "cap open ios"
   },
   "dependencies": {
+    "@capacitor/cli": "^8.3.4",
+    "@capacitor/core": "^8.3.4",
+    "@capacitor/ios": "^8.3.4",
     "@vitejs/plugin-react": "^5.0.0",
     "cheerio": "^1.2.0",
     "epub": "^2.1.1",
