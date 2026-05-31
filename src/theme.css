@@ -151,7 +151,7 @@ button {
 
 .book-menu-title strong {
   display: block;
-  color: var(--ink);
+  color: var(--accent-strong);
   font-size: 1rem;
   line-height: 1.15;
 }
@@ -159,7 +159,7 @@ button {
 .book-menu-title span {
   display: block;
   margin-top: 0.15rem;
-  color: var(--muted);
+  color: var(--accent);
   font-size: 0.82rem;
   font-weight: 750;
 }
@@ -176,7 +176,7 @@ button {
   min-height: 42px;
   border: 1px solid var(--line);
   border-radius: 8px;
-  color: var(--ink);
+  color: var(--accent-strong);
   background: var(--surface);
 }
 
@@ -237,7 +237,7 @@ button {
 .icon-button {
   justify-self: end;
   border: 1px solid var(--line);
-  color: var(--ink);
+  color: var(--accent-strong);
   background: var(--surface);
 }
 
@@ -546,7 +546,11 @@ rt {
 .settings-header h2,
 .setting-group h3 {
   margin: 0;
-  color: var(--ink);
+  color: var(--accent-strong);
+}
+
+.settings-panel {
+  color: var(--accent-strong);
 }
 
 .settings-header h2 {
