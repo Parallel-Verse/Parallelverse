@@ -304,9 +304,7 @@ select {
 .pane-set {
   position: absolute;
   inset: 0;
-  display: grid;
-  grid-template-rows: minmax(0, 1fr) minmax(0, 1fr);
-  gap: 0.7rem;
+  display: block;
   min-width: 100%;
   will-change: transform;
 }
@@ -333,6 +331,88 @@ select {
 
 .reader-layout[data-transition-direction="-1"].is-transitioning .pane-set-current {
   animation: slide-in-from-left 280ms cubic-bezier(0.22, 0.78, 0.22, 1) both;
+}
+
+.shared-reader-shell {
+  position: relative;
+  display: grid;
+  grid-template-rows: auto minmax(0, 1fr);
+  height: 100%;
+  min-height: 0;
+  overflow: hidden;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--surface);
+  box-shadow: var(--pane-shadow);
+}
+
+.shared-language-grid {
+  display: grid;
+  grid-template-rows: repeat(2, minmax(1.35rem, auto));
+  border-bottom: 1px solid var(--line);
+  background: color-mix(in srgb, var(--surface-raised) 72%, var(--surface));
+}
+
+.shared-language-grid button {
+  min-height: 1.35rem;
+  border: 0;
+  border-bottom: 1px solid var(--line);
+  padding: 0 0.7rem;
+  overflow: hidden;
+  color: var(--accent);
+  background: transparent;
+  font-size: 0.66rem;
+  font-weight: 800;
+  letter-spacing: 0.04em;
+  line-height: 1;
+  text-align: right;
+  text-overflow: ellipsis;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
+.shared-language-grid button:last-child {
+  border-bottom: 0;
+}
+
+.shared-language-grid button:hover {
+  color: var(--accent-strong);
+}
+
+.shared-scroll {
+  min-height: 0;
+  height: 100%;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  scroll-behavior: smooth;
+  padding: clamp(1rem, 3vw, 2rem);
+}
+
+.shared-heading-row,
+.shared-verse-row {
+  display: grid;
+  grid-template-rows: auto auto;
+  gap: 0.85rem;
+}
+
+.shared-heading-row {
+  margin-bottom: 0.75rem;
+}
+
+.shared-verse-list {
+  display: grid;
+  gap: 1rem;
+  padding-bottom: 42vh;
+}
+
+.shared-verse-row {
+  scroll-margin-top: 0.75rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid color-mix(in srgb, var(--line) 72%, transparent);
+}
+
+.shared-verse-row .verse {
+  min-height: 0;
 }
 
 @keyframes slide-in-from-right {
@@ -644,9 +724,20 @@ rt {
 }
 
 @media (orientation: landscape) {
-  .pane-set {
+  .shared-language-grid,
+  .shared-heading-row,
+  .shared-verse-row {
     grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
-    grid-template-rows: minmax(0, 1fr);
+    grid-template-rows: none;
+  }
+
+  .shared-language-grid button {
+    border-right: 1px solid var(--line);
+    border-bottom: 0;
+  }
+
+  .shared-language-grid button:last-child {
+    border-right: 0;
   }
 
   .reader-layout {
@@ -690,7 +781,8 @@ rt {
     gap: 0.35rem;
   }
 
-  .pane-scroll {
+  .pane-scroll,
+  .shared-scroll {
     padding: 0.95rem;
   }
 
