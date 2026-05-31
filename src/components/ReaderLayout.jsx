@@ -2,8 +2,6 @@ import { useCallback, useEffect, useRef, useState } from 'react';
 import ScripturePane from './ScripturePane.jsx';
 
 const snapDelayMs = 90;
-const syncEase = 0.38;
-const syncFrameMs = 1000 / 60;
 const swipeThreshold = 72;
 const swipeVerticalTolerance = 54;
 const transitionMs = 280;
@@ -30,7 +28,6 @@ export default function ReaderLayout({
   const releaseTimer = useRef(null);
   const alignFrame = useRef(null);
   const syncFrame = useRef(null);
-  const lastSyncTime = useRef(0);
   const touchStart = useRef(null);
   const pendingDirection = useRef(0);
   const transitionTimer = useRef(null);
@@ -200,26 +197,15 @@ export default function ReaderLayout({
     updateActiveVerse(source);
     syncLock.current = activePane;
 
-    const syncTarget = (timestamp) => {
+    const syncTarget = () => {
       if (syncLock.current !== activePane) {
         syncFrame.current = null;
-        lastSyncTime.current = 0;
         return;
       }
 
       target.style.scrollBehavior = 'auto';
-      const elapsed = lastSyncTime.current ? timestamp - lastSyncTime.current : syncFrameMs;
-      const easedStep = 1 - Math.pow(1 - syncEase, elapsed / syncFrameMs);
-      const sourceTop = source.scrollTop;
-      const distance = sourceTop - target.scrollTop;
-      if (Math.abs(distance) < 1) {
-        target.scrollTop = sourceTop;
-      } else {
-        target.scrollTop += distance * easedStep;
-      }
-      lastSyncTime.current = timestamp;
-
-      syncFrame.current = window.requestAnimationFrame(syncTarget);
+      target.scrollTop = source.scrollTop;
+      syncFrame.current = null;
     };
 
     if (!syncFrame.current) {
@@ -230,7 +216,6 @@ export default function ReaderLayout({
     releaseTimer.current = window.setTimeout(() => {
       window.cancelAnimationFrame(syncFrame.current);
       syncFrame.current = null;
-      lastSyncTime.current = 0;
       target.style.scrollBehavior = 'auto';
       target.scrollTop = source.scrollTop;
       syncLock.current = null;
