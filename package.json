@@ -7,7 +7,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "build:ios": "VITE_IOS_BUNDLE=true vite build",
+    "build:ios": "vite build",
     "preview": "vite preview",
     "convert:mandarin": "node scripts/downloadAndConvertMandarinBOM.js",
     "convert:cebuano": "node scripts/downloadAndConvertCebuanoBOM.js",

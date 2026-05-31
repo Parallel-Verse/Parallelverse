@@ -1,11 +1,11 @@
 # iOS Optional Language Downloads
 
-Parallel Verse should ship with English and Spanish bundled so the default reader works offline on first launch. Additional languages can move to optional downloads after the Capacitor shell is stable.
+Parallel Verse will ship its first iOS version with every language that is already present in the repository bundled into the app. That keeps all current language choices available offline on first launch. Additional languages or future content updates can move to optional downloads after the Capacitor shell is stable.
 
 ## Proposed Approach
 
-1. Keep English and Spanish in the app bundle and load them from local imports.
-2. Move other language JSON files to hosted release assets, GitHub Pages assets, or another static CDN.
+1. Keep the current repository language JSON files in the app bundle and load them from local imports.
+2. Move future language additions or large updates to hosted release assets, GitHub Pages assets, or another static CDN.
 3. Add a language manifest with code, label, version, byte size, checksum, and download URL.
 4. Use `@capacitor/filesystem` to save downloaded language files under `Directory.Data`.
 5. At startup, merge bundled languages with downloaded languages discovered from the local manifest cache.
@@ -15,7 +15,7 @@ Parallel Verse should ship with English and Spanish bundled so the default reade
 
 ## Notes
 
-- Bundled offline baseline: English and Spanish.
+- Bundled offline baseline: every language currently present in the repository.
 - Downloaded files should be treated as content data only; do not manually rewrite scripture text in code.
 - Keep the existing disclaimer visible in Settings:
   "Unofficial study tool. Not affiliated with The Church of Jesus Christ of Latter-day Saints."
