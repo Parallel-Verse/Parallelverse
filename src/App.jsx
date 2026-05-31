@@ -11,12 +11,12 @@ const visitCounterUrl =
   'https://countapi.mileshilliard.com/api/v1/hit/parallelverse_github_io_total_visits';
 
 const defaultPreferences = {
-  theme: 'light',
+  theme: 'sepia',
   pane1Language: 'eng',
   pane2Language: 'spa',
   pane1JapaneseFurigana: false,
   pane2JapaneseFurigana: false,
-  scrollMode: 'native',
+  scrollMode: 'synced',
   book: '1 Nephi',
   chapter: 1,
 };

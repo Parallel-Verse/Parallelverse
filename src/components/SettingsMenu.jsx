@@ -1,14 +1,14 @@
 import { Moon, PanelRightClose, Sun, Sunset } from 'lucide-react';
 
 const themes = [
+  { value: 'sepia', label: 'Sepia', icon: Sunset },
   { value: 'light', label: 'Light', icon: Sun },
   { value: 'dark', label: 'Dark', icon: Moon },
-  { value: 'sepia', label: 'Sepia', icon: Sunset },
 ];
 
 const scrollModes = [
-  { value: 'native', label: 'Merged', detail: 'One shared scroll' },
   { value: 'synced', label: 'Synced', detail: 'Split panes' },
+  { value: 'native', label: 'Merged', detail: 'One shared scroll' },
 ];
 
 export default function SettingsMenu({
