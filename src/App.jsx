@@ -14,7 +14,8 @@ const defaultPreferences = {
   theme: 'light',
   pane1Language: 'eng',
   pane2Language: 'spa',
-  japaneseFurigana: false,
+  pane1JapaneseFurigana: false,
+  pane2JapaneseFurigana: false,
   book: '1 Nephi',
   chapter: 1,
 };
@@ -25,12 +26,17 @@ function readPreferences() {
     const preferences = { ...defaultPreferences, ...saved };
     if (preferences.pane1Language === 'jpn_furigana') {
       preferences.pane1Language = 'jpn';
-      preferences.japaneseFurigana = true;
+      preferences.pane1JapaneseFurigana = true;
     }
     if (preferences.pane2Language === 'jpn_furigana') {
       preferences.pane2Language = 'jpn';
-      preferences.japaneseFurigana = true;
+      preferences.pane2JapaneseFurigana = true;
     }
+    if (saved?.japaneseFurigana) {
+      preferences.pane1JapaneseFurigana ||= preferences.pane1Language === 'jpn';
+      preferences.pane2JapaneseFurigana ||= preferences.pane2Language === 'jpn';
+    }
+    delete preferences.japaneseFurigana;
     return preferences;
   } catch {
     return defaultPreferences;
@@ -230,7 +236,8 @@ export default function App() {
           pane1Language={preferences.pane1Language}
           pane2Language={preferences.pane2Language}
           languageOptions={languageOptions}
-          japaneseFurigana={preferences.japaneseFurigana}
+          pane1JapaneseFurigana={preferences.pane1JapaneseFurigana}
+          pane2JapaneseFurigana={preferences.pane2JapaneseFurigana}
           onNextChapter={() => navigateToChapter(1)}
           onPreviousChapter={() => navigateToChapter(-1)}
           onOpenSettings={() => setSettingsOpen(true)}

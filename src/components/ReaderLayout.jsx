@@ -12,7 +12,8 @@ export default function ReaderLayout({
   pane1Language,
   pane2Language,
   languageOptions,
-  japaneseFurigana,
+  pane1JapaneseFurigana,
+  pane2JapaneseFurigana,
   onNextChapter,
   onPreviousChapter,
   onOpenSettings,
@@ -266,7 +267,7 @@ export default function ReaderLayout({
         language={pane1Language}
         label="Language 1"
         languageOptions={languageOptions}
-        japaneseFurigana={japaneseFurigana}
+        japaneseFurigana={pane1JapaneseFurigana}
         onPaneReady={register ? registerPane : undefined}
         onScroll={register ? handlePaneScroll : undefined}
         onOpenSettings={onOpenSettings}
@@ -277,7 +278,7 @@ export default function ReaderLayout({
         language={pane2Language}
         label="Language 2"
         languageOptions={languageOptions}
-        japaneseFurigana={japaneseFurigana}
+        japaneseFurigana={pane2JapaneseFurigana}
         onPaneReady={register ? registerPane : undefined}
         onScroll={register ? handlePaneScroll : undefined}
         onOpenSettings={onOpenSettings}

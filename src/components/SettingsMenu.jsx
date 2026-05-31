@@ -15,16 +15,15 @@ export default function SettingsMenu({
   onClose,
 }) {
   const showPane1FuriganaToggle = preferences.pane1Language === 'jpn';
-  const showPane2FuriganaToggle =
-    preferences.pane2Language === 'jpn' && preferences.pane1Language !== 'jpn';
+  const showPane2FuriganaToggle = preferences.pane2Language === 'jpn';
 
-  const furiganaToggle = (
+  const furiganaToggle = (paneLabel, preferenceKey) => (
     <label className="toggle-setting">
-      <span>Japanese furigana</span>
+      <span>{paneLabel} furigana</span>
       <input
         type="checkbox"
-        checked={Boolean(preferences.japaneseFurigana)}
-        onChange={(event) => onChange('japaneseFurigana', event.target.checked)}
+        checked={Boolean(preferences[preferenceKey])}
+        onChange={(event) => onChange(preferenceKey, event.target.checked)}
       />
     </label>
   );
@@ -78,7 +77,7 @@ export default function SettingsMenu({
               ))}
             </select>
           </label>
-          {showPane1FuriganaToggle && furiganaToggle}
+          {showPane1FuriganaToggle && furiganaToggle('Pane 1', 'pane1JapaneseFurigana')}
 
           <label>
             <span>Pane 2</span>
@@ -93,7 +92,7 @@ export default function SettingsMenu({
               ))}
             </select>
           </label>
-          {showPane2FuriganaToggle && furiganaToggle}
+          {showPane2FuriganaToggle && furiganaToggle('Pane 2', 'pane2JapaneseFurigana')}
         </section>
 
         <p className="settings-disclaimer">
