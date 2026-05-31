@@ -171,8 +171,8 @@ export default function App() {
           </button>
           <div className={`book-menu ${bookMenuOpen ? 'is-open' : ''}`}>
             <div className="book-menu-title">
-              <strong>Bilingual Book of Mormon Reader</strong>
-              <span>{currentChapter.book} {currentChapter.chapter}</span>
+              <strong>Parallel Verse</strong>
+              <span>Bilingual Book of Mormon reader</span>
             </div>
             <div className="bookmark-row">
               <button
