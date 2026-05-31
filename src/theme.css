@@ -216,13 +216,22 @@ button {
 .current-reference {
   justify-self: center;
   overflow: hidden;
+  min-height: 42px;
+  border: 0;
+  border-radius: 8px;
+  padding: 0 0.65rem;
   max-width: min(52vw, 340px);
   color: var(--accent-strong);
+  background: transparent;
   font-size: 0.86rem;
   font-weight: 850;
   text-align: center;
   text-overflow: ellipsis;
   white-space: nowrap;
+}
+
+.current-reference:hover {
+  background: color-mix(in srgb, var(--accent) 8%, transparent);
 }
 
 .icon-button {

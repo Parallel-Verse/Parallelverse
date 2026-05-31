@@ -204,9 +204,15 @@ export default function App() {
           </div>
         </div>
 
-        <div className="current-reference" aria-label="Current chapter">
+        <button
+          className="current-reference"
+          type="button"
+          aria-label="Open book and chapter navigation"
+          aria-expanded={bookMenuOpen}
+          onClick={() => setBookMenuOpen((open) => !open)}
+        >
           {currentChapter.book} {currentChapter.chapter}
-        </div>
+        </button>
 
         <button
           className="icon-button"
