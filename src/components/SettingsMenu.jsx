@@ -14,8 +14,20 @@ export default function SettingsMenu({
   onChange,
   onClose,
 }) {
-  const showFuriganaToggle =
-    preferences.pane1Language === 'jpn' || preferences.pane2Language === 'jpn';
+  const showPane1FuriganaToggle = preferences.pane1Language === 'jpn';
+  const showPane2FuriganaToggle =
+    preferences.pane2Language === 'jpn' && preferences.pane1Language !== 'jpn';
+
+  const furiganaToggle = (
+    <label className="toggle-setting">
+      <span>Japanese furigana</span>
+      <input
+        type="checkbox"
+        checked={Boolean(preferences.japaneseFurigana)}
+        onChange={(event) => onChange('japaneseFurigana', event.target.checked)}
+      />
+    </label>
+  );
 
   return (
     <div className={`settings-layer ${open ? 'is-open' : ''}`} aria-hidden={!open}>
@@ -66,6 +78,7 @@ export default function SettingsMenu({
               ))}
             </select>
           </label>
+          {showPane1FuriganaToggle && furiganaToggle}
 
           <label>
             <span>Pane 2</span>
@@ -80,17 +93,7 @@ export default function SettingsMenu({
               ))}
             </select>
           </label>
-
-          {showFuriganaToggle && (
-            <label className="toggle-setting">
-              <span>Japanese furigana</span>
-              <input
-                type="checkbox"
-                checked={Boolean(preferences.japaneseFurigana)}
-                onChange={(event) => onChange('japaneseFurigana', event.target.checked)}
-              />
-            </label>
-          )}
+          {showPane2FuriganaToggle && furiganaToggle}
         </section>
 
         <p className="settings-disclaimer">
