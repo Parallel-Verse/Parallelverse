@@ -16,6 +16,8 @@ export default function ReaderLayout({
   onNextChapter,
   onPreviousChapter,
   onOpenSettings,
+  onActiveVerseChange,
+  scrollToVerseRequest,
 }) {
   const [visibleChapter, setVisibleChapter] = useState(chapter);
   const [previousChapter, setPreviousChapter] = useState(null);
@@ -31,6 +33,7 @@ export default function ReaderLayout({
   const pendingDirection = useRef(0);
   const transitionTimer = useRef(null);
   const visibleChapterRef = useRef(chapter);
+  const activeVerseRef = useRef(1);
 
   useEffect(() => {
     const currentVisibleChapter = visibleChapterRef.current;
@@ -134,6 +137,56 @@ export default function ReaderLayout({
     };
   }, [visibleChapter.book, visibleChapter.chapter, pane1Language, pane2Language, scheduleAlignment]);
 
+  useEffect(() => {
+    const request = scrollToVerseRequest;
+    if (
+      !request ||
+      request.book !== visibleChapter.book ||
+      Number(request.chapter) !== Number(visibleChapter.chapter)
+    ) {
+      return;
+    }
+
+    window.cancelAnimationFrame(syncFrame.current);
+    window.clearTimeout(releaseTimer.current);
+    syncLock.current = null;
+
+    const scrollFrame = window.requestAnimationFrame(() => {
+      window.requestAnimationFrame(() => {
+        const panes = [paneRefs.current.pane1, paneRefs.current.pane2].filter(Boolean);
+        panes.forEach((pane) => {
+          const verse = pane.querySelector(`[data-verse="${request.verse}"]`);
+          if (!verse) return;
+          pane.style.scrollBehavior = 'auto';
+          pane.scrollTop = verse.offsetTop - 8;
+        });
+        activeVerseRef.current = Number(request.verse);
+        onActiveVerseChange?.(Number(request.verse));
+      });
+    });
+
+    return () => window.cancelAnimationFrame(scrollFrame);
+  }, [scrollToVerseRequest, visibleChapter.book, visibleChapter.chapter, onActiveVerseChange]);
+
+  const updateActiveVerse = useCallback(
+    (source) => {
+      const verses = [...source.querySelectorAll('[data-verse]')];
+      if (!verses.length) return;
+
+      const paneTop = source.getBoundingClientRect().top;
+      const closest = verses.reduce((best, verse) => {
+        const distance = Math.abs(verse.getBoundingClientRect().top - paneTop);
+        return !best || distance < best.distance ? { verse, distance } : best;
+      }, null);
+      const verseNumber = Number(closest?.verse?.dataset.verse);
+      if (!Number.isFinite(verseNumber) || verseNumber === activeVerseRef.current) return;
+
+      activeVerseRef.current = verseNumber;
+      onActiveVerseChange?.(verseNumber);
+    },
+    [onActiveVerseChange],
+  );
+
   const handlePaneScroll = (activePane) => {
     if (syncLock.current && syncLock.current !== activePane) return;
 
@@ -142,6 +195,7 @@ export default function ReaderLayout({
     const target = paneRefs.current[targetPane];
     if (!source || !target) return;
 
+    updateActiveVerse(source);
     syncLock.current = activePane;
     desiredSyncTop.current = source.scrollTop;
 

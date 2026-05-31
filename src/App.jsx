@@ -44,6 +44,7 @@ function readBookmark() {
     return {
       book: saved.book,
       chapter: Number(saved.chapter),
+      verse: Number(saved.verse) || 1,
     };
   } catch {
     return null;
@@ -56,6 +57,8 @@ export default function App() {
   const [bookMenuOpen, setBookMenuOpen] = useState(false);
   const [visitCount, setVisitCount] = useState(null);
   const [bookmark, setBookmark] = useState(readBookmark);
+  const [currentVerse, setCurrentVerse] = useState(1);
+  const [scrollToVerseRequest, setScrollToVerseRequest] = useState(null);
 
   const currentChapter = useMemo(() => {
     return (
@@ -77,6 +80,10 @@ export default function App() {
     document.documentElement.dataset.theme = preferences.theme;
     localStorage.setItem(preferenceKey, JSON.stringify(preferences));
   }, [preferences]);
+
+  useEffect(() => {
+    setCurrentVerse(1);
+  }, [currentChapter.book, currentChapter.chapter]);
 
   useEffect(() => {
     let ignore = false;
@@ -113,12 +120,14 @@ export default function App() {
       book: nextChapter.book,
       chapter: nextChapter.chapter,
     }));
+    setScrollToVerseRequest(null);
   };
 
   const saveBookmark = () => {
     const nextBookmark = {
       book: currentChapter.book,
       chapter: currentChapter.chapter,
+      verse: currentVerse,
     };
     localStorage.setItem(bookmarkKey, JSON.stringify(nextBookmark));
     setBookmark(nextBookmark);
@@ -131,6 +140,12 @@ export default function App() {
       book: bookmark.book,
       chapter: bookmark.chapter,
     }));
+    setScrollToVerseRequest({
+      book: bookmark.book,
+      chapter: bookmark.chapter,
+      verse: bookmark.verse,
+      id: Date.now(),
+    });
     setBookMenuOpen(false);
   };
 
@@ -156,7 +171,7 @@ export default function App() {
               <button
                 className="bookmark-save"
                 type="button"
-                aria-label={`Bookmark ${currentChapter.book} ${currentChapter.chapter}`}
+                aria-label={`Bookmark ${currentChapter.book} ${currentChapter.chapter}:${currentVerse}`}
                 onClick={saveBookmark}
               >
                 <Flag aria-hidden="true" />
@@ -167,7 +182,7 @@ export default function App() {
                 disabled={!bookmark}
                 onClick={goToBookmark}
               >
-                {bookmark ? `${bookmark.book} ${bookmark.chapter}` : 'No bookmark set'}
+                {bookmark ? `${bookmark.book} ${bookmark.chapter}:${bookmark.verse}` : 'No bookmark set'}
               </button>
             </div>
             <ChapterSelector
@@ -177,10 +192,12 @@ export default function App() {
               onBookChange={(book) => {
                 updatePreference('book', book);
                 updatePreference('chapter', 1);
+                setScrollToVerseRequest(null);
                 setBookMenuOpen(false);
               }}
               onChapterChange={(chapter) => {
                 updatePreference('chapter', Number(chapter));
+                setScrollToVerseRequest(null);
                 setBookMenuOpen(false);
               }}
             />
@@ -211,6 +228,8 @@ export default function App() {
           onNextChapter={() => navigateToChapter(1)}
           onPreviousChapter={() => navigateToChapter(-1)}
           onOpenSettings={() => setSettingsOpen(true)}
+          onActiveVerseChange={setCurrentVerse}
+          scrollToVerseRequest={scrollToVerseRequest}
         />
       </main>
 
