@@ -1,8 +1,8 @@
 import { useCallback, useEffect, useRef, useState } from 'react';
 import ScripturePane from './ScripturePane.jsx';
 
-const snapDelayMs = 130;
-const syncEase = 0.16;
+const snapDelayMs = 90;
+const syncEase = 0.38;
 const swipeThreshold = 72;
 const swipeVerticalTolerance = 54;
 const transitionMs = 280;
