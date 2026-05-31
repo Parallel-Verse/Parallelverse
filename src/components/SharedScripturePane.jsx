@@ -65,14 +65,14 @@ export default function SharedScripturePane({
 
   return (
     <article className="shared-reader-shell">
-      <div className="shared-language-grid">
-        <button type="button" onClick={onOpenSettings} aria-label={`Change ${pane1Name} language`}>
-          {pane1Name}
-        </button>
-        <button type="button" onClick={onOpenSettings} aria-label={`Change ${pane2Name} language`}>
-          {pane2Name}
-        </button>
-      </div>
+      <button
+        className="shared-language-bar"
+        type="button"
+        onClick={onOpenSettings}
+        aria-label={`Change ${pane1Name} and ${pane2Name} languages`}
+      >
+        {pane1Name} / {pane2Name}
+      </button>
 
       <div
         className="shared-scroll"

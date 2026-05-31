@@ -355,21 +355,16 @@ select {
   box-shadow: var(--pane-shadow);
 }
 
-.shared-language-grid {
-  display: grid;
-  grid-template-rows: repeat(2, minmax(1.35rem, auto));
-  border-bottom: 1px solid var(--line);
-  background: color-mix(in srgb, var(--surface-raised) 72%, var(--surface));
-}
-
-.shared-language-grid button {
+.shared-language-bar {
+  display: block;
+  width: 100%;
   min-height: 1.35rem;
   border: 0;
   border-bottom: 1px solid var(--line);
   padding: 0 0.7rem;
   overflow: hidden;
   color: var(--accent);
-  background: transparent;
+  background: color-mix(in srgb, var(--surface-raised) 72%, var(--surface));
   font-size: 0.66rem;
   font-weight: 800;
   letter-spacing: 0.04em;
@@ -380,11 +375,7 @@ select {
   white-space: nowrap;
 }
 
-.shared-language-grid button:last-child {
-  border-bottom: 0;
-}
-
-.shared-language-grid button:hover {
+.shared-language-bar:hover {
   color: var(--accent-strong);
 }
 
@@ -759,20 +750,10 @@ rt {
     grid-template-rows: minmax(0, 1fr);
   }
 
-  .shared-language-grid,
   .shared-heading-row,
   .shared-verse-row {
     grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
     grid-template-rows: none;
-  }
-
-  .shared-language-grid button {
-    border-right: 1px solid var(--line);
-    border-bottom: 0;
-  }
-
-  .shared-language-grid button:last-child {
-    border-right: 0;
   }
 
   .reader-layout {
