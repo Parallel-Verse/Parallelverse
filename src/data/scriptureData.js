@@ -7,13 +7,21 @@ import germanReference from './bookOfMormon.de.json';
 import tagalogReference from './bookOfMormon.tl.json';
 import portugueseReference from './bookOfMormon.pt.json';
 import koreanReference from './bookOfMormon.ko.json';
+import mandarinReference from './bookOfMormon.zho.json';
+import cebuanoReference from './bookOfMormon.ceb.json';
+import samoanReference from './bookOfMormon.smo.json';
+import tonganReference from './bookOfMormon.ton.json';
 
 export const languageOptions = [
   { code: 'eng', name: 'English', active: true },
   { code: 'spa', name: 'Spanish', active: true },
   { code: 'jpn', name: 'Japanese', active: true },
+  { code: 'zho', name: 'Mandarin', active: true },
   { code: 'pt', name: 'Portuguese', active: true },
   { code: 'ko', name: 'Korean', active: true },
+  { code: 'ceb', name: 'Cebuano', active: true },
+  { code: 'smo', name: 'Samoan', active: true },
+  { code: 'ton', name: 'Tongan', active: true },
   { code: 'deu', name: 'German', active: true },
   { code: 'tgl', name: 'Tagalog', active: true },
   { code: 'fra', name: 'French', active: true },
@@ -147,6 +155,24 @@ export const bookIndex = [
   { book: 'Ether', chapters: 15 },
   { book: 'Moroni', chapters: 10 },
 ];
+
+const bookIdsByEnglish = {
+  '1 Nephi': '1-nephi',
+  '2 Nephi': '2-nephi',
+  Jacob: 'jacob',
+  Enos: 'enos',
+  Jarom: 'jarom',
+  Omni: 'omni',
+  'Words of Mormon': 'words-of-mormon',
+  Mosiah: 'mosiah',
+  Alma: 'alma',
+  Helaman: 'helaman',
+  '3 Nephi': '3-nephi',
+  '4 Nephi': '4-nephi',
+  Mormon: 'mormon',
+  Ether: 'ether',
+  Moroni: 'moroni',
+};
 
 const chapterKey = (book, chapter) => `${book}-${chapter}`;
 const loadedChapterMap = new Map(
@@ -290,14 +316,20 @@ const tagalogBookMap = new Map(tagalogReference.books.map((book) => [book.title,
 const portugueseBookMap = new Map(portugueseReference.books.map((book) => [book.title, book]));
 const koreanBookMap = new Map(koreanReference.books.map((book) => [book.title, book]));
 
+const bookMapById = (reference) => new Map(reference.books.map((book) => [book.id, book]));
+
 const translationSources = [
-  { code: 'spa', titles: spanishBookTitles, bookMap: spanishBookMap },
-  { code: 'jpn', titles: japaneseBookTitles, bookMap: japaneseBookMap },
-  { code: 'pt', titles: portugueseBookTitles, bookMap: portugueseBookMap },
-  { code: 'ko', titles: koreanBookTitles, bookMap: koreanBookMap },
-  { code: 'fra', titles: frenchBookTitles, bookMap: frenchBookMap },
-  { code: 'deu', titles: germanBookTitles, bookMap: germanBookMap },
-  { code: 'tgl', titles: tagalogBookTitles, bookMap: tagalogBookMap },
+  { code: 'spa', titles: spanishBookTitles, bookMap: spanishBookMap, bookMapById: bookMapById(spanishReference) },
+  { code: 'jpn', titles: japaneseBookTitles, bookMap: japaneseBookMap, bookMapById: bookMapById(japaneseReference) },
+  { code: 'zho', bookMapById: bookMapById(mandarinReference) },
+  { code: 'pt', titles: portugueseBookTitles, bookMap: portugueseBookMap, bookMapById: bookMapById(portugueseReference) },
+  { code: 'ko', titles: koreanBookTitles, bookMap: koreanBookMap, bookMapById: bookMapById(koreanReference) },
+  { code: 'ceb', bookMapById: bookMapById(cebuanoReference) },
+  { code: 'smo', bookMapById: bookMapById(samoanReference) },
+  { code: 'ton', bookMapById: bookMapById(tonganReference) },
+  { code: 'fra', titles: frenchBookTitles, bookMap: frenchBookMap, bookMapById: bookMapById(frenchReference) },
+  { code: 'deu', titles: germanBookTitles, bookMap: germanBookMap, bookMapById: bookMapById(germanReference) },
+  { code: 'tgl', titles: tagalogBookTitles, bookMap: tagalogBookMap, bookMapById: bookMapById(tagalogReference) },
 ];
 
 const furiganaSource = {
@@ -307,7 +339,8 @@ const furiganaSource = {
 };
 
 const getTranslationVerses = (source, book, chapter) => {
-  const translatedBook = source.bookMap.get(source.titles[book] ?? book);
+  const translatedBook =
+    source.bookMapById?.get(bookIdsByEnglish[book]) ?? source.bookMap?.get(source.titles?.[book] ?? book);
   const translatedChapter = translatedBook?.chapters.find((item) => Number(item.chapter) === chapter);
   return new Map((translatedChapter?.verses ?? []).map((verse) => [Number(verse.verse), verse.text]));
 };
@@ -316,7 +349,10 @@ const localizedTitlesFor = (book) =>
   translationSources.reduce(
     (titles, source) => ({
       ...titles,
-      [source.code]: source.titles[book] ?? book,
+      [source.code]:
+        source.titles?.[book] ??
+        source.bookMapById?.get(bookIdsByEnglish[book])?.title ??
+        book,
     }),
     { eng: book },
   );

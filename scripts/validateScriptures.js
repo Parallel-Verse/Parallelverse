@@ -26,12 +26,16 @@ const BOOKS = [
 
 const languageFiles = [
   ['es', 'bookOfMormon.es.json'],
+  ['zho', 'bookOfMormon.zho.json'],
+  ['ceb', 'bookOfMormon.ceb.json'],
   ['pt', 'bookOfMormon.pt.json'],
   ['fr', 'bookOfMormon.fr.json'],
   ['de', 'bookOfMormon.de.json'],
   ['ja', 'bookOfMormon.ja.json'],
   ['ja-furigana', 'bookOfMormon.ja.furigana.json'],
   ['ko', 'bookOfMormon.ko.json'],
+  ['smo', 'bookOfMormon.smo.json'],
+  ['ton', 'bookOfMormon.ton.json'],
   ['tl', 'bookOfMormon.tl.json'],
 ];
 

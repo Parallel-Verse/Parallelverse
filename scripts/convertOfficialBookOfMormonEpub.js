@@ -178,7 +178,7 @@ function buildBooks(htmlFiles) {
 function titleFromChapterHtml($, chapter) {
   return normalizeWhitespace(
     ($('title').first().text() || $('h1').first().text()).replace(
-      new RegExp(`(?:\\s|\\u00a0)+${chapter}\\s*$`),
+      new RegExp(`[\\s\\u00a0]*${chapter}\\s*$`),
       '',
     ),
   );
