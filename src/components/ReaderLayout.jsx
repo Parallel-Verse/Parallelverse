@@ -1,6 +1,9 @@
 import { useCallback, useEffect, useRef, useState } from 'react';
+import ScripturePane from './ScripturePane.jsx';
 import SharedScripturePane from './SharedScripturePane.jsx';
 
+const snapDelayMs = 90;
+const syncEase = 0.38;
 const swipeThreshold = 72;
 const swipeVerticalTolerance = 54;
 const transitionMs = 280;
@@ -12,6 +15,7 @@ export default function ReaderLayout({
   languageOptions,
   pane1JapaneseFurigana,
   pane2JapaneseFurigana,
+  scrollMode = 'native',
   onNextChapter,
   onPreviousChapter,
   onOpenSettings,
@@ -23,6 +27,12 @@ export default function ReaderLayout({
   const [transitionDirection, setTransitionDirection] = useState(0);
   const [isTransitioning, setIsTransitioning] = useState(false);
   const readerRef = useRef(null);
+  const paneRefs = useRef({});
+  const syncLock = useRef(null);
+  const releaseTimer = useRef(null);
+  const alignFrame = useRef(null);
+  const syncFrame = useRef(null);
+  const desiredSyncTop = useRef(0);
   const touchStart = useRef(null);
   const pendingDirection = useRef(0);
   const transitionTimer = useRef(null);
@@ -57,12 +67,95 @@ export default function ReaderLayout({
   useEffect(() => {
     return () => {
       window.clearTimeout(transitionTimer.current);
+      window.clearTimeout(releaseTimer.current);
+      window.cancelAnimationFrame(syncFrame.current);
     };
   }, []);
 
   const registerReader = (_pane, node) => {
     readerRef.current = node;
   };
+
+  const alignVerseRows = useCallback(() => {
+    if (scrollMode !== 'synced') return;
+
+    const panes = [paneRefs.current.pane1, paneRefs.current.pane2];
+    if (panes.some((pane) => !pane)) return;
+
+    const headings = panes
+      .map((pane) => pane.querySelector('.chapter-heading'))
+      .filter(Boolean);
+    const verses = panes.flatMap((pane) => [...pane.querySelectorAll('[data-verse]')]);
+
+    headings.forEach((heading) => {
+      heading.style.minHeight = '';
+    });
+    verses.forEach((verse) => {
+      verse.style.minHeight = '';
+    });
+
+    if (headings.length) {
+      const headingHeight = Math.ceil(
+        Math.max(...headings.map((heading) => heading.getBoundingClientRect().height)),
+      );
+      headings.forEach((heading) => {
+        heading.style.minHeight = `${headingHeight}px`;
+      });
+    }
+
+    const verseNumbers = new Set(verses.map((verse) => verse.dataset.verse));
+    verseNumbers.forEach((verseNumber) => {
+      const matchingVerses = panes
+        .map((pane) => pane.querySelector(`[data-verse="${verseNumber}"]`))
+        .filter(Boolean);
+      if (!matchingVerses.length) return;
+
+      const rowHeight = Math.ceil(
+        Math.max(...matchingVerses.map((verse) => verse.getBoundingClientRect().height)),
+      );
+      matchingVerses.forEach((verse) => {
+        verse.style.minHeight = `${rowHeight}px`;
+      });
+    });
+  }, [scrollMode]);
+
+  const scheduleAlignment = useCallback(() => {
+    if (scrollMode !== 'synced') return;
+    window.cancelAnimationFrame(alignFrame.current);
+    alignFrame.current = window.requestAnimationFrame(() => {
+      alignFrame.current = window.requestAnimationFrame(alignVerseRows);
+    });
+  }, [alignVerseRows, scrollMode]);
+
+  const registerPane = (pane, node) => {
+    paneRefs.current[pane] = node;
+    scheduleAlignment();
+  };
+
+  useEffect(() => {
+    if (scrollMode !== 'synced') return undefined;
+
+    scheduleAlignment();
+
+    const observer =
+      typeof ResizeObserver === 'undefined' ? null : new ResizeObserver(scheduleAlignment);
+    const panes = [paneRefs.current.pane1, paneRefs.current.pane2].filter(Boolean);
+    panes.forEach((pane) => observer?.observe(pane));
+    window.addEventListener('resize', scheduleAlignment);
+
+    return () => {
+      window.cancelAnimationFrame(alignFrame.current);
+      observer?.disconnect();
+      window.removeEventListener('resize', scheduleAlignment);
+    };
+  }, [
+    visibleChapter.book,
+    visibleChapter.chapter,
+    pane1Language,
+    pane2Language,
+    scrollMode,
+    scheduleAlignment,
+  ]);
 
   useEffect(() => {
     const request = scrollToVerseRequest;
@@ -76,18 +169,34 @@ export default function ReaderLayout({
 
     const scrollFrame = window.requestAnimationFrame(() => {
       window.requestAnimationFrame(() => {
-        const reader = readerRef.current;
-        const verse = reader?.querySelector(`[data-verse="${request.verse}"]`);
-        if (!reader || !verse) return;
-        reader.style.scrollBehavior = 'auto';
-        reader.scrollTop = verse.offsetTop - 8;
+        if (scrollMode === 'synced') {
+          const panes = [paneRefs.current.pane1, paneRefs.current.pane2].filter(Boolean);
+          panes.forEach((pane) => {
+            const verse = pane.querySelector(`[data-verse="${request.verse}"]`);
+            if (!verse) return;
+            pane.style.scrollBehavior = 'auto';
+            pane.scrollTop = verse.offsetTop - 8;
+          });
+        } else {
+          const reader = readerRef.current;
+          const verse = reader?.querySelector(`[data-verse="${request.verse}"]`);
+          if (!reader || !verse) return;
+          reader.style.scrollBehavior = 'auto';
+          reader.scrollTop = verse.offsetTop - 8;
+        }
         activeVerseRef.current = Number(request.verse);
         onActiveVerseChange?.(Number(request.verse));
       });
     });
 
     return () => window.cancelAnimationFrame(scrollFrame);
-  }, [scrollToVerseRequest, visibleChapter.book, visibleChapter.chapter, onActiveVerseChange]);
+  }, [
+    scrollToVerseRequest,
+    visibleChapter.book,
+    visibleChapter.chapter,
+    scrollMode,
+    onActiveVerseChange,
+  ]);
 
   const updateActiveVerse = useCallback(
     (reader) => {
@@ -110,6 +219,49 @@ export default function ReaderLayout({
 
   const handleReaderScroll = (event) => {
     updateActiveVerse(event.currentTarget);
+  };
+
+  const handlePaneScroll = (activePane) => {
+    if (syncLock.current && syncLock.current !== activePane) return;
+
+    const source = paneRefs.current[activePane];
+    const targetPane = activePane === 'pane1' ? 'pane2' : 'pane1';
+    const target = paneRefs.current[targetPane];
+    if (!source || !target) return;
+
+    updateActiveVerse(source);
+    syncLock.current = activePane;
+    desiredSyncTop.current = source.scrollTop;
+
+    const syncTarget = () => {
+      if (syncLock.current !== activePane) {
+        syncFrame.current = null;
+        return;
+      }
+
+      target.style.scrollBehavior = 'auto';
+      const distance = desiredSyncTop.current - target.scrollTop;
+      if (Math.abs(distance) < 0.75) {
+        target.scrollTop = desiredSyncTop.current;
+      } else {
+        target.scrollTop += distance * syncEase;
+      }
+
+      syncFrame.current = window.requestAnimationFrame(syncTarget);
+    };
+
+    if (!syncFrame.current) {
+      syncFrame.current = window.requestAnimationFrame(syncTarget);
+    }
+
+    window.clearTimeout(releaseTimer.current);
+    releaseTimer.current = window.setTimeout(() => {
+      window.cancelAnimationFrame(syncFrame.current);
+      syncFrame.current = null;
+      target.style.scrollBehavior = 'auto';
+      target.scrollTop = source.scrollTop;
+      syncLock.current = null;
+    }, snapDelayMs);
   };
 
   const handleTouchStart = (event) => {
@@ -141,19 +293,46 @@ export default function ReaderLayout({
   };
 
   const renderPaneSet = (chapterToRender, className, register = false) => (
-    <div className={`pane-set ${className}`}>
-      <SharedScripturePane
-        paneId={register ? 'shared-reader' : 'previous-shared-reader'}
-        chapter={chapterToRender}
-        pane1Language={pane1Language}
-        pane2Language={pane2Language}
-        languageOptions={languageOptions}
-        pane1JapaneseFurigana={pane1JapaneseFurigana}
-        pane2JapaneseFurigana={pane2JapaneseFurigana}
-        onPaneReady={register ? registerReader : undefined}
-        onScroll={register ? handleReaderScroll : undefined}
-        onOpenSettings={onOpenSettings}
-      />
+    <div className={`pane-set pane-set-${scrollMode} ${className}`}>
+      {scrollMode === 'synced' ? (
+        <>
+          <ScripturePane
+            paneId={register ? 'pane1' : 'previous-pane1'}
+            chapter={chapterToRender}
+            language={pane1Language}
+            label="Language 1"
+            languageOptions={languageOptions}
+            japaneseFurigana={pane1JapaneseFurigana}
+            onPaneReady={register ? registerPane : undefined}
+            onScroll={register ? handlePaneScroll : undefined}
+            onOpenSettings={onOpenSettings}
+          />
+          <ScripturePane
+            paneId={register ? 'pane2' : 'previous-pane2'}
+            chapter={chapterToRender}
+            language={pane2Language}
+            label="Language 2"
+            languageOptions={languageOptions}
+            japaneseFurigana={pane2JapaneseFurigana}
+            onPaneReady={register ? registerPane : undefined}
+            onScroll={register ? handlePaneScroll : undefined}
+            onOpenSettings={onOpenSettings}
+          />
+        </>
+      ) : (
+        <SharedScripturePane
+          paneId={register ? 'shared-reader' : 'previous-shared-reader'}
+          chapter={chapterToRender}
+          pane1Language={pane1Language}
+          pane2Language={pane2Language}
+          languageOptions={languageOptions}
+          pane1JapaneseFurigana={pane1JapaneseFurigana}
+          pane2JapaneseFurigana={pane2JapaneseFurigana}
+          onPaneReady={register ? registerReader : undefined}
+          onScroll={register ? handleReaderScroll : undefined}
+          onOpenSettings={onOpenSettings}
+        />
+      )}
     </div>
   );
 

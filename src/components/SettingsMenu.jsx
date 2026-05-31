@@ -6,6 +6,11 @@ const themes = [
   { value: 'sepia', label: 'Sepia', icon: Sunset },
 ];
 
+const scrollModes = [
+  { value: 'native', label: 'Native', detail: 'One shared scroll' },
+  { value: 'synced', label: 'Synced', detail: 'Split panes' },
+];
+
 export default function SettingsMenu({
   open,
   preferences,
@@ -93,6 +98,23 @@ export default function SettingsMenu({
             </select>
           </label>
           {showPane2FuriganaToggle && furiganaToggle('Pane 2', 'pane2JapaneseFurigana')}
+        </section>
+
+        <section className="setting-group scroll-setting" aria-labelledby="scroll-title">
+          <h3 id="scroll-title">Scroll</h3>
+          <div className="scroll-options">
+            {scrollModes.map((mode) => (
+              <button
+                className={preferences.scrollMode === mode.value ? 'is-selected' : ''}
+                type="button"
+                key={mode.value}
+                onClick={() => onChange('scrollMode', mode.value)}
+              >
+                <span>{mode.label}</span>
+                <small>{mode.detail}</small>
+              </button>
+            ))}
+          </div>
         </section>
 
         <p className="settings-disclaimer">

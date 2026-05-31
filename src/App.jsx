@@ -16,6 +16,7 @@ const defaultPreferences = {
   pane2Language: 'spa',
   pane1JapaneseFurigana: false,
   pane2JapaneseFurigana: false,
+  scrollMode: 'native',
   book: '1 Nephi',
   chapter: 1,
 };
@@ -238,6 +239,7 @@ export default function App() {
           languageOptions={languageOptions}
           pane1JapaneseFurigana={preferences.pane1JapaneseFurigana}
           pane2JapaneseFurigana={preferences.pane2JapaneseFurigana}
+          scrollMode={preferences.scrollMode}
           onNextChapter={() => navigateToChapter(1)}
           onPreviousChapter={() => navigateToChapter(-1)}
           onOpenSettings={() => setSettingsOpen(true)}

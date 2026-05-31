@@ -304,9 +304,18 @@ select {
 .pane-set {
   position: absolute;
   inset: 0;
-  display: block;
   min-width: 100%;
   will-change: transform;
+}
+
+.pane-set-native {
+  display: block;
+}
+
+.pane-set-synced {
+  display: grid;
+  grid-template-rows: minmax(0, 1fr) minmax(0, 1fr);
+  gap: 0.7rem;
 }
 
 .pane-set-current {
@@ -647,7 +656,8 @@ rt {
   background: var(--surface);
 }
 
-.theme-setting {
+.theme-setting,
+.scroll-setting {
   gap: 0.55rem;
 }
 
@@ -665,7 +675,8 @@ rt {
   gap: 0.4rem;
 }
 
-.theme-options button {
+.theme-options button,
+.scroll-options button {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -679,10 +690,29 @@ rt {
   font-size: 0.84rem;
 }
 
-.theme-options button.is-selected {
+.theme-options button.is-selected,
+.scroll-options button.is-selected {
   color: var(--accent-strong);
   border-color: color-mix(in srgb, var(--accent) 62%, var(--line));
   background: color-mix(in srgb, var(--accent) 10%, var(--surface-raised));
+}
+
+.scroll-options {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 0.4rem;
+}
+
+.scroll-options button {
+  min-height: 58px;
+  flex-direction: column;
+  gap: 0.18rem;
+}
+
+.scroll-options small {
+  color: var(--muted);
+  font-size: 0.68rem;
+  font-weight: 750;
 }
 
 .language-setting select {
@@ -724,6 +754,11 @@ rt {
 }
 
 @media (orientation: landscape) {
+  .pane-set-synced {
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+    grid-template-rows: minmax(0, 1fr);
+  }
+
   .shared-language-grid,
   .shared-heading-row,
   .shared-verse-row {
