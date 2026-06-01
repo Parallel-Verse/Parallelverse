@@ -1,0 +1,13 @@
+{
+  "bookId": "botchan",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "坊っちゃん",
+      "units": 2801,
+      "needsReview": 636,
+      "englishSourceTitle": "Botchan"
+    }
+  ],
+  "needsReview": 636
+}

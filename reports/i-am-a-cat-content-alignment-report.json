@@ -1,0 +1,182 @@
+{
+  "bookId": "i-am-a-cat",
+  "title": "I Am a Cat",
+  "masterLanguage": "ja",
+  "languages": [
+    "en",
+    "ja"
+  ],
+  "chapters": [
+    {
+      "chapterId": "chapter-1",
+      "title": "一",
+      "units": 136,
+      "languages": {
+        "ja": {
+          "units": 136,
+          "candidates": 136,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "en": {
+          "units": 136,
+          "candidates": 351,
+          "needsReview": 26,
+          "averageScore": 0.295
+        }
+      },
+      "samples": [
+        {
+          "language": "en",
+          "syncId": "i-am-a-cat-ch1-u0001",
+          "score": 0.221,
+          "master": "吾輩は猫である。 名前はまだ無い。 どこで生れたかとんと見当がつかぬ。 何でも薄暗いじめじめした所でニャーニャー泣いていた事だけは記憶している。 吾輩はここで始めて人間というものを見た。 しかもあとで聞くとそれは書生という人間中で一番獰悪な",
+          "translation": ". IAM a cat; but as yet I have no name. Where I was born is entirely unknown to me. But this still dimly lives in my memory. I was mewing in a gloomy damp place, where I got the fi",
+          "needsReview": true
+        },
+        {
+          "language": "en",
+          "syncId": "i-am-a-cat-ch1-u0005",
+          "score": 0.078,
+          "master": "はよ い心持に坐っておったが、",
+          "translation": "I have seen many a cat in my day, but never have I come across one so deformed. Not only that, the face protruded too much in the centre; and from the two cavities of this projecti",
+          "needsReview": true
+        },
+        {
+          "language": "en",
+          "syncId": "i-am-a-cat-ch1-u0008",
+          "score": 0.133,
+          "master": "って無暗に明るい。 眼を明いていられぬくらいだ。 はてな何でも容子がおかしいと、",
+          "translation": "\"There is something strange about this,\" thought I, and began to creep slowly, when I felt a pricking pain in my paws. Out of the straw that received me at my birth, I had been cas",
+          "needsReview": true
+        },
+        {
+          "language": "en",
+          "syncId": "i-am-a-cat-ch1-u0015",
+          "score": 0.149,
+          "master": "腹は減る、寒さは寒し、",
+          "translation": "Thinking it would help me, I crawled through it into a yard. How strangely the wheel of Fortune turns!",
+          "needsReview": true
+        },
+        {
+          "language": "en",
+          "syncId": "i-am-a-cat-ch1-u0023",
+          "score": 0.066,
+          "master": "輩 は時々忍び足に彼の書斎を覗いて見るが、",
+          "translation": "I remember that the same thing was repeated four or five times at least, which deeply impressed me with the feeling that a maid is a very disgusting brute. The other day, by way of",
+          "needsReview": true
+        },
+        {
+          "language": "en",
+          "syncId": "i-am-a-cat-ch1-u0029",
+          "score": 0.132,
+          "master": "の後いろいろ経験の上、",
+          "translation": "I often make a stealthy approach to his \"den,\" peep in, and not unfrequently find him taking a nap. Sometimes I even catch him in a ludicrous state, letting water drop from his mou",
+          "needsReview": true
+        },
+        {
+          "language": "en",
+          "syncId": "i-am-a-cat-ch1-u0033",
+          "score": 0.168,
+          "master": "こうにか割り込むのであるが、",
+          "translation": "Though I am a cat, I often think that the lot of a teacher is a very easy one, and that it would be well for every creature that is born a man, to enter upon the profession. For, i",
+          "needsReview": true
+        },
+        {
+          "language": "en",
+          "syncId": "i-am-a-cat-ch1-u0035",
+          "score": 0.183,
+          "master": "んだってなどは物指で尻ぺたをひどく叩かれた。 吾輩は人間と同居して彼等を観察すればするほど、",
+          "translation": "In this sorry plight, I had no choice but to keep as close as possible to the master who had given me permission to stay. I made it a rule to get on his lap when I saw him reading ",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-2",
+      "title": "二",
+      "units": 468,
+      "languages": {
+        "ja": {
+          "units": 468,
+          "candidates": 468,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "en": {
+          "units": 468,
+          "candidates": 468,
+          "needsReview": 151,
+          "averageScore": 0.201
+        }
+      },
+      "samples": [
+        {
+          "language": "en",
+          "syncId": "i-am-a-cat-ch2-u0019",
+          "score": 0.148,
+          "master": "やがて下女が第二の絵端書を持って来た。 見ると活版で舶来の猫が四五疋ずらりと行列してペンを握ったり書物を開いたり勉強をしている。 その内の一疋は席を離れて机の角で西洋の猫じゃ猫じゃを躍っている。 その上に日本の墨で 「吾輩は猫である」と黒々",
+          "translation": "[alignment missing] [alignment missing]",
+          "needsReview": true
+        },
+        {
+          "language": "en",
+          "syncId": "i-am-a-cat-ch2-u0030",
+          "score": 0.16,
+          "master": "あの牡蠣的主人がそんな談話を聞いて時々相槌を打つのはなお面白い。 「しばらく御無沙汰をしました。 実は去年の暮から大に活動しているものですから、出よう出ようと思っても、",
+          "translation": "[alignment missing] [alignment missing]",
+          "needsReview": true
+        },
+        {
+          "language": "en",
+          "syncId": "i-am-a-cat-ch2-u0031",
+          "score": 0.154,
+          "master": "ついこの方角へ足が向かないので」と羽織の紐をひねくりながら謎見たような事をいう。 「どっちの方角へ足が向くかね」と主人は真面目な顔をして、黒木綿の紋付羽織の袖口を引張る。 この羽織は木綿でゆきが短かい、",
+          "translation": "[alignment missing] [alignment missing]",
+          "needsReview": true
+        },
+        {
+          "language": "en",
+          "syncId": "i-am-a-cat-ch2-u0032",
+          "score": 0.148,
+          "master": "下からべんべら者が左右へ五分くらいずつはみ出している。 「エヘヘヘ少し違った方角で」と寒月君が笑う。 見ると今日は前歯が一枚欠けている。 「君歯をどうかしたかね」と主人は問題を転じた。 「ええ実はある所で椎茸を食いましてね」 「何を食ったっ",
+          "translation": "[alignment missing] [alignment missing]",
+          "needsReview": true
+        },
+        {
+          "language": "en",
+          "syncId": "i-am-a-cat-ch2-u0034",
+          "score": 0.148,
+          "master": "少し椎茸を食ったんで。 椎茸の傘を前歯で噛み切ろうとしたらぼろりと歯が欠けましたよ」 「椎茸で前歯がかけるなんざ、何だか爺々臭いね。 俳句にはなるかも知れないが、恋にはならんようだな」と平手で吾輩の頭を軽く叩く。 「ああその猫が例のですか、",
+          "translation": "[alignment missing] [alignment missing]",
+          "needsReview": true
+        },
+        {
+          "language": "en",
+          "syncId": "i-am-a-cat-ch2-u0036",
+          "score": 0.148,
+          "master": "立派なものだ」と寒月君は大に吾輩を賞める。 「近頃大分大きくなったのさ」と自慢そうに頭をぽかぽかなぐる。 賞められたのは得意であるが頭が少々痛い。 「一昨夜もちょいと合奏会をやりましてね」と寒月君はまた話しをもとへ戻す。 「どこで」 「どこ",
+          "translation": "[alignment missing] [alignment missing]",
+          "needsReview": true
+        },
+        {
+          "language": "en",
+          "syncId": "i-am-a-cat-ch2-u0038",
+          "score": 0.149,
+          "master": "自分でも善く弾けたと思いました」 「ふん、そしてその女というのは何者かね」と主人は羨ましそうに問いかける。 元来主人は平常枯木寒巌のような顔付はしているものの実のところは決して婦人に冷淡な方ではない、かつて西洋の或る小説を読んだら、",
+          "translation": "[alignment missing] [alignment missing]",
+          "needsReview": true
+        },
+        {
+          "language": "en",
+          "syncId": "i-am-a-cat-ch2-u0043",
+          "score": 0.15,
+          "master": "御存じの方じゃありません」と余所余所しい返事をする。 「ナール」と主人は引張ったが 「ほど」を略して考えている。 寒月君はもう善い加減な時分だと思ったものか 「どうも好い天気ですな、御閑ならごいっしょに散歩でもしましょうか、",
+          "translation": "[alignment missing] [alignment missing]",
+          "needsReview": true
+        }
+      ]
+    }
+  ],
+  "needsReview": 177
+}

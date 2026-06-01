@@ -1,5 +1,5 @@
 {
-  "name": "bilingual-book-of-mormon-reader",
+  "name": "parallel-classics",
   "version": "1.0.0",
   "private": true,
   "homepage": "https://parallel-verse.github.io/Parallelverse/",
@@ -16,6 +16,25 @@
     "convert:korean": "node scripts/downloadAndConvertKoreanBOM.js",
     "convert:japanese-furigana": "node scripts/downloadAndConvertJapaneseBOMWithFurigana.js",
     "convert:all-languages": "npm run convert:mandarin && npm run convert:cebuano && npm run convert:samoan && npm run convert:tongan && npm run convert:portuguese && npm run convert:korean && npm run convert:japanese-furigana",
+    "convert:classics": "node scripts/downloadAndConvertPublicDomainBooks.js",
+    "add:wikisource-translations": "node scripts/addWikisourceClassicTranslations.js",
+    "japanese:download": "node scripts/downloadJapaneseClassicsSources.js",
+    "japanese:convert": "node scripts/convertJapaneseClassics.js",
+    "japanese:align": "node scripts/alignJapaneseClassicsEnglish.js",
+    "japanese:furigana": "node scripts/generateJapaneseFurigana.js",
+    "japanese:validate": "node scripts/validateJapaneseClassics.js",
+    "japanese:pipeline": "npm run japanese:download && npm run japanese:convert && npm run japanese:align && npm run japanese:furigana && npm run japanese:validate",
+    "add:monte-cristo": "node scripts/addMonteCristo.js",
+    "realign:content": "node scripts/realignBookUnitsByContent.js",
+    "align:books": "node scripts/semanticAlignClassics.js",
+    "align:books:legacy": "node scripts/alignBooksIntoSections.js",
+    "validate:books": "node scripts/validateBooks.js",
+    "alice:download": "node scripts/downloadAliceSources.js",
+    "alice:clean": "node scripts/cleanAliceSources.js",
+    "alice:master": "node scripts/createAliceMasterUnits.js",
+    "alice:align": "node scripts/alignAliceTranslations.js",
+    "alice:validate": "node scripts/validateAliceAlignment.js",
+    "alice:pipeline": "npm run alice:download && npm run alice:clean && npm run alice:master && npm run alice:align && npm run alice:validate",
     "validate:scriptures": "node scripts/validateScriptures.js",
     "deploy": "npm run build && gh-pages -d dist"
   },
@@ -23,6 +42,8 @@
     "@vitejs/plugin-react": "^5.0.0",
     "cheerio": "^1.2.0",
     "epub": "^2.1.1",
+    "firebase": "^12.14.0",
+    "jspdf": "^4.2.1",
     "kuromoji": "^0.1.2",
     "lucide-react": "^0.511.0",
     "react": "^19.0.0",
@@ -31,7 +52,13 @@
     "wanakana": "^5.3.1"
   },
   "devDependencies": {
+    "@types/react": "^19.2.15",
+    "@types/react-dom": "^19.2.3",
     "gh-pages": "^6.3.0",
-    "playwright-core": "^1.60.0"
+    "pdf-parse": "^2.4.5",
+    "playwright": "^1.60.0",
+    "playwright-core": "^1.60.0",
+    "qrcode": "^1.5.4",
+    "typescript": "^6.0.3"
   }
 }

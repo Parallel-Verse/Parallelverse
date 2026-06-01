@@ -1,0 +1,13 @@
+{
+  "bookId": "bamboo-cutter",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "竹取物語",
+      "units": 158,
+      "needsReview": 15,
+      "englishSourceTitle": "The Tale of the Bamboo Cutter"
+    }
+  ],
+  "needsReview": 15
+}

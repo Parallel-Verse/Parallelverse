@@ -1,0 +1,267 @@
+{
+  "bookId": "kokoro",
+  "title": "Kokoro",
+  "masterLanguage": "ja",
+  "languages": [
+    "en",
+    "ja"
+  ],
+  "chapters": [
+    {
+      "chapterId": "chapter-1",
+      "title": "上　先生と私",
+      "units": 574,
+      "languages": {
+        "ja": {
+          "units": 574,
+          "candidates": 574,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "en": {
+          "units": 574,
+          "candidates": 1350,
+          "needsReview": 77,
+          "averageScore": 0.313
+        }
+      },
+      "samples": [
+        {
+          "language": "en",
+          "syncId": "kokoro-ch1-u0012",
+          "score": 0.167,
+          "master": "磯 へ下りると、",
+          "translation": "I was therefore not obliged, when I found myself alone, to change my lodgings. My inn was in a rather out-of-the-way district of Kamakura, and if one wished to indulge in such fash",
+          "needsReview": true
+        },
+        {
+          "language": "en",
+          "syncId": "kokoro-ch1-u0016",
+          "score": 0.21,
+          "master": "各自に専有の着換場を拵えていないここいらの避暑客には、ぜひともこうした共同着換所といった風なものが必要なのであった。 彼らはここで茶を飲み、ここで休息する外に、ここで海水着を洗濯させたり、ここで鹹はゆい身体を清めたり、",
+          "translation": "In those days, there were two tea houses on the beach. For no particular reason, I had come to patronize one of them. Unlike those people with their great villas in the Hase area w",
+          "needsReview": true
+        },
+        {
+          "language": "en",
+          "syncId": "kokoro-ch1-u0018",
+          "score": 0.232,
+          "master": "先生がちょうど着物を脱いでこれから海へ入ろうとするところであった。 私はその時反対に濡れた身体を風に吹かして水から上がって来た。 二人の間には目を遮る幾多の黒い頭が動いていた。 特別の事情のない限り、",
+          "translation": "I was in a relaxed frame of mind, and there was such a crowd on the beach that I should never have noticed him had he not been accompanied by a Westerner. The Westerner, with his e",
+          "needsReview": true
+        },
+        {
+          "language": "en",
+          "syncId": "kokoro-ch1-u0021",
+          "score": 0.226,
+          "master": "腕組みをして海の方を向いて立っていた。 彼は我々の穿く猿股一つの外何物も肌に着けていなかった。 私にはそれが第一不思議だった。 私はその二日前に由井が浜まで行って、砂の上にしゃがみながら、",
+          "translation": "Most of them were wearing brightly colored rubber caps which could be seen bobbing conspicuously amongst the waves. After having observed such a scene, it was natural that I should",
+          "needsReview": true
+        },
+        {
+          "language": "en",
+          "syncId": "kokoro-ch1-u0028",
+          "score": 0.174,
+          "master": "さっさとどこへか行ってしまった。 彼らの出て行った後、",
+          "translation": "And when I saw him wading through the same noisy crowd, and then swim out all alone, I was suddenly overcome with the desire to follow him. I splashed through the shallow water unt",
+          "needsReview": true
+        },
+        {
+          "language": "en",
+          "syncId": "kokoro-ch1-u0039",
+          "score": 0.332,
+          "master": "それを私の手から受け取った。 次の日私は先生の後につづいて海へ飛び込んだ。 そうして先生といっしょの方角に泳いで行った。 二丁ほど沖へ出ると、先生は後ろを振り返って私に話し掛けた。 広い蒼い海の表面に浮いているものは、",
+          "translation": "I, who was young and hardy wanted very much to stay. But I answered willingly enough, \"Yes, let us go back.\" And we returned to the shore together. That was the beginning of our fr",
+          "needsReview": true
+        },
+        {
+          "language": "en",
+          "syncId": "kokoro-ch1-u0045",
+          "score": 0.124,
+          "master": "で出会った時、",
+          "translation": "He smiled wryly at the way I persisted in addressing him as \"Sensei,\" and I found myself explaining that it was my habit to so address my elders. I asked him about the Westerner, a",
+          "needsReview": true
+        },
+        {
+          "language": "en",
+          "syncId": "kokoro-ch1-u0047",
+          "score": 0.263,
+          "master": "私は急に極りが悪くなった。 「先生は？ 」と聞き返さずにはいられなかった。 これが私の口を出た先生という言葉の始まりである。 私はその晩先生の宿を尋ねた。 宿といっても普通の旅館と違って、",
+          "translation": "Sensei had left the resort long before me. As we were taking leave of each other, I had asked him, \"Would it be all right if I visited you at your home now and then?\" And he had an",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-2",
+      "title": "中　両親と私",
+      "units": 302,
+      "languages": {
+        "ja": {
+          "units": 302,
+          "candidates": 302,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "en": {
+          "units": 302,
+          "candidates": 435,
+          "needsReview": 27,
+          "averageScore": 0.285
+        }
+      },
+      "samples": [
+        {
+          "language": "en",
+          "syncId": "kokoro-ch2-u0015",
+          "score": 0.139,
+          "master": "元の形を失っていた。 父はそれを鄭寧に伸した。 「こんなものは巻いたなり手に持って来るものだ」 「中に心でも入れると好かったのに」と母も傍から注意した。 父はしばらくそれを眺めた後、起って床の間の所へ行って、",
+          "translation": "\"You see, I am glad for my own sake. As you know, I am a sick man. When you were home last winter, I was convinced that I had no more than three or four months left to live. Provid",
+          "needsReview": true
+        },
+        {
+          "language": "en",
+          "syncId": "kokoro-ch2-u0030",
+          "score": 0.154,
+          "master": "いよ、",
+          "translation": "whatever I may have to say.\"",
+          "needsReview": true
+        },
+        {
+          "language": "en",
+          "syncId": "kokoro-ch2-u0042",
+          "score": 0.154,
+          "master": "私のためなら、",
+          "translation": "\"What he says and what he thinks are quite different things,\" my mother said.",
+          "needsReview": true
+        },
+        {
+          "language": "en",
+          "syncId": "kokoro-ch2-u0090",
+          "score": 0.138,
+          "master": "近頃じゃそんな旨い口はなかなかあるものじゃありません。 ことに兄さんと私とは専門も違うし、時代も違うんだから、二人を同じように考えられちゃ少し困ります」 「しかし卒業した以上は、",
+          "translation": "When I said that I took her for some relation of his, he replied, \"But I have no relations?' Indeed, Sensei had come to ignore completely the existence of his family in his home pr",
+          "needsReview": true
+        },
+        {
+          "language": "en",
+          "syncId": "kokoro-ch2-u0094",
+          "score": 0.165,
+          "master": "実際そういう人間のような気持を折々起した。 私はあからさまに自分の考えを打ち明けるには、",
+          "translation": "\" I could see deep anxiety on his face as he said this, and I thought to myself, \"How long will it be before he faints again?",
+          "needsReview": true
+        },
+        {
+          "language": "en",
+          "syncId": "kokoro-ch2-u0096",
+          "score": 0.135,
+          "master": "を分けて貰えと勧める人であった。 卒業したから、",
+          "translation": "\" Despite his attempts at being optimistic, however, I suspected that he feared the worst for himself. \"Father is really worried about his illness, you know,\" I said to my mother. ",
+          "needsReview": true
+        },
+        {
+          "language": "en",
+          "syncId": "kokoro-ch2-u0104",
+          "score": 0.158,
+          "master": "小 供に学問をさせるのも、",
+          "translation": "Oh! \" And then \"Oh, His Majesty is gone at last.",
+          "needsReview": true
+        },
+        {
+          "language": "en",
+          "syncId": "kokoro-ch2-u0107",
+          "score": 0.161,
+          "master": "たった一人取り残されそうな母を描き出す父の想像はもとより淋しいに違いなかった。 わが家は動かす事のできないものと父は信じ切っていた。 その中に住む母もまた命のある間は、動かす事のできないものと信じていた。 自分が死んだ後、この孤独な母を、",
+          "translation": "the white muslin flag with the red rising sun in the center. The flag and the black ribbon dangling by its side stood out in relief against the dirty grey of the thatch. A question",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-3",
+      "title": "下　先生と遺書",
+      "units": 985,
+      "languages": {
+        "ja": {
+          "units": 985,
+          "candidates": 985,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "en": {
+          "units": 985,
+          "candidates": 2486,
+          "needsReview": 134,
+          "averageScore": 0.324
+        }
+      },
+      "samples": [
+        {
+          "language": "en",
+          "syncId": "kokoro-ch3-u0024",
+          "score": 0.215,
+          "master": "それを果たさないのは、大変厭な心持です。 私はあなたに対してこの厭な心持を避けるためにでも、擱いた筆をまた取り上げなければならないのです。 その上私は書きたいのです。 義務は別として私の過去を書きたいのです。 私の過去は私だけの経験だから、",
+          "translation": "The truth is, the only things I would have thought worth saying at the time are those things which I shall say here, and it was then too soon for me to write such a letter. That is",
+          "needsReview": true
+        },
+        {
+          "language": "en",
+          "syncId": "kokoro-ch3-u0030",
+          "score": 0.129,
+          "master": "今の若い人と大分違ったところがあるかも知れません。 しかしどう間違っても、",
+          "translation": "You see, apart from any sense of obligation, there is the simple reason that I want to write about my past. Since my past was experienced only by me, I might be excused if I regard",
+          "needsReview": true
+        },
+        {
+          "language": "en",
+          "syncId": "kokoro-ch3-u0044",
+          "score": 0.241,
+          "master": "今考えると分らないのです。 母は無論父の罹った病気の恐るべき名前を知っていたのです。 そうして、自分がそれに伝染していた事も承知していたのです。 けれども自分はきっとこの病気で命を取られるとまで信じていたかどうか、",
+          "translation": "And I shall be satisfied if, when my heart stops beating, a new life lodges itself in your breast. * I was not yet twenty when I lost both my parents. I think that my wife once men",
+          "needsReview": true
+        },
+        {
+          "language": "en",
+          "syncId": "kokoro-ch3-u0050",
+          "score": 0.168,
+          "master": "あるいは多少落ち付いていやしないかと思っているのです。 世の中が眠ると聞こえだすあの電車の響ももう途絶えました。 雨戸の外にはいつの間にか憐れな虫の声が、",
+          "translation": "It would seem that she wanted to say much more, but she succeeded only in saying, \"..... to Tokyo...\" My uncle quickly said, \"All right. You mustn't worry.\" It may be that my mothe",
+          "needsReview": true
+        },
+        {
+          "language": "en",
+          "syncId": "kokoro-ch3-u0051",
+          "score": 0.194,
+          "master": "露の秋をまた忍びやかに思い出させるような調子で微かに鳴いています。 何も知らない妻は次の室で無邪気にすやすや寝入っています。 私が筆を執ると、",
+          "translation": "And no matter how clear those words which she spoke in high fever might have been, they often left no trace in her memory when the fever subsided. That is why I... but never mind. ",
+          "needsReview": true
+        },
+        {
+          "language": "en",
+          "syncId": "kokoro-ch3-u0053",
+          "score": 0.195,
+          "master": "頭が悩乱して筆がしどろに走るのではないように思います。 四 「とにかくたった一人取り残された私は、母のいい付け通り、",
+          "translation": "The forlorn singing of the insects reaches me through the closed shutters, and one feels that their song is of the dews of coming autumn. My wife sleeps innocently in the next room",
+          "needsReview": true
+        },
+        {
+          "language": "en",
+          "syncId": "kokoro-ch3-u0075",
+          "score": 0.164,
+          "master": "東京へは出たし、家はそのままにして置かなければならず、はなはだ所置に苦しんだのです。 叔父は仕方なしに私の空家へはいる事を承諾してくれました。 しかし市の方にある住居もそのままにしておいて、",
+          "translation": "My uncle was at that time connected with many business enterprises in the town. I remember that when we agreed that he should move into the house and manage the property during my ",
+          "needsReview": true
+        },
+        {
+          "language": "en",
+          "syncId": "kokoro-ch3-u0084",
+          "score": 0.12,
+          "master": "、",
+          "translation": "There was one thing, however, which cast a slight shadow on my memory of the summer: my uncle and aunt had more than once tried to persuade me, who had only just entered college, t",
+          "needsReview": true
+        }
+      ]
+    }
+  ],
+  "needsReview": 238
+}

@@ -1,0 +1,89 @@
+{
+  "bookId": "bamboo-cutter",
+  "title": "The Tale of the Bamboo Cutter",
+  "masterLanguage": "ja",
+  "languages": [
+    "en",
+    "ja"
+  ],
+  "chapters": [
+    {
+      "chapterId": "chapter-1",
+      "title": "竹取物語",
+      "units": 70,
+      "languages": {
+        "ja": {
+          "units": 70,
+          "candidates": 70,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "en": {
+          "units": 70,
+          "candidates": 71,
+          "needsReview": 7,
+          "averageScore": 0.285
+        }
+      },
+      "samples": [
+        {
+          "language": "en",
+          "syncId": "bamboo-cutter-ch1-u0014",
+          "score": 0.14,
+          "master": "今日まで養ひ育てたわしを親と思つて、わしのいふことをきいて貰ひたい」 と、前置きして、「わしは七十の阪を越して、もういつ命が終るかわからぬ。 今のうちによい婿をとつて、",
+          "translation": "of ma",
+          "needsReview": true
+        },
+        {
+          "language": "en",
+          "syncId": "bamboo-cutter-ch1-u0017",
+          "score": 0.167,
+          "master": "いひました。 翁も少し安心して、例の五人の人たちの集つてゐるところに行つて、そのことを告げますと、みな異存のあらうはずがありませんから、すぐに承知しました。 ところが姫の註文といふのはなか／＼むづかしいことでした。 それは五人とも別々で、",
+          "translation": "but",
+          "needsReview": true
+        },
+        {
+          "language": "en",
+          "syncId": "bamboo-cutter-ch1-u0021",
+          "score": 0.169,
+          "master": "それ／″＼いろいろの工夫をして註文の品を見つけようとしました。 第一番に、石造皇子はずるい方に才のあつた方ですから、註文の佛の御石の鉢を取りに天竺へ行つたように見せかけて、三年ばかりたつて、",
+          "translation": "up",
+          "needsReview": true
+        },
+        {
+          "language": "en",
+          "syncId": "bamboo-cutter-ch1-u0031",
+          "score": 0.168,
+          "master": "龍を見つけ次第矢先にかけて射落さうと思つてゐるうちに、九州の方へ吹き流されて、烈しい雷雨に打たれ、その後、明石の濱に吹き返され、波風に揉まれて死人のようになつて磯端に倒れてゐました。 やう／＼のこと、",
+          "translation": "and",
+          "needsReview": true
+        },
+        {
+          "language": "en",
+          "syncId": "bamboo-cutter-ch1-u0039",
+          "score": 0.128,
+          "master": "お使ひに逢ふことは御免を蒙ります」 と拗ねて、どうすかしても、叱つても逢はうとしませんので、女官は面目なさそうに宮中に立ち歸つてそのことを申し上げました。 帝は更に翁に御命令を下して、もし姫を宮仕へにさし出すならば、",
+          "translation": "passed",
+          "needsReview": true
+        },
+        {
+          "language": "en",
+          "syncId": "bamboo-cutter-ch1-u0046",
+          "score": 0.128,
+          "master": "「逃げても許さぬ。 宮中に連れ行くぞ」 と仰せられました。 「私がこの國で生れたものでありますならば、お宮仕へも致しませうけれど、さうではございませんから、お連れになることはかなひますまい」 と姫は申し上げました。 「いや、",
+          "translation": "the",
+          "needsReview": true
+        },
+        {
+          "language": "en",
+          "syncId": "bamboo-cutter-ch1-u0056",
+          "score": 0.127,
+          "master": "こゝのお二人に馴れ親しみましたので、私はお側を離れて行くのが、ほんとうに悲しうございます」 二人は大泣きに泣きました。 家の者どもゝ、顏かたちが美しいばかりでなく、上品で心だての優しい姫に、今更、永のお別れをするのが悲しくて、",
+          "translation": "Stream",
+          "needsReview": true
+        }
+      ]
+    }
+  ],
+  "needsReview": 7
+}

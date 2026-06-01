@@ -1,19 +1,17 @@
-# Bilingual Book of Mormon Reader
+# Parallel Classics
 
-A mobile-first React + Vite reader for studying Book of Mormon text in two synced language panes. Version 1 ships with the full English, Spanish, Japanese with optional furigana, French, German, and Tagalog Book of Mormon text with full book/chapter navigation.
-
-Unofficial study tool. Not affiliated with The Church of Jesus Christ of Latter-day Saints.
+A mobile-first React + Vite reader for public-domain classic literature in synchronized language panes.
 
 ## Features
 
-- Portrait layout: English on top, Spanish on bottom.
-- Landscape layout: English on the left, Spanish on the right.
-- Verse-aware synced scrolling between panes.
-- Book and chapter selectors for every Book of Mormon book and chapter.
-- Settings menu with Light, Dark, and Sepia themes.
-- Pane language selectors with English, Spanish, Japanese, German, and Tagalog active.
-- Missing language text is shown explicitly when a selected translation has not been loaded for a verse yet.
+- Gallery of five starter classics with real PNG cover assets.
+- Portrait reader layout stacks language panes top and bottom.
+- Landscape reader layout places language panes side by side.
+- Hidden sync IDs are shared across translations for synchronized reading.
+- Compact corner controls for book, chapter, language, theme, and font size.
+- Light, Dark, and Sepia themes.
 - Preferences persist in `localStorage`.
+- Public-domain data pipeline and validation scripts.
 
 ## Local Development
 
@@ -28,71 +26,66 @@ Build the production app:
 npm run build
 ```
 
-Preview the production build:
+Validate normalized book data:
 
 ```bash
-npm run preview
+npm run validate:books
 ```
 
-## Scripture Data
+Download and convert public-domain source texts:
 
-The English text source lives in `src/data/book-of-mormon-reference.json`. User-provided translation files live in `src/data/bookOfMormon.*.json` for Spanish, Japanese, French, German, and Tagalog. The Japanese furigana file is used when the Japanese furigana setting is enabled. The reader data is assembled in `src/data/scriptureData.js`:
+```bash
+npm run convert:classics
+```
 
-```js
+The converter searches Gutendex for Project Gutenberg public-domain text files, stores raw downloads in `input/raw/`, converts them into normalized JSON in `src/data/books/`, and warns when chapter or paragraph counts differ between translations.
+
+Run the Alice semantic alignment pipeline:
+
+```bash
+npm run alice:pipeline
+```
+
+The Alice pipeline writes raw sources to `input/raw/alice/`, cleaned chapter data to `input/clean/alice/`, final aligned files to `src/data/books/alice/`, and review reports to `reports/`.
+
+## Data Shape
+
+Alice uses the semantic sync-unit format:
+
+```json
 {
-  book: '1 Nephi',
-  chapter: 1,
-  verses: [
+  "bookId": "alice",
+  "title": "Alice's Adventures in Wonderland",
+  "author": "Lewis Carroll",
+  "language": "en",
+  "source": {
+    "name": "Project Gutenberg",
+    "url": "https://www.gutenberg.org/ebooks/11",
+    "licenseNote": "Public domain in the USA"
+  },
+  "chapters": [
     {
-      verse: 1,
-      eng: '...',
-      spa: '...'
+      "chapter": 1,
+      "title": "Down the Rabbit-Hole",
+      "units": [
+        {
+          "unit": 1,
+          "syncId": "alice-ch01-u001",
+          "text": "..."
+        }
+      ]
     }
   ]
 }
 ```
 
-Additional authorized language text can be added by:
+The reader hides `unit` values by default and uses `syncId` only for synchronization. The reader menu has a debug toggle for showing hidden unit numbers during alignment testing.
 
-1. Adding a language option in `languageOptions`.
-2. Adding a matching language key to each verse, such as `jpn` or `deu`.
-3. Filling each chapter's verse data with aligned verse numbers.
+## Alice Sources
 
-The Japanese furigana file can be regenerated with:
+- English: Project Gutenberg, <https://www.gutenberg.org/ebooks/11>, public domain in the USA.
+- French: Project Gutenberg, <https://www.gutenberg.org/ebooks/55456>, public domain in the USA.
+- German: Project Gutenberg, <https://www.gutenberg.org/ebooks/19778>, public domain in the USA.
+- Spanish: textos.info, <https://www.textos.info/lewis-carroll/alicia-en-el-pais-de-las-maravillas>. The page identifies the translation as Juan Gutierrez Gili's 1927 Spanish translation and provides a freely available digital text. Do not replace it with a modern copyrighted translation.
 
-```bash
-npm run convert:japanese-furigana
-```
-
-This downloads the official Japanese EPUB, preserves source ruby markup when present, validates the output against the English book/chapter/verse structure, and writes `src/data/bookOfMormon.ja.furigana.json`.
-
-Source note: the full English Book of Mormon text comes from the public-domain [`bcbooks/scriptures-json`](https://github.com/bcbooks/scriptures-json) reference edition, which states that its files are public domain and excludes copyrighted study material. The Spanish, Japanese, French, German, and Tagalog text were loaded from local user-provided JSON files. The Japanese Furigana JSON is generated from the official Japanese EPUB. Additional modern official non-English editions should only be added from sources you have permission to reproduce.
-
-## GitHub Pages Deployment
-
-This project uses `base: '/Parallelverse/'` in `vite.config.js`, so the production build is configured for this GitHub Pages project site:
-
-```text
-https://parallel-verse.github.io/Parallelverse/
-```
-
-The `homepage` field in `package.json` is set to `https://parallel-verse.github.io/Parallelverse/`.
-
-### Create a New GitHub Repo
-
-1. Create or open the GitHub organization `Parallel-Verse`.
-2. Create or open the repository `Parallelverse`.
-2. Push this project to the new repository.
-3. In GitHub, open **Settings > Pages**.
-4. Under **Build and deployment**, choose **GitHub Actions**.
-5. Push to the `main` branch. The workflow in `.github/workflows/deploy.yml` builds the app and publishes `dist`.
-
-### Optional `gh-pages` Script
-
-You can also publish with:
-
-```bash
-npm run deploy
-```
-
-Then set GitHub Pages to deploy from the `gh-pages` branch in **Settings > Pages**.
+Only public-domain texts and public-domain translations should be added.

@@ -1,0 +1,97 @@
+{
+  "bookId": "botchan",
+  "title": "Botchan",
+  "masterLanguage": "ja",
+  "languages": [
+    "en",
+    "ja"
+  ],
+  "chapters": [
+    {
+      "chapterId": "chapter-1",
+      "title": "坊っちゃん",
+      "units": 961,
+      "languages": {
+        "ja": {
+          "units": 961,
+          "candidates": 961,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "en": {
+          "units": 961,
+          "candidates": 2299,
+          "needsReview": 148,
+          "averageScore": 0.303
+        }
+      },
+      "samples": [
+        {
+          "language": "en",
+          "syncId": "botchan-ch1-u0002",
+          "score": 0.132,
+          "master": "同級生の一人が冗談に、いくら威張っても、そこから飛び降りる事は出来まい。 弱虫やーい。 と囃したからである。 小使に負ぶさって帰って来た時、おやじが大きな眼をして二階ぐらいから飛び降りて腰を抜かす奴があるかと云ったから、",
+          "translation": "Some may ask why I committed such a rash act. There was no particular reason for doing such a thing except I happened to be looking out into the yard from the second floor of the n",
+          "needsReview": true
+        },
+        {
+          "language": "en",
+          "syncId": "botchan-ch1-u0004",
+          "score": 0.239,
+          "master": "何でも切ってみせると受け合った。 そんなら君の指を切ってみろと注文したから、何だ指ぐらいこの通りだと右の手の親指の甲をはすに切り込んだ。 幸ナイフが小さいのと、親指の骨が堅かったので、",
+          "translation": "\"Rather dull? See if they don't cut!\" I retorted. \"Cut your finger, then,\" he challenged. And with \"Finger nothing! Here goes!\" I cut my thumb slant-wise.",
+          "needsReview": true
+        },
+        {
+          "language": "en",
+          "syncId": "botchan-ch1-u0005",
+          "score": 0.152,
+          "master": "今だに親指は手に付いている。 しかし創痕は死ぬまで消えぬ。 庭を東へ二十歩に行き尽すと、南上がりにいささかばかりの菜園があって、",
+          "translation": "Fortunately the knife was small and the bone of the thumb hard enough, so the thumb is still there, but the scar will be there until my death. About twenty steps to the east edge o",
+          "needsReview": true
+        },
+        {
+          "language": "en",
+          "syncId": "botchan-ch1-u0020",
+          "score": 0.134,
+          "master": "おやじと兄と三人で暮していた。 おやじは何にもせぬ男で、",
+          "translation": "Two or three days previous to my mother's death, I took it into my head to turn a somersault in the kitchen, and painfully hit my ribs against the corner of the stove. Mother was v",
+          "needsReview": true
+        },
+        {
+          "language": "en",
+          "syncId": "botchan-ch1-u0027",
+          "score": 0.071,
+          "master": "ら、",
+          "translation": "I had heard that Kiyo was of a decent, well-to-do family, but being driven to poverty at the time of the Restoration, had to work as a servant. So she was an old woman by this time",
+          "needsReview": true
+        },
+        {
+          "language": "en",
+          "syncId": "botchan-ch1-u0028",
+          "score": 0.183,
+          "master": "他人から木の端のように取り扱われるのは何とも思わない、",
+          "translation": "Sometimes in the kitchen, when there was nobody around, she would praise me saying that I was straightforward and of a good disposition. What she meant by that exactly, was not cle",
+          "needsReview": true
+        },
+        {
+          "language": "en",
+          "syncId": "botchan-ch1-u0032",
+          "score": 0.2,
+          "master": "廃せばいいのにと思った。 気の毒だと思った。 それでも清は可愛がる。 折々は自分の小遣いで金鍔や紅梅焼を買ってくれる。 寒い夜などはひそかに蕎麦粉を仕入れておいて、",
+          "translation": "But she loved me just the same. Once in a while she would buy, out of her own pocket, some cakes or sweetmeats for me. When the night was cold, she would secretly buy some noodle p",
+          "needsReview": true
+        },
+        {
+          "language": "en",
+          "syncId": "botchan-ch1-u0040",
+          "score": 0.089,
+          "master": "兄に隠して清から菓子や色鉛筆を貰いたくはない。 なぜ、おれ一人にくれて、",
+          "translation": "Bad as my relations were with my brother, still I did not feel justified in accepting candies or color-pencils from Kiyo without my brother's knowledge. \"Why do you give those thin",
+          "needsReview": true
+        }
+      ]
+    }
+  ],
+  "needsReview": 148
+}

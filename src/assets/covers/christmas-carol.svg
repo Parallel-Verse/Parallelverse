@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1275" role="img" aria-label="A Christmas Carol cover">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#245d44"/><stop offset="1" stop-color="#16251d"/></linearGradient></defs>
+  <rect width="900" height="1275" fill="url(#g)"/><rect width="105" height="1275" fill="#000" opacity=".28"/>
+  <rect x="145" y="105" width="610" height="900" fill="none" stroke="#d6b567" stroke-width="14"/><rect x="178" y="138" width="544" height="834" fill="none" stroke="#d6b567" opacity=".7" stroke-width="4"/>
+  <text x="450" y="390" text-anchor="middle" fill="#f8eeca" font-family="Georgia,serif" font-size="72" font-weight="700">A CHRISTMAS</text>
+  <text x="450" y="480" text-anchor="middle" fill="#f8eeca" font-family="Georgia,serif" font-size="72" font-weight="700">CAROL</text>
+  <text x="450" y="775" text-anchor="middle" fill="#f8eeca" font-family="Georgia,serif" font-size="34" font-weight="700">CHARLES DICKENS</text>
+  <text x="450" y="910" text-anchor="middle" fill="#f8eeca" font-family="Georgia,serif" font-size="28" font-style="italic">Parallel Classics</text>
+</svg>

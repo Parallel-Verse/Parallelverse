@@ -1,0 +1,2553 @@
+{
+  "bookId": "eighty-days",
+  "title": "Around the World in Eighty Days",
+  "languages": [
+    "en",
+    "es",
+    "fr"
+  ],
+  "chapters": [
+    {
+      "chapterId": "chapter-1",
+      "title": "CHAPTER I.",
+      "units": 90,
+      "languages": {
+        "en": {
+          "units": 90,
+          "needsReview": 0
+        },
+        "es": {
+          "units": 90,
+          "needsReview": 21
+        },
+        "fr": {
+          "units": 90,
+          "needsReview": 23
+        }
+      },
+      "questionable": [
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch01-u0020",
+          "english": "Undoubtedly.",
+          "translation": "Al que hubiese extrañado que un gentleman tan misterioso alternase con los miembros de esta digna asociacion,"
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch01-u0023",
+          "english": "He was not lavish, nor, on the contrary, avaricious; for, whenever he knew that money was needed for a noble, useful, or benevolent purpose,",
+          "translation": "¿Era rico Phileas Fogg?"
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch01-u0024",
+          "english": "he supplied it quietly and sometimes anonymously.",
+          "translation": "Indudablemente."
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch01-u0025",
+          "english": "He was, in short, the least communicative of men.",
+          "translation": "Cómo había realizado su fortuna, es lo que los mejor informados no podían decir, y para saberlo, el último á quien convenía dirigirse era míster Fogg."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch01-u0004",
+          "english": "except that he was a polished man of the world.",
+          "translation": "À l'un des plus grands orateurs qui honorent l'Angleterre, succédait donc ce Phileas Fogg, personnage énigmatique, dont on ne savait rien,"
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch01-u0015",
+          "english": "Phileas Fogg was a member of the Reform, and that was all.",
+          "translation": "Il n'appartenait enfin à aucune des nombreuses sociétés qui pullulent dans la capitale de l'Angleterre, depuis la Société de l'Armonica jusqu'à la Société entomologique,"
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch01-u0020",
+          "english": "Undoubtedly.",
+          "translation": "De là une certaine «surface», due à ce que ses chèques étaient régulièrement payés à vue par le débit de son compte courant invariablement créditeur."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch01-u0022",
+          "english": "Fogg was the last person to whom to apply for the information.",
+          "translation": "Incontestablement."
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-2",
+      "title": "CHAPTER II.",
+      "units": 63,
+      "languages": {
+        "en": {
+          "units": 63,
+          "needsReview": 0
+        },
+        "es": {
+          "units": 63,
+          "needsReview": 15
+        },
+        "fr": {
+          "units": 63,
+          "needsReview": 10
+        }
+      },
+      "questionable": [
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch02-u0004",
+          "english": "During his brief interview with Mr.",
+          "translation": "Era un hombre que podía tener unos cuarenta años, de figura noble y arrogante, alto de estatura, sin que lo afease cierta ligera obesidad, de pelo rubio,"
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch02-u0007",
+          "english": "his face rather pale, his teeth magnificent.",
+          "translation": "Sereno, flemático, pura la mirada, inmóvil el párpado, era el tipo acabado de esos ingleses de sangre fría que suelen encontrarse á menudo en el Reino Unido,"
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch02-u0009",
+          "english": "Calm and phlegmatic, with a clear eye, Mr.",
+          "translation": "Visto en los diferentes actos de su existencia, este gentleman despertaba la idea de un ser bien equilibrado en todas sus partes, proporcionado con precision,"
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch02-u0015",
+          "english": "He never took one step too many, and always went to his destination by the shortest cut; he made no superfluous gestures, and was never seen to be moved or agitated.",
+          "translation": "No perdía una mirada dirigiéndola al techo."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch02-u0004",
+          "english": "During his brief interview with Mr.",
+          "translation": "Pendant les quelques instants qu'il venait d'entrevoir Phileas Fogg, Passepartout avait rapidement, mais soigneusement examiné son futur maître."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch02-u0005",
+          "english": "Fogg, Passepartout had been carefully observing him.",
+          "translation": "C'était un homme qui pouvait avoir quarante ans, de figure noble et belle, haut de taille, que ne déparait pas un léger embonpoint, blond de cheveux et de favoris,"
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch02-u0007",
+          "english": "his face rather pale, his teeth magnificent.",
+          "translation": "Il paraissait posséder au plus haut degré ce que les physionomistes appellent «le repos dans l'action», faculté commune à tous ceux qui font plus de besogne que de bruit."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch02-u0018",
+          "english": "he never rubbed against anybody.",
+          "translation": "Il savait que dans la vie il faut faire la part des frottements, et comme les frottements retardent, il ne se frottait à personne."
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-3",
+      "title": "CHAPTER III.",
+      "units": 161,
+      "languages": {
+        "en": {
+          "units": 161,
+          "needsReview": 0
+        },
+        "es": {
+          "units": 161,
+          "needsReview": 49
+        },
+        "fr": {
+          "units": 161,
+          "needsReview": 51
+        }
+      },
+      "questionable": [
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch03-u0006",
+          "english": "His breakfast consisted of a side-dish, a broiled fish with Reading sauce, a scarlet slice of roast beef garnished with mushrooms, a rhubarb and gooseberry tart,",
+          "translation": "Tomó asiento en la mesa de costumbre puesta ya para él."
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch03-u0014",
+          "english": "They were Mr.",
+          "translation": "que denotaba desde luego la práctica más extremada en esta difícil operación."
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch03-u0027",
+          "english": "\"No.\"",
+          "translation": "Se han enviado inspectores de policía de los más hábiles a todos los principales puertos de embarque y desembarque de América y Europa,"
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch03-u0043",
+          "english": "The package of notes not being found when five o'clock sounded from the ponderous clock in the \"drawing office,\" the amount was passed to the account of profit and loss.",
+          "translation": "y que no se puede atender a todo."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch03-u0004",
+          "english": "He repaired at once to the dining-room, the nine windows of which open upon a tasteful garden, where the trees were already gilded with an autumn colouring;",
+          "translation": "il arriva au Reform-Club,"
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch03-u0014",
+          "english": "They were Mr.",
+          "translation": "dont Phileas Fogg opéra le laborieux dépliage avec une sûreté de main qui dénotait une grande habitude de cette difficile opération."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch03-u0015",
+          "english": "Fogg's usual partners at whist:",
+          "translation": "La lecture de ce journal occupa Phileas Fogg jusqu'à trois heures quarante-cinq, et celle du Standard--qui lui succéda--dura jusqu'au dîner."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch03-u0016",
+          "english": "Andrew Stuart, an engineer;",
+          "translation": "Ce repas s'accomplit dans les mêmes conditions que le déjeuner, avec adjonction de «royal british sauce»."
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-4",
+      "title": "CHAPTER IV.",
+      "units": 93,
+      "languages": {
+        "en": {
+          "units": 93,
+          "needsReview": 0
+        },
+        "es": {
+          "units": 93,
+          "needsReview": 31
+        },
+        "fr": {
+          "units": 93,
+          "needsReview": 41
+        }
+      },
+      "questionable": [
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch04-u0002",
+          "english": "left the Reform Club.",
+          "translation": "se despidió de sus honorables colegas y abandonó el Reform Club."
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch04-u0003",
+          "english": "Passepartout, who had conscientiously studied the programme of his duties, was more than surprised to see his master guilty of the inexactness of appearing at this unaccustomed hou",
+          "translation": "A las siete y cincuenta abría la puerta de su casa y entraba."
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch04-u0005",
+          "english": "Mr.",
+          "translation": "quedó sorprendido al ver a mister Fogg culpable de inexactitud acudir a tan inusitada hora, pues, según la nota,"
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch04-u0007",
+          "english": "Passepartout did not reply.",
+          "translation": "Phileas Fogg había subido primero a su cuarto y luego llamó. -Picaporte no respondió,"
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch04-u0002",
+          "english": "left the Reform Club.",
+          "translation": "À sept heures cinquante, il ouvrait la porte de sa maison et rentrait chez lui."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch04-u0005",
+          "english": "Mr.",
+          "translation": "Phileas Fogg était tout d'abord monté à sa chambre, puis il appela:"
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch04-u0006",
+          "english": "Fogg repaired to his bedroom, and called out, \"Passepartout!\"",
+          "translation": "«Passepartout.»"
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch04-u0014",
+          "english": "\"I know it;",
+          "translation": "Nous partons dans dix minutes pour Douvres et Calais.»"
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-5",
+      "title": "CHAPTER V.",
+      "units": 54,
+      "languages": {
+        "en": {
+          "units": 54,
+          "needsReview": 0
+        },
+        "es": {
+          "units": 54,
+          "needsReview": 2
+        },
+        "fr": {
+          "units": 54,
+          "needsReview": 4
+        }
+      },
+      "questionable": [
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch05-u0034",
+          "english": "\"Phileas Fogg\" declined.",
+          "translation": "Se pedía y se ofrecía el Phileas Fogg en firme o a plazo, y se hacían enormes negocios."
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch05-u0038",
+          "english": "and he bet five thousand pounds on Phileas Fogg.",
+          "translation": "El honorable gentleman, clavado en su butaca, hubiera dado su fortuna por poder hacer el mismo viaje aunque fuera de diez años, y apostó cuatro mil libras en favor de Phileas Fogg."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch05-u0031",
+          "english": "Bonds were issued, and made their appearance on 'Change;",
+          "translation": "Aussi, non seulement les divers membres du Reform-Club établirent-ils des paris considérables pour ou contre Phileas Fogg, mais la masse du public entra dans le mouvement."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch05-u0034",
+          "english": "\"Phileas Fogg\" declined.",
+          "translation": "On demandait, on offrait du «Phileas Fogg» ferme ou à prime, et il se fit des affaires énormes."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch05-u0044",
+          "english": "Suez to London.",
+          "translation": "En effet, pendant cette journée, à neuf heures du soir, le directeur de la police métropolitaine avait reçu une dépêche télégraphique ainsi conçue:"
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch05-u0048",
+          "english": "FIX, Detective.",
+          "translation": "Envoyez sans retard mandat d'arrestation à Bombay (Inde anglaise)."
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-6",
+      "title": "CHAPTER VI.",
+      "units": 88,
+      "languages": {
+        "en": {
+          "units": 88,
+          "needsReview": 0
+        },
+        "es": {
+          "units": 88,
+          "needsReview": 22
+        },
+        "fr": {
+          "units": 88,
+          "needsReview": 20
+        }
+      },
+      "questionable": [
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch06-u0008",
+          "english": "One was the British consul at Suez, who, despite the prophecies of the English Government, and the unfavourable predictions of Stephenson, was in the habit of seeing,",
+          "translation": "Aguardando la llegada del \"Mongolia\","
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch06-u0017",
+          "english": "the arrival of the steamer \"Mongolia.\"",
+          "translation": "Aquel hombre se llamaba Fix, y era uno de aquellos detectives ingleses que habían sido enviados a diferentes puertos después del robo perpetrado en el Banco de Inglaterra."
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch06-u0019",
+          "english": "\"No, Mr.",
+          "translation": "y, si uno de ellos parecía sospechoso, seguirlo, aguardando un mandato de prisión."
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch06-u0020",
+          "english": "Fix,\" replied the consul.",
+          "translation": "Precisamente hacía dos días que Fix había recibido del director de la policía metropolitana las señas del presunto autor del robo, o sea,"
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch06-u0007",
+          "english": "Lesseps, a fast-growing town.",
+          "translation": "En attendant l'arrivée du Mongolia, deux hommes se promenaient sur le quai au milieu de la foule d'indigènes et d'étrangers qui affluent dans cette ville, naguère une bourgade,"
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch06-u0019",
+          "english": "\"No, Mr.",
+          "translation": "Précisément, depuis deux jours, Fix avait reçu du directeur de la police métropolitaine le signalement de l'auteur présumé du vol."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch06-u0020",
+          "english": "Fix,\" replied the consul.",
+          "translation": "C'était celui de ce personnage distingué et bien mis que l'on avait observé dans la salle des paiements de la Banque."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch06-u0023",
+          "english": "\"Does she come directly from Brindisi?\"",
+          "translation": "Il a été signalé hier au large de Port-Saïd, et les cent soixante kilomètres du canal ne comptent pas pour un tel marcheur."
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-7",
+      "title": "CHAPTER VII.",
+      "units": 67,
+      "languages": {
+        "en": {
+          "units": 67,
+          "needsReview": 0
+        },
+        "es": {
+          "units": 67,
+          "needsReview": 20
+        },
+        "fr": {
+          "units": 67,
+          "needsReview": 20
+        }
+      },
+      "questionable": [
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch07-u0005",
+          "english": "\"Well, Mr.",
+          "translation": "Y Fix refirió lo que había pasado entre el criado y él con motivo del pasaporte. -Bien,"
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch07-u0009",
+          "english": "\"To have his passport visaed?\"",
+          "translation": "sobre todo no siendo obligatoria la formalidad del pasaporte. -Señor cónsul- respondió el agente-,"
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch07-u0010",
+          "english": "\"Yes.",
+          "translation": "si como debemos suponerlo es hombre entendido, vendrá. -¿A hacer visar su pasaporte? -Sí."
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch07-u0013",
+          "english": "\"Why not?",
+          "translation": "Os aseguro que ése estará en regla, pero espero que no lo visaréis. -¿Y por qué no?"
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch07-u0005",
+          "english": "\"Well, Mr.",
+          "translation": "j'ai de fortes présomptions de croire que notre homme a pris passage à bord du Mongolia.»"
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch07-u0010",
+          "english": "\"Yes.",
+          "translation": "et d'ailleurs la formalité des passeports n'est plus obligatoire. --Monsieur le consul, répondit l'agent,"
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch07-u0013",
+          "english": "\"Why not?",
+          "translation": "Je vous affirme que celui-ci sera en règle, mais j'espère bien que vous ne le viserez pas... --Et pourquoi pas?"
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch07-u0018",
+          "english": "The consul did not finish his sentence, for as he spoke a knock was heard at the door, and two strangers entered, one of whom was the servant whom Fix had met on the quay.",
+          "translation": "Le consul n'acheva pas sa phrase."
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-8",
+      "title": "CHAPTER VIII.",
+      "units": 109,
+      "languages": {
+        "en": {
+          "units": 109,
+          "needsReview": 0
+        },
+        "es": {
+          "units": 109,
+          "needsReview": 29
+        },
+        "fr": {
+          "units": 109,
+          "needsReview": 24
+        }
+      },
+      "questionable": [
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch08-u0008",
+          "english": "So this is Suez?\"",
+          "translation": "¿Es cierto que estamos en Suez? -En Suez. -¿En Egipto? -En Egipto,"
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch08-u0009",
+          "english": "\"Yes.\"",
+          "translation": "perfectamente. -¿Y en África? -En África. -¡En África!- Repitió Picaporte-."
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch08-u0012",
+          "english": "\"And in Africa?\"",
+          "translation": "que yo me imaginaba no ir más lejos de París,y me"
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch08-u0013",
+          "english": "\"In Africa.\"",
+          "translation": "he tenido que contentar con ver esa famosa capital,"
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch08-u0005",
+          "english": "\"Thanks, yes, the passport is all right.\"",
+          "translation": "Bien obligé."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch08-u0008",
+          "english": "So this is Suez?\"",
+          "translation": "Et comme cela, nous sommes à Suez? --À Suez. --En Égypte? --En Égypte,"
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch08-u0009",
+          "english": "\"Yes.\"",
+          "translation": "parfaitement. --Et en Afrique? --En Afrique. --En Afrique! répéta Passepartout."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch08-u0011",
+          "english": "\"Certainly, in Egypt.\"",
+          "translation": "Figurez-vous, monsieur, que je m'imaginais ne pas aller plus loin que Paris,"
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-9",
+      "title": "CHAPTER IX.",
+      "units": 99,
+      "languages": {
+        "en": {
+          "units": 99,
+          "needsReview": 0
+        },
+        "es": {
+          "units": 99,
+          "needsReview": 28
+        },
+        "fr": {
+          "units": 99,
+          "needsReview": 32
+        }
+      },
+      "questionable": [
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch09-u0005",
+          "english": "now that a railway crosses the Indian peninsula.",
+          "translation": "De éstos pertenecían unos al ejército británico propiamente dicho, otros mandaban tropas indígenas de cipayos, todos con muy buenos sueldos,"
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch09-u0008",
+          "english": "and generals of divisions, £4,000.",
+          "translation": "con los cuales alternaban algunos jóvenes ingleses que con un millón en el bolsillo iban a fundar a lo lejos establecimientos de comercio."
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch09-u0016",
+          "english": "What was Phileas Fogg doing all this time?",
+          "translation": "Y entretanto, a pesar de la ráfaga y a pesar de las olas, el vapor, impelido por su poderosa máquina, corría sin tardanza hacia el estrecho de Bab el Mandeb."
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch09-u0017",
+          "english": "It might be thought that, in his anxiety, he would be constantly watching the changes of the wind, the disorderly raging of the billows—every chance, in short,",
+          "translation": "¿Qué hacía Phileas Fogg durante aquel tiempo?"
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch09-u0008",
+          "english": "and generals of divisions, £4,000.",
+          "translation": "Les simples assistants, au premier degré de la hiérarchie, ont 12 000 francs; les juges, 60 000 F; les présidents de cour, 250 000 F; les gouverneurs, 300 000 F,"
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch09-u0016",
+          "english": "What was Phileas Fogg doing all this time?",
+          "translation": "Quand le vent soufflait soit de la côte d'Asie, soit de la côte d'Afrique, le Mongolia, long fuseau à hélice, pris par le travers, roulait épouvantablement."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch09-u0029",
+          "english": "Fogg, played whist by the hour together in absorbing silence.",
+          "translation": "Oui! il avait rencontré des partenaires, aussi enragés que lui: un collecteur de taxes qui se rendait à son poste à Goa, un ministre, le révérend Décimus Smith, retournant à Bombay"
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch09-u0035",
+          "english": "\"Ah!",
+          "translation": "ce ne fut pas sans un certain plaisir qu'il rencontra sur le pont l'obligeant personnage auquel il s'était adressé en débarquant en Égypte."
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-10",
+      "title": "CHAPTER X.",
+      "units": 90,
+      "languages": {
+        "en": {
+          "units": 90,
+          "needsReview": 0
+        },
+        "es": {
+          "units": 90,
+          "needsReview": 17
+        },
+        "fr": {
+          "units": 90,
+          "needsReview": 17
+        }
+      },
+      "questionable": [
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch10-u0005",
+          "english": "and in Bengal, and a lieutenant-governor at Agra.",
+          "translation": "Pero la India inglesa, propiamente dicha, sólo cuenta una superficie de cuatrocientas mil millas cuadradas y una población de ciento a ciento diez millones de habitanes."
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch10-u0007",
+          "english": "A considerable portion of India is still free from British authority; and there are certain ferocious rajahs in the interior who are absolutely independent.",
+          "translation": "la independencia india es todavía absoluta."
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch10-u0010",
+          "english": "It gradually annexed province after province, purchasing them of the native chiefs, whom it seldom paid, and appointed the governor-general and his subordinates, civil and military",
+          "translation": "la célebre Compañía de las Indias fue omnipotente."
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch10-u0024",
+          "english": "Mr.",
+          "translation": "Eran las cuatro y media de la tarde cuando los pasajeros del \"Mongolia\" habían desembarcado en Bombay y el tren de Calcuta salía a las ocho en punto."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch10-u0005",
+          "english": "and in Bengal, and a lieutenant-governor at Agra.",
+          "translation": "Mais l'Inde anglaise proprement dite ne compte qu'une superficie de sept cent mille milles carrés et une population de cent à cent dix millions d'habitants."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch10-u0022",
+          "english": "descending south-eastward by Burdivan and the French town of Chandernagor, has its terminus at Calcutta.",
+          "translation": "Mr."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch10-u0024",
+          "english": "Mr.",
+          "translation": "lui recommanda expressément de se trouver avant huit heures à la gare, et, de son pas régulier qui battait la seconde comme le pendule d'une horloge astronomique,"
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch10-u0025",
+          "english": "Fogg, after bidding good-bye to his whist partners, left the steamer, gave his servant several errands to do, urged it upon him to be at the station promptly at eight, and,",
+          "translation": "il se dirigea vers le bureau des passeports."
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-11",
+      "title": "CHAPTER XI.",
+      "units": 170,
+      "languages": {
+        "en": {
+          "units": 170,
+          "needsReview": 0
+        },
+        "es": {
+          "units": 170,
+          "needsReview": 41
+        },
+        "fr": {
+          "units": 170,
+          "needsReview": 56
+        }
+      },
+      "questionable": [
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch11-u0007",
+          "english": "He made India his home, only paying brief visits to England at rare intervals; and was almost as familiar as a native with the customs, history, and character of India and its peop",
+          "translation": "Sir Francis Cromarty, alto, rubio, de cincuenta años de edad,"
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch11-u0012",
+          "english": "Sir Francis Cromarty had observed the oddity of his travelling companion—although the only opportunity he had for studying him had been while he was dealing the cards,",
+          "translation": "No viajaba, sino que estaba escribendo una circunferencia."
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch11-u0015",
+          "english": "Phileas Fogg had not concealed from Sir Francis his design of going round the world, nor the circumstances under which he set out;",
+          "translation": "a no ser enemigo de movimientos inútiles."
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch11-u0019",
+          "english": "At Callyan they reached the junction of the branch line which descends towards south-eastern India by Kandallah and Pounah; and, passing Pauwell,",
+          "translation": "Era esto para él cuestión de ventilar."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch11-u0023",
+          "english": "\"How so, Sir Francis?\"",
+          "translation": "Sir Francis? --Parce que le chemin de fer s'arrêtait à la base de ces montagnes, qu'il fallait traverser en palanquin ou à dos de poney jusqu'à la station de Kandallah,"
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch11-u0025",
+          "english": "\"Such a delay would not have deranged my plans in the least,\" said Mr.",
+          "translation": "Fogg."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch11-u0026",
+          "english": "Fogg.",
+          "translation": "Je ne suis pas sans avoir prévu l'éventualité de certains obstacles. --Cependant, monsieur Fogg, reprit le brigadier général,"
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch11-u0028",
+          "english": "\"But, Mr.",
+          "translation": "Passepartout, les pieds entortillés dans sa couverture de voyage, dormait profondément et ne rêvait guère que l'on parlât de lui."
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-12",
+      "title": "CHAPTER XII.",
+      "units": 142,
+      "languages": {
+        "en": {
+          "units": 142,
+          "needsReview": 0
+        },
+        "es": {
+          "units": 142,
+          "needsReview": 32
+        },
+        "fr": {
+          "units": 142,
+          "needsReview": 43
+        }
+      },
+      "questionable": [
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch12-u0013",
+          "english": "Neither Sir Francis nor Mr.",
+          "translation": "Después de dos horas de marcha, el guía detuvo al elefante y le dio una hora de descanso."
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch12-u0019",
+          "english": "Copses of dates and dwarf-palms succeeded the dense forests; then vast, dry plains, dotted with scanty shrubs, and sown with great blocks of syenite.",
+          "translation": "El país tomó luego un aspecto muy agreste."
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch12-u0024",
+          "english": "The Parsee avoided them as much as possible.",
+          "translation": "La dominación de los ingleses no ha podido establecerse regularmente sobre un territorio sometido a la influencia de los rajáes,"
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch12-u0027",
+          "english": "What would Mr.",
+          "translation": "Por otra parte, el parsi los evitaba en lo posible, considerándolos como gente de mal encuentro."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch12-u0011",
+          "english": "After two hours the guide stopped the elephant, and gave him an hour for rest, during which Kiouni, after quenching his thirst at a neighbouring spring,",
+          "translation": "sans interrompre un instant son trot régulier."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch12-u0013",
+          "english": "Neither Sir Francis nor Mr.",
+          "translation": "L'animal dévora des branchages et des arbrisseaux, après s'être d'abord désaltéré à une mare voisine."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch12-u0015",
+          "english": "\"Why, he's made of iron!\" exclaimed the general, gazing admiringly on Kiouni.",
+          "translation": "Il était brisé."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch12-u0016",
+          "english": "\"Of forged iron,\" replied Passepartout, as he set about preparing a hasty breakfast.",
+          "translation": "Mr."
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-13",
+      "title": "CHAPTER XIII.",
+      "units": 131,
+      "languages": {
+        "en": {
+          "units": 131,
+          "needsReview": 0
+        },
+        "es": {
+          "units": 131,
+          "needsReview": 26
+        },
+        "fr": {
+          "units": 131,
+          "needsReview": 22
+        }
+      },
+      "questionable": [
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch13-u0002",
+          "english": "Mr.",
+          "translation": "Tenía además en sir Francis Cromarty un auxiliar decidido."
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch13-u0008",
+          "english": "There remained the guide: what course would he adopt?",
+          "translation": "Sir Francis Cromarty le planteó la cuestión con franqueza. -Mi oficial- respondió el guía-, soy parsi; no tan sólo arriesgamos nuestras vidas, sino suplicios horribles si nos agarr"
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch13-u0013",
+          "english": "Command me as you will.\"",
+          "translation": "Había recibido en esta ciudad una educación absolutamente inglesa y por sus modales y su instrucción hubiera pasado por europea."
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch13-u0015",
+          "english": "Fogg.",
+          "translation": "Huérfana, fue casada a pesar suyo con ese viejo rajá de Bundelkund."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch13-u0002",
+          "english": "Mr.",
+          "translation": "Fogg allait risquer sa vie, ou tout au moins sa liberté, et par conséquent la réussite de ses projets, mais il n'hésita pas."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch13-u0013",
+          "english": "Command me as you will.\"",
+          "translation": "Fogg. --Toutefois, sachez-le bien, reprit le Parsi, non seulement nous risquons notre vie, mais des supplices horribles, si nous sommes pris."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch13-u0018",
+          "english": "Fogg.",
+          "translation": "C'était une Indienne d'une beauté célèbre, de race parsie, fille de riches négociants de Bombay."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch13-u0022",
+          "english": "She had received a thoroughly English education in that city, and, from her manners and intelligence, would be thought an European.",
+          "translation": "Trois mois après, elle devint veuve."
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-14",
+      "title": "CHAPTER XIV.",
+      "units": 106,
+      "languages": {
+        "en": {
+          "units": 106,
+          "needsReview": 0
+        },
+        "es": {
+          "units": 106,
+          "needsReview": 17
+        },
+        "fr": {
+          "units": 106,
+          "needsReview": 11
+        }
+      },
+      "questionable": [
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch14-u0005",
+          "english": "Fogg.",
+          "translation": "había sido el viudo de la linda dama, un viejo rajá embalsamado."
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch14-u0037",
+          "english": "Her delicately formed ears, her vermilion hands, her little feet, curved and tender as the lotus-bud, glitter with the brilliancy of the loveliest pearls of Ceylon,",
+          "translation": "de los más bellos diamantes de Golconda."
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch14-u0038",
+          "english": "the most dazzling diamonds of Golconda.",
+          "translation": "Su delgada y flexible cintura que puede abarcarse con una sola mano, realza la elegante configuración de sus redondeadas caderas y la riqueza de su busto,"
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch14-u0040",
+          "english": "where youth in its flower displays the wealth of its treasures;",
+          "translation": "el escultor eterno.\""
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch14-u0005",
+          "english": "Fogg.",
+          "translation": "Pour lui, il n'avait eu qu'une idée «drôle», et il riait en songeant que, pendant quelques instants, lui, Passepartout, ancien gymnaste, ex-sergent de pompiers,"
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch14-u0038",
+          "english": "the most dazzling diamonds of Golconda.",
+          "translation": "rehausse l'élégante cambrure de ses reins arrondis et la richesse de son buste où la jeunesse en fleur étale ses plus parfaits trésors, et, sous les plis soyeux de sa tunique,"
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch14-u0043",
+          "english": "She spoke English with great purity, and the guide had not exaggerated in saying that the young Parsee had been transformed by her bringing up.",
+          "translation": "Cependant le train allait quitter la station d'Allahabad. Le Parsi attendait. Mr. Fogg lui régla son salaire au prix convenu, sans le dépasser d'un farthing."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch14-u0057",
+          "english": "\"Take him, guide,\" returned Mr.",
+          "translation": "Passepartout, nullement effrayé, fit une bonne caresse à l'animal, qui le replaça doucement à terre, et, à la poignée de trompe de l'honnête Kiouni,"
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-15",
+      "title": "CHAPTER XV.",
+      "units": 150,
+      "languages": {
+        "en": {
+          "units": 150,
+          "needsReview": 0
+        },
+        "es": {
+          "units": 150,
+          "needsReview": 42
+        },
+        "fr": {
+          "units": 150,
+          "needsReview": 46
+        }
+      },
+      "questionable": [
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch15-u0006",
+          "english": "Phileas Fogg?\"",
+          "translation": "añadió el agente designando a Picaporte. -Sí. -Tened ambos la bondad de seguirme."
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch15-u0007",
+          "english": "\"I am he.\"",
+          "translation": "Mister Fogg no hizo movimiento alguno que demostrase la menor sospecha."
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch15-u0009",
+          "english": "\"Yes.\"",
+          "translation": "con sus hábitos franceses, quiso hacer observaciones, pero el agente le tocó con su varilla,"
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch15-u0011",
+          "english": "Mr.",
+          "translation": "preguntó mister Fogg. -Puede hacerlo- respondió el agente."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch15-u0007",
+          "english": "\"I am he.\"",
+          "translation": "Fogg allait sortir de la gare, un policeman s'approcha de lui et dit:"
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch15-u0011",
+          "english": "Mr.",
+          "translation": "Cet agent était un représentant de la loi, et, pour tout Anglais, la loi est sacrée."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch15-u0012",
+          "english": "Fogg betrayed no surprise whatever.",
+          "translation": "Passepartout, avec ses habitudes françaises, voulut raisonner, mais le policeman le toucha de sa baguette, et Phileas Fogg lui fit signe d'obéir."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch15-u0016",
+          "english": "\"May this young lady go with us?\" asked he.",
+          "translation": "Fogg, Mrs."
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-16",
+      "title": "CHAPTER XVI.",
+      "units": 97,
+      "languages": {
+        "en": {
+          "units": 97,
+          "needsReview": 0
+        },
+        "es": {
+          "units": 97,
+          "needsReview": 20
+        },
+        "fr": {
+          "units": 97,
+          "needsReview": 17
+        }
+      },
+      "questionable": [
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch16-u0002",
+          "english": "screw steamer,",
+          "translation": "con el aforo en bruto de mil setecientas toneladas, y la fuerza nominal de cuatrocientos caballos."
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch16-u0034",
+          "english": "But necessity impelled him, nevertheless, to renew his acquaintance with the worthy servant, as will be seen.",
+          "translation": "¿De qué modo? Vamos a verlo."
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch16-u0044",
+          "english": "Cost what it may, I must succeed!",
+          "translation": "\"Por consiguiente- decía Fix para sí durante las dilatadas horas que pasaba en el camarote- o el mandamiento estará en Hong Kong y prendo a mi hombre,"
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch16-u0052",
+          "english": "But suddenly a new idea struck him.",
+          "translation": "Una sola palabra dicha por Picaporte a su amo hubiera bastado para comprometer irrevocablemente el negocio."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch16-u0002",
+          "english": "screw steamer,",
+          "translation": "jaugeant brut dix-sept cent soixante-dix tonnes, et d'une force nominale de quatre cents chevaux."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch16-u0009",
+          "english": "He visited her regularly each day at certain hours, not so much to talk himself, as to sit and hear her talk.",
+          "translation": "Mrs."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch16-u0016",
+          "english": "Many of the Parsee merchants have made great fortunes there by dealing in cotton; and one of them, Sir Jametsee Jeejeebhoy, was made a baronet by the English government.",
+          "translation": "C'était même un cousin de Sir Jejeebhoy, l'honorable Jejeeh, qu'elle comptait rejoindre à Hong-Kong. Trouverait-elle près de lui refuge et assistance? Elle ne pouvait l'affirmer. À"
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch16-u0039",
+          "english": "But beyond Hong Kong, a simple warrant would be of no avail; an extradition warrant would be necessary, and that would result in delays and obstacles,",
+          "translation": "Il faudrait un acte d'extradition."
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-17",
+      "title": "CHAPTER XVII.",
+      "units": 112,
+      "languages": {
+        "en": {
+          "units": 112,
+          "needsReview": 0
+        },
+        "es": {
+          "units": 112,
+          "needsReview": 28
+        },
+        "fr": {
+          "units": 112,
+          "needsReview": 26
+        }
+      },
+      "questionable": [
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch17-u0003",
+          "english": "Fogg.",
+          "translation": "En cuanto a Picaporte, se puso a pensar formalmente sobre la extraña casualidad que traía otra vez a Fix al mismo camino que su amo."
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch17-u0007",
+          "english": "It was really worth considering why this certainly very amiable and complacent person, whom he had first met at Suez,",
+          "translation": "Había aquí extrañas coincidencias."
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch17-u0009",
+          "english": "Fogg's tracks step by step.",
+          "translation": "Aun cuando hubiera estado Picaporte discurriendo durante un siglo, nunca hubiera acertado con la misión de que estaba encargado el agente."
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch17-u0010",
+          "english": "What was Fix's object?",
+          "translation": "Jamás se hubiera imaginado que Phileas Fogg fuera seguido a la manera de un ladrón, alrededor del globo terrestre."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch17-u0003",
+          "english": "Fogg.",
+          "translation": "Fogg, qui restait volontiers dans le grand salon du Rangoon, soit qu'il tînt compagnie à Mrs."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch17-u0006",
+          "english": "Passepartout began very seriously to conjecture what strange chance kept Fix still on the route that his master was pursuing.",
+          "translation": "Et, en effet, on eût été étonné à moins."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch17-u0008",
+          "english": "had then encountered on board the \"Mongolia,\" who disembarked at Bombay, which he announced as his destination, and now turned up so unexpectedly on the \"Rangoon,\" was following Mr",
+          "translation": "que l'on retrouve sur le Rangoon, faisant route pour Hong-Kong, en un mot, suivant pas à pas l'itinéraire de Mr. Fogg, cela valait la peine qu'on y réfléchît. Il y avait là une con"
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch17-u0009",
+          "english": "Fogg's tracks step by step.",
+          "translation": "Passepartout était prêt a parier ses babouches--il les avait précieusement conservées--que le Fix quitterait Hong-Kong en même temps qu'eux, et probablement sur le même paquebot."
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-18",
+      "title": "CHAPTER XVIII.",
+      "units": 89,
+      "languages": {
+        "en": {
+          "units": 89,
+          "needsReview": 0
+        },
+        "es": {
+          "units": 89,
+          "needsReview": 30
+        },
+        "fr": {
+          "units": 89,
+          "needsReview": 22
+        }
+      },
+      "questionable": [
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch18-u0002",
+          "english": "The wind, obstinately remaining in the north-west, blew a gale, and retarded the steamer.",
+          "translation": "El viento arreció mucho."
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch18-u0006",
+          "english": "The steamer was forced to proceed slowly, and the captain estimated that she would reach Hong Kong twenty hours behind time, and more if the storm lasted.",
+          "translation": "La borrasca batió el mar con vehemencia."
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch18-u0012",
+          "english": "The storm greatly pleased him.",
+          "translation": "Su frente no se nubló ni un instante, y sin embargo, una tardanza de veinte horas podía comprometer su viaje, haciéndole perder la salida del vapor de Yokohama."
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch18-u0015",
+          "english": "with the gusts and squalls.",
+          "translation": "Mistress Aouida que habló de este contratiempo con su compañero, lo encontró tan sereno como antes."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch18-u0015",
+          "english": "with the gusts and squalls.",
+          "translation": "Il ne comptait pas ses nausées, et, quand son corps se tordait sous le mal de mer, son esprit s'ébaudissait d'une immense satisfaction."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch18-u0020",
+          "english": "Had the hour of adversity come?",
+          "translation": "Passepartout, comme si les vingt mille livres du pari eussent dû sortir de sa bourse, ne vivait plus."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch18-u0022",
+          "english": "The storm exasperated him, the gale made him furious, and he longed to lash the obstinate sea into obedience.",
+          "translation": "Pauvre garçon!"
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch18-u0023",
+          "english": "Poor fellow!",
+          "translation": "Fix lui cacha soigneusement sa satisfaction personnelle, et il fit bien, car si Passepartout eût deviné le secret contentement de Fix, Fix eût passé un mauvais quart d'heure."
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-19",
+      "title": "CHAPTER XIX.",
+      "units": 174,
+      "languages": {
+        "en": {
+          "units": 174,
+          "needsReview": 0
+        },
+        "es": {
+          "units": 174,
+          "needsReview": 49
+        },
+        "fr": {
+          "units": 174,
+          "needsReview": 62
+        }
+      },
+      "questionable": [
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch19-u0004",
+          "english": "Hong Kong has beaten Macao in the struggle for the Chinese trade, and now the greater part of the transportation of Chinese goods finds its depot at the former place.",
+          "translation": "el puerto Victoria."
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch19-u0014",
+          "english": "which is the Imperial colour.",
+          "translation": "y toda aquella muchedumbre de chinos, japoneses y europeos que se apiñaban en las calles."
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch19-u0021",
+          "english": "The warrant had not come!",
+          "translation": "Paseándose, Picaporte observó cierto número de indígenas vestidos de amarillo, muy avanzados en edad."
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch19-u0028",
+          "english": "Come and engage your berth.\"",
+          "translation": "Pero el inspector de policía dejaba ver en su semblante muestras de un despecho vivísimo. -¡Bueno! -dijo entre sí Picaporte-."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch19-u0002",
+          "english": "after the war of 1842; and the colonising genius of the English has created upon it an important city and an excellent port.",
+          "translation": "assura la possession à l'Angleterre."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch19-u0010",
+          "english": "At the Victoria port he found a confused mass of ships of all nations:",
+          "translation": "presque à ses antipodes."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch19-u0014",
+          "english": "which is the Imperial colour.",
+          "translation": "À peu de choses près, c'était encore Bombay, Calcutta ou Singapore, que le digne garçon retrouvait sur son parcours."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch19-u0016",
+          "english": "On reaching the quay where they were to embark on the \"Carnatic,\" he was not astonished to find Fix walking up and down.",
+          "translation": "Passepartout arriva au port Victoria."
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-20",
+      "title": "CHAPTER XX.",
+      "units": 151,
+      "languages": {
+        "en": {
+          "units": 151,
+          "needsReview": 0
+        },
+        "es": {
+          "units": 151,
+          "needsReview": 52
+        },
+        "fr": {
+          "units": 151,
+          "needsReview": 66
+        }
+      },
+      "questionable": [
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch20-u0010",
+          "english": "Mr.",
+          "translation": "confundida con tanto obsequio, respondió invariablemente:"
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch20-u0017",
+          "english": "Mr.",
+          "translation": "Si algo debiera haberlo asombrado, era no haber visto a su criado a la hora de acostarse;"
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch20-u0019",
+          "english": "Mr.",
+          "translation": "no se preocupó de ello."
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch20-u0025",
+          "english": "Fogg:",
+          "translation": "estaba indicada para las nueve y media."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch20-u0002",
+          "english": "Fogg, unconscious of the danger he was in of losing the steamer, was quietly escorting Aouda about the streets of the English quarter,",
+          "translation": "Fogg, accompagnant Mrs."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch20-u0004",
+          "english": "It was all very well for an Englishman like Mr.",
+          "translation": "Depuis que Mrs."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch20-u0009",
+          "english": "retired to her room for rest.",
+          "translation": "Mr."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch20-u0010",
+          "english": "Mr.",
+          "translation": "Fogg s'acquitta de sa tâche avec le calme qui le caractérisait, et à toutes les excuses ou objections de la jeune veuve, confuse de tant de complaisance:"
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-21",
+      "title": "CHAPTER XXI.",
+      "units": 179,
+      "languages": {
+        "en": {
+          "units": 179,
+          "needsReview": 0
+        },
+        "es": {
+          "units": 179,
+          "needsReview": 49
+        },
+        "fr": {
+          "units": 179,
+          "needsReview": 35
+        }
+      },
+      "questionable": [
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch21-u0001",
+          "english": "IN WHICH THE MASTER OF THE \"TANKADERE\"",
+          "translation": "Era expedición aventurada la de aquella navegación de ochocientas millas sobre una embarcación de veinte toneladas y,"
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch21-u0002",
+          "english": "RUNS GREAT RISK OF LOSING A REWARD OF TWO HUNDRED POUNDS This voyage of eight hundred miles was a perilous venture on a craft of twenty tons, and at that season of the year.",
+          "translation": "especialmente, en aquella época del año."
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch21-u0004",
+          "english": "It would clearly have been to the master's advantage to carry his passengers to Yokohama, since he was paid a certain sum per day; but he would have been rash to attempt such a voy",
+          "translation": "y todavía no habían transcurrido los primeros días de noviembre."
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch21-u0017",
+          "english": "Night came.",
+          "translation": "La goleta, levantada por el viento, parecía volar por el aire."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch21-u0005",
+          "english": "and it was imprudent even to attempt to reach Shanghai.",
+          "translation": "Mais son imprudence aurait été grande de tenter une telle traversée dans ces conditions, et c'était déjà faire acte d'audace, sinon de témérité, que de remonter jusqu'à Shangaï."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch21-u0008",
+          "english": "\"I do not need, pilot,\" said Phileas Fogg, when they got into the open sea, \"to advise you to use all possible speed.\"",
+          "translation": "elle se comporta admirablement."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch21-u0009",
+          "english": "\"Trust me, your honour.",
+          "translation": "«Je n'ai pas besoin, pilote, dit Phileas Fogg au moment où la goélette donnait en pleine mer, de vous recommander toute la diligence possible. --Que Votre Honneur s'en rapporte à m"
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch21-u0012",
+          "english": "\"It's your trade, not mine, pilot, and I confide in you.\"",
+          "translation": "Nos flèches n'y ajouteraient rien, et ne serviraient qu'à assommer l'embarcation en nuisant à sa marche. --C'est votre métier, et non le mien, pilote, et je me fie à vous.»"
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-22",
+      "title": "CHAPTER XXII.",
+      "units": 133,
+      "languages": {
+        "en": {
+          "units": 133,
+          "needsReview": 0
+        },
+        "es": {
+          "units": 133,
+          "needsReview": 35
+        },
+        "fr": {
+          "units": 133,
+          "needsReview": 28
+        }
+      },
+      "questionable": [
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch22-u0002",
+          "english": "IT IS CONVENIENT TO HAVE SOME MONEY IN ONE'S POCKET The \"Carnatic,\" setting sail from Hong Kong at half-past six on the 7th of November, directed her course at full steam towards J",
+          "translation": "Llevaba cargamento completo de mercancías y pasajeros."
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch22-u0007",
+          "english": "Shortly after Fix left the opium den, two waiters had lifted the unconscious Passepartout, and had carried him to the bed reserved for the smokers.",
+          "translation": "He aquí lo acontecido:"
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch22-u0013",
+          "english": "Passepartout had but few steps to go; and, rushing upon the plank, he crossed it, and fell unconscious on the deck, just as the \"Carnatic\" was moving off.",
+          "translation": "salía del fumadero gritando como en suefíos:"
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch22-u0014",
+          "english": "Several sailors, who were evidently accustomed to this sort of scene, carried the poor Frenchman down into the second cabin,",
+          "translation": "¡el \"Carnatic\", el \"Carnatic\"!"
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch22-u0001",
+          "english": "IN WHICH PASSEPARTOUT FINDS OUT THAT, EVEN AT THE ANTIPODES,",
+          "translation": "OÙ PASSEPARTOUT VOIT BIEN QUE, MÊME AUX ANTIPODES, IL EST PRUDENT D'AVOIR QUELQUE ARGENT DANS SA POCHE Le Carnatic ayant quitté Hong-Kong, le 7 novembre, à six heures et demie du s"
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch22-u0021",
+          "english": "Fogg say?",
+          "translation": "«Pour celui-là, se dit-il, j'espère bien que nous en sommes débarrassés, et qu'il n'a pas osé, après ce qu'il m'a proposé, nous suivre sur le Carnatic."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch22-u0024",
+          "english": "\"As for that rascal, I hope we are well rid of him, and that he has not dared, as he proposed, to follow us on board the \"Carnatic.\"",
+          "translation": "Mr."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch22-u0027",
+          "english": "Pshaw!",
+          "translation": "Convenait-il de lui apprendre le rôle joué par Fix dans cette affaire?"
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-23",
+      "title": "CHAPTER XXIII.",
+      "units": 134,
+      "languages": {
+        "en": {
+          "units": 134,
+          "needsReview": 0
+        },
+        "es": {
+          "units": 134,
+          "needsReview": 25
+        },
+        "fr": {
+          "units": 134,
+          "needsReview": 26
+        }
+      },
+      "questionable": [
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch23-u0015",
+          "english": "\"Good!\" thought he.",
+          "translation": "y sólo después de muchas investigaciones descubrió Picaporte a un vendedor indígena, a quien expuso su petición."
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch23-u0029",
+          "english": "What references could he give?",
+          "translation": "No siendo Picaporte hombre que dejase dormir una idea, se dirigió al puerto de Yokohama; pero, a medida de que se acercaba a los muelles, su proyecto,"
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch23-u0032",
+          "english": "ACROBATIC JAPANESE TROUPE, HONOURABLE WILLIAM BATULCAR, PROPRIETOR, LAST REPRESENTATIONS, PRIOR TO THEIR DEPARTURE TO THE UNITED STATES, OF THE LONG NOSES!",
+          "translation": "¿Qué recomendaciones podía ofrecer?"
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch23-u0037",
+          "english": "\"that's just what I want!\"",
+          "translation": "representaciones):antes de su salida para los Estados:Unidos de los:NARIGUDOS"
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch23-u0013",
+          "english": "The man liked the European costume, and ere long Passepartout issued from his shop accoutred in an old Japanese coat, and a sort of one-sided turban, faded with long use.",
+          "translation": "Cette résolution prise, restait à l'exécuter."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch23-u0016",
+          "english": "\"I will imagine I am at the Carnival!\"",
+          "translation": "et bientôt Passepartout sortait affublé d'une vieille robe japonaise et coiffé d'une sorte de turban à côtes, décoloré sous l'action du temps."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch23-u0029",
+          "english": "What references could he give?",
+          "translation": "Passepartout, n'étant point homme à laisser languir une idée, se dirigea vers le port de Yokohama."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch23-u0033",
+          "english": "LONG NOSES!",
+          "translation": "Quelles recommandations faire valoir?"
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-24",
+      "title": "CHAPTER XXIV.",
+      "units": 129,
+      "languages": {
+        "en": {
+          "units": 129,
+          "needsReview": 0
+        },
+        "es": {
+          "units": 129,
+          "needsReview": 30
+        },
+        "fr": {
+          "units": 129,
+          "needsReview": 40
+        }
+      },
+      "questionable": [
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch24-u0001",
+          "english": "DURING WHICH MR.",
+          "translation": "Viendo el capitán la bandera de auxilio, se dirigió a la goleta, y algunos instantes después, Phileas Fogg, pagando su pasaje según lo convenido,"
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch24-u0010",
+          "english": "Mr.",
+          "translation": "después de haber recorrido inutilmente las calles de Yokohama, desesperaba ya de encontrar a Picaporte,"
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch24-u0013",
+          "english": "Batulcar's theatre.",
+          "translation": "pero éste, en su posición invertida, vio a su amo en la galería."
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch24-u0017",
+          "english": "Fix.",
+          "translation": "Al oír nombrar a Fix, Picaporte no pestañeó."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch24-u0001",
+          "english": "DURING WHICH MR.",
+          "translation": "PENDANT LEQUEL S'ACCOMPLIT LA TRAVERSÉE DE L'OCÉAN PACIFIQUE Ce qui était arrivé en vue de Shangaï, on le comprend."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch24-u0005",
+          "english": "ascended the steamer with Aouda and Fix; and they started at once for Nagasaki and Yokohama.",
+          "translation": "Puis l'honorable gentleman, Mrs."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch24-u0010",
+          "english": "Mr.",
+          "translation": "Phileas Fogg, qui devait repartir le soir même pour San Francisco, se mit immédiatement à la recherche de son domestique."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch24-u0013",
+          "english": "Batulcar's theatre.",
+          "translation": "Il n'eût certes point reconnu son serviteur sous cet excentrique accoutrement de héraut; mais celui-ci, dans sa position renversée, aperçut son maître à la galerie."
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-25",
+      "title": "CHAPTER XXV.",
+      "units": 151,
+      "languages": {
+        "en": {
+          "units": 151,
+          "needsReview": 0
+        },
+        "es": {
+          "units": 151,
+          "needsReview": 52
+        },
+        "fr": {
+          "units": 151,
+          "needsReview": 57
+        }
+      },
+      "questionable": [
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch25-u0008",
+          "english": "he fell through them.",
+          "translation": "Picaporte, en su alegría de tocar, por fin, tierra americana,"
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch25-u0010",
+          "english": "which so frightened the innumerable cormorants and pelicans that are always perched upon these movable quays, that they flew noisily away.",
+          "translation": "por poco lo atravesó."
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch25-u0011",
+          "english": "Mr.",
+          "translation": "Desconcertado del modo con que se había apeado, dio un grito formidable,"
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch25-u0015",
+          "english": "From his exalted position Passepartout observed with much curiosity the wide streets, the low, evenly ranged houses, the Anglo-Saxon Gothic churches, the great docks,",
+          "translation": "Hizo traer un coche para mistress Aouida y para él."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch25-u0005",
+          "english": "which ply on the Sacramento and its tributaries.",
+          "translation": "Là s'entassent aussi les produits d'un commerce qui s'étend au Mexique, au Pérou, au Chili, au Brésil, à l'Europe, à l'Asie, à toutes les îles de l'océan Pacifique."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch25-u0008",
+          "english": "he fell through them.",
+          "translation": "Tout décontenancé de la façon dont il avait «pris pied» sur le nouveau continent, l'honnête garçon poussa un cri formidable,"
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch25-u0010",
+          "english": "which so frightened the innumerable cormorants and pelicans that are always perched upon these movable quays, that they flew noisily away.",
+          "translation": "Mr."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch25-u0011",
+          "english": "Mr.",
+          "translation": "Fogg, aussitôt débarqué, s'informa de l'heure à laquelle partait le premier train pour New York."
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-26",
+      "title": "CHAPTER XXVI.",
+      "units": 88,
+      "languages": {
+        "en": {
+          "units": 88,
+          "needsReview": 0
+        },
+        "es": {
+          "units": 88,
+          "needsReview": 8
+        },
+        "fr": {
+          "units": 88,
+          "needsReview": 8
+        }
+      },
+      "questionable": [
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch26-u0004",
+          "english": "Five main lines connect Omaha with New York.",
+          "translation": "Nueva York y San Francisco están, por consiguiente, unidas por una cinta no interrumpida de metal, que no mide menos de tres mil setecientas ochenta y seis millas."
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch26-u0008",
+          "english": "The journey from New York to San Francisco consumed, formerly, under the most favourable conditions, at least six months.",
+          "translation": "Ahora se hace el viaje en siete días."
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch26-u0009",
+          "english": "It is now accomplished in seven days.",
+          "translation": "En 1862 fue cuando, a pesar de la oposición de los diputados del Sur, que querían una línea más meridional, se fijó el trazado del ferrocarril entre los 41 y 42 grados de latitud."
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch26-u0058",
+          "english": "Having breakfasted, Mr.",
+          "translation": "Después de haber almorzado, mister Fogg, mistress Aouida y sus compañeros volvieron a sus asientos."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch26-u0004",
+          "english": "Five main lines connect Omaha with New York.",
+          "translation": "New York et San Francisco sont donc présentement réunis par un ruban de métal non interrompu qui ne mesure pas moins de trois mille sept cent quatre-vingt-six milles."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch26-u0005",
+          "english": "New York and San Francisco are thus united by an uninterrupted metal ribbon, which measures no less than three thousand seven hundred and eighty-six miles.",
+          "translation": "Entre Omaha et le Pacifique,"
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch26-u0019",
+          "english": "never exceeding one hundred and twelve feet to the mile.",
+          "translation": "Telle était cette longue artère que les trains parcouraient en sept jours, et qui allait permettre à l'honorable Phileas Fogg--il l'espérait du moins--de prendre, le 11, à New York"
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch26-u0039",
+          "english": "The sheets were clean and the pillows soft.",
+          "translation": "Il n'y avait plus qu'à se coucher et à dormir--ce que chacun fit, comme s'il se fût trouvé dans la cabine confortable d'un paquebot--,"
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-27",
+      "title": "CHAPTER XXVII.",
+      "units": 100,
+      "languages": {
+        "en": {
+          "units": 100,
+          "needsReview": 0
+        },
+        "es": {
+          "units": 100,
+          "needsReview": 18
+        },
+        "fr": {
+          "units": 100,
+          "needsReview": 16
+        }
+      },
+      "questionable": [
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch27-u0006",
+          "english": "when he was diverted from this interesting study by a strange-looking personage who made his appearance on the platform.",
+          "translation": "Parecía un reverendo."
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch27-u0008",
+          "english": "and dogskin gloves.",
+          "translation": "Picaporte se acercó y leyó en una de esas notas que el honorable Willam Hitsch, misionero mormón, aprovechando su presencia en el tren número 48, daría de once a doce,"
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch27-u0017",
+          "english": "Passepartout took one of the front seats.",
+          "translation": "¿Quién se atrevería a sostener lo contrario al misionero, cuya exaltación era un contraste con su fisionomía, de natural sereno?"
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch27-u0018",
+          "english": "Neither Mr.",
+          "translation": "Pero su cólera se explicaba, sin duda, por estar actualmente sometido el mormonismo a trances muy duros."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch27-u0008",
+          "english": "and dogskin gloves.",
+          "translation": "Il allait d'une extrémité du train à l'autre, et, sur la portière de chaque wagon, il collait avec des pains à cacheter une notice écrite à la main."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch27-u0014",
+          "english": "\"I'll go,\" said Passepartout to himself.",
+          "translation": "Sur ce nombre, trente au plus, alléchés par l'appât de la conférence, occupaient à onze heures les banquettes du car nº 117."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch27-u0016",
+          "english": "The news quickly spread through the train, which contained about one hundred passengers, thirty of whom, at most, attracted by the notice, ensconced themselves in car No. 117.",
+          "translation": "Ni son maître ni Fix n'avaient cru devoir se déranger."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch27-u0017",
+          "english": "Passepartout took one of the front seats.",
+          "translation": "À l'heure dite, l'elder William Hitch se leva, et d'une voix assez irritée, comme s'il eût été contredit d'avance, il s'écria:"
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-28",
+      "title": "CHAPTER XXVIII.",
+      "units": 181,
+      "languages": {
+        "en": {
+          "units": 181,
+          "needsReview": 0
+        },
+        "es": {
+          "units": 181,
+          "needsReview": 41
+        },
+        "fr": {
+          "units": 181,
+          "needsReview": 57
+        }
+      },
+      "questionable": [
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch28-u0013",
+          "english": "At ten o'clock at night the train stopped at Fort Bridger station, and twenty minutes later entered Wyoming Territory, following the valley of Bitter Creek throughout.",
+          "translation": "Hubo que pasar sobre puentes el Muddy, el Gree y otros."
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch28-u0017",
+          "english": "Fogg's tour.",
+          "translation": "A las diez de la noche, el tren se detenía en la estación de Fort Bridger, de la cual se separó al punto,"
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch28-u0026",
+          "english": "She did not comprehend, perhaps, the depth of the sentiment with which her protector inspired her, which she called gratitude, but which, though she was unconscious of it,",
+          "translation": "mistress Aouida experimentaba recelos más vivos,"
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch28-u0037",
+          "english": "\"And, besides,\" added Passepartout, \"I'll take charge of him, colonel as he is.\"",
+          "translation": "sin sospecharlo ella misma."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch28-u0013",
+          "english": "At ten o'clock at night the train stopped at Fort Bridger station, and twenty minutes later entered Wyoming Territory, following the valley of Bitter Creek throughout.",
+          "translation": "Les rios étaient nombreux dans cette montagneuse région."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch28-u0017",
+          "english": "Fogg's tour.",
+          "translation": "Il craignait les retards, il redoutait les accidents, et était plus pressé que Phileas Fogg lui-même de mettre le pied sur la terre anglaise!"
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch28-u0018",
+          "english": "\"What an idea!\" he said to himself.",
+          "translation": "À dix heures du soir, le train s'arrêtait à la station de Fort-Bridger, qu'il quitta presque aussitôt, et, vingt milles plus loin, il entrait dans l'État de Wyoming,--l'ancien Dako"
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch28-u0027",
+          "english": "was really more than that.",
+          "translation": "En effet, quelques voyageurs étaient descendus de leur wagon, et se promenaient sur le quai de la gare de Green-river, en attendant le départ du train."
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-29",
+      "title": "CHAPTER XXIX.",
+      "units": 163,
+      "languages": {
+        "en": {
+          "units": 163,
+          "needsReview": 0
+        },
+        "es": {
+          "units": 163,
+          "needsReview": 45
+        },
+        "fr": {
+          "units": 163,
+          "needsReview": 50
+        }
+      },
+      "questionable": [
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch29-u0010",
+          "english": "Lodge Pole Creek ran parallel with the road, marking the boundary between the territories of Wyoming and Colorado.",
+          "translation": "para llegar a Nueva York."
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch29-u0018",
+          "english": "The whistle of the locomotive, more powerful than Amphion's lyre, was about to bid them rise from American soil.",
+          "translation": "M."
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch29-u0021",
+          "english": "At nine the train stopped at the important town of North Platte, built between the two arms of the river, which rejoin each other around it and form a single artery, a large tribut",
+          "translation": "Durant."
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch29-u0024",
+          "english": "Mr.",
+          "translation": "por medio de una imprenta portátil, el primer número del \"Rail way Pioneer\"."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch29-u0013",
+          "english": "Two powerful locomotives, carrying nine cars of invited guests, amongst whom was Thomas C.",
+          "translation": "M. Dodge."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch29-u0023",
+          "english": "The one hundred and first meridian was passed.",
+          "translation": "Mr."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch29-u0024",
+          "english": "Mr.",
+          "translation": "Fogg et ses partenaires avaient repris leur jeu."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch29-u0027",
+          "english": "Fogg.",
+          "translation": "Pendant cette matinée, la chance favorisa singulièrement ce gentleman."
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-30",
+      "title": "CHAPTER XXX.",
+      "units": 178,
+      "languages": {
+        "en": {
+          "units": 178,
+          "needsReview": 0
+        },
+        "es": {
+          "units": 178,
+          "needsReview": 44
+        },
+        "fr": {
+          "units": 178,
+          "needsReview": 54
+        }
+      },
+      "questionable": [
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch30-u0015",
+          "english": "Mr.",
+          "translation": "Los últimos indios desaparecían entonces por el sur hacia el rio Republican."
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch30-u0019",
+          "english": "If his servant was a prisoner, ought he not to risk everything to rescue him from the Indians?",
+          "translation": "Comprendió él esta mirada."
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch30-u0021",
+          "english": "\"Ah, Mr.—Mr.",
+          "translation": "dijo sencillamente a mistress Aouida. -¡Ah!"
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch30-u0025",
+          "english": "Phileas Fogg, by this resolution, inevitably sacrificed himself; he pronounced his own doom.",
+          "translation": "Acababa de pronunciar su ruina."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch30-u0004",
+          "english": "It was impossible to tell.",
+          "translation": "Les blessés étaient assez nombreux, mais on reconnut qu'aucun n'était atteint mortellement."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch30-u0005",
+          "english": "There were many wounded, but none mortally.",
+          "translation": "Un dès plus grièvement frappé, c'était le colonel Proctor, qui s'était bravement battu, et qu'une balle à l'aine avait renversé."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch30-u0007",
+          "english": "He was carried into the station with the other wounded passengers, to receive such attention as could be of avail.",
+          "translation": "Mrs."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch30-u0015",
+          "english": "Mr.",
+          "translation": "Il avait une grave décision à prendre."
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-31",
+      "title": "CHAPTER XXXI.",
+      "units": 129,
+      "languages": {
+        "en": {
+          "units": 129,
+          "needsReview": 0
+        },
+        "es": {
+          "units": 129,
+          "needsReview": 27
+        },
+        "fr": {
+          "units": 129,
+          "needsReview": 42
+        }
+      },
+      "questionable": [
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch31-u0003",
+          "english": "He had ruined his master!",
+          "translation": "En aquel momento, el inspector se acercó a mister Fogg, y mirándole bien enfrente, le preguntó: -Con formalidad, señor Fogg;"
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch31-u0006",
+          "english": "\"Seriously, sir, are you in great haste?\"",
+          "translation": "hora de salida del vapor de Liverpool? -El mayor interés. -Y si el viaje no hubiera sido interrumpido por el ataque de los indios,"
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch31-u0007",
+          "english": "\"Quite seriously.\"",
+          "translation": "¿hubierais llegado a Nueva York el 11 por la mañana? -Sí, con doce horas de adelanto sobre el vapor. -Bien."
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch31-u0009",
+          "english": "\"Is it absolutely necessary that you should be in New York on the 11th, before nine o'clock in the evening, the time that the steamer leaves for Liverpool?\"",
+          "translation": "Entre veinte y doce, la diferencia es de ocho."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch31-u0007",
+          "english": "\"Quite seriously.\"",
+          "translation": "heure du départ du paquebot de Liverpool? --Un intérêt majeur. --Et si votre voyage n'eût pas été interrompu par cette attaque d'Indiens, vous seriez arrivé à New York le 11,"
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch31-u0009",
+          "english": "\"Is it absolutely necessary that you should be in New York on the 11th, before nine o'clock in the evening, the time that the steamer leaves for Liverpool?\"",
+          "translation": "Vous avez donc vingt heures de retard."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch31-u0011",
+          "english": "\"And, if your journey had not been interrupted by these Indians, you would have reached New York on the morning of the 11th?\"",
+          "translation": "C'est huit heures à regagner."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch31-u0015",
+          "english": "You must regain eight hours.",
+          "translation": "C'était l'homme qui avait parlé à l'inspecteur de police pendant la nuit, et dont Fix avait refusé l'offre."
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-32",
+      "title": "CHAPTER XXXII.",
+      "units": 98,
+      "languages": {
+        "en": {
+          "units": 98,
+          "needsReview": 0
+        },
+        "es": {
+          "units": 98,
+          "needsReview": 37
+        },
+        "fr": {
+          "units": 98,
+          "needsReview": 46
+        }
+      },
+      "questionable": [
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch32-u0004",
+          "english": "the Hamburg boats did not go directly to Liverpool or London, but to Havre; and the additional trip from Havre to Southampton would render Phileas Fogg's last efforts of no avail.",
+          "translation": "ni los de la Compañía Imman, ni los de la Línea \"Hamburguesa\","
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch32-u0006",
+          "english": "Mr.",
+          "translation": "El \"Pereire\", de la Compañía Transatlántica Francesa,"
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch32-u0013",
+          "english": "Mr.",
+          "translation": "estando dedicados al transporte de emigrantes, son de máquinas débiles,"
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch32-u0016",
+          "english": "Come.\"",
+          "translation": "De todo esto se informó el gentleman consultando su \"Bradshaw\","
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch32-u0006",
+          "english": "Mr.",
+          "translation": "En effet, le Pereire,"
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch32-u0013",
+          "english": "Mr.",
+          "translation": "ils naviguent autant à la voile qu'à la vapeur, et leur vitesse est médiocre."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch32-u0016",
+          "english": "Come.\"",
+          "translation": "De tout ceci le gentleman se rendit parfaitement compte en consultant son Bradshaw,"
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch32-u0023",
+          "english": "Mr.",
+          "translation": "en y joignant les frais considérables de ce voyage devenu inutile, ruinait complètement Mr."
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-33",
+      "title": "CHAPTER XXXIII.",
+      "units": 195,
+      "languages": {
+        "en": {
+          "units": 195,
+          "needsReview": 0
+        },
+        "es": {
+          "units": 195,
+          "needsReview": 44
+        },
+        "fr": {
+          "units": 195,
+          "needsReview": 56
+        }
+      },
+      "questionable": [
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch33-u0002",
+          "english": "and put to sea.",
+          "translation": "Durante el día costeó Long Island, pasó por delante del faro de Fire Island y corrió rápidamente hacia el Este."
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch33-u0005",
+          "english": "It might be thought that this was Captain Speedy.",
+          "translation": "Nada de eso."
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch33-u0015",
+          "english": "It was very clear, to see Mr.",
+          "translation": "Solamente que, al ver a Phileas Fogg maniobrar bien, se descubría que había sido marinero."
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch33-u0023",
+          "english": "the \"Henrietta\" might cross the three thousand miles from New York to Liverpool in the nine days, between the 12th and the 21st of December.",
+          "translation": "contados desde el 12 de diciermbre al 21,"
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch33-u0002",
+          "english": "and put to sea.",
+          "translation": "tournait la pointe de Sandy-Hook et donnait en mer."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch33-u0009",
+          "english": "What had happened was very simple.",
+          "translation": "et poussait des hurlements qui dénotaient une colère, bien pardonnable, poussée jusqu'au paroxysme."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch33-u0017",
+          "english": "How the adventure ended will be seen anon.",
+          "translation": "Fogg, que Mr."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch33-u0022",
+          "english": "If, then—for there were \"ifs\" still—the sea did not become too boisterous, if the wind did not veer round to the east, if no accident happened to the boat or its machinery,",
+          "translation": "Fix, lui, avait été abasourdi tout d'abord."
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-34",
+      "title": "CHAPTER XXXIV.",
+      "units": 75,
+      "languages": {
+        "en": {
+          "units": 75,
+          "needsReview": 0
+        },
+        "es": {
+          "units": 75,
+          "needsReview": 18
+        },
+        "fr": {
+          "units": 75,
+          "needsReview": 17
+        }
+      },
+      "questionable": [
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch34-u0013",
+          "english": "Fogg?",
+          "translation": "Advertido éste, quizá hubiera dado a Fix pruebas de su inocencia, demostrándole su error, y en todo caso,"
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch34-u0019",
+          "english": "Fogg again.",
+          "translation": "En cuanto a éste, estaba bien y perfectamente arruinado, y esto en el momento en que iba a alcanzar su objeto."
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch34-u0021",
+          "english": "This arrest was fatal.",
+          "translation": "Habiendo llegado a las doce menos veinte a Liverpool, el 21 de diciembre,"
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch34-u0028",
+          "english": "No one could tell.",
+          "translation": "y que sólo estallan en el último momento con irresistible fuerza?"
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch34-u0012",
+          "english": "When Fix revealed his true character and purpose, why had he not told Mr.",
+          "translation": "Fogg?"
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch34-u0013",
+          "english": "Fogg?",
+          "translation": "Quand Fix avait révélé et sa qualité d'inspecteur de police et la mission dont il était chargé, pourquoi avait-il pris sur lui de ne point avertir son maître?"
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch34-u0028",
+          "english": "No one could tell.",
+          "translation": "S'était-il formé en lui une de ces rages secrètes, terribles parce qu'elles sont contenues, et qui n'éclatent qu'au dernier moment avec une force irrésistible?"
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch34-u0029",
+          "english": "There he sat, calmly waiting—for what?",
+          "translation": "On ne sait."
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-35",
+      "title": "CHAPTER XXXV.",
+      "units": 134,
+      "languages": {
+        "en": {
+          "units": 134,
+          "needsReview": 0
+        },
+        "es": {
+          "units": 134,
+          "needsReview": 34
+        },
+        "fr": {
+          "units": 134,
+          "needsReview": 48
+        }
+      },
+      "questionable": [
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch35-u0016",
+          "english": "Mr.",
+          "translation": "Después de tanto gasto, aun en el caso de ganar la apuesta, no se hubiera enriquecido,"
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch35-u0019",
+          "english": "From the words which Mr.",
+          "translation": "Además, el gentleman había tomado ya su resolución, y sabía lo que le restaba hacer."
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch35-u0023",
+          "english": "First of all, the worthy fellow had gone up to his room, and had extinguished the gas burner, which had been burning for eighty days.",
+          "translation": "Sabido es, en efecto,"
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch35-u0026",
+          "english": "Mr.",
+          "translation": "Pero, antes que todo, el buen muchacho subió a su cuarto y apagó el gas,"
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch35-u0004",
+          "english": "After leaving the station, Mr.",
+          "translation": "En effet, après avoir quitté la gare, Phileas Fogg avait donné à Passepartout l'ordre d'acheter quelques provisions, et il était rentré dans sa maison."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch35-u0007",
+          "english": "Ruined!",
+          "translation": "Après avoir marché d'un pas sûr pendant ce long parcours, après avoir renversé mille obstacles, bravé mille dangers, ayant encore trouvé le temps de faire quelque bien sur sa route"
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch35-u0008",
+          "english": "And by the blundering of the detective!",
+          "translation": "échouer au port devant un fait brutal, qu'il ne pouvait prévoir, et contre lequel il était désarmé: cela était terrible!"
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch35-u0013",
+          "english": "So great had been the expense of his tour that, even had he won, it would not have enriched him; and it is probable that he had not sought to enrich himself,",
+          "translation": "Au surplus, le parti du gentleman était pris."
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-36",
+      "title": "CHAPTER XXXVI.",
+      "units": 75,
+      "languages": {
+        "en": {
+          "units": 75,
+          "needsReview": 0
+        },
+        "es": {
+          "units": 75,
+          "needsReview": 18
+        },
+        "fr": {
+          "units": 75,
+          "needsReview": 19
+        }
+      },
+      "questionable": [
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch36-u0005",
+          "english": "The papers resumed their discussion about the wager; all those who had laid bets, for or against him, revived their interest, as if by magic;",
+          "translation": "¡Qué efecto, qué ruido en los periódicos!"
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch36-u0010",
+          "english": "Where was he at this moment?",
+          "translation": "Los cinco colegas del gentleman del Reform-Club pasaron estos tres días con cierta inquietud ' puesto que volvía a aparecer ese Phileas Fogg,"
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch36-u0011",
+          "english": "The 17th of December, the day of James Strand's arrest, was the seventy-sixth since Phileas Fogg's departure, and no news of him had been received.",
+          "translation": "que ya estaba olvidado."
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch36-u0014",
+          "english": "And would he appear on Saturday, the 21st of December, at a quarter before nine in the evening, on the threshold of the Reform Club saloon?",
+          "translation": "¿Habría perecido?"
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch36-u0010",
+          "english": "Where was he at this moment?",
+          "translation": "Le 17 décembre--, jour où James Strand fut arrêté--, il y avait soixante-seize jours que Phileas Fogg était parti, et pas une nouvelle de lui!"
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch36-u0012",
+          "english": "Was he dead?",
+          "translation": "Et le samedi 21 décembre, à huit heures quarante-cinq du soir, allait-il apparaître, comme le dieu de l'exactitude, sur le seuil du salon du Reform-Club?"
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch36-u0016",
+          "english": "Telegrams were sent to America and Asia for news of Phileas Fogg.",
+          "translation": "Rien."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch36-u0018",
+          "english": "No news.",
+          "translation": "Ce qui n'empêcha pas les paris de s'engager de nouveau sur une plus vaste échelle."
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-37",
+      "title": "CHAPTER XXXVII.",
+      "units": 85,
+      "languages": {
+        "en": {
+          "units": 85,
+          "needsReview": 0
+        },
+        "es": {
+          "units": 85,
+          "needsReview": 26
+        },
+        "fr": {
+          "units": 85,
+          "needsReview": 33
+        }
+      },
+      "questionable": [
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch37-u0002",
+          "english": "Phileas Fogg in person.",
+          "translation": "unas veinticuatro horas después de la llegada de los viajeros a Londres,"
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch37-u0003",
+          "english": "The reader will remember that at five minutes past eight in the evening—about five and twenty hours after the arrival of the travellers in London—Passepartout had been sent by his",
+          "translation": "Picaporte había sido encargado de prevenir al reverendo Samuel"
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch37-u0012",
+          "english": "Fogg's room.",
+          "translation": "En tres minutos llegó a la casa de Saville Row,"
+        },
+        {
+          "language": "es",
+          "syncId": "eighty-days-ch37-u0013",
+          "english": "He could not speak.",
+          "translation": "y caía sin aliento en el cuarto de mister Fogg. -Señor...- tartamudeó Picaporte-,"
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch37-u0009",
+          "english": "But in what a state he was!",
+          "translation": "Bref, il était huit heures trente-cinq quand il sortit de la maison du révérend."
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch37-u0010",
+          "english": "With his hair in disorder, and without his hat, he ran along the street as never man was seen to run before, overturning passers-by, rushing over the sidewalk like a waterspout.",
+          "translation": "Mais dans quel état!"
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch37-u0012",
+          "english": "Fogg's room.",
+          "translation": "renversant les passants, se précipitant comme une trombe sur les trottoirs!"
+        },
+        {
+          "language": "fr",
+          "syncId": "eighty-days-ch37-u0013",
+          "english": "He could not speak.",
+          "translation": "En trois minutes, il était de retour à la maison de Saville-row, et il tombait, essoufflé, dans la chambre de Mr."
+        }
+      ]
+    }
+  ],
+  "needsReview": 2367
+}

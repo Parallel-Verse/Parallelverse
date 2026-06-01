@@ -1,0 +1,1139 @@
+{
+  "bookId": "christmas-carol",
+  "title": "A Christmas Carol",
+  "masterLanguage": "en",
+  "languages": [
+    "de",
+    "en",
+    "es",
+    "fr"
+  ],
+  "chapters": [
+    {
+      "chapterId": "chapter-1",
+      "title": "STAVE I: MARLEY'S GHOST",
+      "units": 348,
+      "languages": {
+        "en": {
+          "units": 348,
+          "candidates": 348,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "de": {
+          "units": 348,
+          "candidates": 348,
+          "needsReview": 105,
+          "averageScore": 0.25
+        },
+        "es": {
+          "units": 348,
+          "candidates": 348,
+          "needsReview": 119,
+          "averageScore": 0.253
+        },
+        "fr": {
+          "units": 348,
+          "candidates": 348,
+          "needsReview": 109,
+          "averageScore": 0.26
+        }
+      },
+      "samples": [
+        {
+          "language": "de",
+          "syncId": "christmas-carol-ch1-u0006",
+          "score": 0.137,
+          "master": "Mind!",
+          "translation": "Der alte Marley war so tot wie ein Thürnagel.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "christmas-carol-ch1-u0007",
+          "score": 0.106,
+          "master": "I don't mean to say that I know, of my own knowledge, what there is particularly dead about a door-nail.",
+          "translation": "Merkt wohl auf!",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "christmas-carol-ch1-u0011",
+          "score": 0.157,
+          "master": "Scrooge knew he was dead?",
+          "translation": "Man wird mir daher erlauben, mit besonderem Nachdruck zu wiederholen, daß Marley so tot wie ein Thürnagel war.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "christmas-carol-ch1-u0013",
+          "score": 0.194,
+          "master": "How could it be otherwise?",
+          "translation": "Natürlich wußte er's.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "christmas-carol-ch1-u0014",
+          "score": 0.17,
+          "master": "Scrooge and he were partners for I don't know how many years.",
+          "translation": "Wie konnte es auch anders sein?",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "christmas-carol-ch1-u0021",
+          "score": 0.192,
+          "master": "Churchyard for instance-- literally to astonish his son's weak mind.",
+          "translation": "Wenn wir nicht vollkommen fest überzeugt wären, daß Hamlets Vater tot ist, ehe das Stück beginnt, würde durchaus nichts Merkwürdiges in seinem nächtlichen Spaziergang bei scharfem ",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "christmas-carol-ch1-u0022",
+          "score": 0.165,
+          "master": "Scrooge never painted out Old Marley's name.",
+          "translation": "Nicht mehr, als bei jedem andern Herrn in mittleren Jahren, der sich nach Sonnenuntergang rasch zu einem Spaziergang auf einem luftigen Platze, zum Beispiel Sankt Pauls Kirchhof, e",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "christmas-carol-ch1-u0027",
+          "score": 0.166,
+          "master": "Oh!",
+          "translation": "O, er war ein wahrer Blutsauger, der Scrooge! ein gieriger, zusammenscharrender, festhaltender, geiziger alter Sünder; hart und scharf wie ein Kiesel, aus dem noch kein Stahl einen",
+          "needsReview": true
+        },
+        {
+          "language": "es",
+          "syncId": "christmas-carol-ch1-u0006",
+          "score": 0.121,
+          "master": "Mind!",
+          "translation": "Aguardad: con esto no quiero decir que yo conozca, por mí mismo, lo que hay de especialmente muerto en un clavo.",
+          "needsReview": true
+        },
+        {
+          "language": "es",
+          "syncId": "christmas-carol-ch1-u0009",
+          "score": 0.153,
+          "master": "But the wisdom of our ancestors is in the simile; and my unhallowed hands shall not disturb it, or the Country's done for.",
+          "translation": "De otra manera ¡qué seria de nuestro país!",
+          "needsReview": true
+        },
+        {
+          "language": "es",
+          "syncId": "christmas-carol-ch1-u0017",
+          "score": 0.154,
+          "master": "The mention of Marley's funeral brings me back to the point I started from.",
+          "translation": "negocios y",
+          "needsReview": true
+        },
+        {
+          "language": "es",
+          "syncId": "christmas-carol-ch1-u0021",
+          "score": 0.18,
+          "master": "Churchyard for instance-- literally to astonish his son's weak mind.",
+          "translation": "Si no estuviéramos convencidos de que el padre de Hámlet ha muerto antes de que la tragedia dé principio, no tendria nada de extraño que lo viéramos pasear al pié de las murallas d",
+          "needsReview": true
+        },
+        {
+          "language": "es",
+          "syncId": "christmas-carol-ch1-u0022",
+          "score": 0.173,
+          "master": "Scrooge never painted out Old Marley's name.",
+          "translation": "lo mismo exactamente, que si viéramos á otra persona de edad provecta pasearse á horas desusadas en medio de la oscuridad de la noche y por lugares donde soplara un viento helador;",
+          "needsReview": true
+        },
+        {
+          "language": "es",
+          "syncId": "christmas-carol-ch1-u0027",
+          "score": 0.119,
+          "master": "Oh!",
+          "translation": "Algunas personas poco al corriente de los negocios lo llamaban Scrooge-Scrooge; otras, Marley sencillamente, mas él contestaba por los dos nombres; para él no constituía más que un",
+          "needsReview": true
+        },
+        {
+          "language": "es",
+          "syncId": "christmas-carol-ch1-u0028",
+          "score": 0.173,
+          "master": "But he was a tight-fisted hand at the grind-stone, Scrooge! a squeezing, wrenching, grasping, scraping, clutching, covetous, old sinner!",
+          "translation": "¡Oh!",
+          "needsReview": true
+        },
+        {
+          "language": "es",
+          "syncId": "christmas-carol-ch1-u0041",
+          "score": 0.026,
+          "master": "Even the blind men's dogs appeared to know him; and when they saw him coming on, would tug their owners into doorways and up courts; and then would wag their tails as though they s",
+          "translation": "¿Cuándo vendrá usted á verme?",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "christmas-carol-ch1-u0006",
+          "score": 0.13,
+          "master": "Mind!",
+          "translation": "Attention! je ne veux pas dire que je sache par moi-même ce qu'il y a de particulièrement mort dans un clou de porte.",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "christmas-carol-ch1-u0009",
+          "score": 0.172,
+          "master": "But the wisdom of our ancestors is in the simile; and my unhallowed hands shall not disturb it, or the Country's done for.",
+          "translation": "autrement le pays est perdu.",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "christmas-carol-ch1-u0021",
+          "score": 0.144,
+          "master": "Churchyard for instance-- literally to astonish his son's weak mind.",
+          "translation": "comme",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "christmas-carol-ch1-u0026",
+          "score": 0.178,
+          "master": "It was all the same to him.",
+          "translation": "Quelquefois des gens peu au courant des affaires l'appelaient Scrooge-Scrooge, quelquefois Marley tout court; mais il répondait également à l'un et à l'autre nom; pour lui c'était ",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "christmas-carol-ch1-u0027",
+          "score": 0.178,
+          "master": "Oh!",
+          "translation": "Oh! il tenait bien le poing fermé sur la meule, le bonhomme Scrooge!",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "christmas-carol-ch1-u0042",
+          "score": 0.108,
+          "master": "But what did Scrooge care!",
+          "translation": "Les chiens d'aveugles eux-mêmes semblaient le connaître, et, quand ils le voyaient venir, ils entraînaient leurs maîtres sous les portes cochères et dans les ruelles, puis remuaien",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "christmas-carol-ch1-u0043",
+          "score": 0.199,
+          "master": "It was the very thing he liked.",
+          "translation": "\"Mon pauvre maître aveugle, mieux vaut pas d'oeil du tout qu'un mauvais oeil!\"",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "christmas-carol-ch1-u0045",
+          "score": 0.192,
+          "master": "Once upon a time--of all the good days in the year, on Christmas Eve--old Scrooge sat busy in his counting-house.",
+          "translation": "C'était là précisément ce qu'il voulait.",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-2",
+      "title": "STAVE II: THE FIRST OF THE THREE SPIRITS",
+      "units": 310,
+      "languages": {
+        "en": {
+          "units": 310,
+          "candidates": 310,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "de": {
+          "units": 310,
+          "candidates": 310,
+          "needsReview": 76,
+          "averageScore": 0.269
+        },
+        "es": {
+          "units": 310,
+          "candidates": 310,
+          "needsReview": 116,
+          "averageScore": 0.238
+        },
+        "fr": {
+          "units": 310,
+          "candidates": 310,
+          "needsReview": 103,
+          "averageScore": 0.241
+        }
+      },
+      "samples": [
+        {
+          "language": "de",
+          "syncId": "christmas-carol-ch2-u0005",
+          "score": 0.12,
+          "master": "Twelve!",
+          "translation": "Zu seinem großen Erstaunen schlug die Glocke fort, von sechs zu sieben, und von sieben zu acht und so weiter bis zwölf; dann schwieg sie.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "christmas-carol-ch2-u0006",
+          "score": 0.137,
+          "master": "It was past two when he went to bed.",
+          "translation": "Zwölf!",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "christmas-carol-ch2-u0009",
+          "score": 0.14,
+          "master": "Twelve!",
+          "translation": "Ein Eiszapfen mußte zwischen die Räder gekommen sein.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "christmas-carol-ch2-u0010",
+          "score": 0.128,
+          "master": "He touched the spring of his repeater, to correct this most preposterous clock.",
+          "translation": "Zwölf!",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "christmas-carol-ch2-u0012",
+          "score": 0.123,
+          "master": "\"Why, it isn't possible,\" said Scrooge, \"that I can have slept through a whole day and far into another night. It isn't possible that anything has happened to the sun, and this is ",
+          "translation": "Ihr kleiner, lebendiger Puls schlug Zwölf, und schwieg.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "christmas-carol-ch2-u0013",
+          "score": 0.114,
+          "master": "The idea being an alarming one, he scrambled out of bed, and groped his way to the window.",
+          "translation": "\"Was! es ist doch nicht möglich,\" sagte Scrooge, \"ich sollte den ganzen Tag und tief in die andere Nacht geschlafen haben? Es ist doch nicht möglich, daß der Sonne etwas passiert u",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "christmas-carol-ch2-u0019",
+          "score": 0.177,
+          "master": "Marley's Ghost bothered him exceedingly.",
+          "translation": "Je mehr er nachdachte, desto verwirrter wurde er; und je mehr er sich bestrebte, nicht nachzudenken, desto mehr dachte er nach.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "christmas-carol-ch2-u0020",
+          "score": 0.087,
+          "master": "Every time he resolved within himself, after mature inquiry, that it was all a dream, his mind flew back again, like a strong spring released, to its first position, and presented ",
+          "translation": "Marleys Geist machte ihm viel zu schaffen.",
+          "needsReview": true
+        },
+        {
+          "language": "es",
+          "syncId": "christmas-carol-ch2-u0004",
+          "score": 0.129,
+          "master": "To his great astonishment the heavy bell went on from six to seven, and from seven to eight, and regularly up to twelve; then stopped.",
+          "translation": "¡Media noche!",
+          "needsReview": true
+        },
+        {
+          "language": "es",
+          "syncId": "christmas-carol-ch2-u0005",
+          "score": 0.137,
+          "master": "Twelve!",
+          "translation": "Luego llevaba dos horas no más en la cama.",
+          "needsReview": true
+        },
+        {
+          "language": "es",
+          "syncId": "christmas-carol-ch2-u0007",
+          "score": 0.179,
+          "master": "The clock was wrong.",
+          "translation": "Sin duda algun carámbano de hielo debia haberse introducido en la maquinaria ¡Media noche!",
+          "needsReview": true
+        },
+        {
+          "language": "es",
+          "syncId": "christmas-carol-ch2-u0009",
+          "score": 0.13,
+          "master": "Twelve!",
+          "translation": "El reloj de bolsillo dió tambien doce campanadas rápidamente y se detuvo.",
+          "needsReview": true
+        },
+        {
+          "language": "es",
+          "syncId": "christmas-carol-ch2-u0019",
+          "score": 0.15,
+          "master": "Marley's Ghost bothered him exceedingly.",
+          "translation": "Cada vez que, como final de un maduro exámen, se determinaba, en su interior, á considerar todo aquello como puro sueño, su espíritu á semejanza de un resorte oprimido, que al solt",
+          "needsReview": true
+        },
+        {
+          "language": "es",
+          "syncId": "christmas-carol-ch2-u0020",
+          "score": 0.192,
+          "master": "Every time he resolved within himself, after mature inquiry, that it was all a dream, his mind flew back again, like a strong spring released, to its first position, and presented ",
+          "translation": "\"¿ha sido ó no un sueño?\"",
+          "needsReview": true
+        },
+        {
+          "language": "es",
+          "syncId": "christmas-carol-ch2-u0024",
+          "score": 0.177,
+          "master": "At length it broke upon his listening ear.",
+          "translation": "Al fin oyó el reloj. —Din, don. —Un cuarto. —Din, don. —La media. —Din, don. —Tres cuartos. —Din, don. —¡La hora, la hora! exclamó Scrooge con júbilo: ninguno más viene.",
+          "needsReview": true
+        },
+        {
+          "language": "es",
+          "syncId": "christmas-carol-ch2-u0025",
+          "score": 0.114,
+          "master": "\"Ding, dong!\"",
+          "translation": "Hablaba antes de que la campana de las horas hubiese dado.",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "christmas-carol-ch2-u0020",
+          "score": 0.087,
+          "master": "Every time he resolved within himself, after mature inquiry, that it was all a dream, his mind flew back again, like a strong spring released, to its first position, and presented ",
+          "translation": "Le spectre de Marley le troublait excessivement.",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "christmas-carol-ch2-u0022",
+          "score": 0.094,
+          "master": "He resolved to lie awake until the hour was passed; and, considering that he could no more go to sleep than go to Heaven, this was perhaps the wisest resolution in his power.",
+          "translation": "\"était-ce ou n'était-ce pas un songe?\"",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "christmas-carol-ch2-u0024",
+          "score": 0.171,
+          "master": "At length it broke upon his listening ear.",
+          "translation": "Il résolut de se tenir éveillé jusqu'à ce que l'heure fût passée, et considérant qu'il ne lui était pas plus possible de s'endormir que d'avaler la lune, c'était peut-être la résol",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "christmas-carol-ch2-u0025",
+          "score": 0.131,
+          "master": "\"Ding, dong!\"",
+          "translation": "Ce quart d'heure lui parut si long, qu'il crut plus d'une fois s'être assoupi sans s'en apercevoir, et n'avoir pas entendu sonner l'heure.",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "christmas-carol-ch2-u0028",
+          "score": 0.128,
+          "master": "\"Half-past!\" said Scrooge.",
+          "translation": "Il parlait avant que le timbre de l'horloge eût retenti; mais au moment où celui-ci eût fait entendre un coup profond, lugubre, sourd, mélancolique, une vive lueur brilla aussitôt ",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "christmas-carol-ch2-u0029",
+          "score": 0.083,
+          "master": "\"Ding, dong!\"",
+          "translation": "Les rideaux de son lit furent tirés, vous dis-je, de côté, par une main invisible; non pas les rideaux qui tombaient à ses pieds ou derrière sa tête, mais ceux vers lesquels son vi",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "christmas-carol-ch2-u0031",
+          "score": 0.088,
+          "master": "\"Ding, dong!\"",
+          "translation": "visiteur surnaturel qui les tirait, aussi près de lui que je le suis maintenant de vous, et notez que je me tiens debout, en esprit, à votre",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "christmas-carol-ch2-u0032",
+          "score": 0.097,
+          "master": "\"The hour itself,\" said Scrooge, triumphantly, \"and nothing else!\"",
+          "translation": "coude.",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-3",
+      "title": "STAVE III: THE SECOND OF THE THREE SPIRITS",
+      "units": 371,
+      "languages": {
+        "en": {
+          "units": 371,
+          "candidates": 371,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "de": {
+          "units": 371,
+          "candidates": 372,
+          "needsReview": 87,
+          "averageScore": 0.28
+        },
+        "es": {
+          "units": 371,
+          "candidates": 371,
+          "needsReview": 143,
+          "averageScore": 0.234
+        },
+        "fr": {
+          "units": 371,
+          "candidates": 371,
+          "needsReview": 127,
+          "averageScore": 0.241
+        }
+      },
+      "samples": [
+        {
+          "language": "de",
+          "syncId": "christmas-carol-ch3-u0001",
+          "score": 0.193,
+          "master": "AWAKING in the middle of a prodigiously tough snore, and sitting up in bed to get his thoughts together, Scrooge had no occasion to be told that the bell was again upon the stroke ",
+          "translation": "Der zweite der drei Geister.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "christmas-carol-ch3-u0016",
+          "score": 0.182,
+          "master": "He obeyed.",
+          "translation": "In demselben Augenblick, wo sich Scrooges Hand auf den Drücker legte, rief ihn eine fremde Stimme bei Namen und hieß ihn eintreten.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "christmas-carol-ch3-u0025",
+          "score": 0.118,
+          "master": "\"Come in!\" exclaimed the Ghost.",
+          "translation": "erfüllten.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "christmas-carol-ch3-u0026",
+          "score": 0.19,
+          "master": "\"Come in! and know me better, man!\"",
+          "translation": "Auf diesem Thron saß behaglich und mit fröhlichem Angesicht ein Riese, gar herrlich anzuschauen.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "christmas-carol-ch3-u0030",
+          "score": 0.135,
+          "master": "\"Look upon me!\"",
+          "translation": "Scrooge trat schüchtern ein und senkte das Haupt vor dem Geiste.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "christmas-carol-ch3-u0033",
+          "score": 0.149,
+          "master": "This garment hung so loosely on the figure, that its capacious breast was bare, as if disdaining to be warded or concealed by any artifice.",
+          "translation": "\"Sieh' mich an.\"",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "christmas-carol-ch3-u0037",
+          "score": 0.163,
+          "master": "\"You have never seen the like of me before!\" exclaimed the Spirit.",
+          "translation": "Auch die Füße waren bloß und schauten unter den weiten Falten des Gewandes hervor; und das Haupt hatte keine andere Bedeckung, als einen Stecheichenkranz, in dem hier und da Eiszap",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "christmas-carol-ch3-u0043",
+          "score": 0.173,
+          "master": "\"A tremendous family to provide for!\" muttered Scrooge.",
+          "translation": "\"Hast dich nie mit den jüngern Gliedern meiner Familie abgegeben; ich meine (denn ich bin sehr jung) meine ältern Brüder, welche in den letztern Jahren geboren worden sind,\" fuhr d",
+          "needsReview": true
+        },
+        {
+          "language": "es",
+          "syncId": "christmas-carol-ch3-u0002",
+          "score": 0.185,
+          "master": "He felt that he was restored to consciousness in the right nick of time, for the especial purpose of holding a conference with the second messenger despatched to him through Jacob ",
+          "translation": "Incorporándose en el lecho trató de recoger sus ideas.",
+          "needsReview": true
+        },
+        {
+          "language": "es",
+          "syncId": "christmas-carol-ch3-u0007",
+          "score": 0.126,
+          "master": "Without venturing for Scrooge quite as hardily as this, I don't mind calling on you to believe that he was ready for a good broad field of strange appearances, and that nothing bet",
+          "translation": "embargase",
+          "needsReview": true
+        },
+        {
+          "language": "es",
+          "syncId": "christmas-carol-ch3-u0008",
+          "score": 0.187,
+          "master": "Now, being prepared for almost anything, he was not by any means prepared for nothing; and, consequently, when the Bell struck One, and no shape appeared, he was taken with a viole",
+          "translation": "una emocion demasiado viva.",
+          "needsReview": true
+        },
+        {
+          "language": "es",
+          "syncId": "christmas-carol-ch3-u0014",
+          "score": 0.172,
+          "master": "This idea taking full possession of his mind, he got up softly and shuffled in his slippers to the door.",
+          "translation": "rinoceronte.",
+          "needsReview": true
+        },
+        {
+          "language": "es",
+          "syncId": "christmas-carol-ch3-u0016",
+          "score": 0.197,
+          "master": "He obeyed.",
+          "translation": "Transcurrieron cinco minutos, diez minutos, un cuarto de hora y nada se veia.",
+          "needsReview": true
+        },
+        {
+          "language": "es",
+          "syncId": "christmas-carol-ch3-u0017",
+          "score": 0.198,
+          "master": "It was his own room.",
+          "translation": "Durante aquel tiempo permaneció tendido en la cama, sobre la que se reunian, como sobre un punto central, los rayos de una luz rojiza que lo iluminó completamente al dar la una.",
+          "needsReview": true
+        },
+        {
+          "language": "es",
+          "syncId": "christmas-carol-ch3-u0018",
+          "score": 0.196,
+          "master": "There was no doubt about that.",
+          "translation": "Esta luz, por sí sola, le producia más alarma que una docena de aparecidos, porque no podía comprender ni la significación ni la causa, y hasta se figuraba que era víctima de una c",
+          "needsReview": true
+        },
+        {
+          "language": "es",
+          "syncId": "christmas-carol-ch3-u0023",
+          "score": 0.184,
+          "master": "punch, that made the chamber dim with their delicious steam.",
+          "translation": "Obedeció.",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "christmas-carol-ch3-u0008",
+          "score": 0.197,
+          "master": "Now, being prepared for almost anything, he was not by any means prepared for nothing; and, consequently, when the Bell struck One, and no shape appeared, he was taken with a viole",
+          "translation": "jusqu'à une partie d'honneur (c'est ainsi, je crois, qu'on appelle l'homicide).",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "christmas-carol-ch3-u0012",
+          "score": 0.126,
+          "master": "At last, however, he began to think--as you or I would have thought at first;",
+          "translation": "rhinocéros!",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "christmas-carol-ch3-u0016",
+          "score": 0.13,
+          "master": "He obeyed.",
+          "translation": "Cette lumière toute seule lui causait plus d'alarmes qu'une douzaine de spectres, car il ne pouvait en comprendre ni la signification ni la cause, et parfois il craignait d'être en",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "christmas-carol-ch3-u0017",
+          "score": 0.149,
+          "master": "It was his own room.",
+          "translation": "À la fin, cependant, il commença à penser, comme vous et moi l'aurions pensé d'abord (car c'est toujours la personne qui ne se trouve point dans l'embarras, qui sait ce qu'on aurai",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "christmas-carol-ch3-u0018",
+          "score": 0.159,
+          "master": "There was no doubt about that.",
+          "translation": "à la fin, dis-je, il commença à penser que le foyer mystérieux de cette lumière fantastique pourrait être dans la chambre voisine, d'où, en la suivant pour ainsi dire à la trace, o",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "christmas-carol-ch3-u0019",
+          "score": 0.182,
+          "master": "But it had undergone a surprising transformation.",
+          "translation": "Cette idée s'empara si complètement de son esprit, qu'il se leva aussitôt tout doucement, mit ses pantoufles, et se glissa sans bruit du côté de la porte.",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "christmas-carol-ch3-u0021",
+          "score": 0.129,
+          "master": "The crisp leaves of holly, mistletoe, and ivy reflected back the light, as if so many little mirrors had been scattered there; and such a mighty blaze went roaring up the chimney, ",
+          "translation": "Il obéit.",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "christmas-carol-ch3-u0025",
+          "score": 0.146,
+          "master": "\"Come in!\" exclaimed the Ghost.",
+          "translation": "dans la cheminée flambait un feu magnifique, tel que ce foyer morne et froid comme la pierre n'en avait jamais connu au temps de Scrooge ou de Marley, ni depuis bien des hivers.",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-4",
+      "title": "STAVE IV: THE LAST OF THE SPIRITS",
+      "units": 304,
+      "languages": {
+        "en": {
+          "units": 304,
+          "candidates": 304,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "de": {
+          "units": 304,
+          "candidates": 304,
+          "needsReview": 103,
+          "averageScore": 0.248
+        },
+        "es": {
+          "units": 304,
+          "candidates": 305,
+          "needsReview": 105,
+          "averageScore": 0.236
+        },
+        "fr": {
+          "units": 304,
+          "candidates": 304,
+          "needsReview": 122,
+          "averageScore": 0.225
+        }
+      },
+      "samples": [
+        {
+          "language": "de",
+          "syncId": "christmas-carol-ch4-u0010",
+          "score": 0.143,
+          "master": "\"Is that so, Spirit?\"",
+          "translation": "\"Du willst mir die Schatten der Dinge zeigen, welche nicht geschehen sind, aber geschehen werden,\" fuhr Scrooge fort.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "christmas-carol-ch4-u0011",
+          "score": 0.094,
+          "master": "The upper portion of the garment was contracted for an instant in its folds, as if the Spirit had inclined its head.",
+          "translation": "\"Willst du das, Geist?\"",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "christmas-carol-ch4-u0017",
+          "score": 0.179,
+          "master": "\"Ghost of the Future!\" he exclaimed, \"I fear you more than any spectre I have seen. But as I know your purpose is to do me good, and as I hope to live to be another man from what I",
+          "translation": "\"Geist der Zukunft,\" rief er, \"ich fürchte dich mehr als die Geister, die ich schon gesehen habe. Aber da ich weiß, daß es dein Zweck ist, mir Gutes zu thun, und da ich",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "christmas-carol-ch4-u0018",
+          "score": 0.199,
+          "master": "It gave him no reply.",
+          "translation": "hoffe zu leben, um ein anderer Mensch zu werden, als ich früher war, bin ich bereit, dich zu begleiten und thue es mit einem dankerfüllten Herzen. Willst du nicht zu mir",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "christmas-carol-ch4-u0019",
+          "score": 0.084,
+          "master": "The hand was pointed straight before them.",
+          "translation": "sprechen?\"",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "christmas-carol-ch4-u0021",
+          "score": 0.184,
+          "master": "\"Lead on! The night is waning fast, and it is precious time to me, I know. Lead on, Spirit!\"",
+          "translation": "Die Hand wies gerade in die Ferne vor ihn.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "christmas-carol-ch4-u0030",
+          "score": 0.168,
+          "master": "\"Last night, I believe.\"",
+          "translation": "Scrooge sah, daß die Hand der Erscheinung darauf hinwies, und so näherte er sich ihnen, um ihr Gespräch zu belauschen.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "christmas-carol-ch4-u0037",
+          "score": 0.121,
+          "master": "This pleasantry was received with a general laugh.",
+          "translation": "\"Was hat er mit seinem Gelde angefangen?\" fragte ein Herr mit einem roten Gesicht und einem Auswuchs an der Nasenspitze, welcher wackelte, wie der Lappen eines Truthahns.",
+          "needsReview": true
+        },
+        {
+          "language": "es",
+          "syncId": "christmas-carol-ch4-u0006",
+          "score": 0.178,
+          "master": "He knew no more, for the Spirit neither spoke nor moved.",
+          "translation": "El espectro no contestó, limitándose á tener siempre la mano tendida. —¿Vais á mostrarme las sombras de las cosas que no han sucedido todavía, pero que sucederán con el tiempo?",
+          "needsReview": true
+        },
+        {
+          "language": "es",
+          "syncId": "christmas-carol-ch4-u0007",
+          "score": 0.194,
+          "master": "\"I am in the presence of the Ghost of Christmas Yet To Come?\" said Scrooge.",
+          "translation": "La parte superior de la vestidura del fantasma se contrajo un poco, segun lo indicaron los pliegues al aproximarse como sí el espectro hubiera inclinado la cabeza.",
+          "needsReview": true
+        },
+        {
+          "language": "es",
+          "syncId": "christmas-carol-ch4-u0010",
+          "score": 0.103,
+          "master": "\"Is that so, Spirit?\"",
+          "translation": "El espíritu, como si hubiera conocido la turbacion de Scrooge, se paró un momento como para darle lugar á que se repusiese.",
+          "needsReview": true
+        },
+        {
+          "language": "es",
+          "syncId": "christmas-carol-ch4-u0016",
+          "score": 0.106,
+          "master": "It thrilled him with a vague uncertain horror, to know that behind the dusky shroud, there were ghostly eyes intently fixed upon him, while he, though he stretched his own to the u",
+          "translation": "¿No me hablareís?",
+          "needsReview": true
+        },
+        {
+          "language": "es",
+          "syncId": "christmas-carol-ch4-u0017",
+          "score": 0.008,
+          "master": "\"Ghost of the Future!\" he exclaimed, \"I fear you more than any spectre I have seen. But as I know your purpose is to do me good, and as I hope to live to be another man from what I",
+          "translation": "Ninguna respuesta.",
+          "needsReview": true
+        },
+        {
+          "language": "es",
+          "syncId": "christmas-carol-ch4-u0020",
+          "score": 0.19,
+          "master": "\"Lead on!\" said Scrooge.",
+          "translation": "Espíritu guiadme.",
+          "needsReview": true
+        },
+        {
+          "language": "es",
+          "syncId": "christmas-carol-ch4-u0021",
+          "score": 0.171,
+          "master": "\"Lead on! The night is waning fast, and it is precious time to me, I know. Lead on, Spirit!\"",
+          "translation": "El fantasma empezó á deslizarse como habia venido.",
+          "needsReview": true
+        },
+        {
+          "language": "es",
+          "syncId": "christmas-carol-ch4-u0029",
+          "score": 0.098,
+          "master": "\"When did he die?\" inquired another.",
+          "translation": "que ostentaba en la punta de la nariz una enorme lupia colgante como el moco de un pavo. —No lo sé, contestó el hombre de la triple barba, bostezando de",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "christmas-carol-ch4-u0005",
+          "score": 0.17,
+          "master": "He felt that it was tall and stately when it came beside him, and that its mysterious presence filled him with a solemn dread.",
+          "translation": "environnée.",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "christmas-carol-ch4-u0010",
+          "score": 0.196,
+          "master": "\"Is that so, Spirit?\"",
+          "translation": "\"Vous allez me montrer les ombres des choses qui ne sont pas arrivées encore et qui arriveront dans la suite des temps, poursuivit Scrooge. N'est-ce pas, esprit?\"",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "christmas-carol-ch4-u0015",
+          "score": 0.19,
+          "master": "But Scrooge was all the worse for this.",
+          "translation": "suivre.",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "christmas-carol-ch4-u0017",
+          "score": 0.068,
+          "master": "\"Ghost of the Future!\" he exclaimed, \"I fear you more than any spectre I have seen. But as I know your purpose is to do me good, and as I hope to live to be another man from what I",
+          "translation": "Mais Scrooge n'en fut que plus agité;",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "christmas-carol-ch4-u0019",
+          "score": 0.193,
+          "master": "The hand was pointed straight before them.",
+          "translation": "étaient attentivement fixés sur lui, et que, malgré tous ses efforts, il ne pouvait voir qu'une main de spectre et une grande masse",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "christmas-carol-ch4-u0020",
+          "score": 0.13,
+          "master": "\"Lead on!\" said Scrooge.",
+          "translation": "noirâtre.",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "christmas-carol-ch4-u0022",
+          "score": 0.162,
+          "master": "The Phantom moved away as it had come towards him.",
+          "translation": "je vous redoute plus qu'aucun des spectres que j'aie encore vus! Mais, parce que je sais que vous vous proposez mon bien, et parce que j'espère",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "christmas-carol-ch4-u0024",
+          "score": 0.06,
+          "master": "They scarcely seemed to enter the city; for the city rather seemed to spring up about them, and encompass them of its own act.",
+          "translation": "pas?\"",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-5",
+      "title": "STAVE V: THE END OF IT",
+      "units": 150,
+      "languages": {
+        "en": {
+          "units": 150,
+          "candidates": 150,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "de": {
+          "units": 150,
+          "candidates": 150,
+          "needsReview": 42,
+          "averageScore": 0.249
+        },
+        "es": {
+          "units": 150,
+          "candidates": 150,
+          "needsReview": 61,
+          "averageScore": 0.222
+        },
+        "fr": {
+          "units": 150,
+          "candidates": 150,
+          "needsReview": 54,
+          "averageScore": 0.239
+        }
+      },
+      "samples": [
+        {
+          "language": "de",
+          "syncId": "christmas-carol-ch5-u0023",
+          "score": 0.175,
+          "master": "Oh, glorious, glorious!",
+          "translation": "Er lief zum Fenster, öffnete es und steckte den Kopf hinaus.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "christmas-carol-ch5-u0025",
+          "score": 0.138,
+          "master": "No fog, no mist; clear, bright, jovial, stirring, cold; cold, piping for the blood to dance to; Golden sunlight; Heavenly sky; sweet fresh air; merry bells.",
+          "translation": "O, herrlich, herrlich!",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "christmas-carol-ch5-u0026",
+          "score": 0.034,
+          "master": "Oh, glorious!",
+          "translation": "\"Was ist denn heute?\" rief Scrooge einem Knaben in Sonntagskleidern zu, der unten stand.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "christmas-carol-ch5-u0027",
+          "score": 0.03,
+          "master": "Glorious!",
+          "translation": "\"He?\" fragte der Knabe mit der allermöglichsten Verwunderung.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "christmas-carol-ch5-u0028",
+          "score": 0.19,
+          "master": "\"What's to-day!\" cried Scrooge, calling downward to a boy in Sunday clothes, who perhaps had loitered in to look about him.",
+          "translation": "\"Was ist heute, mein Junge?\" sagte Scrooge.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "christmas-carol-ch5-u0034",
+          "score": 0.164,
+          "master": "\"I haven't missed it. The Spirits have done it all in one night. They can do anything they like. Of course they can. Of course they can. Hallo, my fine fellow!\"",
+          "translation": "\"I, warum denn nicht,\" antwortete der Junge.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "christmas-carol-ch5-u0037",
+          "score": 0.098,
+          "master": "Scrooge inquired.",
+          "translation": "\"Was, der so groß ist wie ich?\" antwortete der Junge.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "christmas-carol-ch5-u0040",
+          "score": 0.148,
+          "master": "\"A remarkable boy! Do you know whether they've sold the prize Turkey that was hanging up there?--Not the little prize Turkey: the big one?\"",
+          "translation": "\"Ist's wahr?\" sagte Scrooge.",
+          "needsReview": true
+        },
+        {
+          "language": "es",
+          "syncId": "christmas-carol-ch5-u0004",
+          "score": 0.181,
+          "master": "\"I will live in the Past, the Present, and the Future!\"",
+          "translation": "El mañana era suyo y podia enmendarse. —Quiero vivir en lo pasado, en el presente y en el porvenir, repitió Scrooge, echándose fuera de la cama.",
+          "needsReview": true
+        },
+        {
+          "language": "es",
+          "syncId": "christmas-carol-ch5-u0006",
+          "score": 0.198,
+          "master": "\"The Spirits of all Three shall strive within me. Oh Jacob Marley! Heaven, and the Christmas Time be praised for this! I say it on my knees, old Jacob; on my knees!\"",
+          "translation": "¡Oh Jacobo Marley!",
+          "needsReview": true
+        },
+        {
+          "language": "es",
+          "syncId": "christmas-carol-ch5-u0011",
+          "score": 0.089,
+          "master": "\"I don't know what to do!\" cried Scrooge, laughing and crying in the same breath; and making a perfect Laocoön of himself with his stockings.",
+          "translation": "Están aquí.",
+          "needsReview": true
+        },
+        {
+          "language": "es",
+          "syncId": "christmas-carol-ch5-u0012",
+          "score": 0.159,
+          "master": "\"I am as light as a feather, I am as happy as an angel, I am as merry as a schoolboy. I am as giddy as a drunken man. A merry Christmas to everybody! A happy New Year to all the wo",
+          "translation": "Las imágenes de las cosas que hubieron podido suceder, pueden tambien desvanecerse; se disiparán; ya lo sé.",
+          "needsReview": true
+        },
+        {
+          "language": "es",
+          "syncId": "christmas-carol-ch5-u0019",
+          "score": 0.1,
+          "master": "\"I don't know how long I've been among the Spirits. I don't know anything. I'm quite a baby. Never mind. I don't care. I'd rather be a baby. Hallo! Whoop! Hallo here!\"",
+          "translation": "Hola, eh, eh, hola.",
+          "needsReview": true
+        },
+        {
+          "language": "es",
+          "syncId": "christmas-carol-ch5-u0023",
+          "score": 0.17,
+          "master": "Oh, glorious, glorious!",
+          "translation": "Hé ahí la ventana desde donde he visto las almas en pena.",
+          "needsReview": true
+        },
+        {
+          "language": "es",
+          "syncId": "christmas-carol-ch5-u0025",
+          "score": 0.188,
+          "master": "No fog, no mist; clear, bright, jovial, stirring, cold; cold, piping for the blood to dance to; Golden sunlight; Heavenly sky; sweet fresh air; merry bells.",
+          "translation": "Já, já, já.",
+          "needsReview": true
+        },
+        {
+          "language": "es",
+          "syncId": "christmas-carol-ch5-u0026",
+          "score": 0.121,
+          "master": "Oh, glorious!",
+          "translation": "Y á la verdad que para un hombre tan desacostumbrado á ella, la risa tenía mucho de magnífica, de esplendorosa: era una risa productora de muchas y muchas generaciones de estrepito",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "christmas-carol-ch5-u0005",
+          "score": 0.179,
+          "master": "Scrooge repeated, as he scrambled out of bed.",
+          "translation": "dans ma mémoire. Ô Jacob Marley! que le ciel et la fête de Noël soient bénis de leurs bienfaits! Je le dis à genoux, vieux Jacob, oui, à",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "christmas-carol-ch5-u0006",
+          "score": 0.118,
+          "master": "\"The Spirits of all Three shall strive within me. Oh Jacob Marley! Heaven, and the Christmas Time be praised for this! I say it on my knees, old Jacob; on my knees!\"",
+          "translation": "genoux.\"",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "christmas-carol-ch5-u0012",
+          "score": 0.117,
+          "master": "\"I am as light as a feather, I am as happy as an angel, I am as merry as a schoolboy. I am as giddy as a drunken man. A merry Christmas to everybody! A happy New Year to all the wo",
+          "translation": "Cependant ses mains étaient occupées à brouiller ses vêtements;",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "christmas-carol-ch5-u0017",
+          "score": 0.196,
+          "master": "The father of a long, long line of brilliant laughs!",
+          "translation": "Il avait passé en gambadant de sa chambre dans le salon, et se trouvait là maintenant, tout hors d'haleine.",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "christmas-carol-ch5-u0020",
+          "score": 0.173,
+          "master": "He was checked in his transports by the churches ringing out the lustiest peals he had ever heard.",
+          "translation": "peine:",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "christmas-carol-ch5-u0021",
+          "score": 0.173,
+          "master": "Clash, clang, hammer; ding, dong, bell.",
+          "translation": "tout est à sa place, tout est vrai, tout est arrivé... Ah! ah! ah!\"",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "christmas-carol-ch5-u0022",
+          "score": 0.168,
+          "master": "Bell, dong, ding; hammer, clang, clash!",
+          "translation": "Réellement, pour un homme qui n'avait pas pratiqué depuis tant d'années, c'était un rire splendide, un des rires les plus magnifiques, le père d'une longue, longue lignée de rires ",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "christmas-carol-ch5-u0023",
+          "score": 0.146,
+          "master": "Oh, glorious, glorious!",
+          "translation": "\"Je ne sais quel jour du mois nous sommes aujourd'hui! continua Scrooge. Je ne sais combien de temps je suis demeuré parmi les esprits. Je ne sais rien:",
+          "needsReview": true
+        }
+      ]
+    }
+  ],
+  "needsReview": 1472
+}

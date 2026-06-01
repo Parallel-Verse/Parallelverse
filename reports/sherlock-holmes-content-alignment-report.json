@@ -1,0 +1,1032 @@
+{
+  "bookId": "sherlock-holmes",
+  "title": "The Adventures of Sherlock Holmes",
+  "masterLanguage": "en",
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "chapters": [
+    {
+      "chapterId": "chapter-1",
+      "title": "I. A SCANDAL IN BOHEMIA",
+      "units": 504,
+      "languages": {
+        "en": {
+          "units": 504,
+          "candidates": 504,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "fr": {
+          "units": 504,
+          "candidates": 505,
+          "needsReview": 189,
+          "averageScore": 0.228
+        }
+      },
+      "samples": [
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch1-u0013",
+          "score": 0.195,
+          "master": "My marriage had drifted us away from each other.",
+          "translation": "Mon mariage nous avait forcément séparés l'un de l'autre; le bonheur parfait dont je jouissais, les nouveaux devoirs et les occupations inséparables d'une entrée en ménage absorbai",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch1-u0016",
+          "score": 0.127,
+          "master": "He was still, as ever, deeply attracted by the study of crime, and occupied his immense faculties and extraordinary powers of observation in following out those clues, and clearing",
+          "translation": "d'ambition;",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch1-u0028",
+          "score": 0.16,
+          "master": "His manner was not effusive.",
+          "translation": "Pour moi qui le connaissais à fond il n'y avait aucun doute; il était en plein travail; il s'était arraché à ses rêves et cherchait à résoudre quelque nouveau problème.",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch1-u0032",
+          "score": 0.177,
+          "master": "\"Wedlock suits you,\" he remarked.",
+          "translation": "Puis il se planta devant la cheminée et me fixa avec son regard si pénétrant. — Le mariage vous réussit, me dit-il.",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch1-u0034",
+          "score": 0.126,
+          "master": "\"Seven!\"",
+          "translation": "Il me semblait que c'était un peu plus, quelques grammes seulement, j'en suis persuadé, Watson.",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch1-u0037",
+          "score": 0.096,
+          "master": "\"Then, how do you know?\"",
+          "translation": "Vous avez été souvent mouillé ces temps derniers et vous avez une servante des plus maladroites et négligentes. — Mon cher Holmes, dis-je, ceci est trop fort.",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch1-u0038",
+          "score": 0.154,
+          "master": "\"I see it, I deduce it. How do I know that you have been getting yourself very wet lately, and that you have a most clumsy and careless servant girl?\"",
+          "translation": "Il y a quelques siècles on vous aurait sûrement brûlé vif comme sorcier.",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch1-u0047",
+          "score": 0.124,
+          "master": "\"When I hear you give your reasons,\" I remarked, \"the thing always appears to me to be so ridiculously simple that I could easily do it myself, though at each successive instance o",
+          "translation": "haut",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-2",
+      "title": "II. THE RED-HEADED LEAGUE",
+      "units": 416,
+      "languages": {
+        "en": {
+          "units": 416,
+          "candidates": 416,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "fr": {
+          "units": 416,
+          "candidates": 416,
+          "needsReview": 142,
+          "averageScore": 0.244
+        }
+      },
+      "samples": [
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch2-u0005",
+          "score": 0.198,
+          "master": "\"I was afraid that you were engaged.\"",
+          "translation": "Monsieur Wilson, dit-il, en s'adressant au gros clergyman, le docteur ici présent a été mon associé et mon collaborateur dans plusieurs circonstances où j'ai pu éclaircir des affai",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch2-u0012",
+          "score": 0.137,
+          "master": "adventures.\"",
+          "translation": "Oui, je me souviens, de cette remarque que je me permis même de contredire. —",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch2-u0014",
+          "score": 0.13,
+          "master": "\"You will remember that I remarked the other day, just before we went into the very simple problem presented by Miss Mary Sutherland, that for strange effects and extraordinary com",
+          "translation": "Voici M.",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch2-u0023",
+          "score": 0.17,
+          "master": "I did not gain very much, however, by my inspection.",
+          "translation": "En le voyant ainsi, devant moi, penché en avant (il parcourait la colonne des annonces dans le journal qu'il avait étalé sur ses genoux), j'essayai d'employer les procédés d'analys",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch2-u0035",
+          "score": 0.078,
+          "master": "\"Well, the snuff, then, and the Freemasonry?\"",
+          "translation": "Je ne vous ferai pas l'injure de vous dire comment je l'ai su; car, en dépit de toutes les règles de votre association, vous en portez les insignes, le triangle et le compas, en ép",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch2-u0037",
+          "score": 0.198,
+          "master": "\"Ah, of course, I forgot that. But the writing?\"",
+          "translation": "Il me semble que le poisson tatoué, juste au-dessus de votre poignet droit n'a pu l'être que dans le Céleste-Empire.",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch2-u0038",
+          "score": 0.177,
+          "master": "\"What else can be indicated by that right cuff so very shiny for five inches, and the left one with the smooth patch near the elbow where you rest it upon the desk?\"",
+          "translation": "J'ai fait sur le tatouage une étude spéciale que j'ai même publiée.",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch2-u0039",
+          "score": 0.099,
+          "master": "\"Well, but China?\"",
+          "translation": "Ce coloris rose tendre des écailles de poisson est tout à fait particulier à la Chine.",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-3",
+      "title": "III. A CASE OF IDENTITY",
+      "units": 242,
+      "languages": {
+        "en": {
+          "units": 242,
+          "candidates": 242,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "fr": {
+          "units": 242,
+          "candidates": 247,
+          "needsReview": 70,
+          "averageScore": 0.253
+        }
+      },
+      "samples": [
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch3-u0003",
+          "score": 0.163,
+          "master": "conventionalities and foreseen conclusions most stale and unprofitable.\"",
+          "translation": "Si, ouvrant la fenêtre, nous pouvions nous envoler tous deux, planer sur cette grande cité, et soulever secrètement les toitures pour jeter un coup d'œil sur les événements étrange",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch3-u0004",
+          "score": 0.161,
+          "master": "\"And yet I am not convinced of it,\" I answered.",
+          "translation": "Tous les romans avec leur convenu, leurs conclusions prévues d'avance, nous paraîtraient fades et surannés à côté des singulières coïncidences, des sombres projets, des systèmes co",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch3-u0005",
+          "score": 0.166,
+          "master": "\"The cases which come to light in the papers are, as a rule, bald enough, and vulgar enough. We have in our police reports realism pushed to its extreme limits, and yet the result ",
+          "translation": "Je ne suis pas de votre avis, répondis-je.",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch3-u0012",
+          "score": 0.17,
+          "master": "crude.\"",
+          "translation": "Voici en première page l'article de tête: \" Cruauté d'un mari envers sa femme. \" Le récit tient toute une colonne, mais j'en sais d'avance la teneur.",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch3-u0018",
+          "score": 0.191,
+          "master": "\"Ah,\" said he, \"I forgot that I had not seen you for some weeks. It is a little souvenir from the King of Bohemia in return for my assistance in the case of the Irene Adler papers.",
+          "translation": "Prisez donc un peu, docteur, et avouez que vous êtes battu.",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch3-u0019",
+          "score": 0.09,
+          "master": "\"And the ring?\"",
+          "translation": "Il me tendit sa tabatière, un vrai bijou ancien en or dont le centre était une magnifique améthyste.",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch3-u0020",
+          "score": 0.144,
+          "master": "I asked, glancing at a remarkable brilliant which sparkled upon his finger.",
+          "translation": "Cet objet d'art contrastait tellement avec les habitudes de simplicité et la vie austère de mon ami que je ne pus éviter une allusion à ce sujet. — Ah! j'oubliais, me dit-il, que j",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch3-u0022",
+          "score": 0.199,
+          "master": "\"And have you any on hand just now?\"",
+          "translation": "C'est un présent de la maison régnante de Hollande, mais les circonstances très délicates auxquelles j'ai été mêlé me font un devoir d'être d'une discrétion absolue, même vis-à-vis",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-4",
+      "title": "IV. THE BOSCOMBE VALLEY MYSTERY",
+      "units": 457,
+      "languages": {
+        "en": {
+          "units": 457,
+          "candidates": 457,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "fr": {
+          "units": 457,
+          "candidates": 457,
+          "needsReview": 199,
+          "averageScore": 0.223
+        }
+      },
+      "samples": [
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch4-u0011",
+          "score": 0.191,
+          "master": "Sherlock Holmes was pacing up and down the platform, his tall, gaunt figure made even gaunter and taller by his long grey travelling-cloak and close-fitting cloth cap.",
+          "translation": "Ma campagne d'Afghanistan m'avait habitué aux départs prompts.",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch4-u0017",
+          "score": 0.177,
+          "master": "\"Have you heard anything of the case?\" he asked.",
+          "translation": "Montez donc dans le compartiment et retenez les deux coins tandis que je vais prendre les billets.",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch4-u0022",
+          "score": 0.058,
+          "master": "\"It is a murder, then?\"",
+          "translation": "—",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch4-u0023",
+          "score": 0.118,
+          "master": "\"Well, it is conjectured to be so. I shall take nothing for granted until I have the opportunity of looking personally into it. I will explain the state of things to you, as far as",
+          "translation": "Avez-vous entendu parler de l'affaire? me demanda-t-il. —",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch4-u0029",
+          "score": 0.195,
+          "master": "Turner was apparently the richer man, so McCarthy became his tenant but still remained, it seems, upon terms of perfect equality, as they were frequently together.",
+          "translation": "L'originalité me fournit presque toujours un indice certain.",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch4-u0037",
+          "score": 0.149,
+          "master": "the man that he must hurry, as he had an appointment of importance to keep at three. From that appointment he never came back alive. \"From Hatherley Farmhouse to the Boscombe Pool ",
+          "translation": "Charles Mac Carthy, un Australien aussi.",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch4-u0040",
+          "score": 0.192,
+          "master": "Both these witnesses depose that Mr.",
+          "translation": "Ils étaient veufs tous deux; Mac Carthy n'avait qu'un fils de dix-huit ans; Turner une fille unique du même âge.",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch4-u0041",
+          "score": 0.158,
+          "master": "McCarthy was walking alone.",
+          "translation": "Ni l'un ni l'autre n'avaient recherché la société du voisinage; ils vivaient retirés, ne fréquentant que les réunions de courses dont ils étaient grands amateurs.",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-5",
+      "title": "V. THE FIVE ORANGE PIPS",
+      "units": 376,
+      "languages": {
+        "en": {
+          "units": 376,
+          "candidates": 376,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "fr": {
+          "units": 376,
+          "candidates": 376,
+          "needsReview": 132,
+          "averageScore": 0.24
+        }
+      },
+      "samples": [
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch5-u0004",
+          "score": 0.164,
+          "master": "There is, however, one of these last which was so remarkable in its details and so startling in its results that I am tempted to give some account of it in spite of the fact that t",
+          "translation": "les relater ici serait inutile puisque l'enquête n'a pas abouti;",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch5-u0018",
+          "score": 0.145,
+          "master": "\"I do not encourage visitors.\"",
+          "translation": "Ma femme était allée passer quelques jours chez sa tante et j'étais revenu habiter provisoirement mon ancien quartier de Baker street. — Tiens, dis-je, en levant les yeux sur mon c",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch5-u0020",
+          "score": 0.157,
+          "master": "\"If so, it is a serious case. Nothing less would bring a man out on such a day and at such an hour. But I take it that it is more likely to be some crony of the landlady's.\"",
+          "translation": "Un de vos amis sans doute. —",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch5-u0022",
+          "score": 0.19,
+          "master": "He stretched out his long arm to turn the lamp away from himself and towards the vacant chair upon which a newcomer must sit.",
+          "translation": "d'ailleurs je fais mauvais accueil aux visiteurs. —",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch5-u0023",
+          "score": 0.18,
+          "master": "\"Come in!\" said he.",
+          "translation": "Un client? peut-être. —",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch5-u0031",
+          "score": 0.182,
+          "master": "\"Yes, from Horsham.\"",
+          "translation": "Je vous fais d'abord mes excuses, dit-il, en assujettissant son pince-nez, j'espère que je ne vous dérange pas et je regrette d'apporter dans votre confortable home des traces d'ea",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch5-u0034",
+          "score": 0.18,
+          "master": "\"That is easily got.\"",
+          "translation": "Oui;",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch5-u0037",
+          "score": 0.189,
+          "master": "\"I have heard of you, Mr. Holmes. I heard from Major Prendergast how you saved him in the Tankerville Club scandal.\"",
+          "translation": "Je suis venu pour vous consulter. —",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-6",
+      "title": "VI. THE MAN WITH THE TWISTED LIP",
+      "units": 446,
+      "languages": {
+        "en": {
+          "units": 446,
+          "candidates": 446,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "fr": {
+          "units": 446,
+          "candidates": 446,
+          "needsReview": 174,
+          "averageScore": 0.231
+        }
+      },
+      "samples": [
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch6-u0003",
+          "score": 0.173,
+          "master": "George's, was much addicted to opium.",
+          "translation": "Il avait lu la description des rêves et sensations de Quincey, et, pour produire les mêmes résultats à son profit, il avait inondé son tabac de laudanum.",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch6-u0009",
+          "score": 0.17,
+          "master": "\"A patient!\" said she.",
+          "translation": "Je laissai échapper un gros soupir, car j'avais eu une journée fatigante et j'aspirais au repos.",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch6-u0010",
+          "score": 0.189,
+          "master": "\"You'll have to go out.\"",
+          "translation": "La porte s'ouvrit; nous entendîmes quelques mots prononcés à la hâte, des pas rapides dans le corridor et on introduisit dans le salon une dame vêtue d'une robe sombre, le visage c",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch6-u0011",
+          "score": 0.195,
+          "master": "I groaned, for I was newly come back from a weary day.",
+          "translation": "puis perdant toute contenance elle se jeta au cou de ma femme et sanglota sur son épaule. — Oh! que je suis malheureuse! s'écria-t-elle.",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch6-u0013",
+          "score": 0.192,
+          "master": "Our own door flew open, and a lady, clad in some dark-coloured stuff, with a black veil, entered the room.",
+          "translation": "Comme vous m'avez fait peur, Kate.",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch6-u0017",
+          "score": 0.192,
+          "master": "\"I didn't know what to do, so I came straight to you.\"",
+          "translation": "Préférez-vous que Jacques se retire? — Oh non! non! j'ai besoin de l'avis du docteur et aussi de son secours.",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch6-u0020",
+          "score": 0.168,
+          "master": "\"It was very sweet of you to come. Now, you must have some wine and water, and sit here comfortably and tell us all about it. Or should you rather that I sent James off to bed?\"",
+          "translation": "J'ai bien peur qu'il ne lui soit arrivé quelque chose de fâcheux.",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch6-u0024",
+          "score": 0.149,
+          "master": "Did she know where her husband was?",
+          "translation": "Jusqu'alors ses orgies s'étaient bornées à un seul jour d'absence; il rentrait le soir crispé et étourdi.",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-7",
+      "title": "VII. THE ADVENTURE OF THE BLUE CARBUNCLE",
+      "units": 341,
+      "languages": {
+        "en": {
+          "units": 341,
+          "candidates": 341,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "fr": {
+          "units": 341,
+          "candidates": 341,
+          "needsReview": 125,
+          "averageScore": 0.232
+        }
+      },
+      "samples": [
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch7-u0013",
+          "score": 0.183,
+          "master": "\"Precisely. You allude to my attempt to recover the Irene Adler papers, to the singular case of Miss Mary Sutherland, and to the adventure of the man with the twisted lip. Well, I ",
+          "translation": "l'histoire de l'homme à la bouche de travers. Eh bien! je suis convaincu que l'affaire en question rentrera dans la catégorie de celles qui n'ont pas de crimes à la",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch7-u0016",
+          "score": 0.17,
+          "master": "\"It is his hat.\"",
+          "translation": "Oui. — Eh bien, c'est à lui qu'appartient ce trophée. — C'est son chapeau? —",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch7-u0018",
+          "score": 0.154,
+          "master": "fire. The facts are these:",
+          "translation": "vous dise comment il se trouve là. Il a fait son entrée ici le matin de Noël, en compagnie d'une bonne oie qui est sans doute en train de rôtir devant le feu de Peterson",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch7-u0024",
+          "score": 0.084,
+          "master": "\"Which surely he restored to their owner?\"",
+          "translation": "au",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch7-u0027",
+          "score": 0.134,
+          "master": "\"What, then, did Peterson do?\"",
+          "translation": "sorte qu'il resta maître du champ de bataille et armé des trophées de la victoire sous la forme d'un chapeau bossué et d'une superbe oie de Noël. —",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch7-u0030",
+          "score": 0.123,
+          "master": "\"Did he not advertise?\"",
+          "translation": "Il m'a apporté, le matin de Noël, le chapeau et l'oie pour flatter ma manie, car il sait à quel point j'aime à résoudre les problèmes, quelque insignifiants qu'ils",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch7-u0031",
+          "score": 0.169,
+          "master": "\"No.\"",
+          "translation": "paraissent à première vue. Nous avons gardé l'oie jusqu'à ce matin, c'est la dernière limite qu'elle pût atteindre et celui qui l'a trouvée l'a emportée pour lui faire",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch7-u0032",
+          "score": 0.098,
+          "master": "\"Then, what clue could you have as to his identity?\"",
+          "translation": "subir la",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-8",
+      "title": "VIII. THE ADVENTURE OF THE SPECKLED BAND",
+      "units": 454,
+      "languages": {
+        "en": {
+          "units": 454,
+          "candidates": 454,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "fr": {
+          "units": 454,
+          "candidates": 455,
+          "needsReview": 169,
+          "averageScore": 0.237
+        }
+      },
+      "samples": [
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch8-u0012",
+          "score": 0.171,
+          "master": "\"No;",
+          "translation": "Non, une cliente, une jeune fille qui s'est présentée chez moi dans un état d'agitation extrême, et qui insiste pour me voir.",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch8-u0013",
+          "score": 0.177,
+          "master": "a client. It seems that a young lady has arrived in a considerable state of excitement, who insists upon seeing me. She is waiting now in the sitting-room. Now, when young ladies w",
+          "translation": "Elle attend au salon.",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch8-u0020",
+          "score": 0.166,
+          "master": "\"My name is Sherlock Holmes. This is my intimate friend and associate, Dr. Watson, before whom you can speak as freely as before myself. Ha! I am glad to see that Mrs. Hudson has h",
+          "translation": "en nous voyant elle se leva du siège qu'elle avait choisi près de la fenêtre. —",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch8-u0022",
+          "score": 0.014,
+          "master": "\"What, then?\"",
+          "translation": "librement que devant moi. Ha! je suis bien aise de voir que Mme Hudson a eu le bon esprit de faire du feu. Ayez la bonté de vous en approcher, et je vais vous commander",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch8-u0023",
+          "score": 0.15,
+          "master": "\"It is fear, Mr. Holmes. It is terror.\"",
+          "translation": "une",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch8-u0025",
+          "score": 0.175,
+          "master": "Her features and figure were those of a woman of thirty, but her hair was shot with premature grey, and her expression was weary and haggard.",
+          "translation": "Ce n'est pas de froid que je tremble, dit la femme à voix basse, en changeant de place. — De quoi donc? — C'est de peur, monsieur Holmes, je dirai même d'effroi. \" À ces mots elle ",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch8-u0029",
+          "score": 0.185,
+          "master": "\"You know me, then?\"",
+          "translation": "\" N'ayez pas peur, dit-il d'un ton affectueux, en se penchant vers elle et lui touchant le bras; nous allons éclaircir cela rapidement, j'en suis sûr. Il me semble que vous êtes ve",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch8-u0039",
+          "score": 0.192,
+          "master": "Holmes turned to his desk and, unlocking it, drew out a small case-book, which he consulted.",
+          "translation": "quelque lumière dans le chaos qui m'environne? À présent, je ne saurais vous rémunérer de vos services mais dans un mois ou deux je serai mariée, je",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-9",
+      "title": "IX. THE ADVENTURE OF THE ENGINEER’S THUMB",
+      "units": 332,
+      "languages": {
+        "en": {
+          "units": 332,
+          "candidates": 332,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "fr": {
+          "units": 332,
+          "candidates": 332,
+          "needsReview": 126,
+          "averageScore": 0.234
+        }
+      },
+      "samples": [
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch9-u0005",
+          "score": 0.145,
+          "master": "achieved such remarkable results.",
+          "translation": "L'histoire a été reproduite plusieurs fois dans les journaux; mais, comme toujours, un simple entrefilet frappe moins le lecteur que la série des faits se développant sous ses yeux",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch9-u0017",
+          "score": 0.159,
+          "master": "\"What is it, then?\"",
+          "translation": "Il faut que je m'en aille maintenant, docteur; j'ai mon travail, tout comme vous.",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch9-u0019",
+          "score": 0.194,
+          "master": "\"It's a new patient,\" he whispered.",
+          "translation": "une de ses mains était enveloppée d'un mouchoir tout taché de sang. Comme âge, vingt-cinq ans au plus, avec une figure très mâle et un teint décoloré, qui me donna l'impression d'u",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch9-u0023",
+          "score": 0.17,
+          "master": "He was quietly dressed in a suit of heather tweed with a soft cloth cap which he had laid down upon my books.",
+          "translation": "M.",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch9-u0025",
+          "score": 0.122,
+          "master": "He was young, not more than five-and-twenty, I should say, with a strong, masculine face; but he was exceedingly pale and gave me the impression of a man who was suffering from som",
+          "translation": "Vous venez de faire un voyage de nuit, occupation plutôt monotone, n'est-ce pas? —",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch9-u0027",
+          "score": 0.14,
+          "master": "the side-table.\"",
+          "translation": "—",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch9-u0032",
+          "score": 0.085,
+          "master": "\"You are fresh from a night journey, I understand, which is in itself a monotonous occupation.\"",
+          "translation": "Buvez!",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch9-u0034",
+          "score": 0.094,
+          "master": "He laughed very heartily, with a high, ringing note, leaning back in his chair and shaking his sides.",
+          "translation": "Ça va mieux! dit-il. Et maintenant, docteur, voulez-vous avoir la bonté de soigner mon pouce ou plutôt l'endroit où était mon pouce? \" J'enlevai le mouchoir, je découvris sa main, ",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-10",
+      "title": "X. THE ADVENTURE OF THE NOBLE BACHELOR",
+      "units": 474,
+      "languages": {
+        "en": {
+          "units": 474,
+          "candidates": 474,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "fr": {
+          "units": 474,
+          "candidates": 474,
+          "needsReview": 203,
+          "averageScore": 0.222
+        }
+      },
+      "samples": [
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch10-u0001",
+          "score": 0.157,
+          "master": "The Lord St.",
+          "translation": "Le mariage de lord Saint-Simon, et son curieux dénouement, a cessé longtemps d'être un sujet d'intérêt dans le milieu aristocratique qui forme l'entourage de l'infortuné marié.",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch10-u0006",
+          "score": 0.157,
+          "master": "I had remained indoors all day, for the weather had taken a sudden turn to rain, with high autumnal winds, and the jezail bullet which I had brought back in one of my limbs as a re",
+          "translation": "Je n'étais pas sorti de la journée;",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch10-u0008",
+          "score": 0.151,
+          "master": "correspondent could be.",
+          "translation": "je souffrais de la balle dont j'avais été atteint par les Jézaïls lors de ma campagne d'Afghanistan, et qui n'avait pu être extraite.",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch10-u0012",
+          "score": 0.187,
+          "master": "He broke the seal and glanced over the contents.",
+          "translation": "armorié. —",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch10-u0014",
+          "score": 0.079,
+          "master": "\"Not social, then?\"",
+          "translation": "Cela contraste avec vos lettres de ce matin, qui, si je ne me trompe, étaient écrites par un marchand de poissons et par un douanier. —",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch10-u0015",
+          "score": 0.15,
+          "master": "\"No, distinctly professional.\"",
+          "translation": "Oui, ma correspondance a certainement le charme de la variété, me répondit-il en souriant, et les plus humbles missives sont souvent les plus intéressantes.",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch10-u0016",
+          "score": 0.17,
+          "master": "\"And from a noble client?\"",
+          "translation": "Celle-ci m'a tout l'air d'une de ces malencontreuses convocations à vous ennuyer ou à mentir.",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch10-u0017",
+          "score": 0.19,
+          "master": "\"One of the highest in England.\"",
+          "translation": "\" Il brisa le cachet et parcourut la lettre. \" Oh! mais voilà qui pourrait bien ne pas être banal. —",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-11",
+      "title": "XI. THE ADVENTURE OF THE BERYL CORONET",
+      "units": 448,
+      "languages": {
+        "en": {
+          "units": 448,
+          "candidates": 448,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "fr": {
+          "units": 448,
+          "candidates": 448,
+          "needsReview": 174,
+          "averageScore": 0.228
+        }
+      },
+      "samples": [
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch11-u0007",
+          "score": 0.171,
+          "master": "He was a man of about fifty, tall, portly, and imposing, with a massive, strongly marked face and a commanding figure.",
+          "translation": "dont",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch11-u0011",
+          "score": 0.077,
+          "master": "\"What on earth can be the matter with him?\"",
+          "translation": "habitué",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch11-u0012",
+          "score": 0.18,
+          "master": "I asked.",
+          "translation": "à marcher au pas de course. Tout en courant il gesticulait avec les mains, secouait la tête et faisait les grimaces les plus extraordinaires. —",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch11-u0013",
+          "score": 0.19,
+          "master": "\"He is looking up at the numbers of the houses.\"",
+          "translation": "Que diable peut-il bien avoir? Il regarde les numéros des maisons, — Je crois qu'il vient ici, dit Holmes en se frottant les mains. — Ici? —",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch11-u0014",
+          "score": 0.151,
+          "master": "\"I believe that he is coming here,\" said Holmes, rubbing his hands.",
+          "translation": "Oui, j'ai comme une idée qu'il vient me consulter. Il me semble reconnaître les symptômes de la plus grande perplexité. Ha! ne vous l'avais-je pas dit?",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch11-u0015",
+          "score": 0.101,
+          "master": "\"Here?\"",
+          "translation": "\" L'homme, en effet, tout essoufflé, courait droit sur la porte, saisissait la sonnette dont les tintements résonnèrent bientôt dans toute la maison.",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch11-u0026",
+          "score": 0.09,
+          "master": "\"No doubt you think me mad?\" said he.",
+          "translation": "Ah! Dieu sait! —",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch11-u0033",
+          "score": 0.103,
+          "master": "What could have happened, then, to bring one of the foremost citizens of London to this most pitiable pass?",
+          "translation": "Cité.",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-12",
+      "title": "XII. THE ADVENTURE OF THE COPPER BEECHES",
+      "units": 425,
+      "languages": {
+        "en": {
+          "units": 425,
+          "candidates": 425,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "fr": {
+          "units": 425,
+          "candidates": 425,
+          "needsReview": 162,
+          "averageScore": 0.231
+        }
+      },
+      "samples": [
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch12-u0005",
+          "score": 0.124,
+          "master": "\"You have erred, perhaps,\" he observed, taking up a glowing cinder with the tongs and lighting with it the long cherry-wood pipe which was wont to replace his clay when he was in a",
+          "translation": "une",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch12-u0006",
+          "score": 0.137,
+          "master": "instead of confining yourself to the task of placing upon record that severe reasoning from cause to effect which is really the only notable feature about the thing.\"",
+          "translation": "étude spéciale. —",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch12-u0018",
+          "score": 0.074,
+          "master": "\"Pshaw, my dear fellow, what do the public, the great unobservant public, who could hardly tell a weaver by his tooth or a compositor by his left thumb, care about the finer shades",
+          "translation": "allumé",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch12-u0020",
+          "score": 0.154,
+          "master": "I fancy. Read it!\"",
+          "translation": "ayant enfin renoncé à ses recherches, il s'était laissé aller à son humeur plutôt chagrine, pour me sermonner sur mes erreurs littéraires. —",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch12-u0021",
+          "score": 0.193,
+          "master": "He tossed a crumpled letter across to me.",
+          "translation": "D'un autre côté, reprit-il après une pause pendant laquelle il avait vigoureusement aspiré sa longue pipe et contemplé le feu, on ne peut guère vous accuser de",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch12-u0023",
+          "score": 0.136,
+          "master": "\"DEAR MR. HOLMES,—I am very anxious to consult you as to whether I should or should not accept a situation which has been offered to me as governess. I shall call at half-past ten ",
+          "translation": "légal du mot.",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch12-u0024",
+          "score": 0.143,
+          "master": "\" \"Do you know the young lady?",
+          "translation": "La petite affaire dans laquelle j'ai tenté d'être utile au roi de Bohême, l'aventure singulière de miss Sutherland, le problème relatif à l'homme à la lèvre retroussée,",
+          "needsReview": true
+        },
+        {
+          "language": "fr",
+          "syncId": "sherlock-holmes-ch12-u0025",
+          "score": 0.194,
+          "master": "\" I asked. \"Not I.",
+          "translation": "et l'incident de notre aristocratique célibataire, n'étaient pas du ressort de la loi. Mais pour éviter le sensationnel, je crains que vous ne soyez arrivé à côtoyer le",
+          "needsReview": true
+        }
+      ]
+    }
+  ],
+  "needsReview": 1865
+}

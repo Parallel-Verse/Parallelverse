@@ -1,0 +1,4837 @@
+{
+  "bookId": "grimm",
+  "title": "Grimm's Fairy Tales",
+  "masterLanguage": "en",
+  "languages": [
+    "de",
+    "en"
+  ],
+  "chapters": [
+    {
+      "chapterId": "chapter-1",
+      "title": "THE GOLDEN BIRD",
+      "units": 80,
+      "languages": {
+        "en": {
+          "units": 80,
+          "candidates": 80,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "de": {
+          "units": 80,
+          "candidates": 87,
+          "needsReview": 4,
+          "averageScore": 0.299
+        }
+      },
+      "samples": [
+        {
+          "language": "de",
+          "syncId": "grimm-ch1-u0041",
+          "score": 0.138,
+          "master": "Then he went his way very sorrowful; but the old fox came and said, 'Why did not you listen to me?",
+          "translation": "Alles traf so ein, wie der Fuchs gesagt hatte, er kam in den Stall, wo das goldene Pferd stand: als er ihm aber den schlechten Sattel auflegen wollte, so dachte er „ein so schönes ",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch1-u0053",
+          "score": 0.093,
+          "master": "' 'Ah!' said the young man, 'that would be a great thing, but how can you contrive it?",
+          "translation": "Da wird unerhörte Freude sein, sie werden dir das goldene Pferd gerne geben und werden dirs vorführen. Setz dich alsbald auf und reiche allen zum Abschied die Hand herab, zuletzt d",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch1-u0060",
+          "score": 0.195,
+          "master": "' This, too, happened as the fox said; they carried off the bird, the princess mounted again, and they rode on to a great wood.",
+          "translation": "\" Als der Anschlag geglückt war und der Königssohn mit seinen Schätzen heim reiten wollte, so sagte der Fuchs „nun sollst du mich für meinen Beistand belohnen.\" „Was verlangst du d",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch1-u0063",
+          "score": 0.143,
+          "master": "' Then away he went.",
+          "translation": "\" Damit lief er in den Wald. Der Jüngling dachte „das ist ein wunderliches Thier, das seltsame Grillen hat. Wer wird Galgenfleisch kaufen! und die Lust mich an einen Brunnenrand zu",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-2",
+      "title": "HANS IN LUCK",
+      "units": 110,
+      "languages": {
+        "en": {
+          "units": 110,
+          "candidates": 110,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "de": {
+          "units": 110,
+          "candidates": 110,
+          "needsReview": 39,
+          "averageScore": 0.236
+        }
+      },
+      "samples": [
+        {
+          "language": "de",
+          "syncId": "grimm-ch2-u0003",
+          "score": 0.19,
+          "master": "One of these lucky beings was neighbour Hans.",
+          "translation": "Lohn.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch2-u0004",
+          "score": 0.195,
+          "master": "Seven long years he had worked hard for his master.",
+          "translation": "\" Der Herr antwortete „du hast mir treu und ehrlich gedient, wie der Dienst war, so soll der Lohn sein,\" und gab ihm ein Stück Gold, das so groß als Hansens Kopf war.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch2-u0007",
+          "score": 0.178,
+          "master": "' Then he gave him a lump of silver as big as his head.",
+          "translation": "sprach Hans ganz laut, „was ist das Reiten ein schönes Ding! da sitzt einer wie auf einem Stuhl, stößt sich an keinen Stein, spart die Schuh, und kommt fort, er weiß",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch2-u0008",
+          "score": 0.17,
+          "master": "Hans took out his pocket-handkerchief, put the piece of silver into it, threw it over his shoulder, and jogged off on his road homewards.",
+          "translation": "nicht",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch2-u0009",
+          "score": 0.131,
+          "master": "As he went lazily on, dragging one foot after another, a man came in sight, trotting gaily along on a capital horse.",
+          "translation": "wie.\"",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch2-u0011",
+          "score": 0.166,
+          "master": "There he sits as easy and happy as if he was at home, in the chair by his fireside; he trips against no stones, saves shoe-leather, and gets on he hardly knows how.",
+          "translation": "zu Fuß?\" „Ich muß ja wohl,\" antwortete er, „da habe ich einen Klumpen heim zu tragen:",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch2-u0019",
+          "score": 0.164,
+          "master": "We'll laugh and be merry, Sing neigh down derry!",
+          "translation": "Das Pferd wäre auch durchgegangen, wenn es nicht ein Bauer aufgehalten hätte, der des Weges kam und eine Kuh vor sich her trieb.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch2-u0023",
+          "score": 0.159,
+          "master": "Hans soon came to himself, and got upon his legs again, sadly vexed, and said to the shepherd, 'This riding is no joke, when a man has the luck to get upon a beast like this that s",
+          "translation": "ich setze mich nun und nimmermehr wieder auf.",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-3",
+      "title": "JORINDA AND JORINDEL",
+      "units": 48,
+      "languages": {
+        "en": {
+          "units": 48,
+          "candidates": 48,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "de": {
+          "units": 48,
+          "candidates": 49,
+          "needsReview": 6,
+          "averageScore": 0.283
+        }
+      },
+      "samples": [
+        {
+          "language": "de",
+          "syncId": "grimm-ch3-u0016",
+          "score": 0.123,
+          "master": "Well-a-day!",
+          "translation": "Joringel sah durchs Gebüsch und sah die alte Mauer des Schlosses nah bei sich; er erschrack und wurde todtbang.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch3-u0021",
+          "score": 0.158,
+          "master": "Tu whu!",
+          "translation": "Jorinde war in eine Nachtigall verwandelt, die sang „zicküth, zicküth.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch3-u0027",
+          "score": 0.19,
+          "master": "At last the fairy came back and sang with a hoarse voice: 'Till the prisoner is fast, And her doom is cast, There stay!",
+          "translation": "Sie murmelte, fieng die Nachtigall und trug sie auf der Hand fort.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch3-u0028",
+          "score": 0.147,
+          "master": "Oh, stay!",
+          "translation": "Joringel konnte nichts sagen, nicht von der Stelle kommen; die Nachtigall war fort.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch3-u0031",
+          "score": 0.193,
+          "master": "Then he fell on his knees before the fairy, and prayed her to give him back his dear Jorinda: but she laughed at him, and said he should never see her again; then she went her way.",
+          "translation": "sollte sie nie wieder haben, und gieng fort. Er rief, er weinte, er jammerte, aber alles umsonst. „Uu, was soll mir geschehen?\"",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch3-u0033",
+          "score": 0.166,
+          "master": "'Alas!' he said, 'what will become of me?",
+          "translation": "Oft gieng er rund um das Schloß herum, aber nicht zu nahe dabei.",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-4",
+      "title": "THE TRAVELLING MUSICIANS",
+      "units": 48,
+      "languages": {
+        "en": {
+          "units": 48,
+          "candidates": 48,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "de": {
+          "units": 48,
+          "candidates": 48,
+          "needsReview": 18,
+          "averageScore": 0.225
+        }
+      },
+      "samples": [
+        {
+          "language": "de",
+          "syncId": "grimm-ch4-u0004",
+          "score": 0.175,
+          "master": "'What makes you pant so, my friend?' said the ass.",
+          "translation": "fragte der Esel. „Ach,\" sagte der Hund, „weil ich alt bin und jeden Tag schwächer werde, auch auf der Jagd nicht mehr fort kann, hat mich mein Herr wollen todt schlagen,",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch4-u0005",
+          "score": 0.005,
+          "master": "'Alas!' said the dog, 'my master was going to knock me on the head, because I am old and weak, and can no longer make myself useful to him in hunting; so I ran away; but what can I",
+          "translation": "da",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch4-u0006",
+          "score": 0.03,
+          "master": "' 'Hark ye!' said the ass, 'I am going to the great city to turn musician: suppose you go with me, and try what you can do in the same way?",
+          "translation": "hab ich Reißaus genommen;",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch4-u0007",
+          "score": 0.18,
+          "master": "' The dog said he was willing, and they jogged on together.",
+          "translation": "aber womit soll ich nun mein Brot verdienen?\" „Weißt du was,\" sprach der Esel, „ich gehe nach Bremen und werde dort Stadtmusikant, geh mit und laß dich auch bei der Musik annehmen.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch4-u0009",
+          "score": 0.197,
+          "master": "'Pray, my good lady,' said the ass, 'what's the matter with you?",
+          "translation": "\" Der Hund wars zufrieden, und sie giengen weiter. Es dauerte nicht lange, so saß da eine Katze an dem Weg und machte ein Gesicht wie drei Tage Regenwetter. „Nun, was",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch4-u0010",
+          "score": 0.05,
+          "master": "You look quite out of spirits!",
+          "translation": "ist dir in die Quere gekommen, alter Bartputzer?\" sprach der Esel. „Wer kann da lustig sein, wenns einem an den Kragen geht,\" antwortete die Katze, „weil ich nun zu",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch4-u0011",
+          "score": 0.012,
+          "master": "' 'Ah, me!' said the cat, 'how can one be in good spirits when one's life is in danger?",
+          "translation": "Jahren",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch4-u0016",
+          "score": 0.139,
+          "master": "'Bravo!' said the ass; 'upon my word, you make a famous noise; pray what is all this about?",
+          "translation": "sie dem Christkindlein die Hemdchen gewaschen hat und sie trocknen will;",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-5",
+      "title": "OLD SULTAN",
+      "units": 50,
+      "languages": {
+        "en": {
+          "units": 50,
+          "candidates": 50,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "de": {
+          "units": 50,
+          "candidates": 50,
+          "needsReview": 11,
+          "averageScore": 0.274
+        }
+      },
+      "samples": [
+        {
+          "language": "de",
+          "syncId": "grimm-ch5-u0004",
+          "score": 0.179,
+          "master": "' 'But what can we do with him?' said the shepherd, 'he has not a tooth in his head, and the thieves don't care for him at all; to be sure he has served us, but then he did it to e",
+          "translation": "uns gehalten, so könnten wir ihm wohl das Gnadenbrot geben.\" „Ei was,\" sagte der Mann, „du bist nicht recht gescheidt:",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch5-u0011",
+          "score": 0.154,
+          "master": "' The dog liked this plan very well; and accordingly so it was managed.",
+          "translation": "nehmen ihr",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch5-u0022",
+          "score": 0.166,
+          "master": "Now Sultan had nobody he could ask to be his second but the shepherd's old three-legged cat; so he took her with him, and as the poor thing limped along with some trouble, she stuc",
+          "translation": "Lager.\"",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch5-u0026",
+          "score": 0.175,
+          "master": "The boar, however, had not quite hidden himself, for his ears stuck out of the bush;",
+          "translation": "Gelegenheit",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch5-u0027",
+          "score": 0.173,
+          "master": "and when he shook one of them a little, the cat, seeing something move, and thinking it was a mouse, sprang upon it, and bit and scratched it, so that the boar jumped up and grunte",
+          "translation": "deinem Herrn ein fettes Schaf weghole. Es wird einem heutzutage schwer sich",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch5-u0029",
+          "score": 0.177,
+          "master": "THE STRAW, THE COAL, AND THE BEAN In a village dwelt a poor old woman, who had gathered together a dish of beans and wanted to cook them.",
+          "translation": "ich treu,",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch5-u0030",
+          "score": 0.172,
+          "master": "So she made a fire on her hearth, and that it might burn the quicker, she lighted it with a handful of straw.",
+          "translation": "das darf ich nicht zugeben.\"",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch5-u0032",
+          "score": 0.184,
+          "master": "Then the straw began and said: 'Dear friends, from whence do you come here?",
+          "translation": "Aber der Bauer, dem der treue Sultan das Vorhaben des Wolfes verrathen hatte, paßte ihm auf und kämmte ihm mit dem Dreschflegel garstig die Haare.",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-6",
+      "title": "BRIAR ROSE",
+      "units": 44,
+      "languages": {
+        "en": {
+          "units": 44,
+          "candidates": 44,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "de": {
+          "units": 44,
+          "candidates": 45,
+          "needsReview": 8,
+          "averageScore": 0.28
+        }
+      },
+      "samples": [
+        {
+          "language": "de",
+          "syncId": "grimm-ch6-u0001",
+          "score": 0.165,
+          "master": "A king and queen once upon a time reigned in a country a great way off, where there were in those days fairies.",
+          "translation": "Vor Zeiten war ein König und eine Königin, die sprachen jeden Tag „ach, wenn wir doch ein Kind hätten!\" und kriegten immer keins. Da trug sich zu, als die Königin einmal im Bade sa",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch6-u0010",
+          "score": 0.154,
+          "master": "One gave her goodness, another beauty, another riches, and so on till she had all that was good in the world.",
+          "translation": "die Königstochter fällt.\"",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch6-u0018",
+          "score": 0.169,
+          "master": "It happened that, on the very day she was fifteen years old, the king and queen were not at home, and she was left alone in the palace.",
+          "translation": "das",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch6-u0019",
+          "score": 0.167,
+          "master": "So she roved about by herself, and looked at all the rooms and chambers, till at last she came to an old tower, to which there was a narrow staircase ending with a little door.",
+          "translation": "für ein Ding, das so lustig herumspringt?\" sprach das Mädchen, nahm die Spindel und wollte auch spinnen.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch6-u0021",
+          "score": 0.19,
+          "master": "'Why, how now, good mother,' said the princess; 'what are you doing there?",
+          "translation": "In dem Augenblick aber, wo sie den Stich empfand, fiel sie auf das Bett nieder, das da stand, und lag in einem tiefen Schlaf.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch6-u0025",
+          "score": 0.164,
+          "master": "However, she was not dead, but had only fallen into a deep sleep; and the king and the queen, who had just come home, and all their court, fell asleep too; and the horses slept in ",
+          "translation": "schlief.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch6-u0036",
+          "score": 0.172,
+          "master": "Then he came at last to the palace, and there in the court lay the dogs asleep; and the horses were standing in the stables; and on the roof sat the pigeons fast asleep, with their",
+          "translation": "ließen ihn",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch6-u0039",
+          "score": 0.165,
+          "master": "Then he went on still farther, and all was so still that he could hear every breath he drew; till at last he came to the old tower, and opened the door of the little room in which ",
+          "translation": "noch",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-7",
+      "title": "THE DOG AND THE SPARROW",
+      "units": 59,
+      "languages": {
+        "en": {
+          "units": 59,
+          "candidates": 59,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "de": {
+          "units": 59,
+          "candidates": 59,
+          "needsReview": 18,
+          "averageScore": 0.245
+        }
+      },
+      "samples": [
+        {
+          "language": "de",
+          "syncId": "grimm-ch7-u0008",
+          "score": 0.171,
+          "master": "Then the dog snapped it up, and scrambled away with it into a corner, where he soon ate it all up.",
+          "translation": "es",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch7-u0009",
+          "score": 0.137,
+          "master": "'Well,' said the sparrow, 'you shall have some more if you will; so come with me to the next shop, and I will peck you down another steak.",
+          "translation": "herunter rutschte.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch7-u0010",
+          "score": 0.192,
+          "master": "' When the dog had eaten this too, the sparrow said to him, 'Well, my good friend, have you had enough now?",
+          "translation": "Da packte es der Hund, lief in eine Ecke und fraß es auf.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch7-u0013",
+          "score": 0.184,
+          "master": "' So she took him to a baker's shop, and pecked at two rolls that lay in the window, till they fell down: and as the dog still wished for more, she took him to another shop and pec",
+          "translation": "Sprach der Sperling „das sollst du auch haben, komm nur mit.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch7-u0016",
+          "score": 0.127,
+          "master": "' So they both went out upon the high road; but as the weather was warm, they had not gone far before the dog said, 'I am very much tired--I should like to take a nap.",
+          "translation": "Stadt",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch7-u0017",
+          "score": 0.173,
+          "master": "' 'Very well,' answered the sparrow, 'do so, and in the meantime I will perch upon that bush.",
+          "translation": "gehen.\"",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch7-u0022",
+          "score": 0.18,
+          "master": "' But the carter, grumbling to himself, 'You make it the worse for me, indeed! what can you do?' cracked his whip, and drove his cart over the poor dog, so that the wheels crushed ",
+          "translation": "und hatte zwei Fässer Wein geladen. Der Sperling aber sah daß er nicht ausbiegen wollte, sondern in der Fahrgleise blieb, in welcher der Hund lag, da rief er „Fuhrmann,",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch7-u0024",
+          "score": 0.159,
+          "master": "Now mind what I say.",
+          "translation": "Der Fuhrmann aber brummte vor sich „du wirst mich nicht arm machen,\" knallte mit der Peitsche und trieb den Wagen über den Hund, daß ihn die Räder todt fuhren. Da rief",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-8",
+      "title": "THE TWELVE DANCING PRINCESSES",
+      "units": 53,
+      "languages": {
+        "en": {
+          "units": 53,
+          "candidates": 53,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "de": {
+          "units": 53,
+          "candidates": 53,
+          "needsReview": 9,
+          "averageScore": 0.267
+        }
+      },
+      "samples": [
+        {
+          "language": "de",
+          "syncId": "grimm-ch8-u0014",
+          "score": 0.127,
+          "master": "' Then she gave him a cloak, and said, 'As soon as you put that on you will become invisible, and you will then be able to follow the princesses wherever they go.",
+          "translation": "Abends",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch8-u0019",
+          "score": 0.095,
+          "master": "When the twelve princesses heard this they laughed heartily; and the eldest said, 'This fellow too might have done a wiser thing than lose his life in this way!",
+          "translation": "wollte, kam die",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch8-u0020",
+          "score": 0.168,
+          "master": "' Then they rose up and opened their drawers and boxes, and took out all their fine clothes, and dressed themselves at the glass, and skipped about as if they were eager to begin d",
+          "translation": "älteste und brachte ihm einen Becher Wein:",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch8-u0022",
+          "score": 0.1,
+          "master": "' 'You simpleton,' said the eldest, 'you are always afraid; have you forgotten how many kings' sons have already watched in vain?",
+          "translation": "können.\"",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch8-u0031",
+          "score": 0.077,
+          "master": "That never happened before.",
+          "translation": "Der Soldat dachte „du willst dir ein Wahrzeichen mitnehmen,\" und brach einen Zweig davon ab: da fuhr ein gewaltiger Krach aus dem Baume. Die jüngste rief wieder „es ist nicht richt",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch8-u0037",
+          "score": 0.194,
+          "master": "As they were rowing over the lake, the prince who was in the boat with the youngest princess and the soldier said, 'I do not know why it is, but though I am rowing with all my migh",
+          "translation": "Jenseits des Wassers aber stand ein schönes hellerleuchtetes Schloß, woraus eine lustige Musik erschallte von Pauken und Trompeten.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch8-u0045",
+          "score": 0.188,
+          "master": "then they undressed themselves, put away their fine clothes, pulled off their shoes, and went to bed.",
+          "translation": "jedesmal bis",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch8-u0048",
+          "score": 0.194,
+          "master": "As soon as the time came when he was to declare the secret, he was taken before the king with the three branches and the golden cup; and the twelve princesses stood listening behin",
+          "translation": "Töchter ihre Schuhe in der Nacht vertanzt?\" so antwortete er „mit zwölf Prinzen in einem unterirdischen Schloß,\" berichtete wie es zugegangen war, und holte die",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-9",
+      "title": "THE FISHERMAN AND HIS WIFE",
+      "units": 115,
+      "languages": {
+        "en": {
+          "units": 115,
+          "candidates": 115,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "de": {
+          "units": 115,
+          "candidates": 115,
+          "needsReview": 44,
+          "averageScore": 0.22
+        }
+      },
+      "samples": [
+        {
+          "language": "de",
+          "syncId": "grimm-ch9-u0003",
+          "score": 0.166,
+          "master": "But the fish said, 'Pray let me live!",
+          "translation": "Do güng de Angel to Grund, deep ünner, un as he se heruphaald, so haald he enen grooten Butt heruut.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch9-u0011",
+          "score": 0.152,
+          "master": "Hearken to me!",
+          "translation": "As he door köhm, wöör de See ganß gröön un geel un goor nich meer so blank.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch9-u0012",
+          "score": 0.178,
+          "master": "My wife Ilsabill Will have her own will, And hath sent me to beg a boon of thee!",
+          "translation": "So güng he staan un säd „Manntje, Manntje, Timpe Te, Buttje, Buttje in der See, myne Fru de Ilsebill will nich so as ik wol will.\" „Manntje, Manntje, Timpe Te, Buttje, Buttje in de",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch9-u0014",
+          "score": 0.105,
+          "master": "What does your wife want?",
+          "translation": "Se mag nich meer in'n Pißputt wanen, se wull geern 'ne Hütt.\" „Ga man hen,\" säd de Butt, „se hett se all.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch9-u0016",
+          "score": 0.141,
+          "master": "' 'Go home, then,' said the fish; 'she is in the cottage already!",
+          "translation": "Do güngen se henin, un in de Hütt was een lüttjen Vörplatz un ene lüttje herrliche Stuw un Kamer, wo jem eer Bedd stünn, un Kääk un Spysekamer, allens up dat beste mit Gerädschoppe",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch9-u0018",
+          "score": 0.171,
+          "master": "'Come in, come in!' said she; 'is not this much better than the filthy pigsty we had?",
+          "translation": "schall't blywen, nu wähl wy recht vergnöögt lewen.\" „Dat wähl wy uns bedenken\" säd de Fru. Mit des eeten se wat un güngen to Bedd. So güng dat wol 'n acht oder veertein",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch9-u0023",
+          "score": 0.128,
+          "master": "' 'Wife,' said the fisherman, 'I don't like to go to him again, for perhaps he will be angry; we ought to be easy with this pretty cottage to live in.",
+          "translation": "säd",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch9-u0025",
+          "score": 0.141,
+          "master": "' The fisherman went, but his heart was very heavy: and when he came to the sea, it looked blue and gloomy, though it was very calm; and he went close to the edge of the waves, and",
+          "translation": "ga du man hen.\"",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-10",
+      "title": "THE WILLOW-WREN AND THE BEAR",
+      "units": 36,
+      "languages": {
+        "en": {
+          "units": 36,
+          "candidates": 36,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "de": {
+          "units": 36,
+          "candidates": 36,
+          "needsReview": 4,
+          "averageScore": 0.273
+        }
+      },
+      "samples": [
+        {
+          "language": "de",
+          "syncId": "grimm-ch10-u0010",
+          "score": 0.199,
+          "master": "'Is that the royal palace?' cried the bear; 'it is a wretched palace, and you are not King's children, you are disreputable children!",
+          "translation": "Wie das die jungen Zaunkönige hörten, wurden sie gewaltig bös, und schrien „nein, das sind wir nicht, unsere Eltern sind ehrliche Leute; Bär, das soll ausgemacht werden mit dir.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch10-u0012",
+          "score": 0.158,
+          "master": "Our parents are honest people!",
+          "translation": "Futter brachten, sagten sie „wir rühren kein Fliegenbeinchen an, und sollten wir verhungern, bis ihr erst ausgemacht habt ob wir ehrliche Kinder sind oder nicht:",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch10-u0015",
+          "score": 0.191,
+          "master": "The young willow-wrens, however, continued to cry and scream, and when their parents again brought food they said: 'We will not so much as touch one fly's leg, no, not if we were d",
+          "translation": "\" Flog darauf mit der Frau Königin dem Bären vor seine Höhle und rief hinein „alter Brummbär warum hast du meine Kinder gescholten? das soll dir übel bekommen, das wollen wir in ei",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch10-u0030",
+          "score": 0.199,
+          "master": "When the fox felt the first string, he started so that he lifted one leg, from pain, but he bore it, and still kept his tail high in the air; at the second sting, he was forced to ",
+          "translation": "beim zweiten Stich mußt er ihn einen Augenblick herunter lassen:",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-11",
+      "title": "THE FROG-PRINCE",
+      "units": 42,
+      "languages": {
+        "en": {
+          "units": 42,
+          "candidates": 42,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "de": {
+          "units": 42,
+          "candidates": 45,
+          "needsReview": 4,
+          "averageScore": 0.29
+        }
+      },
+      "samples": [
+        {
+          "language": "de",
+          "syncId": "grimm-ch11-u0007",
+          "score": 0.146,
+          "master": "' 'Alas!' said she, 'what can you do for me, you nasty frog?",
+          "translation": "Und wie sie so klagte, rief ihr jemand zu „was hast du vor, Königstochter, du schreist ja daß sich ein Stein erbarmen möchte.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch11-u0008",
+          "score": 0.164,
+          "master": "My golden ball has fallen into the spring.",
+          "translation": "\" Sie sah sich um, woher die Stimme käme, da erblickte sie einen Frosch, der seinen dicken häßlichen Kopf aus dem Wasser streckte. „Ach, du bists, alter Wasserpatscher,\" sagte sie,",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch11-u0010",
+          "score": 0.166,
+          "master": "' 'What nonsense,' thought the princess, 'this silly frog is talking!",
+          "translation": "\" Der Frosch antwortete „deine Kleider, deine Perlen und Edelsteine, und deine goldene Krone, die mag ich nicht: aber wenn du mich lieb haben willst, und ich soll dein Geselle und ",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch11-u0019",
+          "score": 0.168,
+          "master": "' Then the princess ran to the door and opened it, and there she saw the frog, whom she had quite forgotten.",
+          "translation": "Der König sah wohl daß ihr das Herz gewaltig klopfte und sprach „mein Kind, was fürchtest du dich, steht etwa ein Riese vor der Thür und will dich holen?\" „Ach nein,\" antwortete si",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-12",
+      "title": "CAT AND MOUSE IN PARTNERSHIP",
+      "units": 52,
+      "languages": {
+        "en": {
+          "units": 52,
+          "candidates": 52,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "de": {
+          "units": 52,
+          "candidates": 53,
+          "needsReview": 17,
+          "averageScore": 0.254
+        }
+      },
+      "samples": [
+        {
+          "language": "de",
+          "syncId": "grimm-ch12-u0003",
+          "score": 0.171,
+          "master": "' The good advice was followed, and a pot of fat was bought, but they did not know where to put it.",
+          "translation": "Hunger,\"",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch12-u0011",
+          "score": 0.133,
+          "master": "' All this, however, was untrue; the cat had no cousin, and had not been asked to be godmother.",
+          "translation": "gebeten:",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch12-u0016",
+          "score": 0.134,
+          "master": "'What name did they give the child?",
+          "translation": "Sie gieng geradeswegs nach der Kirche, schlich zu dem Fetttöpfchen, fieng an zu lecken und leckte die fette Haut ab.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch12-u0018",
+          "score": 0.196,
+          "master": "'Top off!' cried the mouse, 'that is a very odd and uncommon name, is it a usual one in your family?",
+          "translation": "streckte sich hernach in der Sonne aus und wischte sich den Bart so oft sie an das Fetttöpfchen",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch12-u0019",
+          "score": 0.132,
+          "master": "' 'What does that matter,' said the cat, 'it is no worse than Crumb-stealer, as your godchildren are called.",
+          "translation": "dachte.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch12-u0025",
+          "score": 0.108,
+          "master": "When she went home the mouse inquired: 'And what was the child christened?",
+          "translation": "absagen.\"",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch12-u0027",
+          "score": 0.123,
+          "master": "'Half-done!",
+          "translation": "aus. „Es schmeckt nichts besser,\" sagte sie, „als was man selber ißt,\" und war mit ihrem Tagewerk ganz zufrieden.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch12-u0028",
+          "score": 0.176,
+          "master": "What are you saying?",
+          "translation": "Als sie heimkam, fragte die Maus „wie ist denn dieses Kind getauft worden?\" „Halbaus\" antwortete die Katze.",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-13",
+      "title": "THE GOOSE-GIRL",
+      "units": 80,
+      "languages": {
+        "en": {
+          "units": 80,
+          "candidates": 80,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "de": {
+          "units": 80,
+          "candidates": 81,
+          "needsReview": 20,
+          "averageScore": 0.259
+        }
+      },
+      "samples": [
+        {
+          "language": "de",
+          "syncId": "grimm-ch13-u0021",
+          "score": 0.124,
+          "master": "So when the bride had done drinking, and would have got upon Falada again, the maid said, 'I shall ride upon Falada, and you may have my horse instead'; so she was forced to give u",
+          "translation": "unter",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch13-u0025",
+          "score": 0.165,
+          "master": "There was great joy at their coming, and the prince flew to meet them, and lifted the maid from her horse, thinking she was the one who was to be his wife; and she was led upstairs",
+          "translation": "Ankunft,",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch13-u0037",
+          "score": 0.2,
+          "master": "Alas! alas! if thy mother knew it, Sadly, sadly, would she rue it.",
+          "translation": "Mutter wüßte, ihr Herz thät ihr zerspringen.\" „o du Jungfer Königin, da du gangest, wenn das deine Mutter wüßte, ihr Herz thät ihr zerspringen.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch13-u0039",
+          "score": 0.197,
+          "master": "And when she came to the meadow, she sat down upon a bank there, and let down her waving locks of hair, which were all of pure silver; and when Curdken saw it glitter in the sun, h",
+          "translation": "waren eitel Gold, und Kürdchen sah sie und freute sich wie sie glänzten, und wollte ihr ein paar ausraufen. Da sprach sie „weh, weh, Windchen, nimm Kürdchen sein Hütchen,",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch13-u0040",
+          "score": 0.137,
+          "master": "Let Curdken's hat go!",
+          "translation": "und laß'n sich mit jagen, bis ich mich geflochten und geschnatzt, und wieder aufgesatzt.\" „weh, weh, Windchen, nimm Kürdchen sein Hütchen, und laß'n sich mit jagen, bis ich mich ge",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch13-u0041",
+          "score": 0.084,
+          "master": "Blow, breezes, blow!",
+          "translation": "\" Und da kam ein so starker Wind, daß er dem Kürdchen sein Hütchen weg wehte über alle Land, und es mußte ihm nachlaufen. Bis es wieder kam war sie mit dem Kämmen und Aufsetzen fer",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch13-u0042",
+          "score": 0.151,
+          "master": "Let him after it go!",
+          "translation": "und so hüteten sie die Gänse bis daß es Abend ward, dann giengen sie nach Haus. Den andern Morgen, wie sie unter dem finstern Thor hinaus trieben, sprach die",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch13-u0049",
+          "score": 0.06,
+          "master": "Let Curdken's hat go!",
+          "translation": "und so hüteten sie die Gänse bis es Abend ward. Abends aber, nachdem sie heim gekommen waren, gieng Kürdchen vor den alten König und sagte „mit dem Mädchen will ich nicht länger Gä",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-14",
+      "title": "THE ADVENTURES OF CHANTICLEER AND PARTLET",
+      "units": 64,
+      "languages": {
+        "en": {
+          "units": 64,
+          "candidates": 64,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "de": {
+          "units": 64,
+          "candidates": 65,
+          "needsReview": 23,
+          "averageScore": 0.222
+        }
+      },
+      "samples": [
+        {
+          "language": "de",
+          "syncId": "grimm-ch14-u0001",
+          "score": 0.187,
+          "master": "HOW THEY WENT TO THE MOUNTAINS TO EAT NUTS 'The nuts are quite ripe now,' said Chanticleer to his wife Partlet, 'suppose we go together to the mountains, and eat as many as we can,",
+          "translation": "Hähnchen sprach zum Hühnchen „jetzt ist die Zeit wo die Nüsse reif",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch14-u0005",
+          "score": 0.167,
+          "master": "So Chanticleer began to build a little carriage of nutshells: and when it was finished, Partlet jumped into it and sat down, and bid Chanticleer harness himself to it and draw her ",
+          "translation": "miteinander",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch14-u0006",
+          "score": 0.077,
+          "master": "'That's a good joke!' said Chanticleer; 'no, that will never do; I had rather by half walk home; I'll sit on the box and be coachman, if you like, but I'll not draw.",
+          "translation": "machen.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch14-u0011",
+          "score": 0.144,
+          "master": "' And away they went at a pretty good pace.",
+          "translation": "setzte",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch14-u0012",
+          "score": 0.184,
+          "master": "After they had travelled along a little way, they met a needle and a pin walking together along the road: and the needle cried out, 'Stop, stop!' and said it was so dark that they ",
+          "translation": "sich Hühnchen hinein und sagte zum Hähnchen „du kannst dich nur immer vorspannen.\" „Du kommst mir",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch14-u0016",
+          "score": 0.051,
+          "master": "but the landlord at first was unwilling, and said his house was full, thinking they might not be very respectable company: however, they spoke civilly to him, and gave him the egg ",
+          "translation": "geheißen in meinen Nußberg gehen? wartet, das soll euch schlecht bekommen!\" gieng",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch14-u0017",
+          "score": 0.184,
+          "master": "so at last he let them come in, and they bespoke a handsome supper, and spent the evening very jollily.",
+          "translation": "also mit",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch14-u0020",
+          "score": 0.168,
+          "master": "However, the duck, who slept in the open air in the yard, heard them coming, and jumping into the brook which ran close by the inn, soon swam out of their reach.",
+          "translation": "sie",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-15",
+      "title": "RAPUNZEL",
+      "units": 55,
+      "languages": {
+        "en": {
+          "units": 55,
+          "candidates": 55,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "de": {
+          "units": 55,
+          "candidates": 55,
+          "needsReview": 6,
+          "averageScore": 0.299
+        }
+      },
+      "samples": [
+        {
+          "language": "de",
+          "syncId": "grimm-ch15-u0015",
+          "score": 0.116,
+          "master": "You shall suffer for it!",
+          "translation": "meine Frau hat eure Rapunzeln aus dem Fenster erblickt, und empfindet ein so großes Gelüsten, daß sie sterben würde, wenn sie nicht davon zu essen bekäme.\"",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch15-u0023",
+          "score": 0.131,
+          "master": "When the enchantress wanted to go in, she placed herself beneath it and cried: 'Rapunzel, Rapunzel, Let down your hair to me.",
+          "translation": "durch",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch15-u0039",
+          "score": 0.132,
+          "master": "The enchantress remarked nothing of this, until once Rapunzel said to her: 'Tell me, Dame Gothel, how it happens that you are so much heavier for me to draw up than the young king'",
+          "translation": "hätte dich",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch15-u0041",
+          "score": 0.158,
+          "master": "'What do I hear you say!",
+          "translation": "\" In ihrem Zorne packte sie die schönen Haare der Rapunzel, schlug sie ein paar mal um ihre linke Hand, griff eine Scheere mit der rechten, und ritsch, ratsch, waren sie",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch15-u0045",
+          "score": 0.125,
+          "master": "On the same day that she cast out Rapunzel, however, the enchantress fastened the braids of hair, which she had cut off, to the hook of the window, and when the king's son came and",
+          "translation": "hinauf,",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch15-u0052",
+          "score": 0.167,
+          "master": "Thus he roamed about in misery for some years, and at length came to the desert where Rapunzel, with the twins to which she had given birth, a boy and a girl, lived in wretchedness",
+          "translation": "den",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-16",
+      "title": "FUNDEVOGEL",
+      "units": 45,
+      "languages": {
+        "en": {
+          "units": 45,
+          "candidates": 45,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "de": {
+          "units": 45,
+          "candidates": 45,
+          "needsReview": 7,
+          "averageScore": 0.282
+        }
+      },
+      "samples": [
+        {
+          "language": "de",
+          "syncId": "grimm-ch16-u0007",
+          "score": 0.168,
+          "master": "Now the forester had an old cook, who one evening took two pails and began to fetch water, and did not go once only, but many times, out to the spring.",
+          "translation": "Köchin,",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch16-u0008",
+          "score": 0.188,
+          "master": "Lina saw this and said, 'Listen, old Sanna, why are you fetching so much water?",
+          "translation": "die nahm eines Abends zwei Eimer und fieng an Wasser zu schleppen, und gieng nicht einmal sondern vielemal hinaus an den Brunnen. Lenchen sah es und",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch16-u0016",
+          "score": 0.18,
+          "master": "but we will get up quickly, dress ourselves, and go away together.",
+          "translation": "sagen:",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch16-u0022",
+          "score": 0.134,
+          "master": "' Then the cook sent three servants after them, who were to run and overtake the children.",
+          "translation": "fort:",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch16-u0030",
+          "score": 0.187,
+          "master": "The children, however, saw them coming from a distance.",
+          "translation": "darauf.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch16-u0033",
+          "score": 0.195,
+          "master": "' Said Lina: 'Then do you become a church, and I'll be the chandelier in it.",
+          "translation": "Fundevogel sagte „nun und nimmermehr.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch16-u0037",
+          "score": 0.165,
+          "master": "And the cook scolded them and said: 'You fools! why did you not pull the church to pieces, and bring the chandelier home with you?",
+          "translation": "\" Wie sie nach Haus kamen, fragte die Köchin ob sie nichts gefunden hätten:",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-17",
+      "title": "THE VALIANT LITTLE TAILOR",
+      "units": 145,
+      "languages": {
+        "en": {
+          "units": 145,
+          "candidates": 145,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "de": {
+          "units": 145,
+          "candidates": 145,
+          "needsReview": 34,
+          "averageScore": 0.255
+        }
+      },
+      "samples": [
+        {
+          "language": "de",
+          "syncId": "grimm-ch17-u0003",
+          "score": 0.096,
+          "master": "Good jams, cheap!",
+          "translation": "\" Das klang dem Schneiderlein lieblich in die Ohren, er steckte sein zartes Haupt zum Fenster hinaus und rief „hier herauf, liebe Frau, hier wird sie ihre Waare los.\"",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch17-u0008",
+          "score": 0.126,
+          "master": "'Now, this jam shall be blessed by God,' cried the little tailor, 'and give me health and strength'; so he brought the bread out of the cupboard, cut himself a piece right across t",
+          "translation": "darüber.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch17-u0012",
+          "score": 0.048,
+          "master": "'Hi! who invited you?' said the little tailor, and drove the unbidden guests away.",
+          "translation": "ungebetenen Gäste fort.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch17-u0016",
+          "score": 0.17,
+          "master": "'Are you a fellow of that sort?' said he, and could not help admiring his own bravery.",
+          "translation": "seine Tapferkeit bewundern, „das soll die ganze Stadt erfahren.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch17-u0025",
+          "score": 0.145,
+          "master": "The road led him up a mountain, and when he had reached the highest point of it, there sat a powerful giant looking peacefully about him.",
+          "translation": "Hast du Lust mit zu gehen?",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch17-u0028",
+          "score": 0.08,
+          "master": "Have you any inclination to go with me?",
+          "translation": "bin.\"",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch17-u0030",
+          "score": 0.094,
+          "master": "You miserable creature!",
+          "translation": "Doch wollte er ihn erst prüfen, nahm einen Stein in die Hand, und drückte ihn zusammen daß das Wasser heraus tropfte. „Das mach mir nach,\" sprach der Riese, „wenn du",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch17-u0031",
+          "score": 0.008,
+          "master": "' 'Oh, indeed?' answered the little tailor, and unbuttoned his coat, and showed the giant the girdle, 'there may you read what kind of a man I am!",
+          "translation": "Stärke",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-18",
+      "title": "HANSEL AND GRETEL",
+      "units": 157,
+      "languages": {
+        "en": {
+          "units": 157,
+          "candidates": 157,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "de": {
+          "units": 157,
+          "candidates": 158,
+          "needsReview": 36,
+          "averageScore": 0.271
+        }
+      },
+      "samples": [
+        {
+          "language": "de",
+          "syncId": "grimm-ch18-u0005",
+          "score": 0.189,
+          "master": "How are we to feed our poor children, when we no longer have anything even for ourselves?",
+          "translation": "Wald führen, wo er am dicksten ist:",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch18-u0010",
+          "score": 0.135,
+          "master": "'But I feel very sorry for the poor children, all the same,' said the man.",
+          "translation": "sagte",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch18-u0011",
+          "score": 0.181,
+          "master": "The two children had also not been able to sleep for hunger, and had heard what their stepmother had said to their father.",
+          "translation": "der Mann.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch18-u0017",
+          "score": 0.128,
+          "master": "Then he went back and said to Gretel: 'Be comforted, dear little sister, and sleep in peace, God will not forsake us,' and he lay down again in his bed.",
+          "translation": "gieng",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch18-u0018",
+          "score": 0.078,
+          "master": "When day dawned, but before the sun had risen, the woman came and awoke the two children, saying: 'Get up, you sluggards! we are going into the forest to fetch wood.",
+          "translation": "er",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch18-u0022",
+          "score": 0.171,
+          "master": "When they had walked a short time, Hansel stood still and peeped back at the house, and did so again and again.",
+          "translation": "holen.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch18-u0029",
+          "score": 0.138,
+          "master": "' Hansel and Gretel gathered brushwood together, as high as a little hill.",
+          "translation": "sagen.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch18-u0040",
+          "score": 0.138,
+          "master": "They knocked at the door, and when the woman opened it and saw that it was Hansel and Gretel, she said: 'You naughty children, why have you slept so long in the forest?--we thought",
+          "translation": "Grethel fieng an zu weinen und sprach „wie sollen wir nun aus dem Wald kommen!",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-19",
+      "title": "MOTHER HOLLE",
+      "units": 50,
+      "languages": {
+        "en": {
+          "units": 50,
+          "candidates": 50,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "de": {
+          "units": 50,
+          "candidates": 50,
+          "needsReview": 7,
+          "averageScore": 0.278
+        }
+      },
+      "samples": [
+        {
+          "language": "de",
+          "syncId": "grimm-ch19-u0005",
+          "score": 0.176,
+          "master": "She ran home crying to tell of her misfortune, but her stepmother spoke harshly to her, and after giving her a violent scolding, said unkindly, 'As you have let the spindle fall in",
+          "translation": "Es weinte, lief zur Stiefmutter und erzählte ihr das Unglück.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch19-u0010",
+          "score": 0.176,
+          "master": "She went on a little farther, till she came to a tree full of apples.",
+          "translation": "Brot;",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch19-u0015",
+          "score": 0.162,
+          "master": "But the old woman called after her, 'What are you afraid of, dear child?",
+          "translation": "und als es alle in einen Haufen zusammengelegt hatte, gieng es wieder weiter. Endlich kam es zu einem kleinen Haus, daraus guckte eine alte Frau, weil sie aber so große",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch19-u0029",
+          "score": 0.085,
+          "master": "As she entered the courtyard, the cock who was perched on the well, called out: 'Cock-a-doodle-doo!",
+          "translation": "ward",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch19-u0034",
+          "score": 0.173,
+          "master": "Like her sister she awoke in the beautiful meadow, and walked over it till she came to the oven.",
+          "translation": "Sie",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch19-u0035",
+          "score": 0.141,
+          "master": "'Take us out, take us out, or alas! we shall be burnt to a cinder; we were baked through long ago,' cried the loaves as before.",
+          "translation": "mußte sich an den Brunnen setzen und spinnen;",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch19-u0048",
+          "score": 0.08,
+          "master": "So the lazy girl had to go home covered with pitch, and the cock on the well called out as she saw her: 'Cock-a-doodle-doo!",
+          "translation": "zu.",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-20",
+      "title": "LITTLE RED-CAP",
+      "units": 64,
+      "languages": {
+        "en": {
+          "units": 64,
+          "candidates": 64,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "de": {
+          "units": 64,
+          "candidates": 64,
+          "needsReview": 22,
+          "averageScore": 0.232
+        }
+      },
+      "samples": [
+        {
+          "language": "de",
+          "syncId": "grimm-ch20-u0004",
+          "score": 0.16,
+          "master": "Set out before it gets hot, and when you are going, walk nicely and quietly and do not run off the path, or you may fall and break the bottle, and then your grandmother will get no",
+          "translation": "sie ist krank und schwach und wird sich daran laben.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch20-u0008",
+          "score": 0.154,
+          "master": "'Good day, Little Red-Cap,' said he.",
+          "translation": "darauf.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch20-u0014",
+          "score": 0.164,
+          "master": "' 'Where does your grandmother live, Little Red-Cap?",
+          "translation": "„Noch eine gute Viertelstunde weiter im Wald, unter den drei großen Eichbäumen, da steht ihr Haus, unten sind die Nußhecken, das wirst du ja wissen\" sagte",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch20-u0015",
+          "score": 0.127,
+          "master": "' 'A good quarter of a league farther on in the wood; her house stands under the three large oak-trees, the nut-trees are just below; you surely must know it,' replied Little Red-C",
+          "translation": "Rothkäppchen.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch20-u0019",
+          "score": 0.127,
+          "master": "I believe, too, that you do not hear how sweetly the little birds are singing; you walk gravely along as if you were going to school, while everything else out here in the wood is ",
+          "translation": "Wald.\"",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch20-u0024",
+          "score": 0.13,
+          "master": "'Who is there?",
+          "translation": "die",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch20-u0025",
+          "score": 0.15,
+          "master": "' 'Little Red-Cap,' replied the wolf.",
+          "translation": "Thüre. „Wer ist draußen?\" „Rothkäppchen, das bringt Kuchen und Wein, mach auf.\" „Drück nur auf die Klinke,\" rief die Großmutter, „ich bin zu schwach und kann nicht aufstehen.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch20-u0028",
+          "score": 0.13,
+          "master": "' The wolf lifted the latch, the door sprang open, and without saying a word he went straight to the grandmother's bed, and devoured her.",
+          "translation": "hatte,",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-21",
+      "title": "THE ROBBER BRIDEGROOM",
+      "units": 70,
+      "languages": {
+        "en": {
+          "units": 70,
+          "candidates": 70,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "de": {
+          "units": 70,
+          "candidates": 70,
+          "needsReview": 18,
+          "averageScore": 0.281
+        }
+      },
+      "samples": [
+        {
+          "language": "de",
+          "syncId": "grimm-ch21-u0005",
+          "score": 0.17,
+          "master": "She did not feel that she could trust him, and she could not look at him nor think of him without an inward shudder.",
+          "translation": "ihm:",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch21-u0013",
+          "score": 0.175,
+          "master": "She walked the whole day until she came to the deepest, darkest part of the forest.",
+          "translation": "paar",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch21-u0016",
+          "score": 0.134,
+          "master": "Suddenly a voice cried: 'Turn back, turn back, young maiden fair, Linger not in this murderers' lair.",
+          "translation": "du",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch21-u0022",
+          "score": 0.083,
+          "master": "' 'Ah, you poor child,' answered the old woman, 'what a place for you to come to!",
+          "translation": "du",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch21-u0023",
+          "score": 0.199,
+          "master": "This is a murderers' den.",
+          "translation": "armes Kind,\" antwortete die Alte, „wo bist du hingerathen! du bist in einer Mördergrube.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch21-u0027",
+          "score": 0.176,
+          "master": "If I did not take pity on you and save you, you would be lost.",
+          "translation": "Menschenfresser.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch21-u0031",
+          "score": 0.184,
+          "master": "I have long been waiting for an opportunity to escape.",
+          "translation": "geschehen.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch21-u0035",
+          "score": 0.17,
+          "master": "Then they tore off her dainty clothing, laid her on a table, and cut her beautiful body into pieces, and sprinkled salt upon it.",
+          "translation": "feinen",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-22",
+      "title": "TOM THUMB",
+      "units": 105,
+      "languages": {
+        "en": {
+          "units": 105,
+          "candidates": 105,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "de": {
+          "units": 105,
+          "candidates": 105,
+          "needsReview": 32,
+          "averageScore": 0.248
+        }
+      },
+      "samples": [
+        {
+          "language": "de",
+          "syncId": "grimm-ch22-u0007",
+          "score": 0.196,
+          "master": "' And they called him Thomas Thumb.",
+          "translation": "Sie ließens nicht an Nahrung fehlen, aber das Kind ward nicht größer, sondern blieb wie es in der ersten Stunde gewesen war;",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch22-u0011",
+          "score": 0.13,
+          "master": "' 'Oh, father,' cried Tom, 'I will take care of that; the cart shall be in the wood by the time you want it.",
+          "translation": "sein.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch22-u0014",
+          "score": 0.142,
+          "master": "' 'Well,' said the father, 'we will try for once.",
+          "translation": "versuchen.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch22-u0019",
+          "score": 0.132,
+          "master": "' So they went on into the wood, till at last they came to the place where the woodman was.",
+          "translation": "sehen",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch22-u0020",
+          "score": 0.1,
+          "master": "Then Tom Thumb, seeing his father, cried out, 'See, father, here I am with the cart, all right and safe! now take me down!",
+          "translation": "wo er anhält.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch22-u0023",
+          "score": 0.167,
+          "master": "At last one took the other aside, and said, 'That little urchin will make our fortune, if we can get him, and carry him about from town to town as a show; we must buy him.",
+          "translation": "herunter.\"",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch22-u0029",
+          "score": 0.112,
+          "master": "'Where would you like to sit?' said one of them.",
+          "translation": "feil.\"",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch22-u0032",
+          "score": 0.131,
+          "master": "They journeyed on till it began to be dusky, and then the little man said, 'Let me get down, I'm tired.",
+          "translation": "kommen.",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-23",
+      "title": "RUMPELSTILTSKIN",
+      "units": 45,
+      "languages": {
+        "en": {
+          "units": 45,
+          "candidates": 45,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "de": {
+          "units": 45,
+          "candidates": 46,
+          "needsReview": 18,
+          "averageScore": 0.233
+        }
+      },
+      "samples": [
+        {
+          "language": "de",
+          "syncId": "grimm-ch23-u0008",
+          "score": 0.181,
+          "master": "' 'Alas!' said she, 'I must spin this straw into gold, and I know not how.",
+          "translation": "spinnen, und verstehe das nicht.\"",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch23-u0012",
+          "score": 0.189,
+          "master": "Reel away, reel away, Straw into gold!",
+          "translation": "Bei Sonnenaufgang kam schon der König und als er das Gold erblickte, erstaunte er und freute sich, aber sein Herz ward nur noch goldgieriger.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch23-u0019",
+          "score": 0.125,
+          "master": "The king was greatly delighted to see all this glittering treasure; but still he had not enough: so he took the miller's daughter to a yet larger heap, and said, 'All this must be ",
+          "translation": "verspinnen:",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch23-u0021",
+          "score": 0.156,
+          "master": "' 'I have nothing left,' said she.",
+          "translation": "\" Als das Mädchen allein war, kam das Männlein zum drittenmal wieder und sprach „was gibst du mir, wenn ich dir noch diesmal das Stroh spinne?\" „Ich habe nichts mehr,",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch23-u0023",
+          "score": 0.128,
+          "master": "' 'That may never be,' thought the miller's daughter: and as she knew no other way to get her task done, she said she would do what he asked.",
+          "translation": "wußte",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch23-u0027",
+          "score": 0.181,
+          "master": "But one day he came into her room, where she was sitting playing with her baby, and put her in mind of it.",
+          "translation": "mehr an",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch23-u0028",
+          "score": 0.128,
+          "master": "Then she grieved sorely at her misfortune, and said she would give him all the wealth of the kingdom if he would let her off, but in vain; till at last her tears softened him, and ",
+          "translation": "das Männchen:",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch23-u0034",
+          "score": 0.164,
+          "master": "When the queen heard this she jumped for joy, and as soon as her little friend came she sat down upon her throne, and called all her court round to enjoy the fun; and the nurse sto",
+          "translation": "Reihe",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-24",
+      "title": "CLEVER GRETEL",
+      "units": 41,
+      "languages": {
+        "en": {
+          "units": 41,
+          "candidates": 41,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "de": {
+          "units": 41,
+          "candidates": 41,
+          "needsReview": 9,
+          "averageScore": 0.257
+        }
+      },
+      "samples": [
+        {
+          "language": "de",
+          "syncId": "grimm-ch24-u0009",
+          "score": 0.185,
+          "master": "' When the master had turned his back, Gretel laid the spit with the fowls on one side, and thought: 'Standing so long by the fire there, makes one sweat and thirsty; who knows whe",
+          "translation": "Als der Herr den Rücken gekehrt hatte, legte Grethel den Spieß mit den Hühnern beiseite und dachte „so lange da beim",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch24-u0011",
+          "score": 0.126,
+          "master": "' She ran down, set a jug, said: 'God bless it for you, Gretel,' and took a good drink, and thought that wine should flow on, and should not be interrupted, and took yet another he",
+          "translation": "Schluck.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch24-u0014",
+          "score": 0.087,
+          "master": "' She touched it with her finger, and said: 'Ah! how good fowls are!",
+          "translation": "Zug.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch24-u0018",
+          "score": 0.117,
+          "master": "' So she cut it off, ate it, and enjoyed it, and when she had done, she thought: 'The other must go down too, or else master will observe that something is missing.",
+          "translation": "ißt!\"",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch24-u0020",
+          "score": 0.141,
+          "master": "It suddenly occurred to her: 'Who knows?",
+          "translation": "\" Also schnitt es ihn ab, und aß ihn auf, und er schmeckte ihm: und wie es damit fertig war, dachte es „der andere muß auch herab, sonst merkt der Herr daß etwas fehlt.\"",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch24-u0025",
+          "score": 0.136,
+          "master": "' So she took another hearty drink, and let the second chicken follow the first.",
+          "translation": "zusammen:",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch24-u0030",
+          "score": 0.113,
+          "master": "Gretel ran, and looked to see who was there, and when she saw the guest, she put her finger to her lips and said: 'Hush! hush! go away as quickly as you can, if my master catches y",
+          "translation": "Indem kam der Gast, klopfte sittig und höflich an der Hausthüre.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch24-u0033",
+          "score": 0.083,
+          "master": "Gretel was not idle; she ran screaming to her master, and cried: 'You have invited a fine guest!",
+          "translation": "unglücklich;",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-25",
+      "title": "THE OLD MAN AND HIS GRANDSON",
+      "units": 11,
+      "languages": {
+        "en": {
+          "units": 11,
+          "candidates": 11,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "de": {
+          "units": 11,
+          "candidates": 12,
+          "needsReview": 1,
+          "averageScore": 0.316
+        }
+      },
+      "samples": [
+        {
+          "language": "de",
+          "syncId": "grimm-ch25-u0008",
+          "score": 0.185,
+          "master": "'What are you doing there?' asked the father.",
+          "translation": "Da kaufte sie ihm ein hölzernes Schüsselchen für ein paar Heller, daraus mußte er nun essen.",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-26",
+      "title": "THE LITTLE PEASANT",
+      "units": 94,
+      "languages": {
+        "en": {
+          "units": 94,
+          "candidates": 94,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "de": {
+          "units": 94,
+          "candidates": 95,
+          "needsReview": 17,
+          "averageScore": 0.266
+        }
+      },
+      "samples": [
+        {
+          "language": "de",
+          "syncId": "grimm-ch26-u0005",
+          "score": 0.177,
+          "master": "be, and made it with its head hanging down as if it were eating.",
+          "translation": "Kuh.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch26-u0009",
+          "score": 0.186,
+          "master": "' At night when he was going to drive the herd home again, he said to the calf: 'If you can stand there and eat your fill, you can also go on your four legs; I don't care to drag y",
+          "translation": "und muß noch getragen werden.\"",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch26-u0027",
+          "score": 0.133,
+          "master": "The woman said: 'Oh, heavens!",
+          "translation": "Bürle horchte auf und wies von tractieren hörte, ärgerte es sich daß es mit Käsebrot hatte vorlieb nehmen müssen.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch26-u0028",
+          "score": 0.161,
+          "master": "It is my husband!' she quickly hid the roast meat inside the tiled stove, the wine under the pillow, the salad on the bed, the cakes under it, and the parson in the closet on the p",
+          "translation": "Da trug die Frau herbei, und trug viererlei auf, Braten, Salat, Kuchen und Wein.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch26-u0033",
+          "score": 0.124,
+          "master": "' The man said: 'I have no objection, but be quick and get me something to eat.",
+          "translation": "sollte!\"",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch26-u0042",
+          "score": 0.133,
+          "master": "' Then the peasant pinched the raven's head, so that he croaked and made a noise like krr, krr.",
+          "translation": "sich.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch26-u0046",
+          "score": 0.163,
+          "master": "'Now go on,' said he.",
+          "translation": "der Müller. Das Bürle ließ den Raben wieder quacksen und sprach „zweitens, hat er gesagt, wäre Braten in der Ofenkachel.\" „Das wäre des Guckgucks!\" rief der Müller,",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch26-u0047",
+          "score": 0.13,
+          "master": "The peasant made the raven croak again, and said: 'In the second place, he says that there is some roast meat in the tiled stove.",
+          "translation": "gieng",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-27",
+      "title": "FREDERICK AND CATHERINE",
+      "units": 85,
+      "languages": {
+        "en": {
+          "units": 85,
+          "candidates": 85,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "de": {
+          "units": 85,
+          "candidates": 86,
+          "needsReview": 22,
+          "averageScore": 0.252
+        }
+      },
+      "samples": [
+        {
+          "language": "de",
+          "syncId": "grimm-ch27-u0002",
+          "score": 0.143,
+          "master": "One day Frederick said.",
+          "translation": "Eines Tages sprach der Frieder „ich will jetzt zu Acker, Catherlieschen, wann ich wiederkomme, muß etwas Gebratenes auf dem Tisch stehen für den Hunger, und ein frischer Trunk dabe",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch27-u0003",
+          "score": 0.115,
+          "master": "'Kate!",
+          "translation": "\" Als nun die Essenszeit herbeirückte, holte sie eine Wurst aus dem Schornstein, that sie in eine Bratpfanne, legte Butter dazu und stellte sie übers Feuer. Die Wurst fieng an zu b",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch27-u0017",
+          "score": 0.013,
+          "master": "'My stars!' said she, 'what shall I do to keep Frederick from seeing all this slopping about?",
+          "translation": "dem",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch27-u0018",
+          "score": 0.182,
+          "master": "' So she thought a while; and at last remembered that there was a sack of fine meal bought at the last fair, and that if she sprinkled this over the floor it would suck up the ale ",
+          "translation": "Waizenmehl auftrocknen wollte, hab ich die Kanne auch noch umgestoßen;",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch27-u0024",
+          "score": 0.145,
+          "master": "'Now, wife,' cried he, 'what have you for dinner?",
+          "translation": "\" Nun, als der Frieder fort war, da kamen Krämer, die irdne Näpfe und Töpfe feil hatten, ins Dorf und fragten bei der jungen Frau an ob sie nichts zu handeln hätte. „O, ihr lieben ",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch27-u0026",
+          "score": 0.149,
+          "master": "' 'Kate, Kate,' said he, 'how could you do all this?",
+          "translation": "weil nun in der Küche ohnehin kein Mangel daran war, schlug sie jedem Topf den Boden aus und steckte sie insgesammt zum Zierrath auf die Zaunpfähle rings ums Haus",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch27-u0028",
+          "score": 0.144,
+          "master": "' 'Why, Frederick,' said she, 'I did not know I was doing wrong; you should have told me before.",
+          "translation": "unter der",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch27-u0029",
+          "score": 0.148,
+          "master": "' The husband thought to himself, 'If my wife manages matters thus, I must look sharp myself.",
+          "translation": "Kuhkrippe steckten:",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-28",
+      "title": "SWEETHEART ROLAND",
+      "units": 58,
+      "languages": {
+        "en": {
+          "units": 58,
+          "candidates": 58,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "de": {
+          "units": 58,
+          "candidates": 59,
+          "needsReview": 12,
+          "averageScore": 0.275
+        }
+      },
+      "samples": [
+        {
+          "language": "de",
+          "syncId": "grimm-ch28-u0014",
+          "score": 0.104,
+          "master": "Then she hurried away with her lover.",
+          "translation": "nicht. Da rief sie „wo bist du?\" „Ei, hier auf der Treppe, da kehr ich,\" antwortete der eine Blutstropfen. Die Alte gieng hinaus, sah aber niemand auf der Treppe und rief",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch28-u0018",
+          "score": 0.063,
+          "master": "The old woman went out, but saw no one on the stairs, and cried again: 'Where are you?",
+          "translation": "Stieftochter,",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch28-u0020",
+          "score": 0.197,
+          "master": "She went into the kitchen, but found no one.",
+          "translation": "\" Sie zog ihre Meilenstiefeln an, in welchem sie mit jedem Schritt eine Stunde machte, und es dauerte nicht lange, so hatte sie beide eingeholt. Das Mädchen aber, wie es",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch28-u0021",
+          "score": 0.108,
+          "master": "Then she cried again: 'Where are you?",
+          "translation": "die Alte daher schreiten sah, verwandelte mit dem Zauberstab seinen Liebsten Roland in einen See, sich selbst aber in eine Ente, die mitten auf dem See schwamm. Die Hexe",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch28-u0024",
+          "score": 0.134,
+          "master": "What did she see there?",
+          "translation": "natürliche Gestalt an, und sie giengen die ganze Nacht weiter bis zu Tagesanbruch. Da verwandelte sich das Mädchen in eine schöne Blume, die mitten in einer Dornhecke",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch28-u0025",
+          "score": 0.178,
+          "master": "Her own child, whose head she had cut off, bathed in her blood.",
+          "translation": "stand,",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch28-u0028",
+          "score": 0.169,
+          "master": "' She put on her many-league boots, in which she covered an hour's walk at every step, and it was not long before she overtook them.",
+          "translation": "aufspielen.\"",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch28-u0033",
+          "score": 0.059,
+          "master": "It was not long before the witch came striding up towards them, and said to the musician: 'Dear musician, may I pluck that beautiful flower for myself?",
+          "translation": "verwandeln.",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-29",
+      "title": "SNOWDROP",
+      "units": 92,
+      "languages": {
+        "en": {
+          "units": 92,
+          "candidates": 92,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "de": {
+          "units": 92,
+          "candidates": 92,
+          "needsReview": 20,
+          "averageScore": 0.261
+        }
+      },
+      "samples": [
+        {
+          "language": "de",
+          "syncId": "grimm-ch29-u0007",
+          "score": 0.104,
+          "master": "Of all the ladies in the land, Who is fairest, tell me, who?",
+          "translation": "\" Da war sie zufrieden, denn sie wußte daß der Spiegel die Wahrheit sagte. Sneewittchen aber wuchs heran, und wurde immer schöner, und als es sieben Jahr alt war, war es so schön, ",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch29-u0008",
+          "score": 0.188,
+          "master": "' And the glass had always answered: 'Thou, queen, art the fairest in all the land.",
+          "translation": "Land?\" „Spieglein, Spieglein an der Wand, wer ist die schönste im ganzen Land?\" so antwortete er „Frau Königin, ihr seid die schönste hier, aber Sneewittchen ist tausendmal schöner",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch29-u0011",
+          "score": 0.127,
+          "master": "' When she heard this she turned pale with rage and envy, and called to one of her servants, and said, 'Take Snowdrop away into the wide wood, that I may never see her any more.",
+          "translation": "„bring",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch29-u0031",
+          "score": 0.164,
+          "master": "But the seventh saw Snowdrop, and called all his brethren to come and see her; and they cried out with wonder and astonishment and brought their lamps to look at her, and said, 'Go",
+          "translation": "Der siebente aber, als er in sein Bett sah, erblickte Sneewittchen, das lag darin und schlief.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch29-u0034",
+          "score": 0.197,
+          "master": "Then they went out all day long to their work, seeking for gold and silver in the mountains: but Snowdrop was left at home; and they warned her, and said, 'The queen will soon find",
+          "translation": "Als es Morgen war, erwachte Sneewittchen, und wie es die sieben Zwerge sah, erschrack es.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch29-u0035",
+          "score": 0.195,
+          "master": "' But the queen, now that she thought Snowdrop was dead, believed that she must be the handsomest lady in the land; and she went to her glass and said: 'Tell me, glass, tell me tru",
+          "translation": "Sie waren aber freundlich und fragten „wie heißt du?\" „Ich heiße Sneewittchen,\" antwortete es. „Wie bist du in unser Haus gekommen?\" sprachen weiter die Zwerge. Da erzählte es ihne",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch29-u0036",
+          "score": 0.114,
+          "master": "Of all the ladies in the land, Who is fairest, tell me, who?",
+          "translation": "ihr Häuslein gefunden hätte. Die Zwerge sprachen „willst du unsern Haushalt versehen, kochen, betten, waschen, nähen und stricken, und willst du alles ordentlich und reinlich halte",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch29-u0040",
+          "score": 0.17,
+          "master": "Then she knocked at the door, and cried, 'Fine wares to sell!",
+          "translation": "\" Da antwortete der Spiegel „Frau Königin, ihr seid die schönste hier, aber Sneewittchen über den Bergen bei den sieben Zwergen ist noch tausendmal schöner als ihr.\" „Frau Königin,",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-30",
+      "title": "THE PINK",
+      "units": 64,
+      "languages": {
+        "en": {
+          "units": 64,
+          "candidates": 64,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "de": {
+          "units": 64,
+          "candidates": 65,
+          "needsReview": 11,
+          "averageScore": 0.292
+        }
+      },
+      "samples": [
+        {
+          "language": "de",
+          "syncId": "grimm-ch30-u0006",
+          "score": 0.171,
+          "master": "It happened once when the child was a little older, that it was lying in her arms and she fell asleep.",
+          "translation": "Schooß",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch30-u0009",
+          "score": 0.165,
+          "master": "When the king saw the blood on her apron, he believed this, fell into such a passion that he ordered a high tower to be built, in which neither sun nor moon could be seen and had h",
+          "translation": "habe",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch30-u0025",
+          "score": 0.193,
+          "master": "Now will I pronounce thy sentence.",
+          "translation": "Und wie er die Worte ausgesprochen hatte, so war der alte in einen Pudelhund verwandelt, und hatte eine goldene Kette um den Hals, und die Köche mußten lebendige Kohlen herauf brin",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch30-u0030",
+          "score": 0.06,
+          "master": "' 'Ah,' she replied, 'the way is so long, and what shall I do in a strange land where I am unknown?",
+          "translation": "eine",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch30-u0045",
+          "score": 0.131,
+          "master": "When they were all assembled together, he said to the huntsman: 'As you are so clever, you shall sit by me.",
+          "translation": "hatte",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch30-u0046",
+          "score": 0.193,
+          "master": "' He replied: 'Lord King, your majesty must excuse me, I am a poor huntsman.",
+          "translation": "er es gewünscht, so fieng auch schon der Marschall an, und sprach „königliche Majestät, wir leben hier in Freuden, wie geht es wohl der Frau Königin im Thurm, ob sie wohl noch am L",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch30-u0049",
+          "score": 0.198,
+          "master": "Hardly had he formed the wish than the marshal began, and said: 'Your majesty, we live joyously here, but how is the queen living in the tower?",
+          "translation": "Darauf nahm er den Hund mit dem goldenen Halsband und sprach „das ist der Bösewicht,\" und ließ glühende Kohlen bringen, die mußte er Angesichts aller fressen, daß ihm die Lohe aus ",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch30-u0050",
+          "score": 0.154,
+          "master": "Is she still alive, or has she died?",
+          "translation": "weißen Schürze und dem Messer an der Seite. Der König, wie er ihn sah, ward zornig, und befahl daß er in den tiefsten Kerker sollte geworfen werden. Darauf sprach der",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-31",
+      "title": "CLEVER ELSIE",
+      "units": 58,
+      "languages": {
+        "en": {
+          "units": 58,
+          "candidates": 58,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "de": {
+          "units": 58,
+          "candidates": 59,
+          "needsReview": 17,
+          "averageScore": 0.26
+        }
+      },
+      "samples": [
+        {
+          "language": "de",
+          "syncId": "grimm-ch31-u0011",
+          "score": 0.126,
+          "master": "Then Clever Elsie began to weep and said: 'If I get Hans, and we have a child, and he grows big, and we send him into the cellar here to draw beer, then the pick-axe will fall on h",
+          "translation": "Else",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch31-u0014",
+          "score": 0.173,
+          "master": "Then the woman said to the servant: 'Just go down into the cellar and see where Elsie is.",
+          "translation": "todt.\"",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch31-u0017",
+          "score": 0.183,
+          "master": "'Ah,' she answered, 'have I not reason to weep?",
+          "translation": "Da sprach die Frau zur Magd „geh doch hinunter in den Keller und sieh wo die Else bleibt.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch31-u0022",
+          "score": 0.155,
+          "master": "Then he asked: 'Why are you weeping?",
+          "translation": "Der Knecht gieng hinab, da saß die kluge Else und die Magd, und weinten beide zusammen.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch31-u0025",
+          "score": 0.08,
+          "master": "' Then said the boy: 'What a clever Elsie we have!' and sat down by her, and likewise began to howl loudly.",
+          "translation": "todt.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch31-u0030",
+          "score": 0.137,
+          "master": "' But when he got into the cellar, and they were all sitting together crying, and he heard the reason, and that Elsie's child was the cause, and the Elsie might perhaps bring one i",
+          "translation": "Else!\" setzte sich hin und weinte mit.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch31-u0034",
+          "score": 0.144,
+          "master": "' When he got down, the five of them were sitting screaming and lamenting quite piteously, each out-doing the other.",
+          "translation": "zu zapfen:",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch31-u0035",
+          "score": 0.177,
+          "master": "'What misfortune has happened then?' asked he.",
+          "translation": "da rief er „was für eine kluge Else!\" setzte sich und weinte auch mit.",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-32",
+      "title": "THE MISER IN THE BUSH",
+      "units": 47,
+      "languages": {
+        "en": {
+          "units": 47,
+          "candidates": 47,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "de": {
+          "units": 47,
+          "candidates": 47,
+          "needsReview": 15,
+          "averageScore": 0.232
+        }
+      },
+      "samples": [
+        {
+          "language": "de",
+          "syncId": "grimm-ch32-u0002",
+          "score": 0.18,
+          "master": "At last it came into the man's head that he would not go on thus without pay any longer; so he went to his master, and said, 'I have worked hard for you a long time, I will trust t",
+          "translation": "Dabei klagte er nicht, sondern war mit allem zufrieden, und war immer lustig.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch32-u0006",
+          "score": 0.133,
+          "master": "' With that he put his money into his purse, and set out, roaming over hill and valley.",
+          "translation": "„Herr,",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch32-u0010",
+          "score": 0.14,
+          "master": "' 'How much may it come to?' said the little man.",
+          "translation": "Der gute Knecht, der vom Geld wenig verstand, strich sein Capital ein und dachte „nun hast du vollauf in der Tasche, was willst du sorgen und dich mit schwerer Arbeit länger plagen",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch32-u0011",
+          "score": 0.115,
+          "master": "'Full threepence,' replied the countryman.",
+          "translation": "\" Da zog er fort, bergauf, bergab, sang und sprang nach Herzenslust. Nun trug es sich zu, als er an ein Buschwerk vorüber kam, daß ein kleines Männchen hervortrat und ihn anrief „w",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch32-u0012",
+          "score": 0.191,
+          "master": "'I wish you would give them to me,' said the other; 'I am very poor.",
+          "translation": "drei Jahren klingelt in meiner Tasche.\" „Wie viel ist denn deines Schatzes?\" fragte ihn das Männchen. „Wie viel? drei baare Heller, richtig gezählt.\" „Höre,\" sagte der Zwerg, „ich ",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch32-u0018",
+          "score": 0.181,
+          "master": "'Oh, what a pretty bird!' said the miser; 'I would give a great deal of money to have such a one.",
+          "translation": "soll dirs abschlagen.\" „Herz, was begehrst du nun?\" sprach der Knecht zu sich selber und zog lustig weiter. Bald darauf begegnete er einem Juden mit einem langen Ziegenbart, der st",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch32-u0019",
+          "score": 0.169,
+          "master": "' 'If that's all,' said the countryman, 'I will soon bring it down.",
+          "translation": "grausam mächtige Stimme! wenns doch mein wäre! wer ihm doch Salz auf den Schwanz streuen könnte!\" „Wenns weiter nichts ist,\" sprach der Knecht, „der Vogel soll bald herunter sein,\"",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch32-u0022",
+          "score": 0.184,
+          "master": "The thorns soon began to tear his clothes till they all hung in rags about him, and he himself was all scratched and wounded, so that the blood ran down.",
+          "translation": "Höhe zu springen:",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-33",
+      "title": "ASHPUTTEL",
+      "units": 95,
+      "languages": {
+        "en": {
+          "units": 95,
+          "candidates": 95,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "de": {
+          "units": 95,
+          "candidates": 96,
+          "needsReview": 31,
+          "averageScore": 0.251
+        }
+      },
+      "samples": [
+        {
+          "language": "de",
+          "syncId": "grimm-ch33-u0005",
+          "score": 0.043,
+          "master": "'What does the good-for-nothing want in the parlour?' said they; 'they who would eat bread should first earn it; away with the kitchen-maid!",
+          "translation": "hinaus mit der Küchenmagd.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch33-u0011",
+          "score": 0.145,
+          "master": "'Fine clothes,' said the first; 'Pearls and diamonds,' cried the second.",
+          "translation": "Es trug sich zu, daß der Vater einmal in die Messe ziehen wollte, da fragte er die beiden Stieftöchter was er ihnen mitbringen sollte? „Schöne Kleider\" sagte die eine, „Perlen und ",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch33-u0012",
+          "score": 0.124,
+          "master": "'Now, child,' said he to his own daughter, 'what will you have?",
+          "translation": "brecht für mich ab.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch33-u0015",
+          "score": 0.127,
+          "master": "Then she took it, and went to her mother's grave and planted it there; and cried so much that it was watered with her tears; and there it grew and became a fine tree.",
+          "translation": "Aschenputtel",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch33-u0018",
+          "score": 0.133,
+          "master": "Ashputtel's two sisters were asked to come; so they called her up, and said, 'Now, comb our hair, brush our shoes, and tie our sashes for us, for we are going to dance at the king'",
+          "translation": "Vöglein auf",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch33-u0021",
+          "score": 0.125,
+          "master": "And when she kept on begging, she said at last, to get rid of her, 'I will throw this dishful of peas into the ash-heap, and if in two hours' time you have picked them all out, you",
+          "translation": "hörten",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch33-u0023",
+          "score": 0.1,
+          "master": "Blackbird, thrush, and chaffinch gay, Hither, hither, haste away!",
+          "translation": "Aschenputtel gehorchte, weinte aber, weil es auch gern zum Tanz mitgegangen wäre, und bat die Stiefmutter sie möchte es ihm erlauben. „Du Aschenputtel,\" sprach sie, „bist voll Stau",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch33-u0024",
+          "score": 0.159,
+          "master": "One and all come help me, quick!",
+          "translation": "Als es aber mit Bitten anhielt, sprach sie endlich „da habe ich dir eine Schüssel Linsen in die Asche geschüttet, wenn du die Linsen in zwei Stunden wieder ausgelesen hast, so soll",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-34",
+      "title": "THE WHITE SNAKE",
+      "units": 58,
+      "languages": {
+        "en": {
+          "units": 58,
+          "candidates": 58,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "de": {
+          "units": 58,
+          "candidates": 59,
+          "needsReview": 8,
+          "averageScore": 0.304
+        }
+      },
+      "samples": [
+        {
+          "language": "de",
+          "syncId": "grimm-ch34-u0027",
+          "score": 0.166,
+          "master": "He listened, and heard an ant-king complain: 'Why cannot folks, with their clumsy beasts, keep off our bodies?",
+          "translation": "„wenn uns nur die Menschen mit den ungeschickten Thieren vom Leib blieben! da tritt mir das dumme Pferd mit seinen schweren Hufen meine Leute ohne Barmherzigkeit",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch34-u0028",
+          "score": 0.136,
+          "master": "That stupid horse, with his heavy hoofs, has been treading down my people without mercy!",
+          "translation": "nieder!\"",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch34-u0034",
+          "score": 0.12,
+          "master": "What can we do, but lie here and starve?",
+          "translation": "\" Er mußte jetzt seine eigenen Beine gebrauchen, und als er lange Wege gegangen war, kam er in eine große Stadt. Da war großer Lärm und Gedränge in den Straßen, und kam",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch34-u0036",
+          "score": 0.082,
+          "master": "Then they came hopping up to it, satisfied their hunger, and cried: 'We will remember you--one good turn deserves another!",
+          "translation": "es",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch34-u0038",
+          "score": 0.177,
+          "master": "There was a great noise and crowd in the streets, and a man rode up on horseback, crying aloud: 'The king's daughter wants a husband; but whoever seeks her hand must perform a hard",
+          "translation": "Viele hatten es schon versucht, aber vergeblich ihr Leben daran gesetzt.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch34-u0040",
+          "score": 0.197,
+          "master": "So he was led out to the sea, and a gold ring was thrown into it, before his eyes; then the king ordered him to fetch this ring up from the bottom of the sea, and added: 'If you co",
+          "translation": "Alsbald ward er hinaus ans Meer geführt und vor seinen Augen ein goldener Ring hinein geworfen.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch34-u0044",
+          "score": 0.173,
+          "master": "Full of joy he took it to the king and expected that he would grant him the promised reward.",
+          "translation": "Füßen",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch34-u0052",
+          "score": 0.126,
+          "master": "' The youth did not know where the Tree of Life stood, but he set out, and would have gone on for ever, as long as his legs would carry him, though he had no hope of finding it.",
+          "translation": "ihm",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-35",
+      "title": "THE WOLF AND THE SEVEN LITTLE KIDS",
+      "units": 53,
+      "languages": {
+        "en": {
+          "units": 53,
+          "candidates": 53,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "de": {
+          "units": 53,
+          "candidates": 54,
+          "needsReview": 9,
+          "averageScore": 0.281
+        }
+      },
+      "samples": [
+        {
+          "language": "de",
+          "syncId": "grimm-ch35-u0013",
+          "score": 0.174,
+          "master": "' But the wolf had laid his black paws against the window, and the children saw them and cried: 'We will not open the door, our mother has not black feet like you: you are the wolf",
+          "translation": "rief „macht auf, ihr lieben Kinder, eure Mutter ist da und hat jedem von Euch etwas",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch35-u0014",
+          "score": 0.171,
+          "master": "' Then the wolf ran to a baker and said: 'I have hurt my feet, rub some dough over them for me.",
+          "translation": "mitgebracht.\"",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch35-u0018",
+          "score": 0.19,
+          "master": "Truly, this is the way of mankind.",
+          "translation": "\" Der Müller dachte „der Wolf will einen betrügen\" und weigerte sich, aber der Wolf sprach „wenn du es nicht thust, so fresse ich dich.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch35-u0022",
+          "score": 0.128,
+          "master": "But who should come in but the wolf!",
+          "translation": "\" Da legte er die Pfote ins Fenster, und als sie sahen daß sie weiß war, so glaubten sie es wäre alles wahr, was er sagte, und machten die Thüre auf. Wer aber hereinkam,",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch35-u0029",
+          "score": 0.17,
+          "master": "Ah! what a sight she saw there!",
+          "translation": "sie zu finden. Sie rief sie nacheinander bei Namen, aber niemand antwortete. Endlich als sie an das jüngste kam, da rief eine feine Stimme „liebe Mutter, ich stecke",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch35-u0031",
+          "score": 0.13,
+          "master": "The table, chairs, and benches were thrown down, the washing-bowl lay broken to pieces, and the quilts and pillows were pulled off the bed.",
+          "translation": "Uhrkasten.\"",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch35-u0041",
+          "score": 0.124,
+          "master": "' Then the kid had to run home and fetch scissors, and a needle and thread, and the goat cut open the monster's stomach, and hardly had she made one cut, than one little kid thrust",
+          "translation": "hinunter",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch35-u0042",
+          "score": 0.18,
+          "master": "whatever, for in his greediness the monster had swallowed them down whole.",
+          "translation": "geschluckt.",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-36",
+      "title": "THE QUEEN BEE",
+      "units": 28,
+      "languages": {
+        "en": {
+          "units": 28,
+          "candidates": 28,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "de": {
+          "units": 28,
+          "candidates": 28,
+          "needsReview": 4,
+          "averageScore": 0.284
+        }
+      },
+      "samples": [
+        {
+          "language": "de",
+          "syncId": "grimm-ch36-u0018",
+          "score": 0.173,
+          "master": "The next day the second brother undertook the task; but he succeeded no better than the first; for he could only find the second hundred of the pearls; and therefore he too was tur",
+          "translation": "dem er",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch36-u0021",
+          "score": 0.133,
+          "master": "The second tablet said: 'The key of the princess's bed-chamber must be fished up out of the lake.",
+          "translation": "die",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch36-u0024",
+          "score": 0.152,
+          "master": "It was to choose out the youngest and the best of the king's three daughters.",
+          "translation": "bevor sie",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch36-u0028",
+          "score": 0.199,
+          "master": "And the dwarf married the youngest and the best of the princesses, and was king after her father's death; but his two brothers married the other two sisters.",
+          "translation": "seine zwei Brüder aber erhielten die beiden andern Schwestern.",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-37",
+      "title": "THE ELVES AND THE SHOEMAKER",
+      "units": 24,
+      "languages": {
+        "en": {
+          "units": 24,
+          "candidates": 24,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "de": {
+          "units": 24,
+          "candidates": 28,
+          "needsReview": 2,
+          "averageScore": 0.285
+        }
+      },
+      "samples": [
+        {
+          "language": "de",
+          "syncId": "grimm-ch37-u0015",
+          "score": 0.184,
+          "master": "And on they went, till the job was quite done, and the shoes stood ready for use upon the table.",
+          "translation": "machen, als sie aber kein zugeschnittenes Leder, sondern die niedlichen Kleidungsstücke fanden, verwunderten sie sich erst, dann aber bezeigten sie eine gewaltige Freude. Mit der g",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch37-u0017",
+          "score": 0.138,
+          "master": "The next day the wife said to the shoemaker.",
+          "translation": "\" Dann hüpften und tanzten sie, und sprangen über Stühle und Bänke. Endlich tanzten sie zur Thüre hinaus. Von nun an kamen sie nicht wieder, dem Schuster aber gieng es wohl so lang",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-38",
+      "title": "THE JUNIPER-TREE",
+      "units": 125,
+      "languages": {
+        "en": {
+          "units": 125,
+          "candidates": 125,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "de": {
+          "units": 125,
+          "candidates": 126,
+          "needsReview": 30,
+          "averageScore": 0.253
+        }
+      },
+      "samples": [
+        {
+          "language": "de",
+          "syncId": "grimm-ch38-u0012",
+          "score": 0.163,
+          "master": "'If I die, bury me under the juniper-tree.",
+          "translation": "un de söwde Maand, do greep se na den Machandelbeeren un eet se so nydsch, do wurr se trurig un krank: do güng de achte Maand hen, un se reep eren Mann un weend un säd „wenn ik sta",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch38-u0016",
+          "score": 0.168,
+          "master": "He now had a little daughter born to him; the child of his first wife was a boy, who was as red as blood and as white as snow.",
+          "translation": "awerst",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch38-u0019",
+          "score": 0.167,
+          "master": "She drove him from place to place with cuffings and buffetings, so that the poor child went about in fear, and had no peace from the time he left school to the time he went back.",
+          "translation": "so",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch38-u0028",
+          "score": 0.142,
+          "master": "Yes, give me an apple.",
+          "translation": "\" Da güng se bawen na ere Stuw na erem Draagkasten un hahl\" uut de bäwelste Schuuflad enen witten Dook, un sett't den Kopp wedder up den Hals un bünd den Halsdook so üm, dat'n niks",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch38-u0035",
+          "score": 0.124,
+          "master": "Soon after this, little Marleen came up to her mother who was stirring a pot of boiling water over the fire, and said, 'Mother, brother is sitting by the door with an apple in his ",
+          "translation": "still,",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch38-u0040",
+          "score": 0.175,
+          "master": "'What have you done!' said her mother, 'but no one must know about it, so you must keep silence; what is done can't be undone; we will make him into puddings.",
+          "translation": "Do köhm de Vader to Huus un sett't sik to Disch un säd „wo is denn myn Sähn?",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch38-u0042",
+          "score": 0.096,
+          "master": "But Marleen stood looking on, and wept and wept, and her tears fell into the pot, so that there was no need of salt.",
+          "translation": "he wull door wat blywen.\" „Wat dait he denn door? un heft my nich maal Adjüüs sechd!\" „O he wull geern hen un bed my of he door wol sos Wäken blywm kunn; he is jo woll door uphawen",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch38-u0045",
+          "score": 0.156,
+          "master": "The father again asked, 'Where is my son?",
+          "translation": "\" Un je mehr he eet, je mehr wull he hebben, un säd „geeft my mehr, gy schöhlt niks door af hebben, dat is as wenn dat all myn wör.\"",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-39",
+      "title": "THE TURNIP",
+      "units": 41,
+      "languages": {
+        "en": {
+          "units": 41,
+          "candidates": 41,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "de": {
+          "units": 41,
+          "candidates": 41,
+          "needsReview": 8,
+          "averageScore": 0.263
+        }
+      },
+      "samples": [
+        {
+          "language": "de",
+          "syncId": "grimm-ch39-u0005",
+          "score": 0.152,
+          "master": "One day he said to himself, 'What shall I do with it? if I sell it, it will bring no more than another; and for eating, the little turnips are better than this; the best thing perh",
+          "translation": "wachsen, so daß sie eine Fürstin aller Rüben heißen konnte, denn nimmer war so eine gesehen, und wird auch nimmer wieder gesehen",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch39-u0006",
+          "score": 0.133,
+          "master": "' Then he yoked his oxen, and drew the turnip to the court, and gave it to the king.",
+          "translation": "werden.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch39-u0008",
+          "score": 0.17,
+          "master": "Where did you get the seed? or is it only your good luck?",
+          "translation": "Endlich dachte er „verkaufst du sie, was wirst du großes dafür bekommen, und willst du sie selber essen, so thun die kleinen Rüben denselben Dienst: am besten ist, du bringst sie d",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch39-u0010",
+          "score": 0.166,
+          "master": "' 'Ah, no!' answered the gardener, 'I am no child of fortune; I am a poor soldier, who never could get enough to live upon; so I laid aside my red coat, and set to work, tilling th",
+          "translation": "für ein seltsam Ding?\" sagte der König, „mir ist viel Wunderliches vor die Augen gekommen, aber so ein Ungethüm noch nicht;",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch39-u0032",
+          "score": 0.165,
+          "master": "' Then the other answered, as if very unwillingly, 'A little space I may allow thee to sit here, if thou wilt reward me well and entreat me kindly; but thou must tarry yet an hour ",
+          "translation": "fließt.\"",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch39-u0036",
+          "score": 0.188,
+          "master": "'Now then,' cried he, 'let me ascend quickly.",
+          "translation": "Da stellte sich der oben als gäbe er endlich nach und sprach „damit ich aus dem Haus der Weisheit heraus kann, mußt du den Sack am Strick herunterlassen, so sollst du eingehen.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch39-u0039",
+          "score": 0.063,
+          "master": "'How is it with thee, friend?' said he, 'dost thou not feel that wisdom comes unto thee?",
+          "translation": "am",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch39-u0040",
+          "score": 0.174,
+          "master": "Rest there in peace, till thou art a wiser man than thou wert.",
+          "translation": "Strick baumwärts, dann schwengelte er ihn in der Luft und sprach „wie stehts, mein lieber Geselle? siehe, schon fühlst du daß dir die Weisheit kommt und machst gute Erfahrung, sitz",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-40",
+      "title": "CLEVER HANS",
+      "units": 166,
+      "languages": {
+        "en": {
+          "units": 166,
+          "candidates": 166,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "de": {
+          "units": 166,
+          "candidates": 167,
+          "needsReview": 32,
+          "averageScore": 0.272
+        }
+      },
+      "samples": [
+        {
+          "language": "de",
+          "syncId": "grimm-ch40-u0006",
+          "score": 0.18,
+          "master": "' 'Goodbye, Hans.",
+          "translation": "Was bringst du Gutes?\" „Bring nichts, gegeben han.\"",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch40-u0011",
+          "score": 0.142,
+          "master": "' 'I bring nothing, I want to have something given me.",
+          "translation": "her",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch40-u0014",
+          "score": 0.136,
+          "master": "' Hans takes the needle, sticks it into a hay-cart, and follows the cart home.",
+          "translation": "der",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch40-u0017",
+          "score": 0.11,
+          "master": "Where have you been?",
+          "translation": "hat.\"",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch40-u0020",
+          "score": 0.154,
+          "master": "' 'Took nothing; had something given me.",
+          "translation": "„In",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch40-u0021",
+          "score": 0.09,
+          "master": "' 'What did Gretel give you?",
+          "translation": "Heuwagen",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch40-u0024",
+          "score": 0.168,
+          "master": "' 'Stuck in the hay-cart.",
+          "translation": "„Thut",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch40-u0027",
+          "score": 0.15,
+          "master": "' 'Never mind, I'll do better next time.",
+          "translation": "gut",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-41",
+      "title": "THE THREE LANGUAGES",
+      "units": 37,
+      "languages": {
+        "en": {
+          "units": 37,
+          "candidates": 37,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "de": {
+          "units": 37,
+          "candidates": 37,
+          "needsReview": 5,
+          "averageScore": 0.293
+        }
+      },
+      "samples": [
+        {
+          "language": "de",
+          "syncId": "grimm-ch41-u0011",
+          "score": 0.182,
+          "master": "' He answered: 'Father, I have learnt what the birds say.",
+          "translation": "sein.\"",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch41-u0017",
+          "score": 0.133,
+          "master": "The youth wandered on, and after some time came to a fortress where he begged for a night's lodging.",
+          "translation": "„wenn",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch41-u0020",
+          "score": 0.127,
+          "master": "The youth, however, was without fear, and said: 'Just let me go down to the barking dogs, and give me something that I can throw to them; they will do nothing to harm me.",
+          "translation": "verzehren.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch41-u0022",
+          "score": 0.155,
+          "master": "When he went inside, the dogs did not bark at him, but wagged their tails quite amicably around him, ate what he set before them, and did not hurt one hair of his head.",
+          "translation": "mir sollen sie nichts thun.\"",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch41-u0031",
+          "score": 0.168,
+          "master": "At last he arrived in Rome, where the Pope had just died, and there was great doubt among the cardinals as to whom they should appoint as his successor.",
+          "translation": "der",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-42",
+      "title": "THE FOX AND THE CAT",
+      "units": 22,
+      "languages": {
+        "en": {
+          "units": 22,
+          "candidates": 22,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "de": {
+          "units": 22,
+          "candidates": 22,
+          "needsReview": 8,
+          "averageScore": 0.232
+        }
+      },
+      "samples": [
+        {
+          "language": "de",
+          "syncId": "grimm-ch42-u0003",
+          "score": 0.168,
+          "master": "How is all with you?",
+          "translation": "Zeit?\"",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch42-u0004",
+          "score": 0.187,
+          "master": "How are you getting on in these hard times?",
+          "translation": "Der Fuchs, alles Hochmuthes voll, betrachtete die Katze von Kopf bis zu Füßen und wußte lange nicht ob er eine Antwort geben sollte.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch42-u0007",
+          "score": 0.155,
+          "master": "Have you the cheek to ask how I am getting on?",
+          "translation": "fragen wie mirs",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch42-u0008",
+          "score": 0.189,
+          "master": "What have you learnt?",
+          "translation": "gehe? was hast du gelernt? wie viel Künste verstehst du?\" „Ich verstehe nur eine",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch42-u0010",
+          "score": 0.144,
+          "master": "' 'I understand but one,' replied the cat, modestly.",
+          "translation": "der",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch42-u0013",
+          "score": 0.198,
+          "master": "' 'Is that all?' said the fox.",
+          "translation": "jammerst mich, komm mit mir, ich will dich lehren wie man den Hunden",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch42-u0014",
+          "score": 0.175,
+          "master": "'I am master of a hundred arts, and have into the bargain a sackful of cunning.",
+          "translation": "entgeht.\"",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch42-u0020",
+          "score": 0.094,
+          "master": "'You with your hundred arts are left in the lurch!",
+          "translation": "stecken.",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-43",
+      "title": "THE FOUR CLEVER BROTHERS",
+      "units": 56,
+      "languages": {
+        "en": {
+          "units": 56,
+          "candidates": 56,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "de": {
+          "units": 56,
+          "candidates": 56,
+          "needsReview": 15,
+          "averageScore": 0.255
+        }
+      },
+      "samples": [
+        {
+          "language": "de",
+          "syncId": "grimm-ch43-u0002",
+          "score": 0.181,
+          "master": "Begin by learning some craft or another, and see how you can get on.",
+          "translation": "\" Da ergriffen die vier Brüder den Wanderstab, nahmen Abschied von ihrem Vater und zogen zusammen zum Thor hinaus. Als sie eine Zeit lang gewandert waren, kamen sie an einen Kreuzw",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch43-u0006",
+          "score": 0.128,
+          "master": "' So each brother went his way; and as the eldest was hastening on a man met him, and asked him where he was going, and what he wanted.",
+          "translation": "Schwengel",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch43-u0013",
+          "score": 0.164,
+          "master": "'I do not know yet,' said he.",
+          "translation": "Der jüngste Bruder begegnete gleichfalls einem Manne, der ihn anredete und nach seinem Vorhaben fragte. „Hast du nicht Lust ein Schneider zu werden?\" „Daß ich nicht",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch43-u0015",
+          "score": 0.173,
+          "master": "It is a noble art, for nothing can be hidden from you, when once you understand the stars.",
+          "translation": "der",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch43-u0016",
+          "score": 0.145,
+          "master": "' The plan pleased him much, and he soon became such a skilful star-gazer, that when he had served out his time, and wanted to leave his master, he gave him a glass, and said, 'Wit",
+          "translation": "Mann, „du sprichst wie dus verstehst:",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch43-u0017",
+          "score": 0.189,
+          "master": "' The third brother met a huntsman, who took him with him, and taught him so well all that belonged to hunting, that he became very clever in the craft of the woods; and when he le",
+          "translation": "bei mir lernst du eine ganz andere Schneiderkunst, die ist anständig und ziemlich, zum Theil sehr ehrenvoll.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch43-u0020",
+          "score": 0.194,
+          "master": "' 'Oh, no!' said the young man; 'sitting cross-legged from morning to night, working backwards and forwards with a needle and goose, will never suit me.",
+          "translation": "Sie erzählten wie es ihnen ergangen war und daß jeder das Seinige gelernt hätte.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch43-u0022",
+          "score": 0.2,
+          "master": "' Not knowing what better to do, he came into the plan, and learnt tailoring from the beginning; and when he left his master, he gave him a needle, and said, 'You can sew anything ",
+          "translation": "\" Danach schaute er auf und sagte zu dem zweiten Sohne „oben im Gipfel dieses Baums sitzt zwischen zwei Ästen ein Buchfinkennest, sag mir wie viel Eier liegen darin?\"",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-44",
+      "title": "LILY AND THE LION",
+      "units": 77,
+      "languages": {
+        "en": {
+          "units": 77,
+          "candidates": 77,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "de": {
+          "units": 77,
+          "candidates": 78,
+          "needsReview": 9,
+          "averageScore": 0.284
+        }
+      },
+      "samples": [
+        {
+          "language": "de",
+          "syncId": "grimm-ch44-u0015",
+          "score": 0.166,
+          "master": "And as he came near home, it was Lily, his youngest and dearest daughter, that met him; she came running, and kissed him, and welcomed him home; and when she saw that he had brough",
+          "translation": "Löwen",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch44-u0022",
+          "score": 0.173,
+          "master": "By day he and all his court were lions, but in the evening they took their right forms again.",
+          "translation": "hinzugehen,",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch44-u0031",
+          "score": 0.173,
+          "master": "However, she gave him no rest, and said she would take care no light should fall upon him.",
+          "translation": "ward",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch44-u0034",
+          "score": 0.124,
+          "master": "In a moment he disappeared, and when his wife came in and looked for him, she found only a white dove; and it said to her, 'Seven years must I fly up and down over the face of the ",
+          "translation": "da",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch44-u0041",
+          "score": 0.187,
+          "master": "' 'No,' said the sun, 'I have not seen it; but I will give thee a casket--open it when thy hour of need comes.",
+          "translation": "Da dankte sie der Sonne und gieng weiter bis es Abend war, und der Mond schien, da fragte sie ihn „du scheinst ja die ganze Nacht und durch alle Felder und Wälder, hast du keine we",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch44-u0042",
+          "score": 0.188,
+          "master": "' So she thanked the sun, and went on her way till eventide; and when the moon arose, she cried unto it, and said, 'Thou shinest through the night, over field and grove--hast thou ",
+          "translation": "\" Da dankte sie dem Mond, und gieng weiter, bis der Nachtwind heran kam und sie anblies:",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch44-u0047",
+          "score": 0.177,
+          "master": "and the dragon is an enchanted princess, who seeks to separate him from you.",
+          "translation": "sehen,",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch44-u0064",
+          "score": 0.183,
+          "master": "Wilt thou then forget me quite?",
+          "translation": "Wie nun der Morgen anbrach, da ward sie wieder hinausgeführt und mußte das goldene Kleid hingeben.",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-45",
+      "title": "THE FOX AND THE HORSE",
+      "units": 19,
+      "languages": {
+        "en": {
+          "units": 19,
+          "candidates": 19,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "de": {
+          "units": 19,
+          "candidates": 20,
+          "needsReview": 7,
+          "averageScore": 0.219
+        }
+      },
+      "samples": [
+        {
+          "language": "de",
+          "syncId": "grimm-ch45-u0002",
+          "score": 0.195,
+          "master": "' Then he opened the door and turned him adrift.",
+          "translation": "kann ich dich freilich nicht mehr, indeß mein ich es gut mit dir, zeigst du dich noch so stark, daß du mir einen Löwen hierher bringst, so will ich dich behalten, jetzt",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch45-u0005",
+          "score": 0.074,
+          "master": "' 'Ah!' replied the horse, 'justice and avarice never dwell in one house; my master has forgotten all that I have done for him so many years, and because I can no longer work he ha",
+          "translation": "in",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch45-u0006",
+          "score": 0.117,
+          "master": "what chance can I have of that? he knows I have none, or he would not talk so.",
+          "translation": "einem Haus:",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch45-u0009",
+          "score": 0.124,
+          "master": "' The lion was greatly pleased, and set off immediately; and when they came to the horse, the fox said, 'You will not be able to eat him comfortably here; I'll tell you what--I wil",
+          "translation": "er",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch45-u0013",
+          "score": 0.045,
+          "master": "Dobbin!",
+          "translation": "Der Löwe gieng mit und wie sie bei dem Pferd standen, sprach der Fuchs „hier hast dus doch nicht nach deiner Gemächlichkeit, weißt du was? ich wills mit dem Schweif an dich binden,",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch45-u0014",
+          "score": 0.078,
+          "master": "Jip!",
+          "translation": "\" Dem Löwen gefiel der Rath, er stellte sich hin und damit ihm der Fuchs das Pferd festknüpfen könnte, hielt er ganz still. Der Fuchs aber band mit des Pferdes Schweif",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch45-u0016",
+          "score": 0.126,
+          "master": "The beast began to roar and bellow, till all the birds of the wood flew away for fright; but the horse let him sing on, and made his way quietly over the fields to his master's hou",
+          "translation": "dem",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-46",
+      "title": "THE BLUE LIGHT",
+      "units": 80,
+      "languages": {
+        "en": {
+          "units": 80,
+          "candidates": 80,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "de": {
+          "units": 80,
+          "candidates": 80,
+          "needsReview": 18,
+          "averageScore": 0.26
+        }
+      },
+      "samples": [
+        {
+          "language": "de",
+          "syncId": "grimm-ch46-u0007",
+          "score": 0.175,
+          "master": "Yet will I be compassionate, and take you in, if you will do what I wish.",
+          "translation": "gibt",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch46-u0017",
+          "score": 0.129,
+          "master": "She did draw him up, but when he came near the edge, she stretched down her hand and wanted to take the blue light away from him.",
+          "translation": "stehe.\"",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch46-u0019",
+          "score": 0.17,
+          "master": "' The witch fell into a passion, let him fall again into the well, and went away.",
+          "translation": "Der arme Soldat fiel ohne Schaden zu nehmen auf den feuchten Boden, und das blaue Licht brannte fort, aber was konnte ihm das helfen? er sah wohl daß er dem Tod nicht entgehen würd",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch46-u0022",
+          "score": 0.17,
+          "master": "He sat for a while very sorrowfully, then suddenly he felt in his pocket and found his tobacco pipe, which was still half full.",
+          "translation": "schwarzes",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch46-u0025",
+          "score": 0.188,
+          "master": "' 'What my commands are?' replied the soldier, quite astonished.",
+          "translation": "\" Das Männchen nahm ihn bei der Hand und führte ihn durch einen unterirdischen Gang, vergaß aber nicht das blaue Licht mitzunehmen. Es zeigte ihm unterwegs die Schätze,",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch46-u0032",
+          "score": 0.194,
+          "master": "Nor was it long before the little man reappeared.",
+          "translation": "\" Darauf verschwand es vor seinen Augen. Der Soldat kehrte in die Stadt zurück, aus der er gekommen war. Er gieng in den besten Gasthof und ließ sich schöne Kleider",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch46-u0034",
+          "score": 0.074,
+          "master": "What further commands has my lord?' inquired the dwarf.",
+          "translation": "und",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch46-u0037",
+          "score": 0.19,
+          "master": "' Thereupon he vanished from his sight.",
+          "translation": "Das Männchen sprach „für mich ist das ein leichtes, für dich aber ein gefährliches Ding, wenn das heraus kommt, wird es dir schlimm ergehen.",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-47",
+      "title": "THE RAVEN",
+      "units": 96,
+      "languages": {
+        "en": {
+          "units": 96,
+          "candidates": 96,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "de": {
+          "units": 96,
+          "candidates": 96,
+          "needsReview": 13,
+          "averageScore": 0.287
+        }
+      },
+      "samples": [
+        {
+          "language": "de",
+          "syncId": "grimm-ch47-u0008",
+          "score": 0.077,
+          "master": "' 'What am I to do?' he asked.",
+          "translation": "nehmen:",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch47-u0011",
+          "score": 0.124,
+          "master": "I shall drive there in my carriage at two o'clock in the afternoon for three successive days; the first day it will be drawn by four white, the second by four chestnut, and the las",
+          "translation": "und",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch47-u0021",
+          "score": 0.168,
+          "master": "At two o'clock the raven came driving along, drawn by her four white horses; but even before she reached the spot, she said to herself, sighing, 'I know he has fallen asleep.",
+          "translation": "schläft.\"",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch47-u0031",
+          "score": 0.185,
+          "master": "You are not eating or drinking anything, do you want to kill yourself?",
+          "translation": "Sie stellte aber die Schüssel mit Essen und das Glas mit Wein vor ihm hin, und als der Geruch davon zu ihm aufstieg, so konnte er nicht widerstehen und that einen starken Zug.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch47-u0038",
+          "score": 0.168,
+          "master": "Then she placed beside him a loaf, and some meat, and a flask of wine, of such a kind, that however much he took of them, they would never grow less.",
+          "translation": "ihrem",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch47-u0048",
+          "score": 0.173,
+          "master": "Again the next day he pursued his way through the forest, and that evening, thinking to rest again, he lay down as before, but he heard such a howling and wailing that he found it ",
+          "translation": "kam, wo",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch47-u0054",
+          "score": 0.175,
+          "master": "I can have you now for my supper.",
+          "translation": "verlangst du zu essen, so habe ich genug, um dich satt zu machen.\" „Wenn das wahr ist,\" sagte der Riese, „so kannst du ruhig bleiben; ich wollte dich nur verzehren, weil ich nichts",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch47-u0065",
+          "score": 0.169,
+          "master": "Accordingly, when he had finished his supper, they all went up together to his room and looked through his maps, but the castle was not to be found.",
+          "translation": "Mann.",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-48",
+      "title": "THE GOLDEN GOOSE",
+      "units": 59,
+      "languages": {
+        "en": {
+          "units": 59,
+          "candidates": 59,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "de": {
+          "units": 59,
+          "candidates": 60,
+          "needsReview": 5,
+          "averageScore": 0.314
+        }
+      },
+      "samples": [
+        {
+          "language": "de",
+          "syncId": "grimm-ch48-u0033",
+          "score": 0.145,
+          "master": "Is that seemly?",
+          "translation": "Mädchen auf dem Fuß folgte. Da verwunderte er sich und rief „ei, Herr Pfarrer, wo hinaus so geschwind? vergeßt nicht daß wir heute noch eine Kindtaufe haben,\" lief auf",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch48-u0034",
+          "score": 0.133,
+          "master": "' At the same time he seized the youngest by the hand in order to pull her away, but as soon as he touched her he likewise stuck fast, and was himself obliged to run behind.",
+          "translation": "ihn zu",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch48-u0036",
+          "score": 0.112,
+          "master": "He was astonished at this and called out: 'Hi! your reverence, whither away so quickly?",
+          "translation": "Wie die fünf so hinter einander her trabten, kamen zwei Bauern mit ihren Hacken vom Feld: da rief der Pfarrer sie an und bat sie möchten ihn und den Küster los machen.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch48-u0046",
+          "score": 0.133,
+          "master": "' 'There, I can help you,' said Dummling, 'just come with me and you shall be satisfied.",
+          "translation": "haben.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch48-u0049",
+          "score": 0.094,
+          "master": "Dummling did not think long, but went straight into the forest, where in the same place there sat a man who was tying up his body with a strap, and making an awful face, and saying",
+          "translation": "nannte, seine Tochter davon tragen sollte, und machte neue Bedingungen:",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-49",
+      "title": "THE WATER OF LIFE",
+      "units": 94,
+      "languages": {
+        "en": {
+          "units": 94,
+          "candidates": 94,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "de": {
+          "units": 94,
+          "candidates": 94,
+          "needsReview": 18,
+          "averageScore": 0.269
+        }
+      },
+      "samples": [
+        {
+          "language": "de",
+          "syncId": "grimm-ch49-u0011",
+          "score": 0.098,
+          "master": "' Then he set out: and when he had gone on his way some time he came to a deep valley, overhung with rocks and woods; and as he looked around, he saw standing above him on one of t",
+          "translation": "Das kleine Männchen aber war zornig geworden und hatte einen bösen Wunsch gethan.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch49-u0012",
+          "score": 0.176,
+          "master": "' 'What is that to thee, you ugly imp?' said the prince haughtily, and rode on.",
+          "translation": "Der Prinz gerieth bald hernach in eine Bergschlucht, und je weiter er ritt, je enger thaten sich die Berge zusammen, und endlich ward der Weg so eng, daß er keinen Schritt weiter k",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch49-u0019",
+          "score": 0.176,
+          "master": "So he set out and followed the same road which his brother had done, and met with the same elf, who stopped him at the same spot in the mountains, saying, as before, 'Prince, princ",
+          "translation": "Aber der Zwerg verwünschte ihn, und er gerieth wie der andere in eine Bergschlucht und konnte nicht vorwärts und rückwärts.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch49-u0020",
+          "score": 0.156,
+          "master": "' 'Mind your own affairs, busybody!' said the prince scornfully, and rode on.",
+          "translation": "So gehts aber den Hochmüthigen.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch49-u0024",
+          "score": 0.059,
+          "master": "So he set out, and the dwarf met him too at the same spot in the valley, among the mountains, and said, 'Prince, whither so fast?",
+          "translation": "falschen",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch49-u0026",
+          "score": 0.182,
+          "master": "Pray be kind, and aid me if you can!",
+          "translation": "du dringst nicht hinein, wenn ich dir nicht eine eiserne Ruthe gebe und zwei Laiberchen Brot. Mit der Ruthe schlag dreimal an das eiserne Thor des Schlosses, so wird es",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch49-u0027",
+          "score": 0.067,
+          "master": "' 'Do you know where it is to be found?' asked the dwarf.",
+          "translation": "aufspringen:",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch49-u0035",
+          "score": 0.17,
+          "master": "Around it he saw several knights sitting in a trance; then he pulled off their rings and put them on his own fingers.",
+          "translation": "werden.",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-50",
+      "title": "THE TWELVE HUNTSMEN",
+      "units": 47,
+      "languages": {
+        "en": {
+          "units": 47,
+          "candidates": 47,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "de": {
+          "units": 47,
+          "candidates": 48,
+          "needsReview": 8,
+          "averageScore": 0.301
+        }
+      },
+      "samples": [
+        {
+          "language": "de",
+          "syncId": "grimm-ch50-u0007",
+          "score": 0.127,
+          "master": "The son was in such trouble that he did not think what he was doing, and said: 'Yes, dear father, your will shall be done,' and thereupon the king shut his eyes, and died.",
+          "translation": "werden.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch50-u0010",
+          "score": 0.068,
+          "master": "Then her father said to her: 'Dearest child, why are you so sad?",
+          "translation": "die",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch50-u0013",
+          "score": 0.166,
+          "master": "' The father said: 'If it be possible, your desire shall be fulfilled,' and he caused a search to be made in his whole kingdom, until eleven young maidens were found who exactly re",
+          "translation": "haben.\"",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch50-u0019",
+          "score": 0.193,
+          "master": "It came to pass that one evening he said to the king: 'You think you have twelve huntsmen?",
+          "translation": "Der König sah sie an und erkannte sie nicht; weil es aber so schöne Leute waren, sprach er ja, er wollte sie gerne nehmen; und da waren sie die zwölf Jäger des Königs.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch50-u0021",
+          "score": 0.196,
+          "master": "' The lion continued: 'You are mistaken, they are twelve girls.",
+          "translation": "Es trug sich zu, daß er eines Abends zum König sprach „du meinst du hättest da zwölf Jäger?\" „Ja,\" sagte der König, „zwölf Jäger sinds.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch50-u0023",
+          "score": 0.178,
+          "master": "How will you prove that to me?",
+          "translation": "Antwortete der König „das ist nimmermehr wahr, wie willst du mir das beweisen?\" „O, laß nur Erbsen in dein Vorzimmer streuen,\" antwortete der Löwe, „da wirst dus gleich sehen.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch50-u0030",
+          "score": 0.171,
+          "master": "Then they went away again, and the king said to the lion: 'You have lied to me, they walk just like men.",
+          "translation": "Männer.\"",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch50-u0035",
+          "score": 0.175,
+          "master": "So when they were alone the king's daughter said to her eleven girls: 'Show some constraint, and do not look round at the spinning-wheels.",
+          "translation": "Spinnrädern.\"",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-51",
+      "title": "THE KING OF THE GOLDEN MOUNTAIN",
+      "units": 90,
+      "languages": {
+        "en": {
+          "units": 90,
+          "candidates": 90,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "de": {
+          "units": 90,
+          "candidates": 91,
+          "needsReview": 13,
+          "averageScore": 0.278
+        }
+      },
+      "samples": [
+        {
+          "language": "de",
+          "syncId": "grimm-ch51-u0008",
+          "score": 0.144,
+          "master": "' Then the merchant told him how all his wealth was gone to the bottom of the sea, and how he had nothing left but that little plot of land.",
+          "translation": "viel du willst.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch51-u0024",
+          "score": 0.191,
+          "master": "The old man held his tongue, but Heinel said again, 'What do you want here?",
+          "translation": "Schiffchen setzen, das auf einem hinabwärts fließenden Wasser stände, und der Vater sollte es mit seinem eigenen Fuß fortstoßen, und dann sollte der Sohn dem Wasser",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch51-u0025",
+          "score": 0.137,
+          "master": "' The dwarf said, 'I come to talk with your father, not with you.",
+          "translation": "überlassen",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch51-u0029",
+          "score": 0.13,
+          "master": "' The old man grinned, and showed his teeth, as if he should have been very glad to get into the circle if he could.",
+          "translation": "los.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch51-u0039",
+          "score": 0.059,
+          "master": "Now the white snake was an enchanted princess; and she was very glad to see him, and said, 'Are you at last come to set me free?",
+          "translation": "vom",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch51-u0042",
+          "score": 0.148,
+          "master": "They will ask what you do here, but give no answer; and let them do what they will--beat, whip, pinch, prick, or torment you--bear all; only speak not a word, and at twelve o'clock",
+          "translation": "Ruhe bis sie einwilligte.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch51-u0049",
+          "score": 0.179,
+          "master": "' However, he gave her no rest till she agreed.",
+          "translation": "wahrhaftig euer Sohn, wißt ihr kein Mal an meinem Leibe, woran ihr mich erkennen könnt?\" „Ja,\" sagte die Mutter, „unser Sohn hatte eine Himbeere unter dem rechten",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch51-u0050",
+          "score": 0.166,
+          "master": "At his going away she gave him a wishing-ring, and said, 'Take this ring, and put it on your finger; whatever you wish it will bring you; only promise never to make use of it to br",
+          "translation": "Arm.\"",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-52",
+      "title": "DOCTOR KNOWALL",
+      "units": 36,
+      "languages": {
+        "en": {
+          "units": 36,
+          "candidates": 36,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "de": {
+          "units": 36,
+          "candidates": 37,
+          "needsReview": 7,
+          "averageScore": 0.282
+        }
+      },
+      "samples": [
+        {
+          "language": "de",
+          "syncId": "grimm-ch52-u0004",
+          "score": 0.194,
+          "master": "'Oh, yes,' said the doctor, 'that is soon managed.",
+          "translation": "ist bald geschehen.\" „Was muß ich thun?\" fragte der Baur. „Erstlich kauf dir ein Abcbuch, so ist eins, wo vorn ein Göckelhahn drin",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch52-u0005",
+          "score": 0.077,
+          "master": "' 'What must I do?' asked the peasant.",
+          "translation": "ist;",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch52-u0012",
+          "score": 0.168,
+          "master": "Yes, he was, he said.",
+          "translation": "mit.\"",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch52-u0019",
+          "score": 0.197,
+          "master": "The servant, however, thought he intended by that to say: 'That is the first thief,' and as he actually was so, he was terrified, and said to his comrade outside: 'The doctor knows",
+          "translation": "er hat gesagt ich wäre der erste.\"",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch52-u0025",
+          "score": 0.171,
+          "master": "Actually, there were crabs.",
+          "translation": "\" Wie der Herr das hörte, rief er „da, er weiß es, nun weiß er auch wer das Geld hat.\"",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch52-u0029",
+          "score": 0.194,
+          "master": "When therefore he went out, all four of them confessed to him that they had stolen the money, and said that they would willingly restore it and give him a heavy sum into the bargai",
+          "translation": "es ginge ihnen sonst an den Hals.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch52-u0034",
+          "score": 0.122,
+          "master": "As he could not find it immediately he said: 'I know you are there, so you had better come out!",
+          "translation": "heraus.\"",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-53",
+      "title": "THE SEVEN RAVENS",
+      "units": 34,
+      "languages": {
+        "en": {
+          "units": 34,
+          "candidates": 34,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "de": {
+          "units": 34,
+          "candidates": 34,
+          "needsReview": 7,
+          "averageScore": 0.255
+        }
+      },
+      "samples": [
+        {
+          "language": "de",
+          "syncId": "grimm-ch53-u0016",
+          "score": 0.121,
+          "master": "so she ran away quickly to the moon, but the moon was cold and chilly, and said, 'I smell flesh and blood this way!' so she took herself away in a hurry and came to the stars, and ",
+          "translation": "Nun gieng es immer zu, weit weit bis an der Welt Ende.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch53-u0020",
+          "score": 0.134,
+          "master": "What was to be done?",
+          "translation": "stand auf, gab ihm ein Hinkelbeinchen und sprach „wenn du das Beinchen nicht hast, kannst du den Glasberg nicht aufschließen, und in dem Glasberg da sind deine",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch53-u0021",
+          "score": 0.124,
+          "master": "She wanted to save her brothers, and had no key of the castle of the glass-mountain; so this faithful little sister took a knife out of her pocket and cut off her little finger, th",
+          "translation": "Brüder.\"",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch53-u0029",
+          "score": 0.174,
+          "master": "Then said one after the other, 'Who has eaten from my little plate?",
+          "translation": "in das letzte Becherchen aber ließ es das Ringlein fallen, das es mitgenommen hatte. Auf einmal hörte es in der Luft ein Geschwirr und ein Geweh, da sprach das Zwerglein „jetzt kom",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch53-u0031",
+          "score": 0.02,
+          "master": "' 'Caw!",
+          "translation": "Da sprach einer nach dem andern „wer hat von meinem Tellerchen gegessen? wer hat aus meinem Becherchen getrunken? das ist eines Menschen Mund gewesen.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch53-u0032",
+          "score": 0.126,
+          "master": "Caw! well I ween Mortal lips have this way been.",
+          "translation": "\" Und wie der siebente auf den Grund des Bechers kam, rollte ihm das Ringlein entgegen. Da sah er es an und erkannte daß es ein Ring von Vater und Mutter war, und sprach „Gott gebe",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch53-u0034",
+          "score": 0.175,
+          "master": "' When the little girl heard this (for she stood behind the door all the time and listened), she ran forward, and in an instant all the ravens took their right form again; and all ",
+          "translation": "Und sie herzten und küßten einander, und zogen fröhlich heim.",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-54",
+      "title": "FIRST STORY",
+      "units": 26,
+      "languages": {
+        "en": {
+          "units": 26,
+          "candidates": 26,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "de": {
+          "units": 26,
+          "candidates": 31,
+          "needsReview": 10,
+          "averageScore": 0.242
+        }
+      },
+      "samples": [
+        {
+          "language": "de",
+          "syncId": "grimm-ch54-u0005",
+          "score": 0.102,
+          "master": "The maid heard someone standing at the house-door, knocking.",
+          "translation": "Da hörte die Magd daß jemand vor der Hausthüre stand und anklopfte; sie gieng und machte auf, und da wars ein junger Fuchs, der sprach „Was macht sie, Jungfer Katze? schläft se ode",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch54-u0006",
+          "score": 0.134,
+          "master": "She went and opened it, and it was a young fox, who said: 'What may you be about, Miss Cat?",
+          "translation": "Sie antwortete „ich schlafe nicht, ich wache.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch54-u0008",
+          "score": 0.198,
+          "master": "' She answered: 'I am not sleeping, I am waking, Would you know what I am making?",
+          "translation": "Ich koche warm Bier, thue Butter hinein: will der Herr mein Gast sein?\" „ich schlafe nicht, ich wache. Will er wissen was ich mache? Ich koche warm Bier, thue Butter hinein: will d",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch54-u0009",
+          "score": 0.198,
+          "master": "I am boiling warm beer with butter, Will you be my guest for supper?",
+          "translation": "gerne freien.\" „Schon gut, junger Herr.\" Da gieng die Katz die Tripp die Trapp, Da schlug die Thür die Klipp die Klapp. „Frau Füchsin, sind Sie da?\" „Ach ja, mein Kätzchen, ja.\" „E",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch54-u0013",
+          "score": 0.157,
+          "master": "' 'Certainly, young sir.",
+          "translation": "Danach kamen noch andere immer mit einem Schwanz mehr, die alle abgewiesen wurden, bis zuletzt einer kam der neun Schwänze hatte wie der alte Herr Fuchs.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch54-u0015",
+          "score": 0.185,
+          "master": "' 'Oh, yes, my little cat,' she cried.",
+          "translation": "Als aber eben die Hochzeit sollte gefeiert werden, da regte sich der alte Herr Fuchs unter der Bank, prügelte das ganze Gesindel durch und jagte es mit der Frau Füchsin zum Haus hi",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch54-u0016",
+          "score": 0.194,
+          "master": "'A wooer he stands at the door out there.",
+          "translation": "Als der alte Herr Fuchs gestorben war, kam der Wolf als Freier, klopfte an die Thüre, und die Katze, die als Magd bei der Frau Füchsin diente, machte auf.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch54-u0021",
+          "score": 0.114,
+          "master": "' Miss Cat went downstairs and sent the wooer away.",
+          "translation": "\" Die Katz die lief die Trepp hinan, und ließ ihr Zeilchen rummer gan bis sie kam vor den langen Saal: klopft an mit ihren fünf goldenen Ringen. „Frau Füchsin, ist sie drinnen? Wil",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-55",
+      "title": "SECOND STORY",
+      "units": 23,
+      "languages": {
+        "en": {
+          "units": 23,
+          "candidates": 23,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "de": {
+          "units": 23,
+          "candidates": 31,
+          "needsReview": 10,
+          "averageScore": 0.238
+        }
+      },
+      "samples": [
+        {
+          "language": "de",
+          "syncId": "grimm-ch55-u0003",
+          "score": 0.165,
+          "master": "What are you making good?",
+          "translation": "Als es nun bekannt ward, daß der alte Fuchs gestorben war, so meldeten sich die Freier.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch55-u0007",
+          "score": 0.149,
+          "master": "' The cat said: 'She sits upstairs in her room, Bewailing her sorrowful doom, Bewailing her trouble so sore, For old Mr Fox is no more.",
+          "translation": "Ich koche warm Bier, thue Butter hinein: will der Herr mein Gast sein?\" „ich schlafe nicht, ich wache. Will er wissen was ich mache? Ich koche warm Bier, thue Butter hinein: will d",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch55-u0009",
+          "score": 0.184,
+          "master": "' The cat runs quickly up the stair, And lets her tail fly here and there, Until she comes to the parlour door.",
+          "translation": "Da gieng die Katz die Tripp die Trapp, Da schlug die Thür die Klipp die Klapp. „Frau Füchsin, sind Sie da?\" „Ach ja, mein Kätzchen, ja.\" „Es ist ein Freier draus.\" „Mein Kind, wie ",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch55-u0011",
+          "score": 0.166,
+          "master": "If you're in want of a husband now, Then will it please you to step below?",
+          "translation": "Bald darauf klopfte es wieder an, und war ein anderer Fuchs vor der Thüre, der wollte die Frau Füchsin freien; er hatte zwei Schwänze; aber es gieng ihm nicht besser als dem ersten",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch55-u0012",
+          "score": 0.188,
+          "master": "Mrs Fox asked: 'Has the gentleman red stockings on, and has he a pointed mouth?",
+          "translation": "Danach kamen noch andere immer mit einem Schwanz mehr, die alle abgewiesen wurden, bis zuletzt einer kam der neun Schwänze hatte wie der alte Herr Fuchs.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch55-u0013",
+          "score": 0.184,
+          "master": "' 'No,' answered the cat.",
+          "translation": "Als die Wittwe das hörte, sprach sie voll Freude zu der Katze „nun macht mir Thor und Thüre auf, und kehrt den alten Herrn Fuchs hinaus.\" „nun macht mir Thor und Thüre auf, und keh",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch55-u0014",
+          "score": 0.111,
+          "master": "'Then he won't do for me.",
+          "translation": "Als der alte Herr Fuchs gestorben war, kam der Wolf als Freier, klopfte an die Thüre, und die Katze, die als Magd bei der Frau Füchsin diente, machte auf. Der Wolf grüßte sie, und ",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch55-u0018",
+          "score": 0.198,
+          "master": "Then Mrs Fox said: 'Has the gentleman red stockings on, and has a little pointed mouth?",
+          "translation": "\" Die Katz die lief die Trepp hinan, und ließ ihr Zeilchen rummer gan bis sie kam vor den langen Saal: klopft an mit ihren fünf goldenen Ringen. „Frau Füchsin, ist sie drinnen? Wil",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-56",
+      "title": "THE SALAD",
+      "units": 72,
+      "languages": {
+        "en": {
+          "units": 72,
+          "candidates": 72,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "de": {
+          "units": 72,
+          "candidates": 76,
+          "needsReview": 7,
+          "averageScore": 0.289
+        }
+      },
+      "samples": [
+        {
+          "language": "de",
+          "syncId": "grimm-ch56-u0001",
+          "score": 0.189,
+          "master": "As a merry young huntsman was once going briskly along through a wood, there came up a little old woman, and said to him, 'Good day, good day; you seem merry enough, but I am hungr",
+          "translation": "Es war einmal ein junger Jäger, der gieng in den Wald auf Anstand.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch56-u0026",
+          "score": 0.17,
+          "master": "' So she did as the old woman told her, and set herself at the window, and looked about the country and seemed very sorrowful; then the huntsman said, 'What makes you so sad?",
+          "translation": "Sie gab dem Mädchen Anschläge und sagte wenn es ihr nicht gehorchte, sollte es ihm schlimm ergehen.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch56-u0038",
+          "score": 0.162,
+          "master": "But the huntsman had heard all they said;",
+          "translation": "Der dritte aber sprach verächtlich „das wäre der Mühe werth! laßt ihn nur leben, hier kann er nicht bleiben, und wenn er höher steigt bis auf die Bergspitze, so packen ihn die Wolk",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch56-u0049",
+          "score": 0.128,
+          "master": "I have been lucky enough to find it, and have brought it with me; but the heat of the sun scorches so that it begins to wither, and I don't know that I can carry it farther.",
+          "translation": "Fragte die Hexe „Landsmann, wer seid ihr, und was ist euer Geschäft?",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch56-u0057",
+          "score": 0.132,
+          "master": "'All right!' said he; 'those two have had their share.",
+          "translation": "braucht.\"",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch56-u0065",
+          "score": 0.186,
+          "master": "' Then the huntsman said, 'Give the old one stripes three times a day and hay once; give the next (who was the servant-maid) stripes once a day and hay three times; and give the yo",
+          "translation": "Darauf gieng er zurück in das Schloß, und was er nöthig hatte, das fand er alles darin.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch56-u0066",
+          "score": 0.179,
+          "master": "After this he went back to the castle, where he found everything he wanted.",
+          "translation": "Nach ein paar Tagen kam der Müller und sprach er müßte melden daß die alte Eselin, die nur Schläge bekommen hätte und nur einmal zu fressen, gestorben wäre. „Die zwei andern,\" sagt",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-57",
+      "title": "THE STORY OF THE YOUTH WHO WENT FORTH TO LEARN WHAT FEAR WAS",
+      "units": 213,
+      "languages": {
+        "en": {
+          "units": 213,
+          "candidates": 213,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "de": {
+          "units": 213,
+          "candidates": 213,
+          "needsReview": 71,
+          "averageScore": 0.241
+        }
+      },
+      "samples": [
+        {
+          "language": "de",
+          "syncId": "grimm-ch57-u0001",
+          "score": 0.152,
+          "master": "A certain father had two sons, the elder of who was smart and sensible, and could do everything, but the younger was stupid and could neither learn nor understand anything, and whe",
+          "translation": "Ein Vater hatte zwei Söhne, davon war der älteste klug und gescheidt, und wußte sich in",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch57-u0002",
+          "score": 0.122,
+          "master": "' When anything had to be done, it was always the elder who was forced to do it; but if his father bade him fetch anything when it was late, or in the night-time, and the way led t",
+          "translation": "alles wohl zu schicken, der jüngste aber war dumm, konnte nichts begreifen und lernen:",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch57-u0005",
+          "score": 0.19,
+          "master": "'They are always saying: \"It makes me shudder, it makes me shudder!\"",
+          "translation": "hieß ihn aber der Vater noch spät oder gar in der Nacht etwas holen, und der Weg gieng dabei über den Kirchhof oder sonst",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch57-u0007",
+          "score": 0.092,
+          "master": "'That, too, must be an art of which I understand nothing!",
+          "translation": "sich.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch57-u0008",
+          "score": 0.197,
+          "master": "' Now it came to pass that his father said to him one day: 'Hearken to me, you fellow in the corner there, you are growing tall and strong, and you too must learn something by whic",
+          "translation": "Oder, wenn Abends beim Feuer Geschichten erzählt wurden, wobei einem die Haut schaudert, so sprachen die Zuhörer manchmal „ach, es gruselt mir!",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch57-u0013",
+          "score": 0.193,
+          "master": "He will never be good for anything as long as he lives!",
+          "translation": "Siehst du, wie dein Bruder sich Mühe gibt, aber an dir ist Hopfen und Malz verloren.\" „Ei, Vater,\" antwortete er, „ich will gerne was lernen;",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch57-u0015",
+          "score": 0.178,
+          "master": "' The father sighed, and answered him: 'You shall soon learn what it is to shudder, but you will not earn your bread by that.",
+          "translation": "davon verstehe ich noch gar nichts.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch57-u0027",
+          "score": 0.009,
+          "master": "The boy cried a second time: 'What do you want here?--speak if you are an honest fellow, or I will throw you down the steps!",
+          "translation": "und",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-58",
+      "title": "KING GRISLY-BEARD",
+      "units": 74,
+      "languages": {
+        "en": {
+          "units": 74,
+          "candidates": 74,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "de": {
+          "units": 74,
+          "candidates": 74,
+          "needsReview": 18,
+          "averageScore": 0.25
+        }
+      },
+      "samples": [
+        {
+          "language": "de",
+          "syncId": "grimm-ch58-u0013",
+          "score": 0.165,
+          "master": "But the old king was very angry when he saw how his daughter behaved, and how she ill-treated all his guests; and he vowed that, willing or unwilling, she should marry the first ma",
+          "translation": "käme.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch58-u0018",
+          "score": 0.171,
+          "master": "' So words and tears were of no avail; the parson was sent for, and she was married to the fiddler.",
+          "translation": "will.\"",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch58-u0021",
+          "score": 0.173,
+          "master": "'Pray,' said she, 'whose is this wood?",
+          "translation": "König, „nun schickt sichs nicht, daß du als ein Bettelweib noch länger in meinem Schloß bleibst, du kannst nur mit deinem Manne fortziehen.\"",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch58-u0024",
+          "score": 0.106,
+          "master": "' Next they came to some fine meadows.",
+          "translation": "hättst du'n genommen, so wär er dein.\" „Ich arme Jungfer zart, ach, hätt ich genommen den König Drosselbart!\" „ach, wem gehört der schöne Wald?\" „Der gehört dem König Drosselbart;",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch58-u0025",
+          "score": 0.16,
+          "master": "'Whose are these beautiful green meadows?' said she.",
+          "translation": "hättst du'n genommen, so wär er dein.\" „Ich arme Jungfer zart, ach, hätt ich genommen den König Drosselbart!\"",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch58-u0030",
+          "score": 0.166,
+          "master": "'It belongs to King Grisly-beard; hadst thou taken him, it had all been thine.",
+          "translation": "hättst du'n genommen, so wär sie dein.\" „Ich arme Jungfer zart, ach, hätt ich genommen den König Drosselbart!\" „wem gehört diese schöne große Stadt?\" „Sie gehört dem König Drosselb",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch58-u0034",
+          "score": 0.138,
+          "master": "' At last they came to a small cottage.",
+          "translation": "\" Sie mußte sich bücken, damit sie zu der niedrigen Thür hinein kam. „Wo sind die Diener?\" sprach die Königstochter. „Was Diener!\" antwortete",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch58-u0035",
+          "score": 0.138,
+          "master": "'What a paltry place!' said she; 'to whom does that little dirty hole belong?",
+          "translation": "der Bettelmann, „du mußt selber thun was du willst gethan haben. Mach nur gleich Feuer an und stell Wasser auf, daß du mir mein Essen kochst;",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-59",
+      "title": "IRON HANS",
+      "units": 149,
+      "languages": {
+        "en": {
+          "units": 149,
+          "candidates": 149,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "de": {
+          "units": 149,
+          "candidates": 149,
+          "needsReview": 26,
+          "averageScore": 0.279
+        }
+      },
+      "samples": [
+        {
+          "language": "de",
+          "syncId": "grimm-ch59-u0022",
+          "score": 0.127,
+          "master": "On the third day the king had ridden out hunting, and the boy went once more and said: 'I cannot open the door even if I wished, for I have not the key.",
+          "translation": "Ball:",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch59-u0027",
+          "score": 0.195,
+          "master": "The boy had become afraid; he called and cried after him: 'Oh, wild man, do not go away, or I shall be beaten!",
+          "translation": "Die Thüre gieng schwer auf, und der Knabe klemmte sich den Finger.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch59-u0032",
+          "score": 0.173,
+          "master": "The king sent out people to seek for him in the fields, but they did not find him.",
+          "translation": "Der",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch59-u0044",
+          "score": 0.147,
+          "master": "But he said: 'You have dipped your finger into the water, this time it may pass, but take care you do not again let anything go in.",
+          "translation": "das Wasser getaucht:",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch59-u0051",
+          "score": 0.171,
+          "master": "' On the third day, the boy sat by the well, and did not stir his finger, however much it hurt him.",
+          "translation": "bleiben.\"",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch59-u0061",
+          "score": 0.125,
+          "master": "But as you have not a bad heart, and as I mean well by you, there is one thing I will grant you; if you fall into any difficulty, come to the forest and cry: \"Iron Hans,\" and then ",
+          "translation": "eins",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch59-u0062",
+          "score": 0.175,
+          "master": "My power is great, greater than you think, and I have gold and silver in abundance.",
+          "translation": "erlauben:",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch59-u0067",
+          "score": 0.171,
+          "master": "At length the cook took him into his service, and said he might carry wood and water, and rake the cinders together.",
+          "translation": "wußten",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-60",
+      "title": "CAT-SKIN",
+      "units": 78,
+      "languages": {
+        "en": {
+          "units": 78,
+          "candidates": 78,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "de": {
+          "units": 78,
+          "candidates": 78,
+          "needsReview": 10,
+          "averageScore": 0.27
+        }
+      },
+      "samples": [
+        {
+          "language": "de",
+          "syncId": "grimm-ch60-u0018",
+          "score": 0.172,
+          "master": "and thus a mantle of a thousand furs was made.",
+          "translation": "\" Als nun die Königstochter sah daß keine Hoffnung mehr war ihres Vaters Herz umzuwenden, so faßte sie den Entschluß zu entfliehen. In der Nacht, während alles schlief, stand sie a",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch60-u0021",
+          "score": 0.175,
+          "master": "with soot.",
+          "translation": "ein. Die Sonne gieng auf und sie schlief fort und schlief noch immer, als es schon hoher Tag war. Da trug es sich zu, daß der König, dem dieser Wald gehörte, darin jagte.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch60-u0031",
+          "score": 0.129,
+          "master": "Then they showed her a little corner under the staircase, where no light of day ever peeped in, and said, 'Cat-skin, you may lie and sleep there.",
+          "translation": "gefeiert",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch60-u0034",
+          "score": 0.13,
+          "master": "'Ah! pretty princess!' thought she, 'what will now become of thee?",
+          "translation": "\" Da nahm sie ihr Öllämpchen, gieng in ihr Ställchen, zog den Pelzrock aus und wusch sich den Ruß von dem Gesicht und den Händen ab, so daß ihre volle Schönheit wieder an",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch60-u0036",
+          "score": 0.169,
+          "master": "I will take care and stand behind the door.",
+          "translation": "aus dem Weg, denn niemand kannte sie, und meinten nicht anders als daß es eine Königstochter wäre. Der König aber kam ihr entgegen, reichte ihr die Hand und tanzte mit ihr, und dac",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch60-u0045",
+          "score": 0.188,
+          "master": "When she went into the kitchen to her work, and began to rake the ashes, the cook said, 'Let that alone till the morning, and heat the king's soup; I should like to run up now and ",
+          "translation": "wenns wahr ist, so kriegst du Schläge.\"",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch60-u0046",
+          "score": 0.108,
+          "master": "' As soon as the cook went away, Cat-skin heated the king's soup, and toasted a slice of bread first, as nicely as ever she could; and when it was ready, she went and looked in the",
+          "translation": "Als er vor den König kam, fragte dieser wer die Suppe gekocht hätte?",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch60-u0051",
+          "score": 0.159,
+          "master": "'I did,' answered the cook.",
+          "translation": "Als Allerleirauh kam, fragte der König „wer bist du?\" „Ich bin ein armes Kind, das keinen Vater und Mutter mehr hat.\"",
+          "needsReview": true
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-61",
+      "title": "SNOW-WHITE AND ROSE-RED",
+      "units": 107,
+      "languages": {
+        "en": {
+          "units": 107,
+          "candidates": 107,
+          "needsReview": 0,
+          "averageScore": 1
+        },
+        "de": {
+          "units": 107,
+          "candidates": 107,
+          "needsReview": 20,
+          "averageScore": 0.277
+        }
+      },
+      "samples": [
+        {
+          "language": "de",
+          "syncId": "grimm-ch61-u0011",
+          "score": 0.174,
+          "master": "He got up and looked quite kindly at them, but said nothing and went into the forest.",
+          "translation": "weißen",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch61-u0014",
+          "score": 0.145,
+          "master": "Snow-white and Rose-red kept their mother's little cottage so neat that it was a pleasure to look inside it.",
+          "translation": "wären. Die",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch61-u0026",
+          "score": 0.131,
+          "master": "' 'Poor bear,' said the mother, 'lie down by the fire, only take care that you do not burn your coat.",
+          "translation": "nur",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch61-u0032",
+          "score": 0.162,
+          "master": "But the bear took it all in good part, only when they were too rough he called out: 'Leave me alive, children, Snow-white, Rose-red, Will you beat your wooer dead?",
+          "translation": "Nicht lange, so wurden sie ganz vertraut und trieben Muthwillen mit dem unbeholfenen Gast.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch61-u0035",
+          "score": 0.155,
+          "master": "Henceforth the bear came every evening at the same time, laid himself down by the hearth, and let the children amuse themselves with him as much as they liked; and they got so used",
+          "translation": "\" Schneeweißchen, Rosenroth, schlägst dir den Freier todt.\"",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch61-u0037",
+          "score": 0.192,
+          "master": "' 'Where are you going, then, dear bear?' asked Snow-white.",
+          "translation": "\" Sobald der Tag graute, ließen ihn die beiden Kinder hinaus, und er trabte über den Schnee in den Wald hinein. Von nun an kam der Bär",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch61-u0051",
+          "score": 0.183,
+          "master": "I had just driven the wedge safely in, and everything was going as I wished; but the cursed wedge was too smooth and suddenly sprang out, and the tree closed so quickly that I coul",
+          "translation": "Als sie näher kamen, sahen sie einen Zwerg mit einem alten verwelkten Gesicht und einem ellenlangen schneeweißen Bart.",
+          "needsReview": true
+        },
+        {
+          "language": "de",
+          "syncId": "grimm-ch61-u0052",
+          "score": 0.148,
+          "master": "Ugh! how odious you are!",
+          "translation": "Das Ende des Bartes war in eine Spalte des Baums eingeklemmt, und der Kleine sprang hin und her wie ein Hündchen an einem Seil und wußte nicht wie er sich helfen sollte.",
+          "needsReview": true
+        }
+      ]
+    }
+  ],
+  "needsReview": 958
+}

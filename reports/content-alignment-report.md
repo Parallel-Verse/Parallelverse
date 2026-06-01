@@ -1,0 +1,898 @@
+# Content Alignment Report
+
+Generated: 2026-06-01T15:46:31.546Z
+
+## Alice's Adventures in Wonderland
+
+Book ID: `alice`
+Master language: `en`
+Needs review: 797
+
+- Down the Rabbit-Hole: 65 units
+  - en: 65 units, 0 needs review, 65 candidates, avg score 1
+  - de: 65 units, 0 needs review, 89 candidates, avg score 0.386
+  - es: 65 units, 6 needs review, 77 candidates, avg score 0.317
+  - fr: 65 units, 7 needs review, 84 candidates, avg score 0.346
+- The Pool of Tears: 65 units
+  - en: 65 units, 0 needs review, 65 candidates, avg score 1
+  - de: 65 units, 7 needs review, 96 candidates, avg score 0.327
+  - es: 65 units, 18 needs review, 81 candidates, avg score 0.252
+  - fr: 65 units, 6 needs review, 80 candidates, avg score 0.33
+- A Caucus-Race and a Long Tale: 71 units
+  - en: 71 units, 0 needs review, 71 candidates, avg score 1
+  - de: 71 units, 6 needs review, 100 candidates, avg score 0.344
+  - es: 71 units, 25 needs review, 78 candidates, avg score 0.249
+  - fr: 71 units, 3 needs review, 87 candidates, avg score 0.385
+- The Rabbit Sends in a Little Bill: 88 units
+  - en: 88 units, 0 needs review, 88 candidates, avg score 1
+  - de: 88 units, 5 needs review, 120 candidates, avg score 0.321
+  - es: 88 units, 42 needs review, 88 candidates, avg score 0.217
+  - fr: 88 units, 9 needs review, 108 candidates, avg score 0.335
+- Advice from a Caterpillar: 100 units
+  - en: 100 units, 0 needs review, 100 candidates, avg score 1
+  - de: 100 units, 4 needs review, 122 candidates, avg score 0.358
+  - es: 100 units, 47 needs review, 100 candidates, avg score 0.207
+  - fr: 100 units, 11 needs review, 107 candidates, avg score 0.366
+- Pig and Pepper: 116 units
+  - en: 116 units, 0 needs review, 116 candidates, avg score 1
+  - de: 116 units, 4 needs review, 151 candidates, avg score 0.37
+  - es: 116 units, 42 needs review, 116 candidates, avg score 0.234
+  - fr: 116 units, 7 needs review, 131 candidates, avg score 0.385
+- A Mad Tea-Party: 135 units
+  - en: 135 units, 0 needs review, 135 candidates, avg score 1
+  - de: 135 units, 21 needs review, 169 candidates, avg score 0.323
+  - es: 135 units, 53 needs review, 135 candidates, avg score 0.226
+  - fr: 135 units, 34 needs review, 137 candidates, avg score 0.273
+- The Queen's Croquet-Ground: 109 units
+  - en: 109 units, 0 needs review, 109 candidates, avg score 1
+  - de: 109 units, 35 needs review, 109 candidates, avg score 0.236
+  - es: 109 units, 43 needs review, 109 candidates, avg score 0.227
+  - fr: 109 units, 3 needs review, 132 candidates, avg score 0.403
+- The Mock Turtle's Story: 118 units
+  - en: 118 units, 0 needs review, 118 candidates, avg score 1
+  - de: 118 units, 24 needs review, 130 candidates, avg score 0.278
+  - es: 118 units, 52 needs review, 118 candidates, avg score 0.21
+  - fr: 118 units, 17 needs review, 119 candidates, avg score 0.318
+- The Lobster Quadrille: 89 units
+  - en: 89 units, 0 needs review, 89 candidates, avg score 1
+  - de: 89 units, 17 needs review, 111 candidates, avg score 0.299
+  - es: 89 units, 41 needs review, 89 candidates, avg score 0.213
+  - fr: 89 units, 35 needs review, 89 candidates, avg score 0.246
+- Who Stole the Tarts?: 100 units
+  - en: 100 units, 0 needs review, 100 candidates, avg score 1
+  - de: 100 units, 19 needs review, 106 candidates, avg score 0.273
+  - es: 100 units, 43 needs review, 101 candidates, avg score 0.223
+  - fr: 100 units, 12 needs review, 101 candidates, avg score 0.311
+- Alice's Evidence: 96 units
+  - en: 96 units, 0 needs review, 96 candidates, avg score 1
+  - de: 96 units, 28 needs review, 97 candidates, avg score 0.256
+  - es: 96 units, 36 needs review, 97 candidates, avg score 0.226
+  - fr: 96 units, 35 needs review, 96 candidates, avg score 0.237
+
+## The Tale of the Bamboo Cutter
+
+Book ID: `bamboo-cutter`
+Master language: `ja`
+Needs review: 7
+
+- 竹取物語: 70 units
+  - ja: 70 units, 0 needs review, 70 candidates, avg score 1
+  - en: 70 units, 7 needs review, 71 candidates, avg score 0.285
+
+## Botchan
+
+Book ID: `botchan`
+Master language: `ja`
+Needs review: 148
+
+- 坊っちゃん: 961 units
+  - ja: 961 units, 0 needs review, 961 candidates, avg score 1
+  - en: 961 units, 148 needs review, 2299 candidates, avg score 0.303
+
+## A Christmas Carol
+
+Book ID: `christmas-carol`
+Master language: `en`
+Needs review: 1472
+
+- STAVE I: MARLEY'S GHOST: 348 units
+  - en: 348 units, 0 needs review, 348 candidates, avg score 1
+  - de: 348 units, 105 needs review, 348 candidates, avg score 0.25
+  - es: 348 units, 119 needs review, 348 candidates, avg score 0.253
+  - fr: 348 units, 109 needs review, 348 candidates, avg score 0.26
+- STAVE II: THE FIRST OF THE THREE SPIRITS: 310 units
+  - en: 310 units, 0 needs review, 310 candidates, avg score 1
+  - de: 310 units, 76 needs review, 310 candidates, avg score 0.269
+  - es: 310 units, 116 needs review, 310 candidates, avg score 0.238
+  - fr: 310 units, 103 needs review, 310 candidates, avg score 0.241
+- STAVE III: THE SECOND OF THE THREE SPIRITS: 371 units
+  - en: 371 units, 0 needs review, 371 candidates, avg score 1
+  - de: 371 units, 87 needs review, 372 candidates, avg score 0.28
+  - es: 371 units, 143 needs review, 371 candidates, avg score 0.234
+  - fr: 371 units, 127 needs review, 371 candidates, avg score 0.241
+- STAVE IV: THE LAST OF THE SPIRITS: 304 units
+  - en: 304 units, 0 needs review, 304 candidates, avg score 1
+  - de: 304 units, 103 needs review, 304 candidates, avg score 0.248
+  - es: 304 units, 105 needs review, 305 candidates, avg score 0.236
+  - fr: 304 units, 122 needs review, 304 candidates, avg score 0.225
+- STAVE V: THE END OF IT: 150 units
+  - en: 150 units, 0 needs review, 150 candidates, avg score 1
+  - de: 150 units, 42 needs review, 150 candidates, avg score 0.249
+  - es: 150 units, 61 needs review, 150 candidates, avg score 0.222
+  - fr: 150 units, 54 needs review, 150 candidates, avg score 0.239
+
+## Around the World in Eighty Days
+
+Book ID: `eighty-days`
+Master language: `en`
+Needs review: 1718
+
+- CHAPTER I.: 71 units
+  - en: 71 units, 0 needs review, 71 candidates, avg score 1
+  - es: 71 units, 13 needs review, 71 candidates, avg score 0.272
+  - fr: 71 units, 15 needs review, 71 candidates, avg score 0.261
+- CHAPTER II.: 48 units
+  - en: 48 units, 0 needs review, 48 candidates, avg score 1
+  - es: 48 units, 6 needs review, 59 candidates, avg score 0.29
+  - fr: 48 units, 4 needs review, 64 candidates, avg score 0.338
+- CHAPTER III.: 108 units
+  - en: 108 units, 0 needs review, 108 candidates, avg score 1
+  - es: 108 units, 43 needs review, 109 candidates, avg score 0.231
+  - fr: 108 units, 31 needs review, 108 candidates, avg score 0.249
+- CHAPTER IV.: 73 units
+  - en: 73 units, 0 needs review, 73 candidates, avg score 1
+  - es: 73 units, 29 needs review, 73 candidates, avg score 0.24
+  - fr: 73 units, 21 needs review, 74 candidates, avg score 0.266
+- CHAPTER V.: 37 units
+  - en: 37 units, 0 needs review, 37 candidates, avg score 1
+  - es: 37 units, 7 needs review, 37 candidates, avg score 0.285
+  - fr: 37 units, 3 needs review, 49 candidates, avg score 0.353
+- CHAPTER VI.: 64 units
+  - en: 64 units, 0 needs review, 64 candidates, avg score 1
+  - es: 64 units, 16 needs review, 65 candidates, avg score 0.269
+  - fr: 64 units, 14 needs review, 64 candidates, avg score 0.276
+- CHAPTER VII.: 44 units
+  - en: 44 units, 0 needs review, 44 candidates, avg score 1
+  - es: 44 units, 19 needs review, 44 candidates, avg score 0.236
+  - fr: 44 units, 19 needs review, 44 candidates, avg score 0.248
+- CHAPTER VIII.: 74 units
+  - en: 74 units, 0 needs review, 74 candidates, avg score 1
+  - es: 74 units, 35 needs review, 75 candidates, avg score 0.208
+  - fr: 74 units, 28 needs review, 75 candidates, avg score 0.22
+- CHAPTER IX.: 68 units
+  - en: 68 units, 0 needs review, 68 candidates, avg score 1
+  - es: 68 units, 3 needs review, 88 candidates, avg score 0.373
+  - fr: 68 units, 8 needs review, 91 candidates, avg score 0.347
+- CHAPTER X.: 68 units
+  - en: 68 units, 0 needs review, 68 candidates, avg score 1
+  - es: 68 units, 10 needs review, 68 candidates, avg score 0.3
+  - fr: 68 units, 14 needs review, 69 candidates, avg score 0.272
+- CHAPTER XI.: 135 units
+  - en: 135 units, 0 needs review, 135 candidates, avg score 1
+  - es: 135 units, 27 needs review, 136 candidates, avg score 0.283
+  - fr: 135 units, 27 needs review, 147 candidates, avg score 0.316
+- CHAPTER XII.: 109 units
+  - en: 109 units, 0 needs review, 109 candidates, avg score 1
+  - es: 109 units, 21 needs review, 109 candidates, avg score 0.275
+  - fr: 109 units, 18 needs review, 114 candidates, avg score 0.304
+- CHAPTER XIII.: 117 units
+  - en: 117 units, 0 needs review, 117 candidates, avg score 1
+  - es: 117 units, 15 needs review, 128 candidates, avg score 0.309
+  - fr: 117 units, 9 needs review, 152 candidates, avg score 0.34
+- CHAPTER XIV.: 81 units
+  - en: 81 units, 0 needs review, 81 candidates, avg score 1
+  - es: 81 units, 10 needs review, 101 candidates, avg score 0.372
+  - fr: 81 units, 6 needs review, 112 candidates, avg score 0.387
+- CHAPTER XV.: 130 units
+  - en: 130 units, 0 needs review, 130 candidates, avg score 1
+  - es: 130 units, 52 needs review, 131 candidates, avg score 0.233
+  - fr: 130 units, 39 needs review, 131 candidates, avg score 0.266
+- CHAPTER XVI.: 75 units
+  - en: 75 units, 0 needs review, 75 candidates, avg score 1
+  - es: 75 units, 9 needs review, 92 candidates, avg score 0.331
+  - fr: 75 units, 10 needs review, 100 candidates, avg score 0.302
+- CHAPTER XVII.: 84 units
+  - en: 84 units, 0 needs review, 84 candidates, avg score 1
+  - es: 84 units, 24 needs review, 85 candidates, avg score 0.256
+  - fr: 84 units, 9 needs review, 104 candidates, avg score 0.355
+- CHAPTER XVIII.: 79 units
+  - en: 79 units, 0 needs review, 79 candidates, avg score 1
+  - es: 79 units, 19 needs review, 79 candidates, avg score 0.262
+  - fr: 79 units, 6 needs review, 97 candidates, avg score 0.369
+- CHAPTER XIX.: 122 units
+  - en: 122 units, 0 needs review, 122 candidates, avg score 1
+  - es: 122 units, 42 needs review, 122 candidates, avg score 0.235
+  - fr: 122 units, 40 needs review, 122 candidates, avg score 0.255
+- CHAPTER XX.: 118 units
+  - en: 118 units, 0 needs review, 118 candidates, avg score 1
+  - es: 118 units, 39 needs review, 119 candidates, avg score 0.247
+  - fr: 118 units, 38 needs review, 119 candidates, avg score 0.258
+- CHAPTER XXI.: 158 units
+  - en: 158 units, 0 needs review, 158 candidates, avg score 1
+  - es: 158 units, 38 needs review, 158 candidates, avg score 0.261
+  - fr: 158 units, 15 needs review, 177 candidates, avg score 0.34
+- CHAPTER XXII.: 99 units
+  - en: 99 units, 0 needs review, 99 candidates, avg score 1
+  - es: 99 units, 28 needs review, 100 candidates, avg score 0.263
+  - fr: 99 units, 6 needs review, 115 candidates, avg score 0.358
+- CHAPTER XXIII.: 104 units
+  - en: 104 units, 0 needs review, 104 candidates, avg score 1
+  - es: 104 units, 33 needs review, 104 candidates, avg score 0.245
+  - fr: 104 units, 32 needs review, 104 candidates, avg score 0.252
+- CHAPTER XXIV.: 91 units
+  - en: 91 units, 0 needs review, 91 candidates, avg score 1
+  - es: 91 units, 29 needs review, 92 candidates, avg score 0.275
+  - fr: 91 units, 28 needs review, 93 candidates, avg score 0.277
+- CHAPTER XXV.: 127 units
+  - en: 127 units, 0 needs review, 127 candidates, avg score 1
+  - es: 127 units, 34 needs review, 127 candidates, avg score 0.256
+  - fr: 127 units, 34 needs review, 134 candidates, avg score 0.275
+- CHAPTER XXVI.: 67 units
+  - en: 67 units, 0 needs review, 67 candidates, avg score 1
+  - es: 67 units, 2 needs review, 77 candidates, avg score 0.391
+  - fr: 67 units, 2 needs review, 84 candidates, avg score 0.412
+- CHAPTER XXVII.: 77 units
+  - en: 77 units, 0 needs review, 77 candidates, avg score 1
+  - es: 77 units, 12 needs review, 82 candidates, avg score 0.3
+  - fr: 77 units, 13 needs review, 85 candidates, avg score 0.353
+- CHAPTER XXVIII.: 133 units
+  - en: 133 units, 0 needs review, 133 candidates, avg score 1
+  - es: 133 units, 34 needs review, 133 candidates, avg score 0.262
+  - fr: 133 units, 34 needs review, 134 candidates, avg score 0.267
+- CHAPTER XXIX.: 141 units
+  - en: 141 units, 0 needs review, 141 candidates, avg score 1
+  - es: 141 units, 41 needs review, 141 candidates, avg score 0.258
+  - fr: 141 units, 41 needs review, 142 candidates, avg score 0.264
+- CHAPTER XXX.: 158 units
+  - en: 158 units, 0 needs review, 158 candidates, avg score 1
+  - es: 158 units, 37 needs review, 159 candidates, avg score 0.273
+  - fr: 158 units, 46 needs review, 159 candidates, avg score 0.255
+- CHAPTER XXXI.: 117 units
+  - en: 117 units, 0 needs review, 117 candidates, avg score 1
+  - es: 117 units, 27 needs review, 117 candidates, avg score 0.282
+  - fr: 117 units, 18 needs review, 125 candidates, avg score 0.362
+- CHAPTER XXXII.: 86 units
+  - en: 86 units, 0 needs review, 86 candidates, avg score 1
+  - es: 86 units, 40 needs review, 86 candidates, avg score 0.225
+  - fr: 86 units, 37 needs review, 87 candidates, avg score 0.237
+- CHAPTER XXXIII.: 168 units
+  - en: 168 units, 0 needs review, 168 candidates, avg score 1
+  - es: 168 units, 46 needs review, 168 candidates, avg score 0.256
+  - fr: 168 units, 66 needs review, 168 candidates, avg score 0.224
+- CHAPTER XXXIV.: 72 units
+  - en: 72 units, 0 needs review, 72 candidates, avg score 1
+  - es: 72 units, 14 needs review, 72 candidates, avg score 0.299
+  - fr: 72 units, 8 needs review, 81 candidates, avg score 0.366
+- CHAPTER XXXV.: 101 units
+  - en: 101 units, 0 needs review, 101 candidates, avg score 1
+  - es: 101 units, 32 needs review, 101 candidates, avg score 0.249
+  - fr: 101 units, 24 needs review, 109 candidates, avg score 0.301
+- CHAPTER XXXVI.: 58 units
+  - en: 58 units, 0 needs review, 58 candidates, avg score 1
+  - es: 58 units, 10 needs review, 58 candidates, avg score 0.301
+  - fr: 58 units, 4 needs review, 61 candidates, avg score 0.336
+- CHAPTER XXXVII.: 65 units
+  - en: 65 units, 0 needs review, 65 candidates, avg score 1
+  - es: 65 units, 30 needs review, 65 candidates, avg score 0.25
+  - fr: 65 units, 25 needs review, 65 candidates, avg score 0.228
+
+## Grimm's Fairy Tales
+
+Book ID: `grimm`
+Master language: `en`
+Needs review: 958
+
+- THE GOLDEN BIRD: 80 units
+  - en: 80 units, 0 needs review, 80 candidates, avg score 1
+  - de: 80 units, 4 needs review, 87 candidates, avg score 0.299
+- HANS IN LUCK: 110 units
+  - en: 110 units, 0 needs review, 110 candidates, avg score 1
+  - de: 110 units, 39 needs review, 110 candidates, avg score 0.236
+- JORINDA AND JORINDEL: 48 units
+  - en: 48 units, 0 needs review, 48 candidates, avg score 1
+  - de: 48 units, 6 needs review, 49 candidates, avg score 0.283
+- THE TRAVELLING MUSICIANS: 48 units
+  - en: 48 units, 0 needs review, 48 candidates, avg score 1
+  - de: 48 units, 18 needs review, 48 candidates, avg score 0.225
+- OLD SULTAN: 50 units
+  - en: 50 units, 0 needs review, 50 candidates, avg score 1
+  - de: 50 units, 11 needs review, 50 candidates, avg score 0.274
+- BRIAR ROSE: 44 units
+  - en: 44 units, 0 needs review, 44 candidates, avg score 1
+  - de: 44 units, 8 needs review, 45 candidates, avg score 0.28
+- THE DOG AND THE SPARROW: 59 units
+  - en: 59 units, 0 needs review, 59 candidates, avg score 1
+  - de: 59 units, 18 needs review, 59 candidates, avg score 0.245
+- THE TWELVE DANCING PRINCESSES: 53 units
+  - en: 53 units, 0 needs review, 53 candidates, avg score 1
+  - de: 53 units, 9 needs review, 53 candidates, avg score 0.267
+- THE FISHERMAN AND HIS WIFE: 115 units
+  - en: 115 units, 0 needs review, 115 candidates, avg score 1
+  - de: 115 units, 44 needs review, 115 candidates, avg score 0.22
+- THE WILLOW-WREN AND THE BEAR: 36 units
+  - en: 36 units, 0 needs review, 36 candidates, avg score 1
+  - de: 36 units, 4 needs review, 36 candidates, avg score 0.273
+- THE FROG-PRINCE: 42 units
+  - en: 42 units, 0 needs review, 42 candidates, avg score 1
+  - de: 42 units, 4 needs review, 45 candidates, avg score 0.29
+- CAT AND MOUSE IN PARTNERSHIP: 52 units
+  - en: 52 units, 0 needs review, 52 candidates, avg score 1
+  - de: 52 units, 17 needs review, 53 candidates, avg score 0.254
+- THE GOOSE-GIRL: 80 units
+  - en: 80 units, 0 needs review, 80 candidates, avg score 1
+  - de: 80 units, 20 needs review, 81 candidates, avg score 0.259
+- THE ADVENTURES OF CHANTICLEER AND PARTLET: 64 units
+  - en: 64 units, 0 needs review, 64 candidates, avg score 1
+  - de: 64 units, 23 needs review, 65 candidates, avg score 0.222
+- RAPUNZEL: 55 units
+  - en: 55 units, 0 needs review, 55 candidates, avg score 1
+  - de: 55 units, 6 needs review, 55 candidates, avg score 0.299
+- FUNDEVOGEL: 45 units
+  - en: 45 units, 0 needs review, 45 candidates, avg score 1
+  - de: 45 units, 7 needs review, 45 candidates, avg score 0.282
+- THE VALIANT LITTLE TAILOR: 145 units
+  - en: 145 units, 0 needs review, 145 candidates, avg score 1
+  - de: 145 units, 34 needs review, 145 candidates, avg score 0.255
+- HANSEL AND GRETEL: 157 units
+  - en: 157 units, 0 needs review, 157 candidates, avg score 1
+  - de: 157 units, 36 needs review, 158 candidates, avg score 0.271
+- MOTHER HOLLE: 50 units
+  - en: 50 units, 0 needs review, 50 candidates, avg score 1
+  - de: 50 units, 7 needs review, 50 candidates, avg score 0.278
+- LITTLE RED-CAP: 64 units
+  - en: 64 units, 0 needs review, 64 candidates, avg score 1
+  - de: 64 units, 22 needs review, 64 candidates, avg score 0.232
+- THE ROBBER BRIDEGROOM: 70 units
+  - en: 70 units, 0 needs review, 70 candidates, avg score 1
+  - de: 70 units, 18 needs review, 70 candidates, avg score 0.281
+- TOM THUMB: 105 units
+  - en: 105 units, 0 needs review, 105 candidates, avg score 1
+  - de: 105 units, 32 needs review, 105 candidates, avg score 0.248
+- RUMPELSTILTSKIN: 45 units
+  - en: 45 units, 0 needs review, 45 candidates, avg score 1
+  - de: 45 units, 18 needs review, 46 candidates, avg score 0.233
+- CLEVER GRETEL: 41 units
+  - en: 41 units, 0 needs review, 41 candidates, avg score 1
+  - de: 41 units, 9 needs review, 41 candidates, avg score 0.257
+- THE OLD MAN AND HIS GRANDSON: 11 units
+  - en: 11 units, 0 needs review, 11 candidates, avg score 1
+  - de: 11 units, 1 needs review, 12 candidates, avg score 0.316
+- THE LITTLE PEASANT: 94 units
+  - en: 94 units, 0 needs review, 94 candidates, avg score 1
+  - de: 94 units, 17 needs review, 95 candidates, avg score 0.266
+- FREDERICK AND CATHERINE: 85 units
+  - en: 85 units, 0 needs review, 85 candidates, avg score 1
+  - de: 85 units, 22 needs review, 86 candidates, avg score 0.252
+- SWEETHEART ROLAND: 58 units
+  - en: 58 units, 0 needs review, 58 candidates, avg score 1
+  - de: 58 units, 12 needs review, 59 candidates, avg score 0.275
+- SNOWDROP: 92 units
+  - en: 92 units, 0 needs review, 92 candidates, avg score 1
+  - de: 92 units, 20 needs review, 92 candidates, avg score 0.261
+- THE PINK: 64 units
+  - en: 64 units, 0 needs review, 64 candidates, avg score 1
+  - de: 64 units, 11 needs review, 65 candidates, avg score 0.292
+- CLEVER ELSIE: 58 units
+  - en: 58 units, 0 needs review, 58 candidates, avg score 1
+  - de: 58 units, 17 needs review, 59 candidates, avg score 0.26
+- THE MISER IN THE BUSH: 47 units
+  - en: 47 units, 0 needs review, 47 candidates, avg score 1
+  - de: 47 units, 15 needs review, 47 candidates, avg score 0.232
+- ASHPUTTEL: 95 units
+  - en: 95 units, 0 needs review, 95 candidates, avg score 1
+  - de: 95 units, 31 needs review, 96 candidates, avg score 0.251
+- THE WHITE SNAKE: 58 units
+  - en: 58 units, 0 needs review, 58 candidates, avg score 1
+  - de: 58 units, 8 needs review, 59 candidates, avg score 0.304
+- THE WOLF AND THE SEVEN LITTLE KIDS: 53 units
+  - en: 53 units, 0 needs review, 53 candidates, avg score 1
+  - de: 53 units, 9 needs review, 54 candidates, avg score 0.281
+- THE QUEEN BEE: 28 units
+  - en: 28 units, 0 needs review, 28 candidates, avg score 1
+  - de: 28 units, 4 needs review, 28 candidates, avg score 0.284
+- THE ELVES AND THE SHOEMAKER: 24 units
+  - en: 24 units, 0 needs review, 24 candidates, avg score 1
+  - de: 24 units, 2 needs review, 28 candidates, avg score 0.285
+- THE JUNIPER-TREE: 125 units
+  - en: 125 units, 0 needs review, 125 candidates, avg score 1
+  - de: 125 units, 30 needs review, 126 candidates, avg score 0.253
+- THE TURNIP: 41 units
+  - en: 41 units, 0 needs review, 41 candidates, avg score 1
+  - de: 41 units, 8 needs review, 41 candidates, avg score 0.263
+- CLEVER HANS: 166 units
+  - en: 166 units, 0 needs review, 166 candidates, avg score 1
+  - de: 166 units, 32 needs review, 167 candidates, avg score 0.272
+- THE THREE LANGUAGES: 37 units
+  - en: 37 units, 0 needs review, 37 candidates, avg score 1
+  - de: 37 units, 5 needs review, 37 candidates, avg score 0.293
+- THE FOX AND THE CAT: 22 units
+  - en: 22 units, 0 needs review, 22 candidates, avg score 1
+  - de: 22 units, 8 needs review, 22 candidates, avg score 0.232
+- THE FOUR CLEVER BROTHERS: 56 units
+  - en: 56 units, 0 needs review, 56 candidates, avg score 1
+  - de: 56 units, 15 needs review, 56 candidates, avg score 0.255
+- LILY AND THE LION: 77 units
+  - en: 77 units, 0 needs review, 77 candidates, avg score 1
+  - de: 77 units, 9 needs review, 78 candidates, avg score 0.284
+- THE FOX AND THE HORSE: 19 units
+  - en: 19 units, 0 needs review, 19 candidates, avg score 1
+  - de: 19 units, 7 needs review, 20 candidates, avg score 0.219
+- THE BLUE LIGHT: 80 units
+  - en: 80 units, 0 needs review, 80 candidates, avg score 1
+  - de: 80 units, 18 needs review, 80 candidates, avg score 0.26
+- THE RAVEN: 96 units
+  - en: 96 units, 0 needs review, 96 candidates, avg score 1
+  - de: 96 units, 13 needs review, 96 candidates, avg score 0.287
+- THE GOLDEN GOOSE: 59 units
+  - en: 59 units, 0 needs review, 59 candidates, avg score 1
+  - de: 59 units, 5 needs review, 60 candidates, avg score 0.314
+- THE WATER OF LIFE: 94 units
+  - en: 94 units, 0 needs review, 94 candidates, avg score 1
+  - de: 94 units, 18 needs review, 94 candidates, avg score 0.269
+- THE TWELVE HUNTSMEN: 47 units
+  - en: 47 units, 0 needs review, 47 candidates, avg score 1
+  - de: 47 units, 8 needs review, 48 candidates, avg score 0.301
+- THE KING OF THE GOLDEN MOUNTAIN: 90 units
+  - en: 90 units, 0 needs review, 90 candidates, avg score 1
+  - de: 90 units, 13 needs review, 91 candidates, avg score 0.278
+- DOCTOR KNOWALL: 36 units
+  - en: 36 units, 0 needs review, 36 candidates, avg score 1
+  - de: 36 units, 7 needs review, 37 candidates, avg score 0.282
+- THE SEVEN RAVENS: 34 units
+  - en: 34 units, 0 needs review, 34 candidates, avg score 1
+  - de: 34 units, 7 needs review, 34 candidates, avg score 0.255
+- FIRST STORY: 26 units
+  - en: 26 units, 0 needs review, 26 candidates, avg score 1
+  - de: 26 units, 10 needs review, 31 candidates, avg score 0.242
+- SECOND STORY: 23 units
+  - en: 23 units, 0 needs review, 23 candidates, avg score 1
+  - de: 23 units, 10 needs review, 31 candidates, avg score 0.238
+- THE SALAD: 72 units
+  - en: 72 units, 0 needs review, 72 candidates, avg score 1
+  - de: 72 units, 7 needs review, 76 candidates, avg score 0.289
+- THE STORY OF THE YOUTH WHO WENT FORTH TO LEARN WHAT FEAR WAS: 213 units
+  - en: 213 units, 0 needs review, 213 candidates, avg score 1
+  - de: 213 units, 71 needs review, 213 candidates, avg score 0.241
+- KING GRISLY-BEARD: 74 units
+  - en: 74 units, 0 needs review, 74 candidates, avg score 1
+  - de: 74 units, 18 needs review, 74 candidates, avg score 0.25
+- IRON HANS: 149 units
+  - en: 149 units, 0 needs review, 149 candidates, avg score 1
+  - de: 149 units, 26 needs review, 149 candidates, avg score 0.279
+- CAT-SKIN: 78 units
+  - en: 78 units, 0 needs review, 78 candidates, avg score 1
+  - de: 78 units, 10 needs review, 78 candidates, avg score 0.27
+- SNOW-WHITE AND ROSE-RED: 107 units
+  - en: 107 units, 0 needs review, 107 candidates, avg score 1
+  - de: 107 units, 20 needs review, 107 candidates, avg score 0.277
+
+## I Am a Cat
+
+Book ID: `i-am-a-cat`
+Master language: `ja`
+Needs review: 177
+
+- 一: 136 units
+  - ja: 136 units, 0 needs review, 136 candidates, avg score 1
+  - en: 136 units, 26 needs review, 351 candidates, avg score 0.295
+- 二: 468 units
+  - ja: 468 units, 0 needs review, 468 candidates, avg score 1
+  - en: 468 units, 151 needs review, 468 candidates, avg score 0.201
+
+## Kokoro
+
+Book ID: `kokoro`
+Master language: `ja`
+Needs review: 238
+
+- 上　先生と私: 574 units
+  - ja: 574 units, 0 needs review, 574 candidates, avg score 1
+  - en: 574 units, 77 needs review, 1350 candidates, avg score 0.313
+- 中　両親と私: 302 units
+  - ja: 302 units, 0 needs review, 302 candidates, avg score 1
+  - en: 302 units, 27 needs review, 435 candidates, avg score 0.285
+- 下　先生と遺書: 985 units
+  - ja: 985 units, 0 needs review, 985 candidates, avg score 1
+  - en: 985 units, 134 needs review, 2486 candidates, avg score 0.324
+
+## The Count of Monte Cristo
+
+Book ID: `monte-cristo`
+Master language: `en`
+Needs review: 8469
+
+- Chapter 1. Marseilles—The Arrival: 151 units
+  - en: 151 units, 0 needs review, 151 candidates, avg score 1
+  - es: 151 units, 70 needs review, 151 candidates, avg score 0.206
+- Chapter 2. Father and Son: 121 units
+  - en: 121 units, 0 needs review, 121 candidates, avg score 1
+  - es: 121 units, 63 needs review, 121 candidates, avg score 0.211
+- Chapter 3. The Catalans: 153 units
+  - en: 153 units, 0 needs review, 153 candidates, avg score 1
+  - es: 153 units, 39 needs review, 157 candidates, avg score 0.262
+- Chapter 4. Conspiracy: 100 units
+  - en: 100 units, 0 needs review, 100 candidates, avg score 1
+  - es: 100 units, 47 needs review, 100 candidates, avg score 0.224
+- Chapter 5. The Marriage Feast: 224 units
+  - en: 224 units, 0 needs review, 224 candidates, avg score 1
+  - es: 224 units, 82 needs review, 225 candidates, avg score 0.244
+- Chapter 6. The Deputy Procureur du Roi: 138 units
+  - en: 138 units, 0 needs review, 138 candidates, avg score 1
+  - es: 138 units, 51 needs review, 138 candidates, avg score 0.23
+- Chapter 7. The Examination: 144 units
+  - en: 144 units, 0 needs review, 144 candidates, avg score 1
+  - es: 144 units, 64 needs review, 144 candidates, avg score 0.22
+- Chapter 8. The Château d'If: 181 units
+  - en: 181 units, 0 needs review, 181 candidates, avg score 1
+  - es: 181 units, 56 needs review, 181 candidates, avg score 0.25
+- Chapter 9. The Evening of the Betrothal: 97 units
+  - en: 97 units, 0 needs review, 97 candidates, avg score 1
+  - es: 97 units, 35 needs review, 97 candidates, avg score 0.244
+- Chapter 10. The King's Closet at the Tuileries: 134 units
+  - en: 134 units, 0 needs review, 134 candidates, avg score 1
+  - es: 134 units, 65 needs review, 134 candidates, avg score 0.212
+- Chapter 11. The Corsican Ogre: 136 units
+  - en: 136 units, 0 needs review, 136 candidates, avg score 1
+  - es: 136 units, 60 needs review, 136 candidates, avg score 0.221
+- Chapter 12. Father and Son: 112 units
+  - en: 112 units, 0 needs review, 112 candidates, avg score 1
+  - es: 112 units, 49 needs review, 113 candidates, avg score 0.215
+- Chapter 13. The Hundred Days: 120 units
+  - en: 120 units, 0 needs review, 120 candidates, avg score 1
+  - es: 120 units, 34 needs review, 131 candidates, avg score 0.29
+- Chapter 14. The Two Prisoners: 171 units
+  - en: 171 units, 0 needs review, 171 candidates, avg score 1
+  - es: 171 units, 84 needs review, 171 candidates, avg score 0.211
+- Chapter 15. Number 34 and Number 27: 269 units
+  - en: 269 units, 0 needs review, 269 candidates, avg score 1
+  - es: 269 units, 92 needs review, 269 candidates, avg score 0.242
+- Chapter 16. A Learned Italian: 170 units
+  - en: 170 units, 0 needs review, 170 candidates, avg score 1
+  - es: 170 units, 73 needs review, 171 candidates, avg score 0.227
+- Chapter 17. The Abbé's Chamber: 377 units
+  - en: 377 units, 0 needs review, 377 candidates, avg score 1
+  - es: 377 units, 187 needs review, 378 candidates, avg score 0.211
+- Chapter 18. The Treasure: 167 units
+  - en: 167 units, 0 needs review, 167 candidates, avg score 1
+  - es: 167 units, 32 needs review, 179 candidates, avg score 0.284
+- Chapter 19. The Third Attack: 154 units
+  - en: 154 units, 0 needs review, 154 candidates, avg score 1
+  - es: 154 units, 27 needs review, 171 candidates, avg score 0.285
+- Chapter 20. The Cemetery of the Château d'If: 90 units
+  - en: 90 units, 0 needs review, 90 candidates, avg score 1
+  - es: 90 units, 33 needs review, 90 candidates, avg score 0.254
+- Chapter 21. The Island of Tiboulen: 191 units
+  - en: 191 units, 0 needs review, 191 candidates, avg score 1
+  - es: 191 units, 64 needs review, 191 candidates, avg score 0.246
+- Chapter 22. The Smugglers: 104 units
+  - en: 104 units, 0 needs review, 104 candidates, avg score 1
+  - es: 104 units, 22 needs review, 104 candidates, avg score 0.287
+- Chapter 23. The Island of Monte Cristo: 131 units
+  - en: 131 units, 0 needs review, 131 candidates, avg score 1
+  - es: 131 units, 30 needs review, 131 candidates, avg score 0.282
+- Chapter 24. The Secret Cave: 136 units
+  - en: 136 units, 0 needs review, 136 candidates, avg score 1
+  - es: 136 units, 32 needs review, 137 candidates, avg score 0.268
+- Chapter 25. The Unknown: 107 units
+  - en: 107 units, 0 needs review, 107 candidates, avg score 1
+  - es: 107 units, 19 needs review, 108 candidates, avg score 0.3
+- Chapter 26. The Pont du Gard Inn: 215 units
+  - en: 215 units, 0 needs review, 215 candidates, avg score 1
+  - es: 215 units, 90 needs review, 216 candidates, avg score 0.223
+- Chapter 27. The Story: 222 units
+  - en: 222 units, 0 needs review, 222 candidates, avg score 1
+  - es: 222 units, 91 needs review, 222 candidates, avg score 0.23
+- Chapter 28. The Prison Register: 113 units
+  - en: 113 units, 0 needs review, 113 candidates, avg score 1
+  - es: 113 units, 61 needs review, 113 candidates, avg score 0.21
+- Chapter 29. The House of Morrel & Son: 212 units
+  - en: 212 units, 0 needs review, 212 candidates, avg score 1
+  - es: 212 units, 80 needs review, 212 candidates, avg score 0.238
+- Chapter 30. The Fifth of September: 236 units
+  - en: 236 units, 0 needs review, 236 candidates, avg score 1
+  - es: 236 units, 77 needs review, 236 candidates, avg score 0.249
+- Chapter 31. Italy: Sinbad the Sailor: 365 units
+  - en: 365 units, 0 needs review, 365 candidates, avg score 1
+  - es: 365 units, 156 needs review, 365 candidates, avg score 0.225
+- Chapter 32. The Waking: 94 units
+  - en: 94 units, 0 needs review, 94 candidates, avg score 1
+  - es: 94 units, 21 needs review, 94 candidates, avg score 0.257
+- Chapter 33. Roman Bandits: 420 units
+  - en: 420 units, 0 needs review, 420 candidates, avg score 1
+  - es: 420 units, 130 needs review, 421 candidates, avg score 0.246
+- Chapter 34. The Colosseum: 401 units
+  - en: 401 units, 0 needs review, 401 candidates, avg score 1
+  - es: 401 units, 160 needs review, 402 candidates, avg score 0.235
+- Chapter 35. La Mazzolata: 220 units
+  - en: 220 units, 0 needs review, 220 candidates, avg score 1
+  - es: 220 units, 61 needs review, 233 candidates, avg score 0.279
+- Chapter 36. The Carnival at Rome: 241 units
+  - en: 241 units, 0 needs review, 241 candidates, avg score 1
+  - es: 241 units, 63 needs review, 258 candidates, avg score 0.261
+- Chapter 37. The Catacombs of Saint Sebastian: 275 units
+  - en: 275 units, 0 needs review, 275 candidates, avg score 1
+  - es: 275 units, 123 needs review, 275 candidates, avg score 0.219
+- Chapter 38. The Rendezvous: 120 units
+  - en: 120 units, 0 needs review, 120 candidates, avg score 1
+  - es: 120 units, 53 needs review, 120 candidates, avg score 0.21
+- Chapter 39. The Guests: 116 units
+  - en: 116 units, 0 needs review, 116 candidates, avg score 1
+  - es: 116 units, 41 needs review, 194 candidates, avg score 0.238
+- Chapter 40. The Breakfast: 377 units
+  - en: 377 units, 0 needs review, 377 candidates, avg score 1
+  - es: 377 units, 171 needs review, 377 candidates, avg score 0.214
+- Chapter 41. The Presentation: 176 units
+  - en: 176 units, 0 needs review, 176 candidates, avg score 1
+  - es: 176 units, 54 needs review, 176 candidates, avg score 0.248
+- Chapter 42. Monsieur Bertuccio: 88 units
+  - en: 88 units, 0 needs review, 88 candidates, avg score 1
+  - es: 88 units, 38 needs review, 88 candidates, avg score 0.235
+- Chapter 43. The House at Auteuil: 120 units
+  - en: 120 units, 0 needs review, 120 candidates, avg score 1
+  - es: 120 units, 59 needs review, 120 candidates, avg score 0.215
+- Chapter 44. The Vendetta: 336 units
+  - en: 336 units, 0 needs review, 336 candidates, avg score 1
+  - es: 336 units, 100 needs review, 336 candidates, avg score 0.24
+- Chapter 45. The Rain of Blood: 163 units
+  - en: 163 units, 0 needs review, 163 candidates, avg score 1
+  - es: 163 units, 16 needs review, 211 candidates, avg score 0.312
+- Chapter 46. Unlimited Credit: 222 units
+  - en: 222 units, 0 needs review, 222 candidates, avg score 1
+  - es: 222 units, 90 needs review, 222 candidates, avg score 0.225
+- Chapter 47. The Dappled Grays: 185 units
+  - en: 185 units, 0 needs review, 185 candidates, avg score 1
+  - es: 185 units, 75 needs review, 185 candidates, avg score 0.235
+- Chapter 48. Ideology: 155 units
+  - en: 155 units, 0 needs review, 155 candidates, avg score 1
+  - es: 155 units, 45 needs review, 156 candidates, avg score 0.257
+- Chapter 49. Haydée: 73 units
+  - en: 73 units, 0 needs review, 73 candidates, avg score 1
+  - es: 73 units, 21 needs review, 74 candidates, avg score 0.257
+- Chapter 50. The Morrel Family: 129 units
+  - en: 129 units, 0 needs review, 129 candidates, avg score 1
+  - es: 129 units, 50 needs review, 129 candidates, avg score 0.23
+- Chapter 51. Pyramus and Thisbe: 149 units
+  - en: 149 units, 0 needs review, 149 candidates, avg score 1
+  - es: 149 units, 64 needs review, 149 candidates, avg score 0.22
+- Chapter 52. Toxicology: 211 units
+  - en: 211 units, 0 needs review, 211 candidates, avg score 1
+  - es: 211 units, 83 needs review, 211 candidates, avg score 0.222
+- Chapter 53. Robert le Diable: 290 units
+  - en: 290 units, 0 needs review, 290 candidates, avg score 1
+  - es: 290 units, 151 needs review, 290 candidates, avg score 0.212
+- Chapter 54. A Flurry in Stocks: 175 units
+  - en: 175 units, 0 needs review, 175 candidates, avg score 1
+  - es: 175 units, 84 needs review, 176 candidates, avg score 0.209
+- Chapter 55. Major Cavalcanti: 234 units
+  - en: 234 units, 0 needs review, 234 candidates, avg score 1
+  - es: 234 units, 132 needs review, 234 candidates, avg score 0.196
+- Chapter 56. Andrea Cavalcanti: 220 units
+  - en: 220 units, 0 needs review, 220 candidates, avg score 1
+  - es: 220 units, 99 needs review, 220 candidates, avg score 0.205
+- Chapter 57. In the Lucern Patch: 167 units
+  - en: 167 units, 0 needs review, 167 candidates, avg score 1
+  - es: 167 units, 79 needs review, 167 candidates, avg score 0.214
+- Chapter 58. M. Noirtier de Villefort: 164 units
+  - en: 164 units, 0 needs review, 164 candidates, avg score 1
+  - es: 164 units, 64 needs review, 165 candidates, avg score 0.231
+- Chapter 59. The Will: 172 units
+  - en: 172 units, 0 needs review, 172 candidates, avg score 1
+  - es: 172 units, 68 needs review, 172 candidates, avg score 0.228
+- Chapter 60. The Telegraph: 154 units
+  - en: 154 units, 0 needs review, 154 candidates, avg score 1
+  - es: 154 units, 71 needs review, 154 candidates, avg score 0.225
+- Chapter 61. How a Gardener May Get Rid of the Dormice that Eat His: 197 units
+  - en: 197 units, 0 needs review, 197 candidates, avg score 1
+  - es: 197 units, 116 needs review, 197 candidates, avg score 0.191
+- Chapter 62. Ghosts: 154 units
+  - en: 154 units, 0 needs review, 154 candidates, avg score 1
+  - es: 154 units, 53 needs review, 155 candidates, avg score 0.241
+- Chapter 63. The Dinner: 169 units
+  - en: 169 units, 0 needs review, 169 candidates, avg score 1
+  - es: 169 units, 65 needs review, 170 candidates, avg score 0.232
+- Chapter 64. The Beggar: 156 units
+  - en: 156 units, 0 needs review, 156 candidates, avg score 1
+  - es: 156 units, 70 needs review, 156 candidates, avg score 0.221
+- Chapter 65. A Conjugal Scene: 140 units
+  - en: 140 units, 0 needs review, 140 candidates, avg score 1
+  - es: 140 units, 54 needs review, 141 candidates, avg score 0.236
+- Chapter 66. Matrimonial Projects: 190 units
+  - en: 190 units, 0 needs review, 190 candidates, avg score 1
+  - es: 190 units, 91 needs review, 191 candidates, avg score 0.219
+- Chapter 67. The Office of the King's Attorney: 178 units
+  - en: 178 units, 0 needs review, 178 candidates, avg score 1
+  - es: 178 units, 74 needs review, 179 candidates, avg score 0.233
+- Chapter 68. A Summer Ball: 153 units
+  - en: 153 units, 0 needs review, 153 candidates, avg score 1
+  - es: 153 units, 83 needs review, 154 candidates, avg score 0.197
+- Chapter 69. The Inquiry: 173 units
+  - en: 173 units, 0 needs review, 173 candidates, avg score 1
+  - es: 173 units, 89 needs review, 173 candidates, avg score 0.207
+- Chapter 70. The Ball: 170 units
+  - en: 170 units, 0 needs review, 170 candidates, avg score 1
+  - es: 170 units, 86 needs review, 171 candidates, avg score 0.204
+- Chapter 71. Bread and Salt: 92 units
+  - en: 92 units, 0 needs review, 92 candidates, avg score 1
+  - es: 92 units, 41 needs review, 92 candidates, avg score 0.221
+- Chapter 72. Madame de Saint-Méran: 195 units
+  - en: 195 units, 0 needs review, 195 candidates, avg score 1
+  - es: 195 units, 78 needs review, 196 candidates, avg score 0.227
+- Chapter 73. The Promise: 465 units
+  - en: 465 units, 0 needs review, 465 candidates, avg score 1
+  - es: 465 units, 195 needs review, 465 candidates, avg score 0.225
+- Chapter 74. The Villefort Family Vault: 140 units
+  - en: 140 units, 0 needs review, 140 candidates, avg score 1
+  - es: 140 units, 46 needs review, 140 candidates, avg score 0.257
+- Chapter 75. A Signed Statement: 166 units
+  - en: 166 units, 0 needs review, 166 candidates, avg score 1
+  - es: 166 units, 64 needs review, 167 candidates, avg score 0.239
+- Chapter 76. Progress of Cavalcanti the Younger: 196 units
+  - en: 196 units, 0 needs review, 196 candidates, avg score 1
+  - es: 196 units, 93 needs review, 196 candidates, avg score 0.209
+- Chapter 77. Haydée: 342 units
+  - en: 342 units, 0 needs review, 342 candidates, avg score 1
+  - es: 342 units, 159 needs review, 342 candidates, avg score 0.212
+- Chapter 78. We hear From Yanina: 365 units
+  - en: 365 units, 0 needs review, 365 candidates, avg score 1
+  - es: 365 units, 180 needs review, 365 candidates, avg score 0.218
+- Chapter 79. The Lemonade: 252 units
+  - en: 252 units, 0 needs review, 252 candidates, avg score 1
+  - es: 252 units, 122 needs review, 252 candidates, avg score 0.218
+- Chapter 80. The Accusation: 80 units
+  - en: 80 units, 0 needs review, 80 candidates, avg score 1
+  - es: 80 units, 27 needs review, 88 candidates, avg score 0.252
+- Chapter 81. The Room of the Retired Baker: 367 units
+  - en: 367 units, 0 needs review, 367 candidates, avg score 1
+  - es: 367 units, 192 needs review, 368 candidates, avg score 0.205
+- Chapter 82. The Burglary: 253 units
+  - en: 253 units, 0 needs review, 253 candidates, avg score 1
+  - es: 253 units, 103 needs review, 254 candidates, avg score 0.226
+- Chapter 83. The Hand of God: 113 units
+  - en: 113 units, 0 needs review, 113 candidates, avg score 1
+  - es: 113 units, 61 needs review, 113 candidates, avg score 0.202
+- Chapter 84. Beauchamp: 102 units
+  - en: 102 units, 0 needs review, 102 candidates, avg score 1
+  - es: 102 units, 44 needs review, 102 candidates, avg score 0.228
+- Chapter 85. The Journey: 180 units
+  - en: 180 units, 0 needs review, 180 candidates, avg score 1
+  - es: 180 units, 86 needs review, 180 candidates, avg score 0.213
+- Chapter 86. The Trial: 174 units
+  - en: 174 units, 0 needs review, 174 candidates, avg score 1
+  - es: 174 units, 64 needs review, 174 candidates, avg score 0.244
+- Chapter 87. The Challenge: 125 units
+  - en: 125 units, 0 needs review, 125 candidates, avg score 1
+  - es: 125 units, 54 needs review, 125 candidates, avg score 0.226
+- Chapter 88. The Insult: 181 units
+  - en: 181 units, 0 needs review, 181 candidates, avg score 1
+  - es: 181 units, 69 needs review, 182 candidates, avg score 0.24
+- Chapter 89. The Night: 102 units
+  - en: 102 units, 0 needs review, 102 candidates, avg score 1
+  - es: 102 units, 33 needs review, 103 candidates, avg score 0.253
+- Chapter 90. The Meeting: 217 units
+  - en: 217 units, 0 needs review, 217 candidates, avg score 1
+  - es: 217 units, 97 needs review, 217 candidates, avg score 0.216
+- Chapter 91. Mother and Son: 97 units
+  - en: 97 units, 0 needs review, 97 candidates, avg score 1
+  - es: 97 units, 29 needs review, 97 candidates, avg score 0.261
+- Chapter 92. The Suicide: 156 units
+  - en: 156 units, 0 needs review, 156 candidates, avg score 1
+  - es: 156 units, 61 needs review, 157 candidates, avg score 0.233
+- Chapter 93. Valentine: 130 units
+  - en: 130 units, 0 needs review, 130 candidates, avg score 1
+  - es: 130 units, 35 needs review, 130 candidates, avg score 0.267
+- Chapter 94. Maximilian's Avowal: 213 units
+  - en: 213 units, 0 needs review, 213 candidates, avg score 1
+  - es: 213 units, 97 needs review, 213 candidates, avg score 0.219
+- Chapter 95. Father and Daughter: 127 units
+  - en: 127 units, 0 needs review, 127 candidates, avg score 1
+  - es: 127 units, 49 needs review, 128 candidates, avg score 0.231
+- Chapter 96. The Contract: 192 units
+  - en: 192 units, 0 needs review, 192 candidates, avg score 1
+  - es: 192 units, 87 needs review, 192 candidates, avg score 0.224
+- Chapter 97. The Departure for Belgium: 115 units
+  - en: 115 units, 0 needs review, 115 candidates, avg score 1
+  - es: 115 units, 52 needs review, 115 candidates, avg score 0.228
+- Chapter 98. The Bell and Bottle Tavern: 188 units
+  - en: 188 units, 0 needs review, 188 candidates, avg score 1
+  - es: 188 units, 42 needs review, 189 candidates, avg score 0.257
+- Chapter 99. The Law: 162 units
+  - en: 162 units, 0 needs review, 162 candidates, avg score 1
+  - es: 162 units, 68 needs review, 163 candidates, avg score 0.227
+- Chapter 100. The Apparition: 101 units
+  - en: 101 units, 0 needs review, 101 candidates, avg score 1
+  - es: 101 units, 31 needs review, 102 candidates, avg score 0.253
+- Chapter 101. Locusta: 95 units
+  - en: 95 units, 0 needs review, 95 candidates, avg score 1
+  - es: 95 units, 33 needs review, 95 candidates, avg score 0.226
+- Chapter 102. Valentine: 98 units
+  - en: 98 units, 0 needs review, 98 candidates, avg score 1
+  - es: 98 units, 29 needs review, 99 candidates, avg score 0.259
+- Chapter 103. Maximilian: 153 units
+  - en: 153 units, 0 needs review, 153 candidates, avg score 1
+  - es: 153 units, 59 needs review, 153 candidates, avg score 0.261
+- Chapter 104. Danglars' Signature: 196 units
+  - en: 196 units, 0 needs review, 196 candidates, avg score 1
+  - es: 196 units, 114 needs review, 196 candidates, avg score 0.189
+- Chapter 105. The Cemetery of Père-Lachaise: 201 units
+  - en: 201 units, 0 needs review, 201 candidates, avg score 1
+  - es: 201 units, 73 needs review, 202 candidates, avg score 0.243
+- Chapter 106. Dividing the Proceeds: 216 units
+  - en: 216 units, 0 needs review, 216 candidates, avg score 1
+  - es: 216 units, 92 needs review, 216 candidates, avg score 0.222
+- Chapter 107. The Lions' Den: 119 units
+  - en: 119 units, 0 needs review, 119 candidates, avg score 1
+  - es: 119 units, 62 needs review, 119 candidates, avg score 0.21
+- Chapter 108. The Judge: 165 units
+  - en: 165 units, 0 needs review, 165 candidates, avg score 1
+  - es: 165 units, 55 needs review, 165 candidates, avg score 0.245
+- Chapter 109. The Assizes: 107 units
+  - en: 107 units, 0 needs review, 107 candidates, avg score 1
+  - es: 107 units, 50 needs review, 107 candidates, avg score 0.215
+- Chapter 110. The Indictment: 112 units
+  - en: 112 units, 0 needs review, 112 candidates, avg score 1
+  - es: 112 units, 39 needs review, 112 candidates, avg score 0.237
+- Chapter 111. Expiation: 150 units
+  - en: 150 units, 0 needs review, 150 candidates, avg score 1
+  - es: 150 units, 28 needs review, 184 candidates, avg score 0.286
+- Chapter 112. The Departure: 197 units
+  - en: 197 units, 0 needs review, 197 candidates, avg score 1
+  - es: 197 units, 72 needs review, 197 candidates, avg score 0.234
+- Chapter 113. The Past: 187 units
+  - en: 187 units, 0 needs review, 187 candidates, avg score 1
+  - es: 187 units, 99 needs review, 187 candidates, avg score 0.202
+- Chapter 114. Peppino: 200 units
+  - en: 200 units, 0 needs review, 200 candidates, avg score 1
+  - es: 200 units, 71 needs review, 201 candidates, avg score 0.245
+- Chapter 115. Luigi Vampa's Bill of Fare: 128 units
+  - en: 128 units, 0 needs review, 128 candidates, avg score 1
+  - es: 128 units, 54 needs review, 129 candidates, avg score 0.246
+- Chapter 116. The Pardon: 119 units
+  - en: 119 units, 0 needs review, 119 candidates, avg score 1
+  - es: 119 units, 53 needs review, 120 candidates, avg score 0.219
+- Chapter 117. The Fifth of October: 256 units
+  - en: 256 units, 0 needs review, 256 candidates, avg score 1
+  - es: 256 units, 115 needs review, 256 candidates, avg score 0.22
+
+## The Adventures of Sherlock Holmes
+
+Book ID: `sherlock-holmes`
+Master language: `en`
+Needs review: 1865
+
+- I. A SCANDAL IN BOHEMIA: 504 units
+  - en: 504 units, 0 needs review, 504 candidates, avg score 1
+  - fr: 504 units, 189 needs review, 505 candidates, avg score 0.228
+- II. THE RED-HEADED LEAGUE: 416 units
+  - en: 416 units, 0 needs review, 416 candidates, avg score 1
+  - fr: 416 units, 142 needs review, 416 candidates, avg score 0.244
+- III. A CASE OF IDENTITY: 242 units
+  - en: 242 units, 0 needs review, 242 candidates, avg score 1
+  - fr: 242 units, 70 needs review, 247 candidates, avg score 0.253
+- IV. THE BOSCOMBE VALLEY MYSTERY: 457 units
+  - en: 457 units, 0 needs review, 457 candidates, avg score 1
+  - fr: 457 units, 199 needs review, 457 candidates, avg score 0.223
+- V. THE FIVE ORANGE PIPS: 376 units
+  - en: 376 units, 0 needs review, 376 candidates, avg score 1
+  - fr: 376 units, 132 needs review, 376 candidates, avg score 0.24
+- VI. THE MAN WITH THE TWISTED LIP: 446 units
+  - en: 446 units, 0 needs review, 446 candidates, avg score 1
+  - fr: 446 units, 174 needs review, 446 candidates, avg score 0.231
+- VII. THE ADVENTURE OF THE BLUE CARBUNCLE: 341 units
+  - en: 341 units, 0 needs review, 341 candidates, avg score 1
+  - fr: 341 units, 125 needs review, 341 candidates, avg score 0.232
+- VIII. THE ADVENTURE OF THE SPECKLED BAND: 454 units
+  - en: 454 units, 0 needs review, 454 candidates, avg score 1
+  - fr: 454 units, 169 needs review, 455 candidates, avg score 0.237
+- IX. THE ADVENTURE OF THE ENGINEER’S THUMB: 332 units
+  - en: 332 units, 0 needs review, 332 candidates, avg score 1
+  - fr: 332 units, 126 needs review, 332 candidates, avg score 0.234
+- X. THE ADVENTURE OF THE NOBLE BACHELOR: 474 units
+  - en: 474 units, 0 needs review, 474 candidates, avg score 1
+  - fr: 474 units, 203 needs review, 474 candidates, avg score 0.222
+- XI. THE ADVENTURE OF THE BERYL CORONET: 448 units
+  - en: 448 units, 0 needs review, 448 candidates, avg score 1
+  - fr: 448 units, 174 needs review, 448 candidates, avg score 0.228
+- XII. THE ADVENTURE OF THE COPPER BEECHES: 425 units
+  - en: 425 units, 0 needs review, 425 candidates, avg score 1
+  - fr: 425 units, 162 needs review, 425 candidates, avg score 0.231
+

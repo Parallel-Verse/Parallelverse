@@ -1,0 +1,50 @@
+{
+  "valid": true,
+  "books": [
+    {
+      "bookId": "i-am-a-cat",
+      "chapters": 2,
+      "units": 1533,
+      "needsReview": 1270,
+      "furigana": {
+        "kanjiSegments": 11644,
+        "readings": 11457,
+        "percentWithReadings": 98.4
+      }
+    },
+    {
+      "bookId": "botchan",
+      "chapters": 1,
+      "units": 2801,
+      "needsReview": 636,
+      "furigana": {
+        "kanjiSegments": 18284,
+        "readings": 18137,
+        "percentWithReadings": 99.2
+      }
+    },
+    {
+      "bookId": "kokoro",
+      "chapters": 3,
+      "units": 5093,
+      "needsReview": 846,
+      "furigana": {
+        "kanjiSegments": 33568,
+        "readings": 33369,
+        "percentWithReadings": 99.4
+      }
+    },
+    {
+      "bookId": "bamboo-cutter",
+      "chapters": 1,
+      "units": 158,
+      "needsReview": 15,
+      "furigana": {
+        "kanjiSegments": 1506,
+        "readings": 1368,
+        "percentWithReadings": 90.8
+      }
+    }
+  ],
+  "errors": []
+}

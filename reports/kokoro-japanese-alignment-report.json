@@ -1,0 +1,27 @@
+{
+  "bookId": "kokoro",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "上　先生と私",
+      "units": 1721,
+      "needsReview": 316,
+      "englishSourceTitle": "Part 1: Sensei and I"
+    },
+    {
+      "chapter": 2,
+      "title": "中　両親と私",
+      "units": 813,
+      "needsReview": 141,
+      "englishSourceTitle": "Part 2: My Parents and I"
+    },
+    {
+      "chapter": 3,
+      "title": "下　先生と遺書",
+      "units": 2559,
+      "needsReview": 389,
+      "englishSourceTitle": "Part 3: Sensei and His Testament"
+    }
+  ],
+  "needsReview": 846
+}

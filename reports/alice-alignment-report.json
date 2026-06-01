@@ -1,0 +1,1760 @@
+{
+  "bookId": "alice",
+  "strategy": "English semantic units are the master. Translations are split into candidate sentence/dialogue units and aligned in order using relative position, dialogue punctuation, question/exclamation markers, and named-entity hints. Uncertain units are marked needsReview.",
+  "languages": {
+    "fr": {
+      "chapters": [
+        {
+          "chapter": 1,
+          "masterUnits": 76,
+          "candidateUnits": 104,
+          "needsReview": 76
+        },
+        {
+          "chapter": 2,
+          "masterUnits": 106,
+          "candidateUnits": 131,
+          "needsReview": 106
+        },
+        {
+          "chapter": 3,
+          "masterUnits": 106,
+          "candidateUnits": 121,
+          "needsReview": 1
+        },
+        {
+          "chapter": 4,
+          "masterUnits": 133,
+          "candidateUnits": 163,
+          "needsReview": 133
+        },
+        {
+          "chapter": 5,
+          "masterUnits": 138,
+          "candidateUnits": 150,
+          "needsReview": 1
+        },
+        {
+          "chapter": 6,
+          "masterUnits": 157,
+          "candidateUnits": 162,
+          "needsReview": 0
+        },
+        {
+          "chapter": 7,
+          "masterUnits": 189,
+          "candidateUnits": 182,
+          "needsReview": 1
+        },
+        {
+          "chapter": 8,
+          "masterUnits": 128,
+          "candidateUnits": 163,
+          "needsReview": 128
+        },
+        {
+          "chapter": 9,
+          "masterUnits": 166,
+          "candidateUnits": 169,
+          "needsReview": 0
+        },
+        {
+          "chapter": 10,
+          "masterUnits": 158,
+          "candidateUnits": 128,
+          "needsReview": 0
+        },
+        {
+          "chapter": 11,
+          "masterUnits": 119,
+          "candidateUnits": 131,
+          "needsReview": 0
+        },
+        {
+          "chapter": 12,
+          "masterUnits": 113,
+          "candidateUnits": 127,
+          "needsReview": 0
+        }
+      ],
+      "exactAlignedUnits": 1143,
+      "needsReviewUnits": 446
+    },
+    "de": {
+      "chapters": [
+        {
+          "chapter": 1,
+          "masterUnits": 76,
+          "candidateUnits": 81,
+          "needsReview": 1
+        },
+        {
+          "chapter": 2,
+          "masterUnits": 106,
+          "candidateUnits": 83,
+          "needsReview": 0
+        },
+        {
+          "chapter": 3,
+          "masterUnits": 106,
+          "candidateUnits": 74,
+          "needsReview": 106
+        },
+        {
+          "chapter": 4,
+          "masterUnits": 133,
+          "candidateUnits": 105,
+          "needsReview": 2
+        },
+        {
+          "chapter": 5,
+          "masterUnits": 138,
+          "candidateUnits": 113,
+          "needsReview": 2
+        },
+        {
+          "chapter": 6,
+          "masterUnits": 157,
+          "candidateUnits": 122,
+          "needsReview": 157
+        },
+        {
+          "chapter": 7,
+          "masterUnits": 189,
+          "candidateUnits": 123,
+          "needsReview": 189
+        },
+        {
+          "chapter": 8,
+          "masterUnits": 128,
+          "candidateUnits": 100,
+          "needsReview": 4
+        },
+        {
+          "chapter": 9,
+          "masterUnits": 166,
+          "candidateUnits": 122,
+          "needsReview": 166
+        },
+        {
+          "chapter": 10,
+          "masterUnits": 158,
+          "candidateUnits": 118,
+          "needsReview": 158
+        },
+        {
+          "chapter": 11,
+          "masterUnits": 119,
+          "candidateUnits": 95,
+          "needsReview": 2
+        },
+        {
+          "chapter": 12,
+          "masterUnits": 113,
+          "candidateUnits": 95,
+          "needsReview": 1
+        }
+      ],
+      "exactAlignedUnits": 801,
+      "needsReviewUnits": 788
+    },
+    "es": {
+      "chapters": [
+        {
+          "chapter": 1,
+          "masterUnits": 76,
+          "candidateUnits": 97,
+          "needsReview": 76
+        },
+        {
+          "chapter": 2,
+          "masterUnits": 106,
+          "candidateUnits": 141,
+          "needsReview": 106
+        },
+        {
+          "chapter": 3,
+          "masterUnits": 106,
+          "candidateUnits": 152,
+          "needsReview": 106
+        },
+        {
+          "chapter": 4,
+          "masterUnits": 133,
+          "candidateUnits": 192,
+          "needsReview": 133
+        },
+        {
+          "chapter": 5,
+          "masterUnits": 138,
+          "candidateUnits": 171,
+          "needsReview": 138
+        },
+        {
+          "chapter": 6,
+          "masterUnits": 157,
+          "candidateUnits": 183,
+          "needsReview": 0
+        },
+        {
+          "chapter": 7,
+          "masterUnits": 189,
+          "candidateUnits": 236,
+          "needsReview": 189
+        },
+        {
+          "chapter": 8,
+          "masterUnits": 128,
+          "candidateUnits": 188,
+          "needsReview": 128
+        },
+        {
+          "chapter": 9,
+          "masterUnits": 166,
+          "candidateUnits": 188,
+          "needsReview": 1
+        },
+        {
+          "chapter": 10,
+          "masterUnits": 158,
+          "candidateUnits": 203,
+          "needsReview": 158
+        },
+        {
+          "chapter": 11,
+          "masterUnits": 119,
+          "candidateUnits": 168,
+          "needsReview": 119
+        },
+        {
+          "chapter": 12,
+          "masterUnits": 113,
+          "candidateUnits": 163,
+          "needsReview": 113
+        }
+      ],
+      "exactAlignedUnits": 322,
+      "needsReviewUnits": 1267
+    },
+    "en": {
+      "chapters": [
+        {
+          "chapter": 1,
+          "masterUnits": 76,
+          "candidateUnits": 76,
+          "needsReview": 0
+        },
+        {
+          "chapter": 2,
+          "masterUnits": 106,
+          "candidateUnits": 106,
+          "needsReview": 0
+        },
+        {
+          "chapter": 3,
+          "masterUnits": 106,
+          "candidateUnits": 106,
+          "needsReview": 0
+        },
+        {
+          "chapter": 4,
+          "masterUnits": 133,
+          "candidateUnits": 133,
+          "needsReview": 0
+        },
+        {
+          "chapter": 5,
+          "masterUnits": 138,
+          "candidateUnits": 138,
+          "needsReview": 0
+        },
+        {
+          "chapter": 6,
+          "masterUnits": 157,
+          "candidateUnits": 157,
+          "needsReview": 0
+        },
+        {
+          "chapter": 7,
+          "masterUnits": 189,
+          "candidateUnits": 189,
+          "needsReview": 0
+        },
+        {
+          "chapter": 8,
+          "masterUnits": 128,
+          "candidateUnits": 128,
+          "needsReview": 0
+        },
+        {
+          "chapter": 9,
+          "masterUnits": 166,
+          "candidateUnits": 166,
+          "needsReview": 0
+        },
+        {
+          "chapter": 10,
+          "masterUnits": 158,
+          "candidateUnits": 158,
+          "needsReview": 0
+        },
+        {
+          "chapter": 11,
+          "masterUnits": 119,
+          "candidateUnits": 119,
+          "needsReview": 0
+        },
+        {
+          "chapter": 12,
+          "masterUnits": 113,
+          "candidateUnits": 113,
+          "needsReview": 0
+        }
+      ],
+      "exactAlignedUnits": 1589,
+      "needsReviewUnits": 0
+    }
+  },
+  "questionable": [
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u001",
+      "score": 0.49,
+      "english": "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: once or twice she had peeped into the book her sister was reading, but it had no pictures or conversations in it, “",
+      "translation": "CHAPITRE PREMIER.",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u002",
+      "score": 0.336,
+      "english": "So she was considering in her own mind (as well as she could, for the hot day made her feel very sleepy and stupid), whether the pleasure of making a daisy-chain would be worth the trouble of getting up and picking the d",
+      "translation": "AU FOND DU TERRIER.",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u003",
+      "score": 0.833,
+      "english": "There was nothing so very remarkable in that; nor did Alice think it so very much out of the way to hear the Rabbit say to itself, “Oh dear!",
+      "translation": "ALICE, assise auprès de sa sœur sur le gazon, commençait à s'ennuyer de rester là à ne rien faire; une ou deux fois elle avait jeté les yeux sur le livre que lisait sa sœur; mais quoi! pas d'images, pas de dialogues! \"La",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u004",
+      "score": 0.669,
+      "english": "Oh dear!",
+      "translation": "Elle s'était mise à réfléchir, (tant bien que mal, car la chaleur du jour l'endormait et la rendait lourde,) se demandant si le plaisir de faire une couronne de marguerites valait bien la peine de se lever et de cueillir",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u005",
+      "score": 0.905,
+      "english": "I shall be late!” (when she thought it over afterwards, it occurred to her that she ought to have wondered at this, but at the time it all seemed quite natural); but when the Rabbit actually took a watch out of its waist",
+      "translation": "Il n'y avait rien là de bien étonnant, et Alice ne trouva même pas très-extraordinaire d'entendre parler le Lapin qui se disait:",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u006",
+      "score": 0.782,
+      "english": "for it flashed across her mind that she had never before seen a rabbit with either a waistcoat-pocket, or a watch to take out of it, and burning with curiosity, she ran across the field after it, and fortunately was just",
+      "translation": "\"Ah! j'arriverai trop tard!\" (En y songeant après, il lui sembla bien qu'elle aurait dû s'en étonner, mais sur le moment cela lui avait paru tout naturel.) Cependant, quand le Lapin vint à tirer une montre de son gousset",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u007",
+      "score": 0.538,
+      "english": "In another moment down went Alice after it, never once considering how in the world she was to get out again.",
+      "translation": "Entraînée par la curiosité elle s'élança sur ses traces à travers le champ, et arriva tout juste à temps pour le voir disparaître dans un large trou au pied d'une haie.",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u008",
+      "score": 0.754,
+      "english": "The rabbit-hole went straight on like a tunnel for some way, and then dipped suddenly down, so suddenly that Alice had not a moment to think about stopping herself before she found herself falling down a very deep well.",
+      "translation": "Un instant après, Alice était à la poursuite du Lapin dans le terrier, sans songer comment elle en sortirait.",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u009",
+      "score": 0.71,
+      "english": "Either the well was very deep, or she fell very slowly, for she had plenty of time as she went down to look about her and to wonder what was going to happen next.",
+      "translation": "Pendant un bout de chemin le trou allait tout droit comme un tunnel, puis tout à coup il plongeait perpendiculairement d'une façon si brusque qu'Alice se sentit tomber comme dans un puits d'une grande profondeur, avant m",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u010",
+      "score": 0.517,
+      "english": "First, she tried to look down and make out what she was coming to, but it was too dark to see anything; then she looked at the sides of the well, and noticed that they were filled with cupboards and book-shelves; here an",
+      "translation": "D'abord elle regarda dans le fond du trou pour savoir où elle allait; mais il y faisait bien trop sombre pour y rien voir.",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u011",
+      "score": 0.713,
+      "english": "She took down a jar from one of the shelves as she passed; it was labelled “ORANGE MARMALADE”, but to her great disappointment it was empty: she did not like to drop the jar for fear of killing somebody underneath, so ma",
+      "translation": "Ensuite elle porta les yeux sur les parois du puits, et s'aperçut qu'elles étaient garnies d'armoires et d'étagères; çà et là, elle vit pendues à des clous des cartes géographiques et des images. En passant elle prit sur",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u012",
+      "score": 0.489,
+      "english": "“Well!” thought Alice to herself, “after such a fall as this, I shall think nothing of tumbling down stairs!",
+      "translation": "Mais, à son grand regret, le pot était vide: elle n'osait le laisser tomber dans la crainte de tuer quelqu'un; aussi s'arrangea-t-elle de manière à le déposer en passant dans une des armoires.",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u013",
+      "score": 0.515,
+      "english": "How brave they’ll all think me at home!",
+      "translation": "\"Certes,\" dit Alice, \"après une chute pareille je ne me moquerai pas mal de dégringoler l'escalier!",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u014",
+      "score": 0.712,
+      "english": "Why, I wouldn’t say anything about it, even if I fell off the top of the house!” (Which was very likely true.)",
+      "translation": "Comme ils vont me trouver brave chez nous! Je tomberais du haut des toits que je ne ferais pas entendre une plainte.\" (Ce qui était bien probable.)",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u015",
+      "score": 0.668,
+      "english": "Down, down, down.",
+      "translation": "Tombe, tombe, tombe!",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u016",
+      "score": 0.414,
+      "english": "Would the fall never come to an end?",
+      "translation": "\"Cette chute n'en finira donc pas!",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u017",
+      "score": 0.661,
+      "english": "“I wonder how many miles I’ve fallen by this time?” she said aloud.",
+      "translation": "Je suis curieuse de savoir combien de milles j'ai déjà faits,\" dit-elle tout haut. \"Je dois être bien près du centre de la terre.",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u018",
+      "score": 0.717,
+      "english": "“I must be getting somewhere near the centre of the earth.",
+      "translation": "Voyons donc, cela serait à quatre mille milles de profondeur, il me semble.\" (Comme vous voyez, Alice avait appris pas mal de choses dans ses leçons; et bien que ce ne fût pas là une très-bonne occasion de faire parade d",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u019",
+      "score": 0.783,
+      "english": "Let me see: that would be four thousand miles down, I think—” (for, you see, Alice had learnt several things of this sort in her lessons in the schoolroom, and though this was not a very good opportunity for showing off ",
+      "translation": "\"Oui, c'est bien à peu près cela; mais alors à quel degré de latitude ou de longitude est-ce que je me trouve?\" (Alice n'avait pas la moindre idée de ce que voulait dire latitude ou longitude, mais ces grands mots lui pa",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u020",
+      "score": 0.539,
+      "english": "“—yes, that’s about the right distance—but then I wonder what Latitude or Longitude I’ve got to?” (Alice had no idea what Latitude was, or Longitude either, but thought they were nice grand words to say.)",
+      "translation": "\"Si j'allais traverser complétement la terre?",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u021",
+      "score": 0.715,
+      "english": "Presently she began again.",
+      "translation": "Comme ça serait drôle de se trouver au milieu de gens qui marchent la tête en bas.",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u022",
+      "score": 0.662,
+      "english": "“I wonder if I shall fall right through the earth!",
+      "translation": "Aux Antipathies, je crois.\" (Elle n'était pas fâchée cette fois qu'il n'y eût personne là pour l'entendre, car ce mot ne lui faisait pas l'effet d'être bien juste.) \"Eh mais, j'aurai à leur demander le nom du pays.--Pard",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u023",
+      "score": 0.718,
+      "english": "How funny it’ll seem to come out among the people that walk with their heads downward!",
+      "translation": "Faire la révérence en l'air!",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u024",
+      "score": 0.664,
+      "english": "The Antipathies, I think—” (she was rather glad there was no one listening, this time, as it didn’t sound at all the right word)",
+      "translation": "Dites-moi un peu, comment vous y prendriez-vous?)",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u025",
+      "score": 0.661,
+      "english": "“—but I shall have to ask them what the name of the country is, you know.",
+      "translation": "\"'Quelle petite ignorante!' pensera la dame quand je lui ferai cette question. Non, il ne faut pas demander cela; peut-être le verrai-je écrit quelque part.\"",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u026",
+      "score": 0.667,
+      "english": "Please, Ma’am, is this New Zealand or Australia?” (and she tried to curtsey as she spoke—fancy curtseying as you’re falling through the air!",
+      "translation": "Tombe, tombe, tombe!--Donc Alice, faute d'avoir rien de mieux à faire, se remit à se parler:",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u027",
+      "score": 0.463,
+      "english": "Do you think you could manage it?)",
+      "translation": "\"Dinah remarquera mon absence ce soir, bien sûr.\" (Dinah c'était son chat.)",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u028",
+      "score": 0.43,
+      "english": "“And what an ignorant little girl she’ll think me for asking!",
+      "translation": "\"Pourvu qu'on n'oublie pas de lui donner sa jatte de lait à l'heure du thé. Dinah, ma minette, que n'es-tu ici avec moi?",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u029",
+      "score": 0.516,
+      "english": "No, it’ll never do to ask: perhaps I shall see it written up somewhere.”",
+      "translation": "Il n'y a pas de souris dans les airs, j'en ai bien peur; mais tu pourrais attraper une chauve-souris, et cela ressemble beaucoup à une souris, tu sais.",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u030",
+      "score": 0.462,
+      "english": "Down, down, down.",
+      "translation": "Mais les chats mangent-ils les chauves-souris?\" Ici le sommeil commença à gagner Alice.",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u031",
+      "score": 0.538,
+      "english": "There was nothing else to do, so Alice soon began talking again.",
+      "translation": "Elle répétait, à moitié endormie:",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u032",
+      "score": 0.614,
+      "english": "“Dinah’ll miss me very much to-night, I should think!” (Dinah was the cat.)",
+      "translation": "\"Les chats mangent-ils les chauves-souris?",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u033",
+      "score": 0.661,
+      "english": "“I hope they’ll remember her saucer of milk at tea-time.",
+      "translation": "Les chats mangent-ils les chauves-souris?\" Et quelquefois:",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u034",
+      "score": 0.417,
+      "english": "Dinah my dear!",
+      "translation": "\"Les chauves-souris mangent-elles les chats?\"",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u035",
+      "score": 0.663,
+      "english": "I wish you were down here with me!",
+      "translation": "Car vous comprenez bien que, puisqu'elle ne pouvait répondre ni à l'une ni à l'autre de ces questions, peu importait la manière de les poser.",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u036",
+      "score": 0.46,
+      "english": "There are no mice in the air, I’m afraid, but you might catch a bat, and that’s very like a mouse, you know.",
+      "translation": "Elle s'assoupissait et commençait à rêver qu'elle se promenait tenant Dinah par la main, lui disant très-sérieusement: \"Voyons, Dinah, dis-moi la vérité, as-tu jamais mangé des chauves-souris?\"",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u037",
+      "score": 0.416,
+      "english": "But do cats eat bats, I wonder?”",
+      "translation": "Quand tout à coup, pouf! la voilà étendue sur un tas de fagots et de feuilles sèches,--et elle a fini de tomber.",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u038",
+      "score": 0.582,
+      "english": "And here Alice began to get rather sleepy, and went on saying to herself, in a dreamy sort of way, “Do cats eat bats?",
+      "translation": "Alice ne s'était pas fait le moindre mal. Vite elle se remet sur ses pieds et regarde en l'air; mais tout est noir là-haut.",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u039",
+      "score": 0.668,
+      "english": "Do cats eat bats?” and sometimes, “Do bats eat cats?” for, you see, as she couldn’t answer either question, it didn’t much matter which way she put it.",
+      "translation": "Elle voit devant elle un long passage et le Lapin Blanc qui court à toutes jambes.",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u040",
+      "score": 0.435,
+      "english": "She felt that she was dozing off, and had just begun to dream that she was walking hand in hand with Dinah, and saying to her very earnestly, “Now, Dinah, tell me the truth: did you ever eat a bat?” when suddenly, thump!",
+      "translation": "Il n'y a pas un instant à perdre;",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u041",
+      "score": 0.901,
+      "english": "Alice was not a bit hurt, and she jumped up on to her feet in a moment: she looked up, but it was all dark overhead; before her was another long passage, and the White Rabbit was still in sight, hurrying down it.",
+      "translation": "Alice part comme le vent et arrive tout juste à temps pour entendre le Lapin dire, tandis qu'il tourne le coin: \"Par ma moustache et mes oreilles, comme il se fait tard!\"",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u042",
+      "score": 0.487,
+      "english": "There was not a moment to be lost: away went Alice like the wind, and was just in time to hear it say, as it turned a corner, “Oh my ears and whiskers, how late it’s getting!”",
+      "translation": "Elle n'en était plus qu'à deux pas: mais le coin tourné, le Lapin avait disparu.",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u043",
+      "score": 0.533,
+      "english": "She was close behind it when she turned the corner, but the Rabbit was no longer to be seen: she found herself in a long, low hall, which was lit up by a row of lamps hanging from the roof.",
+      "translation": "Elle se trouva alors dans une salle longue et basse, éclairée par une rangée de lampes pendues au plafond.",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u044",
+      "score": 0.83,
+      "english": "There were doors all round the hall, but they were all locked; and when Alice had been all the way down one side and up the other, trying every door, she walked sadly down the middle, wondering how she was ever to get ou",
+      "translation": "Il y avait des portes tout autour de la salle: ces portes étaient toutes fermées, et, après avoir vainement tenté d'ouvrir celles du côté droit, puis celles du côté gauche, Alice se promena tristement au beau milieu de c",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u045",
+      "score": 0.636,
+      "english": "Suddenly she came upon a little three-legged table, all made of solid glass; there was nothing on it except a tiny golden key, and Alice’s first thought was that it might belong to one of the doors of the hall; but, alas",
+      "translation": "Alice pensa aussitôt que ce pouvait être celle d'une des portes; mais hélas! soit que les serrures fussent trop grandes, soit que la clef fût trop petite, elle ne put toujours en ouvrir aucune.",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u046",
+      "score": 0.462,
+      "english": "However, on the second time round, she came upon a low curtain she had not noticed before, and behind it was a little door about fifteen inches high: she tried the little golden key in the lock, and to her great delight ",
+      "translation": "Cependant, ayant fait un second tour, elle aperçut un rideau placé très-bas et qu'elle n'avait pas vu d'abord; par derrière se trouvait encore une petite porte à peu près quinze pouces de haut; elle essaya la petite clef",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u047",
+      "score": 0.629,
+      "english": "Alice opened the door and found that it led into a small passage, not much larger than a rat-hole: she knelt down and looked along the passage into the loveliest garden you ever saw.",
+      "translation": "Alice ouvrit la porte, et vit qu'elle conduisait dans un étroit passage à peine plus large qu'un trou à rat. Elle s'agenouilla, et, jetant les yeux le long du passage, découvrit le plus ravissant jardin du monde.",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u048",
+      "score": 0.665,
+      "english": "How she longed to get out of that dark hall, and wander about among those beds of bright flowers and those cool fountains, but she could not even get her head through the doorway;",
+      "translation": "Oh!",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u049",
+      "score": 0.281,
+      "english": "“and even if my head would go through,” thought poor Alice, “it would be of very little use without my shoulders.",
+      "translation": "Qu'il lui tardait de sortir de cette salle ténébreuse et d'errer au milieu de ces carrés de fleurs brillantes, de ces fraîches fontaines! Mais sa tête ne pouvait même pas passer par la porte.",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u050",
+      "score": 0.417,
+      "english": "Oh, how I wish I could shut up like a telescope!",
+      "translation": "\"Et quand même ma tête y passerait,\" pensait Alice, \"à quoi cela servirait-il sans mes épaules?",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u051",
+      "score": 0.664,
+      "english": "I think I could, if I only knew how to begin.”",
+      "translation": "Oh! que je voudrais donc avoir la faculté de me fermer comme un télescope!",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u052",
+      "score": 0.83,
+      "english": "For, you see, so many out-of-the-way things had happened lately, that Alice had begun to think that very few things indeed were really impossible.",
+      "translation": "Ça se pourrait peut-être, si je savais comment m'y prendre.\" Il lui était déjà arrivé tant de choses extraordinaires, qu'Alice commençait à croire qu'il n'y en avait guère d'impossibles.",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u053",
+      "score": 0.536,
+      "english": "There seemed to be no use in waiting by the little door, so she went back to the table, half hoping she might find another key on it, or at any rate a book of rules for shutting people up like telescopes: this time she f",
+      "translation": "Comme cela n'avançait à rien de passer son temps à attendre à la petite porte, elle retourna vers la table, espérant presque y trouver une autre clef, ou tout au moins quelque grimoire donnant les règles à suivre pour se",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u054",
+      "score": 0.532,
+      "english": "It was all very well to say “Drink me,” but the wise little Alice was not going to do that in a hurry.",
+      "translation": "Cette fois elle trouva sur la table une petite bouteille (qui certes n'était pas là tout à l'heure).",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u055",
+      "score": 0.709,
+      "english": "“No, I’ll look first,” she said, “and see whether it’s marked ‘poison’ or not”; for she had read several nice little histories about children who had got burnt, and eaten up by wild beasts and other unpleasant things, al",
+      "translation": "Au cou de cette petite bouteille était attachée une étiquette en papier, avec ces mots \"BUVEZ-MOI\" admirablement imprimés en grosses lettres. C'est bien facile à dire \"Buvez-moi\" mais Alice était trop fine pour obéir à l",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u056",
+      "score": 0.715,
+      "english": "that a red-hot poker will burn you if you hold it too long; and that if you cut your finger very deeply with a knife, it usually bleeds; and she had never forgotten that, if you drink much from a bottle marked “poison,” ",
+      "translation": "\"Examinons d'abord,\" dit-elle, \"et voyons s'il y a écrit dessus 'Poison' ou non.\"",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u057",
+      "score": 0.531,
+      "english": "However, this bottle was not marked “poison,” so Alice ventured to taste it, and finding it very nice, (it had, in fact, a sort of mixed flavour of cherry-tart, custard, pine-apple, roast turkey, toffee, and hot buttered",
+      "translation": "Car elle avait lu dans de jolis petits contes, que des enfants avaient été brûlés, dévorés par des bêtes féroces, et qu'il leur était arrivé d'autres choses très-désagréables, tout cela pour ne s'être pas souvenus des in",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u058",
+      "score": 0.287,
+      "english": "“What a curious feeling!” said Alice;",
+      "translation": "Cependant, comme cette bouteille n'était pas marquée \"Poison,\"",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u059",
+      "score": 0.514,
+      "english": "“I must be shutting up like a telescope.”",
+      "translation": "Alice se hasarda à en goûter le contenu, et le trouvant fort bon, (au fait c'était comme un mélange de tarte aux cerises, de crème, d'ananas, de dinde truffée, de nougat, et de rôties au beurre,) elle eut bientôt tout av",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u060",
+      "score": 0.51,
+      "english": "And so it was indeed: she was now only ten inches high, and her face brightened up at the thought that she was now the right size for going through the little door into that lovely garden.",
+      "translation": "\"Je me sens toute drôle,\" dit Alice, \"on dirait que je rentre en moi-même et que je me ferme comme un télescope.\" C'est bien ce qui arrivait en effet.",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u061",
+      "score": 0.716,
+      "english": "First, however, she waited for a few minutes to see if she was going to shrink any further: she felt a little nervous about this;",
+      "translation": "Elle n'avait plus que dix pouces de haut, et un éclair de joie passa sur son visage à la pensée qu'elle était maintenant de la grandeur voulue pour pénétrer par la petite porte dans ce beau jardin.",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u062",
+      "score": 0.332,
+      "english": "“for it might end, you know,” said Alice to herself, “in my going out altogether, like a candle.",
+      "translation": "Elle attendit pourtant quelques minutes, pour voir si elle allait rapetisser encore.",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u063",
+      "score": 0.659,
+      "english": "I wonder what I should be like then?”",
+      "translation": "Cela lui faisait bien un peu peur. \"Songez donc,\" se disait Alice, \"je pourrais bien finir par m'éteindre comme une chandelle.",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u064",
+      "score": 0.465,
+      "english": "And she tried to fancy what the flame of a candle is like after the candle is blown out, for she could not remember ever having seen such a thing.",
+      "translation": "Que deviendrais-je alors?\"",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u065",
+      "score": 0.481,
+      "english": "After a while, finding that nothing more happened, she decided on going into the garden at once; but, alas for poor Alice! when she got to the door, she found she had forgotten the little golden key,",
+      "translation": "Et elle cherchait à s'imaginer l'air que pouvait avoir la flamme d'une chandelle éteinte, car elle ne se rappelait pas avoir jamais rien vu de la sorte.",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u066",
+      "score": 0.658,
+      "english": "and when she went back to the table for it, she found she could not possibly reach it: she could see it quite plainly through the glass, and she tried her best to climb up one of the legs of the table, but it was too sli",
+      "translation": "Un moment après, voyant qu'il ne se passait plus rien, elle se décida à aller de suite au jardin; mais hélas, pauvre Alice! en arrivant à la porte, elle s'aperçut qu'elle avait oublié la petite clef d'or. Elle revint sur",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u067",
+      "score": 0.334,
+      "english": "“Come, there’s no use in crying like that!” said Alice to herself, rather sharply;",
+      "translation": "Bah! impossible d'atteindre à la clef qu'elle voyait bien clairement à travers le verre.",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u068",
+      "score": 0.46,
+      "english": "“I advise you to leave off this minute!”",
+      "translation": "Elle fit alors tout son possible pour grimper le long d'un des pieds de la table, mais il était trop glissant; et enfin, épuisée de fatigue, la pauvre enfant s'assit et pleura. \"Allons, à quoi bon pleurer ainsi,\" se dit ",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u069",
+      "score": 0.466,
+      "english": "She generally gave herself very good advice, (though she very seldom followed it), and sometimes she scolded herself so severely as to bring tears into her eyes; and once she remembered trying to box her own ears for hav",
+      "translation": "\"Je vous conseille, Mademoiselle, de cesser tout de suite!\"",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u070",
+      "score": 0.483,
+      "english": "“But it’s no use now,” thought poor Alice, “to pretend to be two people!",
+      "translation": "Elle avait pour habitude de se donner de très-bons conseils (bien qu'elle les suivît rarement), et quelquefois elle se grondait si fort que les larmes lui en venaient aux yeux; une fois même elle s'était donné des tapes ",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u071",
+      "score": 0.459,
+      "english": "Why, there’s hardly enough of me left to make one respectable person!”",
+      "translation": "\"Mais,\" pensa la pauvre Alice, \"il n'y a plus moyen de faire deux personnages, à présent qu'il me reste à peine de quoi en faire un.\" Elle aperçut alors une petite boîte en verre qui était sous la table, l'ouvrit et y tr",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u072",
+      "score": 0.515,
+      "english": "Soon her eye fell on a little glass box that was lying under the table: she opened it, and found in it a very small cake, on which the words “EAT ME” were beautifully marked in currants.",
+      "translation": "\"Tiens, je vais le manger,\" dit Alice:",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u073",
+      "score": 0.531,
+      "english": "“Well, I’ll eat it,” said Alice, “and if it makes me grow larger, I can reach the key; and if it makes me grow smaller, I can creep under the door; so either way I’ll get into the garden, and I don’t care which happens!”",
+      "translation": "\"si cela me fait grandir, je pourrai atteindre à la clef; si cela me fait rapetisser, je pourrai ramper sous la porte; d'une façon ou de l'autre, je pénétrerai dans le jardin, et alors, arrive que pourra!\"",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u074",
+      "score": 0.508,
+      "english": "She ate a little bit, and said anxiously to herself, “Which way?",
+      "translation": "Elle mangea donc un petit morceau du gâteau, et, portant sa main sur sa tête, elle se dit tout inquiète: \"Lequel est-ce?",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u075",
+      "score": 0.534,
+      "english": "Which way?”, holding her hand on the top of her head to feel which way it was growing, and she was quite surprised to find that she remained the same size: to be sure, this generally happens when one eats cake, but Alice",
+      "translation": "Lequel est-ce?\"",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u076",
+      "score": 0.71,
+      "english": "So she set to work, and very soon finished off the cake.",
+      "translation": "Elle voulait savoir si elle grandissait ou rapetissait, et fut tout étonnée de rester la même; franchement, c'est ce qui arrive le plus souvent lorsqu'on mange du gâteau; mais Alice avait tellement pris l'habitude de s'a",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u001",
+      "score": 0.29,
+      "english": "“Curiouser and curiouser!” cried Alice (she was so much surprised, that for the moment she quite forgot how to speak good English);",
+      "translation": "LA MARE AUX LARMES.",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u002",
+      "score": 0.718,
+      "english": "“now I’m opening out like the largest telescope that ever was!",
+      "translation": "\"DE plus très-curieux en plus très-curieux!\" s'écria Alice (sa surprise était si grande qu'elle ne pouvait s'exprimer correctement):",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u003",
+      "score": 0.716,
+      "english": "Good-bye, feet!” (for when she looked down at her feet, they seemed to be almost out of sight, they were getting so far off).",
+      "translation": "\"Voilà que je m'allonge comme le plus grand télescope qui fût jamais!",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u004",
+      "score": 0.235,
+      "english": "“Oh, my poor little feet, I wonder who will put on your shoes and stockings for you now, dears?",
+      "translation": "Adieu mes pieds!\" (Elle venait de baisser les yeux, et ses pieds lui semblaient s'éloigner à perte de vue.)",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u005",
+      "score": 0.463,
+      "english": "I’m sure I shan’t be able!",
+      "translation": "\"Oh! mes pauvres petits pieds! Qui vous mettra vos bas et vos souliers maintenant, mes mignons?",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u006",
+      "score": 0.339,
+      "english": "I shall be a great deal too far off to trouble myself about you: you must manage the best way you can;—but I must be kind to them,” thought Alice, “or perhaps they won’t walk the way I want to go!",
+      "translation": "Quant à moi, je ne le pourrai certainement pas!",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u007",
+      "score": 0.517,
+      "english": "Let me see:",
+      "translation": "Je serai bien trop loin pour m'occuper de vous: arrangez-vous du mieux que vous pourrez.--Il faut cependant que je sois bonne pour eux,\" pensa Alice, \"sans cela ils refuseront peut-être d'aller du côté que je voudrai.",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u008",
+      "score": 0.665,
+      "english": "I’ll give them a new pair of boots every Christmas.”",
+      "translation": "Ah! je sais ce que je ferai: je leur donnerai une belle paire de bottines à Noël.\"",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u009",
+      "score": 0.513,
+      "english": "And she went on planning to herself how she would manage it.",
+      "translation": "Puis elle chercha dans son esprit comment elle s'y prendrait. \"Il faudra les envoyer par le messager,\" pensa-t-elle;",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u010",
+      "score": 0.669,
+      "english": "“They must go by the carrier,” she thought;",
+      "translation": "\"quelle étrange chose d'envoyer des présents à ses pieds!",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u011",
+      "score": 0.517,
+      "english": "“and how funny it’ll seem, sending presents to one’s own feet!",
+      "translation": "Et l'adresse donc!",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u012",
+      "score": 0.665,
+      "english": "And how odd the directions will look!",
+      "translation": "C'est cela qui sera drôle.",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u013",
+      "score": 0.833,
+      "english": "Alice’s Right Foot, Esq., Hearthrug, near the Fender, (with Alice’s love).",
+      "translation": "A Monsieur Lepiédroit d'Alice, Tapis du foyer,",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u014",
+      "score": 0.289,
+      "english": "Oh dear, what nonsense I’m talking!”",
+      "translation": "Près le garde-feu.",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u015",
+      "score": 0.717,
+      "english": "Just then her head struck against the roof of the hall: in fact she was now more than nine feet high, and she at once took up the little golden key and hurried off to the garden door.",
+      "translation": "(De la part de Mlle Alice.)",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u016",
+      "score": 0.536,
+      "english": "Poor Alice!",
+      "translation": "Oh! que d'enfantillages je dis là!\"",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u017",
+      "score": 0.714,
+      "english": "It was as much as she could do, lying down on one side, to look through into the garden with one eye; but to get through was more hopeless than ever: she sat down and began to cry again.",
+      "translation": "Au même instant, sa tête heurta contre le plafond de la salle: c'est qu'elle avait alors un peu plus de neuf pieds de haut. Vite elle saisit la petite clef d'or et courut à la porte du jardin.",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u018",
+      "score": 0.64,
+      "english": "“You ought to be ashamed of yourself,” said Alice, “a great girl like you,” (she might well say this), “to go on crying in this way!",
+      "translation": "Pauvre Alice!",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u019",
+      "score": 0.668,
+      "english": "Stop this moment, I tell you!”",
+      "translation": "C'est tout ce qu'elle put faire, après s'être étendue de tout son long sur le côté, que de regarder du coin de l'œil dans le jardin.",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u020",
+      "score": 0.716,
+      "english": "But she went on all the same, shedding gallons of tears, until there was a large pool all round her, about four inches deep and reaching half down the hall.",
+      "translation": "Quant à traverser le passage, il n'y fallait plus songer.",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u021",
+      "score": 0.714,
+      "english": "After a time she heard a little pattering of feet in the distance, and she hastily dried her eyes to see what was coming.",
+      "translation": "Elle s'assit donc, et se remit à pleurer.",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u022",
+      "score": 0.332,
+      "english": "It was the White Rabbit returning, splendidly dressed, with a pair of white kid gloves in one hand and a large fan in the other: he came trotting along in a great hurry, muttering to himself as he came, “Oh! the Duchess,",
+      "translation": "\"Quelle honte!\" dit Alice. \"Une grande fille comme vous\" ('grande' était bien le mot)",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u023",
+      "score": 0.518,
+      "english": "Oh! won’t she be savage if I’ve kept her waiting!”",
+      "translation": "\"pleurer de la sorte!",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u024",
+      "score": 0.486,
+      "english": "Alice felt so desperate that she was ready to ask help of any one; so, when the Rabbit came near her, she began, in a low, timid voice, “If you please, sir—”",
+      "translation": "Allons, finissez, vous dis-je!\"",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u025",
+      "score": 0.535,
+      "english": "The Rabbit started violently, dropped the white kid gloves and the fan, and skurried away into the darkness as hard as he could go.",
+      "translation": "Mais elle continua de pleurer, versant des torrents de larmes, si bien qu'elle se vit à la fin entourée d'une grande mare, profonde d'environ quatre pouces et s'étendant jusqu'au milieu de la salle.",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u026",
+      "score": 0.533,
+      "english": "Alice took up the fan and gloves, and, as the hall was very hot, she kept fanning herself all the time she went on talking:",
+      "translation": "Quelque temps après, elle entendit un petit bruit de pas dans le lointain; vite, elle s'essuya les yeux pour voir ce que c'était. C'était le Lapin Blanc, en grande toilette, tenant d'une main une paire de gants paille, e",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u027",
+      "score": 0.469,
+      "english": "“Dear, dear!",
+      "translation": "Il accourait tout affairé, marmottant entre ses dents:",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u028",
+      "score": 0.717,
+      "english": "How queer everything is to-day!",
+      "translation": "\"Oh! la Duchesse, la Duchesse!",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u029",
+      "score": 0.665,
+      "english": "And yesterday things went on just as usual.",
+      "translation": "Elle sera dans une belle colère si je l'ai fait attendre!\"",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u030",
+      "score": 0.463,
+      "english": "I wonder if I’ve been changed in the night?",
+      "translation": "Alice se trouvait si malheureuse, qu'elle était disposée à demander secours au premier venu; ainsi, quand le Lapin fut près d'elle, elle lui dit d'une voix humble et timide, \"Je vous en prie, Monsieur--\" Le Lapin tressai",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u031",
+      "score": 0.469,
+      "english": "Let me think: was I the same when I got up this morning?",
+      "translation": "Alice ramassa les gants et l'éventail, et, comme il faisait très-chaud dans cette salle, elle s'éventa tout en se faisant la conversation:",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u032",
+      "score": 0.467,
+      "english": "I almost think I can remember feeling a little different.",
+      "translation": "\"Que tout est étrange, aujourd'hui!",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u033",
+      "score": 0.665,
+      "english": "But if I’m not the same, the next question is, Who in the world am I?",
+      "translation": "Hier les choses se passaient comme à l'ordinaire.",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u034",
+      "score": 0.463,
+      "english": "Ah, that’s the great puzzle!”",
+      "translation": "Peut-être m'a-t-on changée cette nuit! Voyons, étais-je la même petite fille ce matin en me levant?--Je crois bien me rappeler que je me suis trouvée un peu différente.--Mais si je ne suis pas la même, qui suis-je donc, ",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u035",
+      "score": 0.539,
+      "english": "And she began thinking over all the children she knew that were of the same age as herself, to see if she could have been changed for any of them.",
+      "translation": "Voilà l'embarras.\"",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u036",
+      "score": 0.467,
+      "english": "“I’m sure I’m not Ada,” she said, “for her hair goes in such long ringlets, and mine doesn’t go in ringlets at all; and I’m sure I can’t be Mabel, for I know all sorts of things, and she, oh! she knows such a very little",
+      "translation": "Elle se mit à passer en revue dans son esprit toutes les petites filles de son âge qu'elle connaissait, pour voir si elle avait été transformée en l'une d'elles.",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u037",
+      "score": 0.666,
+      "english": "Besides, she’s she, and I’m I, and—oh dear, how puzzling it all is!",
+      "translation": "\"Bien sûr, je ne suis pas Ada,\" dit-elle.",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u038",
+      "score": 0.514,
+      "english": "I’ll try if I know all the things I used to know.",
+      "translation": "\"Elle a de longs cheveux bouclés et les miens ne frisent pas du tout.--Assurément je ne suis pas Mabel, car je sais tout plein de choses et Mabel ne sait presque rien; et puis, du reste, Mabel, c'est Mabel;",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u039",
+      "score": 0.712,
+      "english": "Let me see: four times five is twelve, and four times six is thirteen, and four times seven is—oh dear!",
+      "translation": "Alice, c'est Alice!--Oh! mais quelle énigme que cela!--Voyons si je me souviendrai de tout ce que je savais: quatre fois cinq font douze, quatre fois six font treize, quatre fois sept font---- je n'arriverai jamais à vin",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u040",
+      "score": 0.668,
+      "english": "I shall never get to twenty at that rate!",
+      "translation": "Essayons de la Géographie:",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u041",
+      "score": 0.466,
+      "english": "However, the Multiplication Table doesn’t signify: let’s try Geography.",
+      "translation": "Londres est la capitale de Paris, Paris la capitale de Rome, et Rome la capitale de--Mais non, ce n'est pas cela, j'en suis bien sûre!",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u042",
+      "score": 0.714,
+      "english": "London is the capital of Paris, and Paris is the capital of Rome, and Rome—no, that’s all wrong, I’m certain!",
+      "translation": "Je dois être changée en Mabel!--Je vais tâcher de réciter Maître Corbeau.\"",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u043",
+      "score": 0.662,
+      "english": "I must have been changed for Mabel!",
+      "translation": "Elle croisa les mains sur ses genoux comme quand elle disait ses leçons, et se mit à répéter la fable, d'une voix rauque et étrange, et les mots ne se présentaient plus comme autrefois: \"Maître Corbeau sur un arbre perch",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u044",
+      "score": 0.718,
+      "english": "I’ll try and say ‘How doth the little—’” and she crossed her hands on her lap as if she were saying lessons, and began to repeat it, but her voice sounded hoarse and strange, and the words did not come the same as they u",
+      "translation": "Il avait relevé ses manches, Car il était très-affairé.",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u045",
+      "score": 0.466,
+      "english": "“How doth the little crocodile Improve his shining tail, And pour the waters of the Nile On every golden scale!",
+      "translation": "Maître Renard, par là passant, Lui dit:",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u046",
+      "score": 0.465,
+      "english": "“How cheerfully he seems to grin, How neatly spread his claws, And welcome little fishes in With gently smiling jaws!”",
+      "translation": "'Descendez donc, compère;",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u047",
+      "score": 0.283,
+      "english": "“I’m sure those are not the right words,” said poor Alice, and her eyes filled with tears again as she went on, “I must be Mabel after all, and I shall have to go and live in that poky little house, and have next to no t",
+      "translation": "Venez embrasser votre frère.' Le Corbeau, le reconnaissant, Lui répondit en son ramage: 'Fromage.'\"",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u048",
+      "score": 0.469,
+      "english": "No, I’ve made up my mind about it; if I’m Mabel, I’ll stay down here!",
+      "translation": "\"Je suis bien sûre que ce n'est pas ça du tout,\" s'écria la pauvre Alice, et ses yeux se remplirent de larmes.",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u049",
+      "score": 0.517,
+      "english": "It’ll be no use their putting their heads down and saying ‘Come up again, dear!’",
+      "translation": "\"Ah! je le vois bien, je ne suis plus Alice, je suis Mabel, et il me faudra aller vivre dans cette vilaine petite maison, où je n'aurai presque pas de jouets pour m'amuser.--Oh! que de leçons on me fera apprendre!--Oui, ",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u050",
+      "score": 0.415,
+      "english": "I shall only look up and say ‘Who am I then?",
+      "translation": "Ils auront beau passer la tête là-haut et me crier, 'Reviens auprès de nous, ma chérie!' Je me contenterai de regarder en l'air et de dire, 'Dites-moi d'abord qui je suis, et, s'il me plaît d'être cette personne-là, j'ir",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u051",
+      "score": 0.283,
+      "english": "Tell me that first, and then, if I like being that person, I’ll come up: if not, I’ll stay down here till I’m somebody else’—but, oh dear!” cried Alice, with a sudden burst of tears, “I do wish they would put their heads",
+      "translation": "Je m'ennuie tant d'être ici toute seule.\" Comme elle disait ces mots, elle fut bien surprise de voir que tout en parlant elle avait mis un des petits gants du Lapin.",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u052",
+      "score": 0.419,
+      "english": "I am so very tired of being all alone here!”",
+      "translation": "\"Comment ai-je pu mettre ce gant?\" pensa-t-elle.",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u053",
+      "score": 0.287,
+      "english": "As she said this she looked down at her hands, and was surprised to see that she had put on one of the Rabbit’s little white kid gloves while she was talking.",
+      "translation": "\"Je rapetisse donc de nouveau?\"",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u054",
+      "score": 0.465,
+      "english": "“How can I have done that?” she thought.",
+      "translation": "Elle se leva, alla près de la table pour se mesurer, et jugea, autant qu'elle pouvait s'en rendre compte, qu'elle avait environ deux pieds de haut, et continuait de raccourcir rapidement.",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u055",
+      "score": 0.513,
+      "english": "“I must be growing small again.”",
+      "translation": "Bientôt elle s'aperçut que l'éventail qu'elle avait à la main en était la cause; vite elle le lâcha, tout juste à temps pour s'empêcher de disparaître tout à fait.",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u056",
+      "score": 0.282,
+      "english": "She got up and went to the table to measure herself by it, and found that, as nearly as she could guess, she was now about two feet high, and was going on shrinking rapidly: she soon found out that the cause of this was ",
+      "translation": "\"Je viens de l'échapper belle,\" dit Alice, tout émue de ce brusque changement, mais bien aise de voir qu'elle existait encore. \"Maintenant, vite au jardin!\"--Elle se hâta de courir vers la petite porte; mais hélas! elle ",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u057",
+      "score": 0.487,
+      "english": "“That was a narrow escape!” said Alice, a good deal frightened at the sudden change, but very glad to find herself still in existence;",
+      "translation": "\"Les choses vont de mal en pis,\" pensa la pauvre enfant.",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u058",
+      "score": 0.716,
+      "english": "“and now for the garden!” and she ran with all speed back to the little door: but, alas! the little door was shut again, and the little golden key was lying on the glass table as before, “and things are worse than ever,”",
+      "translation": "\"Jamais je ne me suis vue si petite, jamais!",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u059",
+      "score": 0.714,
+      "english": "And I declare it’s too bad, that it is!”",
+      "translation": "Et c'est vraiment par trop fort!\"",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u060",
+      "score": 0.712,
+      "english": "As she said these words her foot slipped, and in another moment, splash! she was up to her chin in salt water.",
+      "translation": "A ces mots son pied glissa, et flac! La voilà dans l'eau salée jusqu'au menton.",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u061",
+      "score": 0.538,
+      "english": "Her first idea was that she had somehow fallen into the sea, “and in that case I can go back by railway,” she said to herself. (Alice had been to the seaside once in her life, and had come to the general conclusion, that",
+      "translation": "Elle se crut d'abord tombée dans la mer.",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u062",
+      "score": 0.516,
+      "english": "However, she soon made out that she was in the pool of tears which she had wept when she was nine feet high.",
+      "translation": "\"Dans ce cas je retournerai chez nous en chemin de fer,\" se dit-elle. (Alice avait été au bord de la mer une fois en sa vie, et se figurait que sur n'importe quel point des côtes se trouvent un grand nombre de cabines po",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u063",
+      "score": 0.284,
+      "english": "“I wish I hadn’t cried so much!” said Alice, as she swam about, trying to find her way out.",
+      "translation": "Mais elle comprit bientôt qu'elle était dans une mare formée des larmes qu'elle avait pleurées, quand elle avait neuf pieds de haut.",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u064",
+      "score": 0.662,
+      "english": "“I shall be punished for it now, I suppose, by being drowned in my own tears!",
+      "translation": "\"Je voudrais bien n'avoir pas tant pleuré,\" dit Alice tout en nageant de côté et d'autre pour tâcher de sortir de là. \"Je vais en être punie sans doute, en me noyant dans mes propres larmes.",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u065",
+      "score": 0.718,
+      "english": "That will be a queer thing, to be sure!",
+      "translation": "C'est cela qui sera drôle!",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u066",
+      "score": 0.516,
+      "english": "However, everything is queer to-day.”",
+      "translation": "Du reste, tout est drôle aujourd'hui.\"",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u067",
+      "score": 0.715,
+      "english": "Just then she heard something splashing about in the pool a little way off, and she swam nearer to make out what it was: at first she thought it must be a walrus or hippopotamus, but then she remembered how small she was",
+      "translation": "Au même instant elle entendit patauger dans la mare à quelques pas de là, et elle nagea de ce côté pour voir ce que c'était.",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u068",
+      "score": 0.333,
+      "english": "“Would it be of any use, now,” thought Alice, “to speak to this mouse?",
+      "translation": "Elle pensa d'abord que ce devait être un cheval marin ou hippopotame; puis elle se rappela combien elle était petite maintenant, et découvrit bientôt que c'était tout simplement une souris qui, comme elle, avait glissé d",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u069",
+      "score": 0.519,
+      "english": "Everything is so out-of-the-way down here, that I should think very likely it can talk: at any rate, there’s no harm in trying.”",
+      "translation": "Tout est si extraordinaire ici qu'il se pourrait bien qu'elle sût parler: dans tous les cas, il n'y a pas de mal à essayer.\"",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u070",
+      "score": 0.717,
+      "english": "So she began:",
+      "translation": "Elle commença donc:",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u071",
+      "score": 0.715,
+      "english": "“O Mouse, do you know the way out of this pool?",
+      "translation": "\"O Souris, savez-vous comment on pourrait sortir de cette mare?",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u072",
+      "score": 0.633,
+      "english": "I am very tired of swimming about here, O Mouse!” (Alice thought this must be the right way of speaking to a mouse: she had never done such a thing before, but she remembered having seen in her brother’s Latin Grammar, “",
+      "translation": "Je suis bien fatiguée de nager, O Souris!\" (Alice pensait que c'était là la bonne manière d'interpeller une souris.",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u073",
+      "score": 0.511,
+      "english": "The Mouse looked at her rather inquisitively, and seemed to her to wink with one of its little eyes, but it said nothing.",
+      "translation": "Pareille chose ne lui était jamais arrivée, mais elle se souvenait d'avoir vu dans la grammaire latine de son frère:--\"La souris, de la souris, à la souris, ô souris.\") La Souris la regarda d'un air inquisiteur;",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u074",
+      "score": 0.637,
+      "english": "“Perhaps it doesn’t understand English,” thought Alice;",
+      "translation": "Alice crut même la voir cligner un de ses petits yeux, mais elle ne dit mot.",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u075",
+      "score": 0.835,
+      "english": "“I daresay it’s a French mouse, come over with William the Conqueror.” (For, with all her knowledge of history, Alice had no very clear notion how long ago anything had happened.)",
+      "translation": "\"Peut-être ne comprend-elle pas cette langue,\" dit Alice;",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u076",
+      "score": 0.513,
+      "english": "So she began again:",
+      "translation": "\"c'est sans doute une souris étrangère nouvellement débarquée.",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u077",
+      "score": 0.512,
+      "english": "“Où est ma chatte?” which was the first sentence in her French lesson-book.",
+      "translation": "Je vais essayer de lui parler italien: 'Dove è il mio gatto?'\"",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u078",
+      "score": 0.717,
+      "english": "The Mouse gave a sudden leap out of the water, and seemed to quiver all over with fright.",
+      "translation": "C'étaient là les premiers mots de son livre de dialogues.",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u079",
+      "score": 0.286,
+      "english": "“Oh, I beg your pardon!” cried Alice hastily, afraid that she had hurt the poor animal’s feelings.",
+      "translation": "La Souris fit un bond hors de l'eau, et parut trembler de tous ses membres.",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u080",
+      "score": 0.664,
+      "english": "“I quite forgot you didn’t like cats.”",
+      "translation": "\"Oh! mille pardons!\" s'écria vivement Alice, qui craignait d'avoir fait de la peine au pauvre animal.",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u081",
+      "score": 0.712,
+      "english": "“Not like cats!” cried the Mouse, in a shrill, passionate voice.",
+      "translation": "\"J'oubliais que vous n'aimez pas les chats.\" \"Aimer les chats!\" cria la Souris d'une voix perçante et colère.",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u082",
+      "score": 0.718,
+      "english": "“Would you like cats if you were me?”",
+      "translation": "\"Et vous, les aimeriez-vous si vous étiez à ma place?\"",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u083",
+      "score": 0.836,
+      "english": "“Well, perhaps not,” said Alice in a soothing tone:",
+      "translation": "\"Non, sans doute,\" dit Alice d'une voix caressante, pour l'apaiser.",
+      "reason": "low heuristic confidence"
+    },
+    {
+      "language": "fr",
+      "chapter": 2,
+      "syncId": "alice-ch02-u084",
+      "score": 0.714,
+      "english": "“don’t be angry about it.",
+      "translation": "\"Ne vous fâchez pas.",
+      "reason": "low heuristic confidence"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+export const japaneseClassics = [
+  {
+    bookId: 'i-am-a-cat',
+    title: 'I Am a Cat',
+    originalTitle: '\u543e\u8f29\u306f\u732b\u3067\u3042\u308b',
+    author: 'Natsume S\u014dseki',
+    ja: {
+      name: 'Aozora Bunko',
+      cardUrl: 'https://www.aozora.gr.jp/cards/000148/card789.html',
+      licenseNote: 'Public domain source',
+      maxChapters: 2,
+    },
+    en: {
+      name: 'English Wikisource',
+      url: 'https://en.wikisource.org/wiki/Index:I_am_a_Cat_(1906).djvu',
+      licenseNote: 'Public-domain 1906 Kan-ichi Ando translation; Wikisource transcription covers the first volume',
+      type: 'wikisource-pages',
+      pageTitle: 'Page:I_am_a_Cat_(1906).djvu',
+      pageStart: 15,
+      pageEnd: 132,
+    },
+  },
+  {
+    bookId: 'botchan',
+    title: 'Botchan',
+    originalTitle: '\u574a\u3063\u3061\u3083\u3093',
+    author: 'Natsume S\u014dseki',
+    ja: {
+      name: 'Aozora Bunko',
+      cardUrl: 'https://www.aozora.gr.jp/cards/000148/card752.html',
+      licenseNote: 'Public domain source',
+    },
+    en: {
+      name: 'Project Gutenberg',
+      url: 'https://www.gutenberg.org/ebooks/8868.txt.utf-8',
+      licenseNote: 'Public domain in the USA',
+      type: 'text',
+    },
+  },
+  {
+    bookId: 'kokoro',
+    title: 'Kokoro',
+    originalTitle: '\u3053\u3053\u308d',
+    author: 'Natsume S\u014dseki',
+    ja: {
+      name: 'Aozora Bunko',
+      cardUrl: 'https://www.aozora.gr.jp/cards/000148/card773.html',
+      licenseNote: 'Public domain source',
+    },
+    en: {
+      name: 'Eldritch Press / Ibiblio',
+      url: 'https://www.ibiblio.org/eldritch/ns/k1.html',
+      licenseNote: 'Edwin McClellan translation reported as public domain in the USA due non-renewal; source presentation may carry separate notice',
+      type: 'html-pages',
+      urls: [
+        'https://www.ibiblio.org/eldritch/ns/k1.html',
+        'https://www.ibiblio.org/eldritch/ns/k2.html',
+        'https://www.ibiblio.org/eldritch/ns/k3.html',
+      ],
+    },
+  },
+  {
+    bookId: 'bamboo-cutter',
+    title: 'The Tale of the Bamboo Cutter',
+    originalTitle: '\u7af9\u53d6\u7269\u8a9e',
+    author: 'Traditional / unknown author',
+    ja: {
+      name: 'Aozora Bunko',
+      cardUrl: 'https://www.aozora.gr.jp/cards/001072/card48310.html',
+      licenseNote: 'Public domain source',
+    },
+    en: {
+      name: 'Internet Archive',
+      url: 'https://archive.org/details/cu31924073466520',
+      licenseNote: 'Public-domain 1888 F. Victor Dickins translation; Internet Archive notes no known US copyright restrictions',
+      type: 'plain-text',
+      textUrl: 'https://archive.org/download/cu31924073466520/cu31924073466520_djvu.txt',
+    },
+  },
+];

@@ -1,0 +1,1035 @@
+{
+  "bookId": "alice",
+  "valid": true,
+  "errors": [],
+  "warnings": [],
+  "chapterSummaries": [
+    {
+      "chapter": 1,
+      "title": "Down the Rabbit-Hole",
+      "unitCounts": {
+        "en": 76,
+        "es": 76,
+        "fr": 76,
+        "de": 76
+      },
+      "needsReview": {
+        "es": 76,
+        "fr": 76,
+        "de": 1
+      }
+    },
+    {
+      "chapter": 2,
+      "title": "The Pool of Tears",
+      "unitCounts": {
+        "en": 106,
+        "es": 106,
+        "fr": 106,
+        "de": 106
+      },
+      "needsReview": {
+        "es": 106,
+        "fr": 106,
+        "de": 0
+      }
+    },
+    {
+      "chapter": 3,
+      "title": "A Caucus-Race and a Long Tale",
+      "unitCounts": {
+        "en": 106,
+        "es": 106,
+        "fr": 106,
+        "de": 106
+      },
+      "needsReview": {
+        "es": 106,
+        "fr": 1,
+        "de": 106
+      }
+    },
+    {
+      "chapter": 4,
+      "title": "The Rabbit Sends in a Little Bill",
+      "unitCounts": {
+        "en": 133,
+        "es": 133,
+        "fr": 133,
+        "de": 133
+      },
+      "needsReview": {
+        "es": 133,
+        "fr": 133,
+        "de": 2
+      }
+    },
+    {
+      "chapter": 5,
+      "title": "Advice from a Caterpillar",
+      "unitCounts": {
+        "en": 138,
+        "es": 138,
+        "fr": 138,
+        "de": 138
+      },
+      "needsReview": {
+        "es": 138,
+        "fr": 1,
+        "de": 2
+      }
+    },
+    {
+      "chapter": 6,
+      "title": "Pig and Pepper",
+      "unitCounts": {
+        "en": 157,
+        "es": 157,
+        "fr": 157,
+        "de": 157
+      },
+      "needsReview": {
+        "es": 0,
+        "fr": 0,
+        "de": 157
+      }
+    },
+    {
+      "chapter": 7,
+      "title": "A Mad Tea-Party",
+      "unitCounts": {
+        "en": 189,
+        "es": 189,
+        "fr": 189,
+        "de": 189
+      },
+      "needsReview": {
+        "es": 189,
+        "fr": 1,
+        "de": 189
+      }
+    },
+    {
+      "chapter": 8,
+      "title": "The Queen's Croquet-Ground",
+      "unitCounts": {
+        "en": 128,
+        "es": 128,
+        "fr": 128,
+        "de": 128
+      },
+      "needsReview": {
+        "es": 128,
+        "fr": 128,
+        "de": 4
+      }
+    },
+    {
+      "chapter": 9,
+      "title": "The Mock Turtle's Story",
+      "unitCounts": {
+        "en": 166,
+        "es": 166,
+        "fr": 166,
+        "de": 166
+      },
+      "needsReview": {
+        "es": 1,
+        "fr": 0,
+        "de": 166
+      }
+    },
+    {
+      "chapter": 10,
+      "title": "The Lobster Quadrille",
+      "unitCounts": {
+        "en": 158,
+        "es": 158,
+        "fr": 158,
+        "de": 158
+      },
+      "needsReview": {
+        "es": 158,
+        "fr": 0,
+        "de": 158
+      }
+    },
+    {
+      "chapter": 11,
+      "title": "Who Stole the Tarts?",
+      "unitCounts": {
+        "en": 119,
+        "es": 119,
+        "fr": 119,
+        "de": 119
+      },
+      "needsReview": {
+        "es": 119,
+        "fr": 0,
+        "de": 2
+      }
+    },
+    {
+      "chapter": 12,
+      "title": "Alice's Evidence",
+      "unitCounts": {
+        "en": 113,
+        "es": 113,
+        "fr": 113,
+        "de": 113
+      },
+      "needsReview": {
+        "es": 113,
+        "fr": 0,
+        "de": 1
+      }
+    }
+  ],
+  "questionable": [
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u001",
+      "english": "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: once or twice she had peeped into the book her sister was reading, but it h",
+      "translation": "Alicia empezaba a sentirse cansadísima de estar sentada en un margen, al lado de su hermana, sin saber qué hacer: por dos veces había atisbado el libro que ella leía, pero era un l"
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u002",
+      "english": "So she was considering in her own mind (as well as she could, for the hot day made her feel very sleepy and stupid), whether the pleasure of making a daisy-chain would be worth the",
+      "translation": "Y de la mejor manera que le permitían la somnolencia y el atontamiento en que la había sumido el calor de aquella jornada, consideraba en su fuero interno si valdría la pena entret"
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u003",
+      "english": "There was nothing so very remarkable in that; nor did Alice think it so very much out of the way to hear the Rabbit say to itself, “Oh dear!",
+      "translation": "No había en ello nada de extraordinario, ni le pareció a Alicia cosa fuera de lo corriente, oír que el Conejo se dijera a sí mismo:"
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u004",
+      "english": "Oh dear!",
+      "translation": "—¡Dios mío! ¡Dios mío!"
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u005",
+      "english": "I shall be late!” (when she thought it over afterwards, it occurred to her that she ought to have wondered at this, but at the time it all seemed quite natural); but when the Rabbi",
+      "translation": "Voy a llegar tarde."
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u006",
+      "english": "for it flashed across her mind that she had never before seen a rabbit with either a waistcoat-pocket, or a watch to take out of it, and burning with curiosity, she ran across the ",
+      "translation": "Cuando lo reflexionara después, comprendería que debía haberse maravillado,"
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u007",
+      "english": "In another moment down went Alice after it, never once considering how in the world she was to get out again.",
+      "translation": "pero en tanto le parecía la cosa más natural del mundo; no obstante, viendo que el Conejo se sacaba un reloj del bolsillo del chaleco, lo miraba y echaba a correr, Alicia se puso e"
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u008",
+      "english": "The rabbit-hole went straight on like a tunnel for some way, and then dipped suddenly down, so suddenly that Alice had not a moment to think about stopping herself before she found",
+      "translation": "y, encendida la curiosidad, se fue corriendo por el campo y llegó a tiempo de ver que el Conejo se metía de cabeza en una gran madriguera al pie de una barda. En un instante, Alici"
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u009",
+      "english": "Either the well was very deep, or she fell very slowly, for she had plenty of time as she went down to look about her and to wonder what was going to happen next.",
+      "translation": "La madriguera empezaba siendo horizontal como un túnel, pero luego se hundía bruscamente, tanto, que Alicia no tuvo tiempo de pensar en detenerse, pues se encontró con que se caía "
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u010",
+      "english": "First, she tried to look down and make out what she was coming to, but it was too dark to see anything; then she looked at the sides of the well, and noticed that they were filled ",
+      "translation": "O el pozo era profundísimo, o ella caía muy despacio, porque, si no había tenido tiempo de pensar en detenerse, en cambio lo tuvo para mirar alrededor y preguntarse qué era lo que "
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u011",
+      "english": "She took down a jar from one of the shelves as she passed; it was labelled “ORANGE MARMALADE”, but to her great disappointment it was empty: she did not like to drop the jar for fe",
+      "translation": "Enseguida procuró mirar al suelo, porque quería ver dónde pisaría; pero estaba demasiado oscuro para ver nada. Luego miró a las paredes del pozo, y observó que estaban llenas de ar"
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u012",
+      "english": "“Well!” thought Alice to herself, “after such a fall as this, I shall think nothing of tumbling down stairs!",
+      "translation": "Cogió una jarra de uno de los estantes, al pasar; tenía un marbete que decía «mermelada de naranja»; mas, para desencanto suyo, estaba vacía."
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u013",
+      "english": "How brave they’ll all think me at home!",
+      "translation": "No le pareció bien arrojarla al fondo por temor de matar a alguien; así es que procuró dejarla en otro de los estantes mientras iba descendiendo."
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u014",
+      "english": "Why, I wouldn’t say anything about it, even if I fell off the top of the house!” (Which was very likely true.)",
+      "translation": "«¡Bien —pensó Alicia—, después de una caída como esta no hay miedo de rodar por las escaleras!"
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u015",
+      "english": "Down, down, down.",
+      "translation": "¡Qué valiente me van a encontrar en casa! ¡Como que ni he de quejarme cuando me encuentren, aunque esto sea que me he caído del tejado», cosa que le parecía muy dentro de lo posibl"
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u016",
+      "english": "Would the fall never come to an end?",
+      "translation": "Y, en tanto, bajaba, bajaba, bajaba."
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u017",
+      "english": "“I wonder how many miles I’ve fallen by this time?” she said aloud.",
+      "translation": "¿No acabaría nunca aquel descenso?"
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u018",
+      "english": "“I must be getting somewhere near the centre of the earth.",
+      "translation": "—¿Cuántos kilómetros habré bajado ya?"
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u019",
+      "english": "Let me see: that would be four thousand miles down, I think—” (for, you see, Alice had learnt several things of this sort in her lessons in the schoolroom, and though this was not ",
+      "translation": "—se preguntó en voz alta—. Llegaré a algún sitio cerca del centro de la tierra."
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u020",
+      "english": "“—yes, that’s about the right distance—but then I wonder what Latitude or Longitude I’ve got to?” (Alice had no idea what Latitude was, or Longitude either, but thought they were n",
+      "translation": "A ver: creo que lo menos he corrido hacia abajo seis mil kilómetros."
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u021",
+      "english": "Presently she began again.",
+      "translation": "Alicia había aprendido algo de eso en las lecciones que daba en el colegio, y por más que no fuera aquella una excelente ocasión para hacer gala de sus conocimientos, ya que nadie "
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u022",
+      "english": "“I wonder if I shall fall right through the earth!",
+      "translation": "—Sí, ésta es aproximadamente la distancia que he recorrido... Pero ¿hacia qué latitud o longitud me encamino?"
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u023",
+      "english": "How funny it’ll seem to come out among the people that walk with their heads downward!",
+      "translation": "No tenía Alicia la menor idea de lo que las palabras latitud y longitud significasen, pero se le antojaba que estaba bien pronunciar vocablos tan bellos y sonoros."
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u024",
+      "english": "The Antipathies, I think—” (she was rather glad there was no one listening, this time, as it didn’t sound at all the right word)",
+      "translation": "Pronto volvió a decirse:"
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u025",
+      "english": "“—but I shall have to ask them what the name of the country is, you know.",
+      "translation": "—¡No sé si estoy cayendo a través de la tierra!"
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u026",
+      "english": "Please, Ma’am, is this New Zealand or Australia?” (and she tried to curtsey as she spoke—fancy curtseying as you’re falling through the air!",
+      "translation": "¡Qué divertido sería salir por el otro lado, donde la gente anda de cabeza! Los «antipáticos»; creo que se llaman así."
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u027",
+      "english": "Do you think you could manage it?)",
+      "translation": "—Ahora se alegraba de que nadie la oyera, pues no le sonaba del todo apropiada esa palabra—."
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u028",
+      "english": "“And what an ignorant little girl she’ll think me for asking!",
+      "translation": "Pero, claro, bien tendré que preguntarles el nombre de su país. «¿Tiene usted la bondad, señora, de decirme si esto es Nueva Zelanda o Australia?»"
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u029",
+      "english": "No, it’ll never do to ask: perhaps I shall see it written up somewhere.”",
+      "translation": "Y así pensando, trataba de ensayar cortesías. ¡Cortesías, al paso que caía por el espacio!"
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u030",
+      "english": "Down, down, down.",
+      "translation": "¿Cómo se las compondría?"
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u031",
+      "english": "There was nothing else to do, so Alice soon began talking again.",
+      "translation": "—¡Pero qué ignorante iba a parecerle al señor a quien hiciera tal pregunta!"
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u032",
+      "english": "“Dinah’ll miss me very much to-night, I should think!” (Dinah was the cat.)",
+      "translation": "No, no es cosa de ir preguntando."
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u033",
+      "english": "“I hope they’ll remember her saucer of milk at tea-time.",
+      "translation": "Acaso lo vea escrito en alguna parte. Abajo, abajo, abajo."
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u034",
+      "english": "Dinah my dear!",
+      "translation": "No cabía hacer otra cosa."
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u035",
+      "english": "I wish you were down here with me!",
+      "translation": "Así es que Alicia pronto reanudó el monólogo:"
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u036",
+      "english": "There are no mice in the air, I’m afraid, but you might catch a bat, and that’s very like a mouse, you know.",
+      "translation": "—Creo que Dina me echará mucho de menos esta noche."
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u037",
+      "english": "But do cats eat bats, I wonder?”",
+      "translation": "—cuando, de pronto, ¡cataplum!, fue a dar sobre un montón de ramas y hojas secas, donde terminó su viaje por el espacio. No sufrió el menor daño y se puso en pie de un salto."
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u038",
+      "english": "And here Alice began to get rather sleepy, and went on saying to herself, in a dreamy sort of way, “Do cats eat bats?",
+      "translation": "Miró hacia arriba, pero allá estaba oscuro; enfrente de ella se extendía otro largo pasillo, y el Conejo"
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u039",
+      "english": "Do cats eat bats?” and sometimes, “Do bats eat cats?” for, you see, as she couldn’t answer either question, it didn’t much matter which way she put it.",
+      "translation": "Blanco corría hacia abajo aún al alcance de su vista."
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u040",
+      "english": "She felt that she was dozing off, and had just begun to dream that she was walking hand in hand with Dinah, and saying to her very earnestly, “Now, Dinah, tell me the truth: did yo",
+      "translation": "No había momento que perder; siguió por allí Alicia, ligera como el viento, y todavía llegó a tiempo de oírle decir al volver una esquina: —¡Válganme mis orejas y mis bigotes, y qu"
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u041",
+      "english": "Alice was not a bit hurt, and she jumped up on to her feet in a moment: she looked up, but it was all dark overhead; before her was another long passage, and the White Rabbit was s",
+      "translation": "Alicia llegó casi al mismo tiempo que el Conejo a la esquina, pero él dobló rápidamente y ella le perdió de vista."
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u042",
+      "english": "There was not a moment to be lost: away went Alice like the wind, and was just in time to hear it say, as it turned a corner, “Oh my ears and whiskers, how late it’s getting!”",
+      "translation": "Se encontró sola en una larga sala alumbrada por una hilera de lámparas que colgaban del techo."
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u043",
+      "english": "She was close behind it when she turned the corner, but the Rabbit was no longer to be seen: she found herself in a long, low hall, which was lit up by a row of lamps hanging from ",
+      "translation": "Había puertas alrededor, pero todas estaban cerradas, y, después de ir de un lado a otro probando de abrirlas inútilmente, se dirigió al centro de la estancia pensando cómo se las "
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u044",
+      "english": "There were doors all round the hall, but they were all locked; and when Alice had been all the way down one side and up the other, trying every door, she walked sadly down the midd",
+      "translation": "Al pronto se dio cuenta de que había una mesa de tres patas toda de cristal macizo. No había encima de ella más que una llavecita dorada, y lo primero que se le ocurrió a Alicia fu"
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u045",
+      "english": "Suddenly she came upon a little three-legged table, all made of solid glass; there was nothing on it except a tiny golden key, and Alice’s first thought was that it might belong to",
+      "translation": "Pero, ¡ay!, para unas cerraduras era grande y en otras iba demasiado holgada, y de ninguna manera pudo abrirlas."
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u046",
+      "english": "However, on the second time round, she came upon a low curtain she had not noticed before, and behind it was a little door about fifteen inches high: she tried the little golden ke",
+      "translation": "Sin embargo, a la segunda vuelta advirtió que había una cortinilla ocultando una portezuela que no llegaría a un metro de altura."
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u047",
+      "english": "Alice opened the door and found that it led into a small passage, not much larger than a rat-hole: she knelt down and looked along the passage into the loveliest garden you ever sa",
+      "translation": "Probó allí la llave, y con alegría vio que iba bien."
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u048",
+      "english": "How she longed to get out of that dark hall, and wander about among those beds of bright flowers and those cool fountains, but she could not even get her head through the doorway;",
+      "translation": "Alicia abrió la puerta y se encontró con que daba a un angosto pasadizo, no mucho más ancho que una madriguera. Se arrodilló para mirar por allí y vio que al otro lado se extendía "
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u049",
+      "english": "“and even if my head would go through,” thought poor Alice, “it would be of very little use without my shoulders.",
+      "translation": "¡Cuántas ganas tenía de salir de aquella oscura sala e ir a pasear entre aquellos macizos de vistosas flores y aquellas frescas fuentes!, pero apenas podía meter la cabeza por la a"
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u050",
+      "english": "Oh, how I wish I could shut up like a telescope!",
+      "translation": "«Aun suponiendo que mi cabeza pasara —pensó la pobre Alicia—, de poco me serviría, separada de los hombros."
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u051",
+      "english": "I think I could, if I only knew how to begin.”",
+      "translation": "¡Oh, cuánto me gustaría poderme encoger como un telescopio! Y creo que podría hacerlo con sólo saber cómo empezar.»"
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u052",
+      "english": "For, you see, so many out-of-the-way things had happened lately, that Alice had begun to think that very few things indeed were really impossible.",
+      "translation": "Porque hay que comprender que habían comenzado a pasar cosas tan extraordinarias, que Alicia ya creía que apenas había nada en realidad imposible."
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u053",
+      "english": "There seemed to be no use in waiting by the little door, so she went back to the table, half hoping she might find another key on it, or at any rate a book of rules for shutting pe",
+      "translation": "Poco sacaría de estar esperando delante de aquella abertura; así es que volvió a la mesa de cristal con la confianza de encontrar otra llave, o, en último caso, algún manual de reg"
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u054",
+      "english": "It was all very well to say “Drink me,” but the wise little Alice was not going to do that in a hurry.",
+      "translation": "Lo que encontró esta vez fue una botellita, que, «en verdad, no estaba la vez anterior», se dijo Alicia, y que llevaba atado al cuello un marbete con la palabra «Bébeme» lindamente"
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u055",
+      "english": "“No, I’ll look first,” she said, “and see whether it’s marked ‘poison’ or not”; for she had read several nice little histories about children who had got burnt, and eaten up by wil",
+      "translation": "Estaba muy bien decir «Bébeme», pero la pequeña y prudente Alicia no lo haría con precipitación. «No, antes la quiero examinar bien, no sea que tenga la indicación de “Veneno”», pu"
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u056",
+      "english": "that a red-hot poker will burn you if you hold it too long; and that if you cut your finger very deeply with a knife, it usually bleeds; and she had never forgotten that, if you dr",
+      "translation": "y cosas por el estilo, todo ello por olvidarse de las indicaciones sencillas que las personas que les querían les habían hecho, tales como que el tener demasiado rato cogido el hur"
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u057",
+      "english": "However, this bottle was not marked “poison,” so Alice ventured to taste it, and finding it very nice, (it had, in fact, a sort of mixed flavour of cherry-tart, custard, pine-apple",
+      "translation": "y lo que ella nunca olvidaba, o sea que el beber el contenido de una botella que lleve la indicación de «Veneno» suele, a la corta o a la larga, hacer daño."
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u058",
+      "english": "“What a curious feeling!” said Alice;",
+      "translation": "Aquella botella, no obstante, no tenía tal indicación, por lo cual Alicia se aventuró a probar su contenido; y, encontrándolo en verdad delicioso, pues tenía una especie de mezcla "
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u059",
+      "english": "“I must be shutting up like a telescope.”",
+      "translation": "—exclamó Alicia—."
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u060",
+      "english": "And so it was indeed: she was now only ten inches high, and her face brightened up at the thought that she was now the right size for going through the little door into that lovely",
+      "translation": "Debo de estar encogiéndome como un telescopio."
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u061",
+      "english": "First, however, she waited for a few minutes to see if she was going to shrink any further: she felt a little nervous about this;",
+      "translation": "Y así era, en efecto—, ya no tenía más que veinticinco centímetros, y se le encendieron los ojos de alegría pensando que tendría la medida para pasar por la abertura del jardín."
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u062",
+      "english": "“for it might end, you know,” said Alice to herself, “in my going out altogether, like a candle.",
+      "translation": "De todos modos, esperó un poco, para convencerse de que no se encogía ya más; y se sintió inquieta al pensarlo. «Porque podría suceder —se decía Alicia para sus adentros, como comp"
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u063",
+      "english": "I wonder what I should be like then?”",
+      "translation": "Y, la verdad, no sé lo que sería de mí, entonces.»"
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u064",
+      "english": "And she tried to fancy what the flame of a candle is like after the candle is blown out, for she could not remember ever having seen such a thing.",
+      "translation": "Y se esforzaba por imaginarse cómo es la llama de una bujía cuando se apaga, y no recordaba haberlo visto nunca."
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u065",
+      "english": "After a while, finding that nothing more happened, she decided on going into the garden at once; but, alas for poor Alice! when she got to the door, she found she had forgotten the",
+      "translation": "Al cabo de un rato, viendo que no pasaba nada más, decidió salir enseguida al jardín."
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u066",
+      "english": "and when she went back to the table for it, she found she could not possibly reach it: she could see it quite plainly through the glass, and she tried her best to climb up one of t",
+      "translation": "Pero, ¡ah, pobre Alicia!, al llegar a la puerta encontró con que se había olvidado de la llavecita dorada, y al volver a buscarla vio que ya no alcanzaba a cogerla de la mesa. La v"
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u067",
+      "english": "“Come, there’s no use in crying like that!” said Alice to herself, rather sharply;",
+      "translation": "—¡Vamos, que no sacarás nada llorando de esta manera!"
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u068",
+      "english": "“I advise you to leave off this minute!”",
+      "translation": "—se dijo Alicia a sí misma con un poco de dureza—."
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u069",
+      "english": "She generally gave herself very good advice, (though she very seldom followed it), and sometimes she scolded herself so severely as to bring tears into her eyes; and once she remem",
+      "translation": "Te aconsejo que dejes de llorar ahora mismo. Con frecuencia se daba excelentes consejos, que casi nunca seguía, y a veces llegaba a reprenderse con tal severidad,"
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u070",
+      "english": "“But it’s no use now,” thought poor Alice, “to pretend to be two people!",
+      "translation": "que se arrancaba lágrimas de los ojos; hasta se acordaba de que una vez se quiso tirar de las orejas por haberse engañado en una partida de croquet que había estado jugando ella so"
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u071",
+      "english": "Why, there’s hardly enough of me left to make one respectable person!”",
+      "translation": "cuando ¡bastante tengo con hacerme una sola persona respetable!»"
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u072",
+      "english": "Soon her eye fell on a little glass box that was lying under the table: she opened it, and found in it a very small cake, on which the words “EAT ME” were beautifully marked in cur",
+      "translation": "Pronto su mirada se fijó en una cajita de cristal que había debajo de la mesa—, la abrió y encontró dentro una diminuta torta en la que se leía esta palabra: «Cómeme», que estaba t"
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u073",
+      "english": "“Well, I’ll eat it,” said Alice, “and if it makes me grow larger, I can reach the key; and if it makes me grow smaller, I can creep under the door; so either way I’ll get into the ",
+      "translation": "—Bien, me la comeré —se dijo Alicia—, y si me hace crecer otra vez, podré coger la llave, y si me hace más pequeña todavía, pasaré por debajo de la puerta, así, de todas maneras, e"
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u074",
+      "english": "She ate a little bit, and said anxiously to herself, “Which way?",
+      "translation": "—¿Hacia dónde?, ¿hacia dónde?"
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u075",
+      "english": "Which way?”, holding her hand on the top of her head to feel which way it was growing, and she was quite surprised to find that she remained the same size: to be sure, this general",
+      "translation": "Y se llevaba la mano a la cabeza para comprobar si crecía o disminuía, pero le sorprendió mucho encontrarse con que continuaba de la misma manera."
+    },
+    {
+      "language": "es",
+      "chapter": 1,
+      "syncId": "alice-ch01-u076",
+      "english": "So she set to work, and very soon finished off the cake.",
+      "translation": "Esto es, en efecto, lo que pasa siempre que se come torta, pero Alicia se había acostumbrado de tal manera a no esperar más que cosas extraordinarias, que le pareció muy triste y e"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u001",
+      "english": "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: once or twice she had peeped into the book her sister was reading, but it h",
+      "translation": "CHAPITRE PREMIER."
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u002",
+      "english": "So she was considering in her own mind (as well as she could, for the hot day made her feel very sleepy and stupid), whether the pleasure of making a daisy-chain would be worth the",
+      "translation": "AU FOND DU TERRIER."
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u003",
+      "english": "There was nothing so very remarkable in that; nor did Alice think it so very much out of the way to hear the Rabbit say to itself, “Oh dear!",
+      "translation": "ALICE, assise auprès de sa sœur sur le gazon, commençait à s'ennuyer de rester là à ne rien faire; une ou deux fois elle avait jeté les yeux sur le livre que lisait sa sœur; mais q"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u004",
+      "english": "Oh dear!",
+      "translation": "Elle s'était mise à réfléchir, (tant bien que mal, car la chaleur du jour l'endormait et la rendait lourde,) se demandant si le plaisir de faire une couronne de marguerites valait "
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u005",
+      "english": "I shall be late!” (when she thought it over afterwards, it occurred to her that she ought to have wondered at this, but at the time it all seemed quite natural); but when the Rabbi",
+      "translation": "Il n'y avait rien là de bien étonnant, et Alice ne trouva même pas très-extraordinaire d'entendre parler le Lapin qui se disait:"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u006",
+      "english": "for it flashed across her mind that she had never before seen a rabbit with either a waistcoat-pocket, or a watch to take out of it, and burning with curiosity, she ran across the ",
+      "translation": "\"Ah! j'arriverai trop tard!\" (En y songeant après, il lui sembla bien qu'elle aurait dû s'en étonner, mais sur le moment cela lui avait paru tout naturel.) Cependant, quand le Lapi"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u007",
+      "english": "In another moment down went Alice after it, never once considering how in the world she was to get out again.",
+      "translation": "Entraînée par la curiosité elle s'élança sur ses traces à travers le champ, et arriva tout juste à temps pour le voir disparaître dans un large trou au pied d'une haie."
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u008",
+      "english": "The rabbit-hole went straight on like a tunnel for some way, and then dipped suddenly down, so suddenly that Alice had not a moment to think about stopping herself before she found",
+      "translation": "Un instant après, Alice était à la poursuite du Lapin dans le terrier, sans songer comment elle en sortirait."
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u009",
+      "english": "Either the well was very deep, or she fell very slowly, for she had plenty of time as she went down to look about her and to wonder what was going to happen next.",
+      "translation": "Pendant un bout de chemin le trou allait tout droit comme un tunnel, puis tout à coup il plongeait perpendiculairement d'une façon si brusque qu'Alice se sentit tomber comme dans u"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u010",
+      "english": "First, she tried to look down and make out what she was coming to, but it was too dark to see anything; then she looked at the sides of the well, and noticed that they were filled ",
+      "translation": "D'abord elle regarda dans le fond du trou pour savoir où elle allait; mais il y faisait bien trop sombre pour y rien voir."
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u011",
+      "english": "She took down a jar from one of the shelves as she passed; it was labelled “ORANGE MARMALADE”, but to her great disappointment it was empty: she did not like to drop the jar for fe",
+      "translation": "Ensuite elle porta les yeux sur les parois du puits, et s'aperçut qu'elles étaient garnies d'armoires et d'étagères; çà et là, elle vit pendues à des clous des cartes géographiques"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u012",
+      "english": "“Well!” thought Alice to herself, “after such a fall as this, I shall think nothing of tumbling down stairs!",
+      "translation": "Mais, à son grand regret, le pot était vide: elle n'osait le laisser tomber dans la crainte de tuer quelqu'un; aussi s'arrangea-t-elle de manière à le déposer en passant dans une d"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u013",
+      "english": "How brave they’ll all think me at home!",
+      "translation": "\"Certes,\" dit Alice, \"après une chute pareille je ne me moquerai pas mal de dégringoler l'escalier!"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u014",
+      "english": "Why, I wouldn’t say anything about it, even if I fell off the top of the house!” (Which was very likely true.)",
+      "translation": "Comme ils vont me trouver brave chez nous! Je tomberais du haut des toits que je ne ferais pas entendre une plainte.\" (Ce qui était bien probable.)"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u015",
+      "english": "Down, down, down.",
+      "translation": "Tombe, tombe, tombe!"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u016",
+      "english": "Would the fall never come to an end?",
+      "translation": "\"Cette chute n'en finira donc pas!"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u017",
+      "english": "“I wonder how many miles I’ve fallen by this time?” she said aloud.",
+      "translation": "Je suis curieuse de savoir combien de milles j'ai déjà faits,\" dit-elle tout haut. \"Je dois être bien près du centre de la terre."
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u018",
+      "english": "“I must be getting somewhere near the centre of the earth.",
+      "translation": "Voyons donc, cela serait à quatre mille milles de profondeur, il me semble.\" (Comme vous voyez, Alice avait appris pas mal de choses dans ses leçons; et bien que ce ne fût pas là u"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u019",
+      "english": "Let me see: that would be four thousand miles down, I think—” (for, you see, Alice had learnt several things of this sort in her lessons in the schoolroom, and though this was not ",
+      "translation": "\"Oui, c'est bien à peu près cela; mais alors à quel degré de latitude ou de longitude est-ce que je me trouve?\" (Alice n'avait pas la moindre idée de ce que voulait dire latitude o"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u020",
+      "english": "“—yes, that’s about the right distance—but then I wonder what Latitude or Longitude I’ve got to?” (Alice had no idea what Latitude was, or Longitude either, but thought they were n",
+      "translation": "\"Si j'allais traverser complétement la terre?"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u021",
+      "english": "Presently she began again.",
+      "translation": "Comme ça serait drôle de se trouver au milieu de gens qui marchent la tête en bas."
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u022",
+      "english": "“I wonder if I shall fall right through the earth!",
+      "translation": "Aux Antipathies, je crois.\" (Elle n'était pas fâchée cette fois qu'il n'y eût personne là pour l'entendre, car ce mot ne lui faisait pas l'effet d'être bien juste.) \"Eh mais, j'aur"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u023",
+      "english": "How funny it’ll seem to come out among the people that walk with their heads downward!",
+      "translation": "Faire la révérence en l'air!"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u024",
+      "english": "The Antipathies, I think—” (she was rather glad there was no one listening, this time, as it didn’t sound at all the right word)",
+      "translation": "Dites-moi un peu, comment vous y prendriez-vous?)"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u025",
+      "english": "“—but I shall have to ask them what the name of the country is, you know.",
+      "translation": "\"'Quelle petite ignorante!' pensera la dame quand je lui ferai cette question. Non, il ne faut pas demander cela; peut-être le verrai-je écrit quelque part.\""
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u026",
+      "english": "Please, Ma’am, is this New Zealand or Australia?” (and she tried to curtsey as she spoke—fancy curtseying as you’re falling through the air!",
+      "translation": "Tombe, tombe, tombe!--Donc Alice, faute d'avoir rien de mieux à faire, se remit à se parler:"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u027",
+      "english": "Do you think you could manage it?)",
+      "translation": "\"Dinah remarquera mon absence ce soir, bien sûr.\" (Dinah c'était son chat.)"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u028",
+      "english": "“And what an ignorant little girl she’ll think me for asking!",
+      "translation": "\"Pourvu qu'on n'oublie pas de lui donner sa jatte de lait à l'heure du thé. Dinah, ma minette, que n'es-tu ici avec moi?"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u029",
+      "english": "No, it’ll never do to ask: perhaps I shall see it written up somewhere.”",
+      "translation": "Il n'y a pas de souris dans les airs, j'en ai bien peur; mais tu pourrais attraper une chauve-souris, et cela ressemble beaucoup à une souris, tu sais."
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u030",
+      "english": "Down, down, down.",
+      "translation": "Mais les chats mangent-ils les chauves-souris?\" Ici le sommeil commença à gagner Alice."
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u031",
+      "english": "There was nothing else to do, so Alice soon began talking again.",
+      "translation": "Elle répétait, à moitié endormie:"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u032",
+      "english": "“Dinah’ll miss me very much to-night, I should think!” (Dinah was the cat.)",
+      "translation": "\"Les chats mangent-ils les chauves-souris?"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u033",
+      "english": "“I hope they’ll remember her saucer of milk at tea-time.",
+      "translation": "Les chats mangent-ils les chauves-souris?\" Et quelquefois:"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u034",
+      "english": "Dinah my dear!",
+      "translation": "\"Les chauves-souris mangent-elles les chats?\""
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u035",
+      "english": "I wish you were down here with me!",
+      "translation": "Car vous comprenez bien que, puisqu'elle ne pouvait répondre ni à l'une ni à l'autre de ces questions, peu importait la manière de les poser."
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u036",
+      "english": "There are no mice in the air, I’m afraid, but you might catch a bat, and that’s very like a mouse, you know.",
+      "translation": "Elle s'assoupissait et commençait à rêver qu'elle se promenait tenant Dinah par la main, lui disant très-sérieusement: \"Voyons, Dinah, dis-moi la vérité, as-tu jamais mangé des cha"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u037",
+      "english": "But do cats eat bats, I wonder?”",
+      "translation": "Quand tout à coup, pouf! la voilà étendue sur un tas de fagots et de feuilles sèches,--et elle a fini de tomber."
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u038",
+      "english": "And here Alice began to get rather sleepy, and went on saying to herself, in a dreamy sort of way, “Do cats eat bats?",
+      "translation": "Alice ne s'était pas fait le moindre mal. Vite elle se remet sur ses pieds et regarde en l'air; mais tout est noir là-haut."
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u039",
+      "english": "Do cats eat bats?” and sometimes, “Do bats eat cats?” for, you see, as she couldn’t answer either question, it didn’t much matter which way she put it.",
+      "translation": "Elle voit devant elle un long passage et le Lapin Blanc qui court à toutes jambes."
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u040",
+      "english": "She felt that she was dozing off, and had just begun to dream that she was walking hand in hand with Dinah, and saying to her very earnestly, “Now, Dinah, tell me the truth: did yo",
+      "translation": "Il n'y a pas un instant à perdre;"
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u041",
+      "english": "Alice was not a bit hurt, and she jumped up on to her feet in a moment: she looked up, but it was all dark overhead; before her was another long passage, and the White Rabbit was s",
+      "translation": "Alice part comme le vent et arrive tout juste à temps pour entendre le Lapin dire, tandis qu'il tourne le coin: \"Par ma moustache et mes oreilles, comme il se fait tard!\""
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u042",
+      "english": "There was not a moment to be lost: away went Alice like the wind, and was just in time to hear it say, as it turned a corner, “Oh my ears and whiskers, how late it’s getting!”",
+      "translation": "Elle n'en était plus qu'à deux pas: mais le coin tourné, le Lapin avait disparu."
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u043",
+      "english": "She was close behind it when she turned the corner, but the Rabbit was no longer to be seen: she found herself in a long, low hall, which was lit up by a row of lamps hanging from ",
+      "translation": "Elle se trouva alors dans une salle longue et basse, éclairée par une rangée de lampes pendues au plafond."
+    },
+    {
+      "language": "fr",
+      "chapter": 1,
+      "syncId": "alice-ch01-u044",
+      "english": "There were doors all round the hall, but they were all locked; and when Alice had been all the way down one side and up the other, trying every door, she walked sadly down the midd",
+      "translation": "Il y avait des portes tout autour de la salle: ces portes étaient toutes fermées, et, après avoir vainement tenté d'ouvrir celles du côté droit, puis celles du côté gauche, Alice s"
+    }
+  ],
+  "recommendedManualFixes": [
+    "Review needsReview units in context, especially where one translated sentence covers multiple English units.",
+    "Split or merge translated candidate text manually when the heuristic grouped too much text.",
+    "Keep syncId values stable when editing reviewed units."
+  ]
+}

@@ -1,0 +1,1177 @@
+{
+  "bookId": "alice",
+  "title": "Alice's Adventures in Wonderland",
+  "languages": [
+    "de",
+    "en",
+    "es",
+    "fr"
+  ],
+  "chapters": [
+    {
+      "chapterId": "chapter-1",
+      "title": "Down the Rabbit-Hole",
+      "units": 106,
+      "languages": {
+        "de": {
+          "units": 106,
+          "needsReview": 16
+        },
+        "en": {
+          "units": 106,
+          "needsReview": 0
+        },
+        "es": {
+          "units": 106,
+          "needsReview": 19
+        },
+        "fr": {
+          "units": 106,
+          "needsReview": 15
+        }
+      },
+      "questionable": [
+        {
+          "language": "de",
+          "syncId": "alice-ch01-u0006",
+          "english": "Oh dear!",
+          "translation": "Dies war grade nicht sehr merkwürdig;"
+        },
+        {
+          "language": "de",
+          "syncId": "alice-ch01-u0020",
+          "english": "How brave they'll all think me at home!",
+          "translation": "Sie nahm im Vorbeifallen von einem der Bretter ein Töpfchen mit der Aufschrift:»Eingemachte Apfelsinen«, aber zu ihrem großen Verdruß war es leer."
+        },
+        {
+          "language": "de",
+          "syncId": "alice-ch01-u0022",
+          "english": "Down, down, down.",
+          "translation": "zu schieben.»Nun!«dachte Alice bei sich,»nach einem solchen Fall werde ich mir nichts daraus machen, wenn ich die Treppe hinunter stolpere."
+        },
+        {
+          "language": "de",
+          "syncId": "alice-ch01-u0030",
+          "english": "Presently she began again.",
+          "translation": "aber zu welchem Länge- und Breitegrade ich wohl gekommen sein mag?«(Alice hatte nicht den geringsten Begriff, was weder Längegrad noch Breitegrad war;"
+        },
+        {
+          "language": "es",
+          "syncId": "alice-ch01-u0006",
+          "english": "Oh dear!",
+          "translation": "No había en ello nada de extraordinario, ni le pareció a Alicia cosa fuera de lo corriente, oír que el Conejo se dijera a sí mismo: —¡Dios mío!"
+        },
+        {
+          "language": "es",
+          "syncId": "alice-ch01-u0007",
+          "english": "I shall be late!\" (when she thought it over afterwards, it occurred to her that she ought to have wondered at this, but at the time it all seemed quite natural);",
+          "translation": "¡Dios mío!"
+        },
+        {
+          "language": "es",
+          "syncId": "alice-ch01-u0008",
+          "english": "but when the Rabbit actually took a watch out of its waistcoat-pocket, and looked at it, and then hurried on, Alice started to her feet,",
+          "translation": "Voy a llegar tarde."
+        },
+        {
+          "language": "es",
+          "syncId": "alice-ch01-u0020",
+          "english": "How brave they'll all think me at home!",
+          "translation": "Cogió una jarra de uno de los estantes, al pasar; tenía un marbete que decía «mermelada de naranja»; mas, para desencanto suyo, estaba vacía."
+        },
+        {
+          "language": "fr",
+          "syncId": "alice-ch01-u0006",
+          "english": "Oh dear!",
+          "translation": "\"Ah! j'arriverai trop tard!\" (En y songeant après, il lui sembla bien qu'elle aurait dû s'en étonner, mais sur le moment cela lui avait paru tout naturel.)"
+        },
+        {
+          "language": "fr",
+          "syncId": "alice-ch01-u0022",
+          "english": "Down, down, down.",
+          "translation": "Je suis curieuse de savoir combien de milles j'ai déjà faits,\" dit-elle tout haut."
+        },
+        {
+          "language": "fr",
+          "syncId": "alice-ch01-u0025",
+          "english": "\"I must be getting somewhere near the centre of the earth.",
+          "translation": "et bien que ce ne fût pas là une très-bonne occasion de faire parade de son savoir, vu qu'il n'y avait point d'auditeur, cependant c'était un bon exercice que de répéter sa leçon.)"
+        },
+        {
+          "language": "fr",
+          "syncId": "alice-ch01-u0026",
+          "english": "Let me see: that would be four thousand miles down, I think—\" (for, you see, Alice had learnt several things of this sort in her lessons in the schoolroom,",
+          "translation": "\"Oui, c'est bien à peu près cela;"
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-2",
+      "title": "The Pool of Tears",
+      "units": 123,
+      "languages": {
+        "de": {
+          "units": 123,
+          "needsReview": 30
+        },
+        "en": {
+          "units": 123,
+          "needsReview": 0
+        },
+        "es": {
+          "units": 123,
+          "needsReview": 30
+        },
+        "fr": {
+          "units": 123,
+          "needsReview": 21
+        }
+      },
+      "questionable": [
+        {
+          "language": "de",
+          "syncId": "alice-ch02-u0005",
+          "english": "I'm sure I shan't be able!",
+          "translation": "Ich bin viel zu weit ab, um mich mit euch abzugeben! ihr müßt sehen, wie ihr fertig werdet."
+        },
+        {
+          "language": "de",
+          "syncId": "alice-ch02-u0008",
+          "english": "Let me see:",
+          "translation": "Laß mal sehen: ich will ihnen jeden Weihnachten ein Paar neue Stiefel schenken.«Und sie dachte sich aus,"
+        },
+        {
+          "language": "de",
+          "syncId": "alice-ch02-u0011",
+          "english": "\"They must go by the carrier,\" she thought;",
+          "translation": "mit Alice's Grüßen.»Oh, was für Unsinn ich schwatze!«Gerade in dem Augenblick stieß sie mit dem Kopf an die Decke: sie war in der That über neun Fuß groß."
+        },
+        {
+          "language": "de",
+          "syncId": "alice-ch02-u0015",
+          "english": "Oh dear, what nonsense I'm talking!\"",
+          "translation": "Sie setzte sich hin und fing wieder an zu weinen.»Du solltest dich schämen,«sagte Alice,»solch großes Mädchen«(da hatte sie wohl recht)»noch so zu weinen!»Du solltest dich"
+        },
+        {
+          "language": "es",
+          "syncId": "alice-ch02-u0005",
+          "english": "I'm sure I shan't be able!",
+          "translation": "Voy a encontrarme muy lejos de vosotros para poderos cuidar: os tendréis que arreglar como podáis..."
+        },
+        {
+          "language": "es",
+          "syncId": "alice-ch02-u0008",
+          "english": "Let me see:",
+          "translation": "¡Ah, sí, comprarles siempre un par de zapatos nuevos por Navidad!"
+        },
+        {
+          "language": "es",
+          "syncId": "alice-ch02-u0011",
+          "english": "\"They must go by the carrier,\" she thought;",
+          "translation": "¡Y qué chocantes serán la señas!:»Al señor Pie Derecho de Alicia, en la manta de la chimenea, junto al guardafuegos (con todo el cariño de Alicia)."
+        },
+        {
+          "language": "es",
+          "syncId": "alice-ch02-u0017",
+          "english": "Poor Alice!",
+          "translation": "Entrar le sería más difícil que nunca."
+        },
+        {
+          "language": "fr",
+          "syncId": "alice-ch02-u0008",
+          "english": "Let me see:",
+          "translation": "Ah! je sais ce que je ferai: je leur donnerai une belle paire de bottines à Noël.\""
+        },
+        {
+          "language": "fr",
+          "syncId": "alice-ch02-u0012",
+          "english": "\"and how funny it'll seem, sending presents to one's own feet!",
+          "translation": "Et l'adresse donc!"
+        },
+        {
+          "language": "fr",
+          "syncId": "alice-ch02-u0017",
+          "english": "Poor Alice!",
+          "translation": "Vite elle saisit la petite clef d'or et courut à la porte du jardin."
+        },
+        {
+          "language": "fr",
+          "syncId": "alice-ch02-u0028",
+          "english": "The Rabbit started violently, dropped the white kid gloves and the fan, and skurried away into the darkness as hard as he could go.",
+          "translation": "\"Je vous en prie, Monsieur--\""
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-3",
+      "title": "A Caucus-Race and a Long Tale",
+      "units": 115,
+      "languages": {
+        "de": {
+          "units": 115,
+          "needsReview": 38
+        },
+        "en": {
+          "units": 115,
+          "needsReview": 0
+        },
+        "es": {
+          "units": 115,
+          "needsReview": 30
+        },
+        "fr": {
+          "units": 115,
+          "needsReview": 18
+        }
+      },
+      "questionable": [
+        {
+          "language": "de",
+          "syncId": "alice-ch03-u0002",
+          "english": "and uncomfortable.",
+          "translation": "Alle durch und durch naß, verstimmt und unbehaglich. -- -- Die erste Frage war, wie sie sich trocknen könnten: es wurde eine Berathung darüber gehalten,"
+        },
+        {
+          "language": "de",
+          "syncId": "alice-ch03-u0008",
+          "english": "I'll soon make you dry enough!\"",
+          "translation": "der zuletzt brummig wurde und nur noch sagte:»ich bin älter als du und muß es besser wissen;«dies wollte Alice nicht zugeben und fragte nach seinem Alter,"
+        },
+        {
+          "language": "de",
+          "syncId": "alice-ch03-u0012",
+          "english": "This is the driest thing I know.",
+          "translation": "Alice hatte die Augen erwartungsvoll auf sie gerichtet, denn sie war überzeugt, sie werde sich entsetzlich erkälten, wenn sie nicht sehr bald trocken würde."
+        },
+        {
+          "language": "de",
+          "syncId": "alice-ch03-u0018",
+          "english": "\"Did you speak?\"",
+          "translation": "und die in jener Zeit sehr an Usurpation und Eroberungen gewöhnt waren."
+        },
+        {
+          "language": "es",
+          "syncId": "alice-ch03-u0002",
+          "english": "and uncomfortable.",
+          "translation": "Las aves tenían las plumas sucias de barro, los otros animalitos tenían el pelo pegado a la piel, y todos chorreaban, malhumorados y molestos."
+        },
+        {
+          "language": "es",
+          "syncId": "alice-ch03-u0008",
+          "english": "I'll soon make you dry enough!\"",
+          "translation": "y como quiera que el Lorito se resistiera a confesarlo, no se le permitió decir una palabra más."
+        },
+        {
+          "language": "es",
+          "syncId": "alice-ch03-u0010",
+          "english": "Alice kept her eyes anxiously fixed on it, for she felt sure she would catch a bad cold if she did not get dry very soon.",
+          "translation": "Yo haré que os sequéis en un momento."
+        },
+        {
+          "language": "es",
+          "syncId": "alice-ch03-u0012",
+          "english": "This is the driest thing I know.",
+          "translation": "Alicia le miraba con ansiedad, pues estaba notando que, como tardase un poco más en secarse, iba a coger un mal resfriado. —¡Ajajá! —dijo el Ratón dándose importancia—"
+        },
+        {
+          "language": "fr",
+          "syncId": "alice-ch03-u0002",
+          "english": "and uncomfortable.",
+          "translation": "Tous étaient trempés, de mauvaise humeur, et fort mal à l'aise."
+        },
+        {
+          "language": "fr",
+          "syncId": "alice-ch03-u0020",
+          "english": "\"I thought you did,\" said the Mouse.",
+          "translation": "\"Je continue. 'Edwin et Morcar, comtes de Mercie et de Northumbrie, se déclarèrent en sa faveur, et Stigand, l'archevêque patriote de Cantorbery, trouva cela----'\""
+        },
+        {
+          "language": "fr",
+          "syncId": "alice-ch03-u0021",
+          "english": "\"—I proceed. 'Edwin and Morcar, the earls of Mercia and Northumbria, declared for him: and even Stigand, the patriotic archbishop of Canterbury, found it advisable—'\"",
+          "translation": "\"Trouva quoi?\" dit le Canard."
+        },
+        {
+          "language": "fr",
+          "syncId": "alice-ch03-u0024",
+          "english": "\"of course you know what 'it' means.\"",
+          "translation": "\"Je sais parfaitement ce que 'cela' veut dire; par exemple: quand moi j'ai trouvé cela bon; 'cela' veut dire un ver ou une grenouille,\" ajouta le Canard."
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-4",
+      "title": "The Rabbit Sends in a Little Bill",
+      "units": 150,
+      "languages": {
+        "de": {
+          "units": 150,
+          "needsReview": 48
+        },
+        "en": {
+          "units": 150,
+          "needsReview": 0
+        },
+        "es": {
+          "units": 150,
+          "needsReview": 42
+        },
+        "fr": {
+          "units": 150,
+          "needsReview": 22
+        }
+      },
+      "questionable": [
+        {
+          "language": "de",
+          "syncId": "alice-ch04-u0002",
+          "english": "The Duchess!",
+          "translation": "und sie hörte wie es für sich murmelte:»die Herzogin! die Herzogin!"
+        },
+        {
+          "language": "de",
+          "syncId": "alice-ch04-u0003",
+          "english": "Oh my dear paws!",
+          "translation": "Oh, meine weichen Pfoten! o mein Fell und Knebelbart!"
+        },
+        {
+          "language": "de",
+          "syncId": "alice-ch04-u0006",
+          "english": "Where can I have dropped them, I wonder?\"",
+          "translation": "Wo ich sie kann haben fallen lassen, begreife ich nicht!«Alice errieth augenblicklich, daß es den Fächer und die weißen Glaceehandschuhe meinte, und gutmüthig genug fing sie an,"
+        },
+        {
+          "language": "de",
+          "syncId": "alice-ch04-u0011",
+          "english": "Quick, now!\"",
+          "translation": "Schnell, vorwärts!«Alice war so erschrocken, daß sie schnell in der angedeuteten Richtung fortlief, ohne ihm zu erklären, daß es sich versehen habe."
+        },
+        {
+          "language": "es",
+          "syncId": "alice-ch04-u0006",
+          "english": "Where can I have dropped them, I wonder?\"",
+          "translation": "Al punto comprendió Alicia que lo que buscaba era el par de guantes blancos y el abanico, y ella también, se puso a buscarlos, pero no se veían por ninguna parte..."
+        },
+        {
+          "language": "es",
+          "syncId": "alice-ch04-u0010",
+          "english": "Run home this moment, and fetch me a pair of gloves and a fan!",
+          "translation": "¡Date prisa!"
+        },
+        {
+          "language": "es",
+          "syncId": "alice-ch04-u0011",
+          "english": "Quick, now!\"",
+          "translation": "Tanto se asustó Alicia, que se fue corriendo en la dirección que él señalaba,"
+        },
+        {
+          "language": "es",
+          "syncId": "alice-ch04-u0015",
+          "english": "But I'd better take him his fan and gloves—that is, if I can find them.\"",
+          "translation": "«W."
+        },
+        {
+          "language": "fr",
+          "syncId": "alice-ch04-u0009",
+          "english": "Very soon the Rabbit noticed Alice, as she went hunting about, and called out to her in an angry tone, \"Why, Mary Ann, what are you doing out here?",
+          "translation": "Bientôt le Lapin aperçut Alice qui furetait; il lui cria d'un ton d'impatience: \"Eh bien! Marianne, que faites-vous ici? Courez vite à la maison me chercher une paire de gants et u"
+        },
+        {
+          "language": "fr",
+          "syncId": "alice-ch04-u0011",
+          "english": "Quick, now!\"",
+          "translation": "Alice eut si grand' peur qu'elle se mit aussitôt à courir dans la direction qu'il indiquait, sans chercher à lui expliquer qu'il se trompait."
+        },
+        {
+          "language": "fr",
+          "syncId": "alice-ch04-u0018",
+          "english": "She went in without knocking, and hurried upstairs, in great fear lest she should meet the real Mary Ann, and be turned out of the house before she had found the fan and gloves.",
+          "translation": "Bientôt ce sera Dinah qui m'enverra en commission.\""
+        },
+        {
+          "language": "fr",
+          "syncId": "alice-ch04-u0019",
+          "english": "\"How queer it seems,\"",
+          "translation": "Elle se prit alors à imaginer comment les choses se passeraient.--\"'Mademoiselle Alice, venez ici tout de suite vous apprêter pour la promenade.' 'Dans l'instant, ma bonne!"
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-5",
+      "title": "Advice from a Caterpillar",
+      "units": 147,
+      "languages": {
+        "de": {
+          "units": 147,
+          "needsReview": 37
+        },
+        "en": {
+          "units": 147,
+          "needsReview": 0
+        },
+        "es": {
+          "units": 147,
+          "needsReview": 37
+        },
+        "fr": {
+          "units": 147,
+          "needsReview": 25
+        }
+      },
+      "questionable": [
+        {
+          "language": "de",
+          "syncId": "alice-ch05-u0006",
+          "english": "\"Explain yourself!\"",
+          "translation": "strenge.»Erkläre dich deutlicher!«»Was meinst du damit?«sagte die Raupe strenge.»Erkläre dich"
+        },
+        {
+          "language": "de",
+          "syncId": "alice-ch05-u0009",
+          "english": "\"I'm afraid I can't put it more clearly,\"",
+          "translation": "sehen Sie wohl?«»Ich sehe nicht wohl,«sagte die Raupe.»Ich kann es wirklich nicht besser ausdrücken,«erwiederte Alice sehr höflich,»denn ich kann es selbst nicht begreifen;"
+        },
+        {
+          "language": "de",
+          "syncId": "alice-ch05-u0011",
+          "english": "\"It isn't,\" said the Caterpillar.",
+          "translation": "das wird man nicht,«sagte die Raupe.»Vielleicht haben Sie es noch nicht versucht,«sagte Alice,»aber wenn Sie sich in eine Puppe verwandeln werden,"
+        },
+        {
+          "language": "de",
+          "syncId": "alice-ch05-u0017",
+          "english": "\"You!\" said the Caterpillar contemptuously.",
+          "translation": "daß es mir sehr komisch sein würde.«»Dir!«sagte die Raupe verächtlich.»Wer bist du denn?«Was sie wieder auf den Anfang der Unterhaltung zurückbrachte."
+        },
+        {
+          "language": "es",
+          "syncId": "alice-ch05-u0002",
+          "english": "\"Who are you?\" said the Caterpillar.",
+          "translation": "Por fin, el Gusano de Seda se quitó de los labios el extremo de la pipa y se dirigió a Alicia con voz lánguida y adormecida: —¿Quién eres?"
+        },
+        {
+          "language": "es",
+          "syncId": "alice-ch05-u0006",
+          "english": "\"Explain yourself!\"",
+          "translation": "pero creo que he cambiado una porción de veces durante el día. —¿Qué quieres decir? —repuso el Gusano de Seda severamente—."
+        },
+        {
+          "language": "es",
+          "syncId": "alice-ch05-u0011",
+          "english": "\"It isn't,\" said the Caterpillar.",
+          "translation": "Es que eso de cambiar de estatura tantas veces al día es desconcertante. —No lo es —dijo el Gusano de Seda. —Bien,"
+        },
+        {
+          "language": "es",
+          "syncId": "alice-ch05-u0018",
+          "english": "\"Who are you?\"",
+          "translation": "Esta pregunta les llevó de nuevo al principio de la conversación."
+        },
+        {
+          "language": "fr",
+          "syncId": "alice-ch05-u0010",
+          "english": "Alice replied very politely, \"for I can't understand it myself to begin with; and being so many different sizes in a day is very confusing.\"",
+          "translation": "\"car d'abord je n'y comprends rien moi-même."
+        },
+        {
+          "language": "fr",
+          "syncId": "alice-ch05-u0030",
+          "english": "Alice thought she might as well wait, as she had nothing else to do, and perhaps after all it might tell her something worth hearing.",
+          "translation": "\"Non,\" répondit la Chenille."
+        },
+        {
+          "language": "fr",
+          "syncId": "alice-ch05-u0042",
+          "english": "But, now that I'm perfectly sure I have none, Why, I do it again and again.\"",
+          "translation": "La tête en bas!"
+        },
+        {
+          "language": "fr",
+          "syncId": "alice-ch05-u0043",
+          "english": "\"You are old,\" said the youth, \"as I mentioned before, And have grown most uncommonly fat;",
+          "translation": "Père Guillaume;"
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-6",
+      "title": "Pig and Pepper",
+      "units": 171,
+      "languages": {
+        "de": {
+          "units": 171,
+          "needsReview": 46
+        },
+        "en": {
+          "units": 171,
+          "needsReview": 0
+        },
+        "es": {
+          "units": 171,
+          "needsReview": 41
+        },
+        "fr": {
+          "units": 171,
+          "needsReview": 36
+        }
+      },
+      "questionable": [
+        {
+          "language": "de",
+          "syncId": "alice-ch06-u0004",
+          "english": "It was opened by another footman in livery, with a round face, and large eyes like a frog; and both footmen, Alice noticed, had powdered hair that curled all over their heads.",
+          "translation": "und mit den Knöcheln laut an die Thür klopfte."
+        },
+        {
+          "language": "de",
+          "syncId": "alice-ch06-u0006",
+          "english": "The Fish-Footman began by producing from under his arm a great letter, nearly as large as himself, and this he handed over to the other, saying, in a solemn tone, \"For the Duchess.",
+          "translation": "gepuderte Lockenperücken über den ganzen Kopf."
+        },
+        {
+          "language": "de",
+          "syncId": "alice-ch06-u0007",
+          "english": "An invitation from the Queen to play croquet.\"",
+          "translation": "Sie wurde von einem andern Lackeien in Livree geöffnet, der ein rundes Gesicht und große Augen wie ein Frosch hatte, und beide Lackeien hatten, wie Alice bemerkte,"
+        },
+        {
+          "language": "de",
+          "syncId": "alice-ch06-u0011",
+          "english": "Alice laughed so much at this, that she had to run back into the wood for fear of their hearing her; and when she next peeped out the Fish-Footman was gone,",
+          "translation": "in feierlichem Tone sprechend:»Für die Herzogin."
+        },
+        {
+          "language": "es",
+          "syncId": "alice-ch06-u0035",
+          "english": "The Footman seemed to think this a good opportunity for repeating his remark, with variations.",
+          "translation": "¡Es para desesperarse!"
+        },
+        {
+          "language": "es",
+          "syncId": "alice-ch06-u0037",
+          "english": "\"But what am I to do?\" said Alice.",
+          "translation": "—Voy a estar aquí fuera sentado días y días. —Pero ¿qué voy yo a hacer? —dijo Alicia. —Lo que quiera —le respondió el criado, y se puso a silbar. —¡Oh,"
+        },
+        {
+          "language": "es",
+          "syncId": "alice-ch06-u0040",
+          "english": "\"he's perfectly idiotic!\"",
+          "translation": "en medio se hallaba la Duquesa, sentada en un escabel de tres patas, con un niñito de pecho en la falda;"
+        },
+        {
+          "language": "es",
+          "syncId": "alice-ch06-u0043",
+          "english": "the cook was leaning over the fire, stirring a large cauldron which seemed to be full of soup.",
+          "translation": "al tiempo en que estornudaba."
+        },
+        {
+          "language": "fr",
+          "syncId": "alice-ch06-u0009",
+          "english": "An invitation for the Duchess to play croquet.\"",
+          "translation": "\"De la part de la Reine une invitation pour Madame la Duchesse à une partie de croquet;\" puis tous deux se firent un profond salut et les boucles de leurs chevelures s'entremêlèren"
+        },
+        {
+          "language": "fr",
+          "syncId": "alice-ch06-u0013",
+          "english": "Alice went timidly up to the door, and knocked.",
+          "translation": "\"Cela ne sert à rien du tout de frapper,\" dit le Laquais, \"et cela pour deux raisons: premièrement, parce que je suis du même côté de la porte que vous; deuxièmement,"
+        },
+        {
+          "language": "fr",
+          "syncId": "alice-ch06-u0031",
+          "english": "\"That's the first question, you know.\"",
+          "translation": "\"C'est vraiment terrible,\" murmura-t-elle, \"de voir la manière dont ces gens-là discutent, il y a de quoi rendre fou.\""
+        },
+        {
+          "language": "fr",
+          "syncId": "alice-ch06-u0040",
+          "english": "\"he's perfectly idiotic!\"",
+          "translation": "La Duchesse était assise sur un tabouret à trois pieds, au milieu de la cuisine, et dorlotait un bébé; la cuisinière, penchée sur le feu,"
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-7",
+      "title": "A Mad Tea-Party",
+      "units": 195,
+      "languages": {
+        "de": {
+          "units": 195,
+          "needsReview": 71
+        },
+        "en": {
+          "units": 195,
+          "needsReview": 0
+        },
+        "es": {
+          "units": 195,
+          "needsReview": 36
+        },
+        "fr": {
+          "units": 195,
+          "needsReview": 36
+        }
+      },
+      "questionable": [
+        {
+          "language": "de",
+          "syncId": "alice-ch07-u0006",
+          "english": "\"No room!",
+          "translation": "fest eingeschlafen, und die beiden Andern benutzten es als Kissen, um ihre Ellbogen darauf zu stützen,"
+        },
+        {
+          "language": "de",
+          "syncId": "alice-ch07-u0014",
+          "english": "\"It wasn't very civil of you to sit down without being invited,\" said the March Hare.",
+          "translation": "der Faselhase."
+        },
+        {
+          "language": "de",
+          "syncId": "alice-ch07-u0017",
+          "english": "\"Your hair wants cutting,\" said the Hatter.",
+          "translation": "aber es war nichts als Thee darauf.»Ich sehe keinen Wein,«bemerkte sie.»Es ist keiner hier,«sagte der Faselhase.»Dann war es gar nicht höflich von dir,"
+        },
+        {
+          "language": "de",
+          "syncId": "alice-ch07-u0019",
+          "english": "\"You should learn not to make personal remarks,\"",
+          "translation": "dich ungebeten herzusetzen,«sagte der Faselhase.»Ich wußte nicht, das es dein Tisch ist; er ist für viel mehr als drei gedeckt.«»Ich wußte nicht, das es dein Tisch ist;"
+        },
+        {
+          "language": "es",
+          "syncId": "alice-ch07-u0006",
+          "english": "\"No room!",
+          "translation": "Ahora que, como duerme, no le debe de importar.»"
+        },
+        {
+          "language": "es",
+          "syncId": "alice-ch07-u0011",
+          "english": "\"I don't see any wine,\" she remarked.",
+          "translation": "indignada."
+        },
+        {
+          "language": "es",
+          "syncId": "alice-ch07-u0021",
+          "english": "\"it's very rude.\"",
+          "translation": "y estas fueron las primeras palabras que le dirigió. —Y usted tendría que"
+        },
+        {
+          "language": "es",
+          "syncId": "alice-ch07-u0028",
+          "english": "\"I do,\"",
+          "translation": "Me alegro que hayan empezado a jugar a los disparates y a las adivinanzas.»"
+        },
+        {
+          "language": "fr",
+          "syncId": "alice-ch07-u0006",
+          "english": "\"No room!",
+          "translation": "Bien que la table fût très-grande, ils étaient tous trois serrés l'un contre l'autre à un des coins."
+        },
+        {
+          "language": "fr",
+          "syncId": "alice-ch07-u0020",
+          "english": "Alice said with some severity;",
+          "translation": "\"Vous devriez apprendre à ne pas faire de remarques sur les gens; c'est très-grossier,\" dit Alice d'un ton sévère."
+        },
+        {
+          "language": "fr",
+          "syncId": "alice-ch07-u0021",
+          "english": "\"it's very rude.\"",
+          "translation": "A ces mots le Chapelier ouvrit de grands yeux; mais il se contenta de dire:"
+        },
+        {
+          "language": "fr",
+          "syncId": "alice-ch07-u0026",
+          "english": "\"Exactly so,\" said Alice.",
+          "translation": "\"Voulez-vous dire que vous croyez pouvoir trouver la réponse?\" dit le Lièvre."
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-8",
+      "title": "The Queen's Croquet-Ground",
+      "units": 151,
+      "languages": {
+        "de": {
+          "units": 151,
+          "needsReview": 44
+        },
+        "en": {
+          "units": 151,
+          "needsReview": 0
+        },
+        "es": {
+          "units": 151,
+          "needsReview": 32
+        },
+        "fr": {
+          "units": 151,
+          "needsReview": 11
+        }
+      },
+      "questionable": [
+        {
+          "language": "de",
+          "syncId": "alice-ch08-u0006",
+          "english": "On which Seven looked up and said, \"That's right, Five!",
+          "translation": "Fünf!"
+        },
+        {
+          "language": "de",
+          "syncId": "alice-ch08-u0007",
+          "english": "Always lay the blame on others!\"",
+          "translation": "Schiebe immer die Schuld auf andre Leute!«»Du sei nur ganz still!«sagte Fünf.»Gestern erst hörte ich die Königin sagen,"
+        },
+        {
+          "language": "de",
+          "syncId": "alice-ch08-u0008",
+          "english": "\"You'd better not talk!\" said Five.",
+          "translation": "du verdientest geköpft zu werden!«»Du sei nur ganz still!«sagte Fünf.»Gestern erst hörte ich die Königin sagen, du verdientest geköpft zu werden!«»Wofür?«fragte der,"
+        },
+        {
+          "language": "de",
+          "syncId": "alice-ch08-u0010",
+          "english": "\"What for?\" said the one who had spoken first.",
+          "translation": "daß er dem Koch Tulpenzwiebeln statt Küchenzwiebeln gebracht hat.«»Ja, es geht ihn an!«sagte Fünf,»und ich werde es ihm sagen -- dafür,"
+        },
+        {
+          "language": "es",
+          "syncId": "alice-ch08-u0005",
+          "english": "\"Seven jogged my elbow.\"",
+          "translation": "Con lo cual el Siete levantó los ojos y dijo: —Está bien, Cinco; échale siempre las culpas al vecino. —Más te valdría no hablar —dijo el Cinco—."
+        },
+        {
+          "language": "es",
+          "syncId": "alice-ch08-u0007",
+          "english": "Always lay the blame on others!\"",
+          "translation": "que había hablado primero. —¿A ti qué te importa? —dijo el Siete. —¿Pues no ha de importarle? —dijo el Cinco—."
+        },
+        {
+          "language": "es",
+          "syncId": "alice-ch08-u0010",
+          "english": "\"What for?\" said the one who had spoken first.",
+          "translation": "Pues de todas las injusticias... —Y al llegar aquí se contuvo de pronto porque acababa de ver a Alicia que le miraba; los otros también se volvieron,"
+        },
+        {
+          "language": "es",
+          "syncId": "alice-ch08-u0017",
+          "english": "Two began in a low voice, \"Why the fact is, you see, Miss, this here ought to have been a red rose-tree, and we put a white one in by mistake; and if the Queen was to find it out,",
+          "translation": "¡La Reina!"
+        },
+        {
+          "language": "fr",
+          "syncId": "alice-ch08-u0021",
+          "english": "The Queen!\" and the three gardeners instantly threw themselves flat upon their faces.",
+          "translation": "\"La Reine!"
+        },
+        {
+          "language": "fr",
+          "syncId": "alice-ch08-u0027",
+          "english": "and went by without noticing her.",
+          "translation": "Il avait l'air ému et agité en parlant, souriait à tout ce qu'on disait, et passa sans faire attention à elle."
+        },
+        {
+          "language": "fr",
+          "syncId": "alice-ch08-u0034",
+          "english": "\"Idiot!\" said the Queen, tossing her head impatiently; and, turning to Alice, she went on, \"What's your name, child?\"",
+          "translation": "\"Votre nom, petite?\""
+        },
+        {
+          "language": "fr",
+          "syncId": "alice-ch08-u0035",
+          "english": "\"My name is Alice, so please your Majesty,\" said Alice very politely; but she added, to herself, \"Why, they're only a pack of cards, after all.",
+          "translation": "\"Je me nomme Alice, s'il plaît à Votre Majesté,\" dit Alice fort poliment. Mais elle ajouta en elle-même: \"Ces gens-là ne sont, après tout, qu'un paquet de cartes. Pourquoi en aurai"
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-9",
+      "title": "The Mock Turtle's Story",
+      "units": 175,
+      "languages": {
+        "de": {
+          "units": 175,
+          "needsReview": 50
+        },
+        "en": {
+          "units": 175,
+          "needsReview": 0
+        },
+        "es": {
+          "units": 175,
+          "needsReview": 53
+        },
+        "fr": {
+          "units": 175,
+          "needsReview": 43
+        }
+      },
+      "questionable": [
+        {
+          "language": "de",
+          "syncId": "alice-ch09-u0011",
+          "english": "Alice ventured to remark.",
+          "translation": "der sie sauertöpfisch macht -- und Kamillenthee, der sie bitter macht -- und Gerstenzucker und dergleichen, was Kinder zuckersüß macht."
+        },
+        {
+          "language": "de",
+          "syncId": "alice-ch09-u0012",
+          "english": "\"Tut, tut, child!\" said the Duchess.",
+          "translation": "Ich wünschte nur, die großen Leute wüßten das, dann würden sie nicht so sparsam damit sein --«Sie hatte unterdessen die Herzogin ganz vergessen und schrak förmlich zusammen,"
+        },
+        {
+          "language": "de",
+          "syncId": "alice-ch09-u0015",
+          "english": "Alice did not much like keeping so close to her: first, because the Duchess was very ugly; and secondly, because she was exactly the right height to rest her chin upon Alice's shou",
+          "translation": "und vergißt darüber zu sprechen."
+        },
+        {
+          "language": "de",
+          "syncId": "alice-ch09-u0016",
+          "english": "and it was an uncomfortably sharp chin.",
+          "translation": "Ich kann dir diesen Augenblick nicht sagen, was die Moral davon ist, aber es wird mir gleich einfallen.«»Vielleicht hat es keine,«hatte Alice den Muth zu sagen.»Still, still,"
+        },
+        {
+          "language": "es",
+          "syncId": "alice-ch09-u0004",
+          "english": "Soup does very well without—Maybe it's always pepper that makes people hot-tempered,\" she went on, very much pleased at having found out a new kind of rule,",
+          "translation": "La sopa es muy buena sin pimienta: probablemente,"
+        },
+        {
+          "language": "es",
+          "syncId": "alice-ch09-u0010",
+          "english": "\"Perhaps it hasn't one,\"",
+          "translation": "No podría decirte en este momento la enseñanza que debe desprenderse de ello,"
+        },
+        {
+          "language": "es",
+          "syncId": "alice-ch09-u0011",
+          "english": "Alice ventured to remark.",
+          "translation": "pero no he de tardar en encontrarla. —Puede que esto no tenga moraleja —se aventuró a observar Alicia. —¡Calla, calla,"
+        },
+        {
+          "language": "es",
+          "syncId": "alice-ch09-u0015",
+          "english": "Alice did not much like keeping so close to her: first, because the Duchess was very ugly; and secondly, because she was exactly the right height to rest her chin upon Alice's shou",
+          "translation": "No obstante, como no quería ser brusca,"
+        },
+        {
+          "language": "fr",
+          "syncId": "alice-ch09-u0002",
+          "english": "Alice was very glad to find her in such a pleasant temper, and thought to herself that perhaps it was only the pepper that had made her so savage when they met in the kitchen.",
+          "translation": "et elles s'éloignèrent ensemble."
+        },
+        {
+          "language": "fr",
+          "syncId": "alice-ch09-u0004",
+          "english": "Soup does very well without—Maybe it's always pepper that makes people hot-tempered,\" she went on, very much pleased at having found out a new kind of rule,",
+          "translation": "lorsqu'elles se rencontrèrent dans la cuisine."
+        },
+        {
+          "language": "fr",
+          "syncId": "alice-ch09-u0010",
+          "english": "\"Perhaps it hasn't one,\"",
+          "translation": "Je voudrais bien que tout le monde sût cela; on ne serait pas si chiche de sucreries, voyez-vous.\""
+        },
+        {
+          "language": "fr",
+          "syncId": "alice-ch09-u0011",
+          "english": "Alice ventured to remark.",
+          "translation": "Elle avait alors complétement oublié la Duchesse, et tressaillit en entendant sa voix tout près de son oreille."
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-10",
+      "title": "The Lobster Quadrille",
+      "units": 162,
+      "languages": {
+        "de": {
+          "units": 162,
+          "needsReview": 28
+        },
+        "en": {
+          "units": 162,
+          "needsReview": 0
+        },
+        "es": {
+          "units": 162,
+          "needsReview": 38
+        },
+        "fr": {
+          "units": 162,
+          "needsReview": 24
+        }
+      },
+      "questionable": [
+        {
+          "language": "de",
+          "syncId": "alice-ch10-u0006",
+          "english": "herself hastily,",
+          "translation": "Endlich erhielt die falsche Schildkröte den Gebrauch ihrer Stimme wieder, und während Thränen ihre Wangen herabflossen,"
+        },
+        {
+          "language": "de",
+          "syncId": "alice-ch10-u0007",
+          "english": "and said \"No, never\")",
+          "translation": "erzählte sie weiter.»Vielleicht hast du nicht viel unter dem Wasser gelebt --«(»Nein,«sagte"
+        },
+        {
+          "language": "de",
+          "syncId": "alice-ch10-u0009",
+          "english": "\"No, indeed,\" said Alice.",
+          "translation": "eben sagen:»ich kostete einmal,«aber sie hielt schnell ein und sagte:»Nein,"
+        },
+        {
+          "language": "de",
+          "syncId": "alice-ch10-u0010",
+          "english": "\"What sort of a dance is it?\"",
+          "translation": "niemals«) --»und vielleicht hast du nie die Bekanntschaft eines Hummers gemacht --«(Alice"
+        },
+        {
+          "language": "es",
+          "syncId": "alice-ch10-u0006",
+          "english": "herself hastily,",
+          "translation": "reanudó así el relato: —Seguramente habrás vivido poco en el fondo del mar. —No,"
+        },
+        {
+          "language": "es",
+          "syncId": "alice-ch10-u0007",
+          "english": "and said \"No, never\")",
+          "translation": "nunca —contestó Alicia. —Entonces no te habrán presentado a ninguna langosta."
+        },
+        {
+          "language": "es",
+          "syncId": "alice-ch10-u0009",
+          "english": "\"No, indeed,\" said Alice.",
+          "translation": "No, nunca. —Entonces no tienes idea de qué cosa más divertida es el baile de la Langosta. —Es verdad:"
+        },
+        {
+          "language": "es",
+          "syncId": "alice-ch10-u0015",
+          "english": "\"—you advance twice—\"",
+          "translation": "interrumpiendo otra vez. —¡Claro está! —contestó la Falsa Tortuga—."
+        },
+        {
+          "language": "fr",
+          "syncId": "alice-ch10-u0006",
+          "english": "herself hastily,",
+          "translation": "\"Peut-être n'avez-vous pas beaucoup vécu au fond de la mer?\"--(\"Non,\" dit"
+        },
+        {
+          "language": "fr",
+          "syncId": "alice-ch10-u0007",
+          "english": "and said \"No, never\")",
+          "translation": "Alice)--\"et peut-être ne vous a-t-on jamais présentée à un homard?\" (Alice allait dire:"
+        },
+        {
+          "language": "fr",
+          "syncId": "alice-ch10-u0010",
+          "english": "\"What sort of a dance is it?\"",
+          "translation": "\"De sorte que vous ne pouvez pas du tout vous figurer quelle chose délicieuse c'est qu'un quadrille de homards.\""
+        },
+        {
+          "language": "fr",
+          "syncId": "alice-ch10-u0032",
+          "english": "\"We can do without lobsters, you know.",
+          "translation": "\"----vous faites une cabriole dans la mer!!!\" cria la Fausse-Tortue, en cabriolant de tous côtés comme une folle."
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-11",
+      "title": "Who Stole the Tarts?",
+      "units": 133,
+      "languages": {
+        "de": {
+          "units": 133,
+          "needsReview": 34
+        },
+        "en": {
+          "units": 133,
+          "needsReview": 0
+        },
+        "es": {
+          "units": 133,
+          "needsReview": 32
+        },
+        "fr": {
+          "units": 133,
+          "needsReview": 33
+        }
+      },
+      "questionable": [
+        {
+          "language": "de",
+          "syncId": "alice-ch11-u0012",
+          "english": "\"I suppose they are the jurors.\"",
+          "translation": "bei Namen zu nennen wußte.»Das ist der Richter,«sagte sie für sich,»wegen seiner großen Perrücke.«Der Richter war übrigens der König,"
+        },
+        {
+          "language": "de",
+          "syncId": "alice-ch11-u0017",
+          "english": "\"What are they doing?\"",
+          "translation": "Sie wiederholte sich selbst dies Wort zwei bis drei Mal, weil sie so stolz darauf war; denn sie glaubte, und das mit Recht,"
+        },
+        {
+          "language": "de",
+          "syncId": "alice-ch11-u0021",
+          "english": "\"Stupid things!\"",
+          "translation": "ehe das Verhör zu Ende ist.«»Dumme Dinger!«fing Alice entrüstet ganz laut an; aber sie hielt augenblicklich inne,"
+        },
+        {
+          "language": "de",
+          "syncId": "alice-ch11-u0023",
+          "english": "to make out who was talking.",
+          "translation": "Alice konnte ganz deutlich sehen, daß alle Geschworne»dumme Dinger!«auf ihre Tafeln schrieben, und sie merkte auch, daß Einer von ihnen nicht wußte, wie es geschrieben wird,"
+        },
+        {
+          "language": "es",
+          "syncId": "alice-ch11-u0007",
+          "english": "Alice had never been in a court of justice before, but she had read about them in books, and she was quite pleased to find that she knew the name of nearly everything there.",
+          "translation": "Mas, de momento, este deseo no parecía próximo a cumplirse;"
+        },
+        {
+          "language": "es",
+          "syncId": "alice-ch11-u0010",
+          "english": "and it was certainly not becoming.",
+          "translation": "y la complacía advertir que recordaba el nombre de casi todo lo que allí había. —Aquel es el juez —se dijo—, porque lleva una peluca blanca."
+        },
+        {
+          "language": "es",
+          "syncId": "alice-ch11-u0011",
+          "english": "\"And that's the jury-box,\" thought Alice, \"and those twelve creatures,\" (she was obliged to say \"creatures,\" you see, because some of them were animals, and some were birds,)",
+          "translation": "Y daba la casualidad de que el juez era el mismo Rey, que,"
+        },
+        {
+          "language": "es",
+          "syncId": "alice-ch11-u0012",
+          "english": "\"I suppose they are the jurors.\"",
+          "translation": "como llevaba la corona encima de la peluca, parecía hallarse bastante incómodo; y, en efecto,"
+        },
+        {
+          "language": "fr",
+          "syncId": "alice-ch11-u0010",
+          "english": "and it was certainly not becoming.",
+          "translation": "si vous voulez savoir comment il s'était arrangé) il n'avait pas du tout l'air d'être à son aise, et cela ne lui allait pas bien du tout."
+        },
+        {
+          "language": "fr",
+          "syncId": "alice-ch11-u0011",
+          "english": "\"And that's the jury-box,\" thought Alice, \"and those twelve creatures,\" (she was obliged to say \"creatures,\" you see, because some of them were animals, and some were birds,)",
+          "translation": "\"Et ça, c'est le banc du jury,\" pensa Alice;"
+        },
+        {
+          "language": "fr",
+          "syncId": "alice-ch11-u0012",
+          "english": "\"I suppose they are the jurors.\"",
+          "translation": "\"et ces douze créatures\" (elle était forcée de dire 'créatures,' vous comprenez, car quelques-uns étaient des bêtes et quelques autres des oiseaux),"
+        },
+        {
+          "language": "fr",
+          "syncId": "alice-ch11-u0017",
+          "english": "\"What are they doing?\"",
+          "translation": "\"Ils ne peuvent rien avoir à écrire avant que le procès soit commencé.\""
+        }
+      ]
+    },
+    {
+      "chapterId": "chapter-12",
+      "title": "Alice's Evidence",
+      "units": 132,
+      "languages": {
+        "de": {
+          "units": 132,
+          "needsReview": 28
+        },
+        "en": {
+          "units": 132,
+          "needsReview": 0
+        },
+        "es": {
+          "units": 132,
+          "needsReview": 30
+        },
+        "fr": {
+          "units": 132,
+          "needsReview": 28
+        }
+      },
+      "questionable": [
+        {
+          "language": "de",
+          "syncId": "alice-ch12-u0013",
+          "english": "As soon as the jury had a little recovered from the shock of being upset, and their slates and pencils had been found and handed back to them,",
+          "translation": "da es sich übrigens nicht rühren konnte."
+        },
+        {
+          "language": "de",
+          "syncId": "alice-ch12-u0015",
+          "english": "gazing up into the roof of the court.",
+          "translation": "es würde für das Verhör ganz eben so nützlich sein kopfoben wie kopfunten.«Sobald sich die Geschwornen etwas von dem Schreck erholt hatten, umgeworfen worden zu sein,"
+        },
+        {
+          "language": "de",
+          "syncId": "alice-ch12-u0017",
+          "english": "\"Nothing,\" said Alice.",
+          "translation": "alle außer der Eidechse, welche zu angegriffen war, um etwas zu thun;"
+        },
+        {
+          "language": "de",
+          "syncId": "alice-ch12-u0019",
+          "english": "\"Nothing whatever,\" said Alice.",
+          "translation": "Angelegenheit?«fragte der König Alice.»Nichts!«sagte Alice.»Durchaus nichts?«drang der König in"
+        },
+        {
+          "language": "es",
+          "syncId": "alice-ch12-u0004",
+          "english": "\"Oh, I beg your pardon!\" she exclaimed in a tone of great dismay, and began picking them up again as quickly as she could, for the accident of the goldfish kept running in her head",
+          "translation": "Ustedes perdonen, señores —dijo en tono de gran pesar."
+        },
+        {
+          "language": "es",
+          "syncId": "alice-ch12-u0007",
+          "english": "looking hard at Alice as he said so.",
+          "translation": "pues de lo contrario se morirían. —No puede continuar la vista mientras los jurados no estén cada cual en su sitio —dijo el Rey, con mucha gravedad."
+        },
+        {
+          "language": "es",
+          "syncId": "alice-ch12-u0013",
+          "english": "As soon as the jury had a little recovered from the shock of being upset, and their slates and pencils had been found and handed back to them,",
+          "translation": "Ella la puso bien enseguida, aunque pensando:"
+        },
+        {
+          "language": "es",
+          "syncId": "alice-ch12-u0014",
+          "english": "they set to work very diligently to write out a history of the accident, all except the Lizard, who seemed too much overcome to do anything but sit with its mouth open,",
+          "translation": "«No creo que esto ponga ni quite gran cosa al proceso."
+        },
+        {
+          "language": "fr",
+          "syncId": "alice-ch12-u0007",
+          "english": "looking hard at Alice as he said so.",
+          "translation": "Alice regarda le banc des jurés, et vit que dans son empressement elle y avait placé le Lézard la tête en bas, et le pauvre petit être remuait la queue d'une triste façon,"
+        },
+        {
+          "language": "fr",
+          "syncId": "alice-ch12-u0009",
+          "english": "being quite unable to move.",
+          "translation": "\"Non que cela soit bien important,\" se dit-elle, \"car je pense qu'il serait tout aussi utile au procès la tête en bas qu'autrement.\""
+        },
+        {
+          "language": "fr",
+          "syncId": "alice-ch12-u0010",
+          "english": "She soon got it out again, and put it right;",
+          "translation": "Sitôt que les jurés se furent un peu remis de la secousse, qu'on eut retrouvé et qu'on leur eut rendu leurs ardoises et leurs crayons,"
+        },
+        {
+          "language": "fr",
+          "syncId": "alice-ch12-u0011",
+          "english": "\"not that it signifies much,\" she said to herself;",
+          "translation": "ils se mirent fort diligemment à écrire l'histoire de l'accident, à l'exception du Lézard, qui paraissait trop accablé pour faire autre chose que demeurer la bouche ouverte,"
+        }
+      ]
+    }
+  ],
+  "needsReview": 1202
+}

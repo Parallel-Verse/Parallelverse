@@ -1,0 +1,711 @@
+{
+  "bookId": "monte-cristo",
+  "title": "The Count of Monte Cristo",
+  "englishChapters": 117,
+  "spanishChapters": 117,
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "Chapter 1. Marseilles—The Arrival",
+      "units": 232,
+      "needsReview": 33
+    },
+    {
+      "chapter": 2,
+      "title": "Chapter 2. Father and Son",
+      "units": 186,
+      "needsReview": 17
+    },
+    {
+      "chapter": 3,
+      "title": "Chapter 3. The Catalans",
+      "units": 234,
+      "needsReview": 20
+    },
+    {
+      "chapter": 4,
+      "title": "Chapter 4. Conspiracy",
+      "units": 171,
+      "needsReview": 22
+    },
+    {
+      "chapter": 5,
+      "title": "Chapter 5. The Marriage Feast",
+      "units": 330,
+      "needsReview": 32
+    },
+    {
+      "chapter": 6,
+      "title": "Chapter 6. The Deputy Procureur du Roi",
+      "units": 229,
+      "needsReview": 21
+    },
+    {
+      "chapter": 7,
+      "title": "Chapter 7. The Examination",
+      "units": 233,
+      "needsReview": 39
+    },
+    {
+      "chapter": 8,
+      "title": "Chapter 8. The Château d'If",
+      "units": 221,
+      "needsReview": 36
+    },
+    {
+      "chapter": 9,
+      "title": "Chapter 9. The Evening of the Betrothal",
+      "units": 113,
+      "needsReview": 15
+    },
+    {
+      "chapter": 10,
+      "title": "Chapter 10. The King's Closet at the Tuileries",
+      "units": 185,
+      "needsReview": 28
+    },
+    {
+      "chapter": 11,
+      "title": "Chapter 11. The Corsican Ogre",
+      "units": 200,
+      "needsReview": 19
+    },
+    {
+      "chapter": 12,
+      "title": "Chapter 12. Father and Son",
+      "units": 169,
+      "needsReview": 21
+    },
+    {
+      "chapter": 13,
+      "title": "Chapter 13. The Hundred Days",
+      "units": 168,
+      "needsReview": 27
+    },
+    {
+      "chapter": 14,
+      "title": "Chapter 14. The Two Prisoners",
+      "units": 222,
+      "needsReview": 35
+    },
+    {
+      "chapter": 15,
+      "title": "Chapter 15. Number 34 and Number 27",
+      "units": 345,
+      "needsReview": 53
+    },
+    {
+      "chapter": 16,
+      "title": "Chapter 16. A Learned Italian",
+      "units": 233,
+      "needsReview": 21
+    },
+    {
+      "chapter": 17,
+      "title": "Chapter 17. The Abbé's Chamber",
+      "units": 518,
+      "needsReview": 67
+    },
+    {
+      "chapter": 18,
+      "title": "Chapter 18. The Treasure",
+      "units": 248,
+      "needsReview": 32
+    },
+    {
+      "chapter": 19,
+      "title": "Chapter 19. The Third Attack",
+      "units": 232,
+      "needsReview": 29
+    },
+    {
+      "chapter": 20,
+      "title": "Chapter 20. The Cemetery of the Château d'If",
+      "units": 108,
+      "needsReview": 8
+    },
+    {
+      "chapter": 21,
+      "title": "Chapter 21. The Island of Tiboulen",
+      "units": 234,
+      "needsReview": 35
+    },
+    {
+      "chapter": 22,
+      "title": "Chapter 22. The Smugglers",
+      "units": 137,
+      "needsReview": 10
+    },
+    {
+      "chapter": 23,
+      "title": "Chapter 23. The Island of Monte Cristo",
+      "units": 161,
+      "needsReview": 15
+    },
+    {
+      "chapter": 24,
+      "title": "Chapter 24. The Secret Cave",
+      "units": 166,
+      "needsReview": 8
+    },
+    {
+      "chapter": 25,
+      "title": "Chapter 25. The Unknown",
+      "units": 148,
+      "needsReview": 10
+    },
+    {
+      "chapter": 26,
+      "title": "Chapter 26. The Pont du Gard Inn",
+      "units": 321,
+      "needsReview": 38
+    },
+    {
+      "chapter": 27,
+      "title": "Chapter 27. The Story",
+      "units": 330,
+      "needsReview": 49
+    },
+    {
+      "chapter": 28,
+      "title": "Chapter 28. The Prison Register",
+      "units": 159,
+      "needsReview": 26
+    },
+    {
+      "chapter": 29,
+      "title": "Chapter 29. The House of Morrel & Son",
+      "units": 292,
+      "needsReview": 50
+    },
+    {
+      "chapter": 30,
+      "title": "Chapter 30. The Fifth of September",
+      "units": 364,
+      "needsReview": 45
+    },
+    {
+      "chapter": 31,
+      "title": "Chapter 31. Italy: Sinbad the Sailor",
+      "units": 493,
+      "needsReview": 79
+    },
+    {
+      "chapter": 32,
+      "title": "Chapter 32. The Waking",
+      "units": 122,
+      "needsReview": 12
+    },
+    {
+      "chapter": 33,
+      "title": "Chapter 33. Roman Bandits",
+      "units": 632,
+      "needsReview": 64
+    },
+    {
+      "chapter": 34,
+      "title": "Chapter 34. The Colosseum",
+      "units": 605,
+      "needsReview": 63
+    },
+    {
+      "chapter": 35,
+      "title": "Chapter 35. La Mazzolata",
+      "units": 318,
+      "needsReview": 44
+    },
+    {
+      "chapter": 36,
+      "title": "Chapter 36. The Carnival at Rome",
+      "units": 397,
+      "needsReview": 57
+    },
+    {
+      "chapter": 37,
+      "title": "Chapter 37. The Catacombs of Saint Sebastian",
+      "units": 436,
+      "needsReview": 66
+    },
+    {
+      "chapter": 38,
+      "title": "Chapter 38. The Rendezvous",
+      "units": 170,
+      "needsReview": 18
+    },
+    {
+      "chapter": 39,
+      "title": "Chapter 39. The Guests",
+      "units": 179,
+      "needsReview": 39
+    },
+    {
+      "chapter": 40,
+      "title": "Chapter 40. The Breakfast",
+      "units": 567,
+      "needsReview": 59
+    },
+    {
+      "chapter": 41,
+      "title": "Chapter 41. The Presentation",
+      "units": 266,
+      "needsReview": 19
+    },
+    {
+      "chapter": 42,
+      "title": "Chapter 42. Monsieur Bertuccio",
+      "units": 119,
+      "needsReview": 11
+    },
+    {
+      "chapter": 43,
+      "title": "Chapter 43. The House at Auteuil",
+      "units": 169,
+      "needsReview": 13
+    },
+    {
+      "chapter": 44,
+      "title": "Chapter 44. The Vendetta",
+      "units": 498,
+      "needsReview": 52
+    },
+    {
+      "chapter": 45,
+      "title": "Chapter 45. The Rain of Blood",
+      "units": 277,
+      "needsReview": 18
+    },
+    {
+      "chapter": 46,
+      "title": "Chapter 46. Unlimited Credit",
+      "units": 325,
+      "needsReview": 40
+    },
+    {
+      "chapter": 47,
+      "title": "Chapter 47. The Dappled Grays",
+      "units": 297,
+      "needsReview": 32
+    },
+    {
+      "chapter": 48,
+      "title": "Chapter 48. Ideology",
+      "units": 241,
+      "needsReview": 23
+    },
+    {
+      "chapter": 49,
+      "title": "Chapter 49. Haydée",
+      "units": 104,
+      "needsReview": 9
+    },
+    {
+      "chapter": 50,
+      "title": "Chapter 50. The Morrel Family",
+      "units": 198,
+      "needsReview": 23
+    },
+    {
+      "chapter": 51,
+      "title": "Chapter 51. Pyramus and Thisbe",
+      "units": 259,
+      "needsReview": 26
+    },
+    {
+      "chapter": 52,
+      "title": "Chapter 52. Toxicology",
+      "units": 355,
+      "needsReview": 44
+    },
+    {
+      "chapter": 53,
+      "title": "Chapter 53. Robert le Diable",
+      "units": 427,
+      "needsReview": 47
+    },
+    {
+      "chapter": 54,
+      "title": "Chapter 54. A Flurry in Stocks",
+      "units": 285,
+      "needsReview": 47
+    },
+    {
+      "chapter": 55,
+      "title": "Chapter 55. Major Cavalcanti",
+      "units": 312,
+      "needsReview": 25
+    },
+    {
+      "chapter": 56,
+      "title": "Chapter 56. Andrea Cavalcanti",
+      "units": 306,
+      "needsReview": 35
+    },
+    {
+      "chapter": 57,
+      "title": "Chapter 57. In the Lucern Patch",
+      "units": 272,
+      "needsReview": 30
+    },
+    {
+      "chapter": 58,
+      "title": "Chapter 58. M. Noirtier de Villefort",
+      "units": 224,
+      "needsReview": 32
+    },
+    {
+      "chapter": 59,
+      "title": "Chapter 59. The Will",
+      "units": 231,
+      "needsReview": 43
+    },
+    {
+      "chapter": 60,
+      "title": "Chapter 60. The Telegraph",
+      "units": 245,
+      "needsReview": 38
+    },
+    {
+      "chapter": 61,
+      "title": "Chapter 61. How a Gardener May Get Rid of the Dormice that Eat His",
+      "units": 254,
+      "needsReview": 37
+    },
+    {
+      "chapter": 62,
+      "title": "Chapter 62. Ghosts",
+      "units": 215,
+      "needsReview": 28
+    },
+    {
+      "chapter": 63,
+      "title": "Chapter 63. The Dinner",
+      "units": 237,
+      "needsReview": 32
+    },
+    {
+      "chapter": 64,
+      "title": "Chapter 64. The Beggar",
+      "units": 228,
+      "needsReview": 21
+    },
+    {
+      "chapter": 65,
+      "title": "Chapter 65. A Conjugal Scene",
+      "units": 232,
+      "needsReview": 37
+    },
+    {
+      "chapter": 66,
+      "title": "Chapter 66. Matrimonial Projects",
+      "units": 249,
+      "needsReview": 38
+    },
+    {
+      "chapter": 67,
+      "title": "Chapter 67. The Office of the King's Attorney",
+      "units": 280,
+      "needsReview": 42
+    },
+    {
+      "chapter": 68,
+      "title": "Chapter 68. A Summer Ball",
+      "units": 217,
+      "needsReview": 29
+    },
+    {
+      "chapter": 69,
+      "title": "Chapter 69. The Inquiry",
+      "units": 224,
+      "needsReview": 39
+    },
+    {
+      "chapter": 70,
+      "title": "Chapter 70. The Ball",
+      "units": 243,
+      "needsReview": 27
+    },
+    {
+      "chapter": 71,
+      "title": "Chapter 71. Bread and Salt",
+      "units": 112,
+      "needsReview": 12
+    },
+    {
+      "chapter": 72,
+      "title": "Chapter 72. Madame de Saint-Méran",
+      "units": 278,
+      "needsReview": 37
+    },
+    {
+      "chapter": 73,
+      "title": "Chapter 73. The Promise",
+      "units": 672,
+      "needsReview": 100
+    },
+    {
+      "chapter": 74,
+      "title": "Chapter 74. The Villefort Family Vault",
+      "units": 208,
+      "needsReview": 30
+    },
+    {
+      "chapter": 75,
+      "title": "Chapter 75. A Signed Statement",
+      "units": 257,
+      "needsReview": 34
+    },
+    {
+      "chapter": 76,
+      "title": "Chapter 76. Progress of Cavalcanti the Younger",
+      "units": 278,
+      "needsReview": 41
+    },
+    {
+      "chapter": 77,
+      "title": "Chapter 77. Haydée",
+      "units": 480,
+      "needsReview": 81
+    },
+    {
+      "chapter": 78,
+      "title": "Chapter 78. We hear From Yanina",
+      "units": 487,
+      "needsReview": 63
+    },
+    {
+      "chapter": 79,
+      "title": "Chapter 79. The Lemonade",
+      "units": 333,
+      "needsReview": 40
+    },
+    {
+      "chapter": 80,
+      "title": "Chapter 80. The Accusation",
+      "units": 144,
+      "needsReview": 18
+    },
+    {
+      "chapter": 81,
+      "title": "Chapter 81. The Room of the Retired Baker",
+      "units": 505,
+      "needsReview": 73
+    },
+    {
+      "chapter": 82,
+      "title": "Chapter 82. The Burglary",
+      "units": 333,
+      "needsReview": 57
+    },
+    {
+      "chapter": 83,
+      "title": "Chapter 83. The Hand of God",
+      "units": 160,
+      "needsReview": 34
+    },
+    {
+      "chapter": 84,
+      "title": "Chapter 84. Beauchamp",
+      "units": 148,
+      "needsReview": 28
+    },
+    {
+      "chapter": 85,
+      "title": "Chapter 85. The Journey",
+      "units": 262,
+      "needsReview": 44
+    },
+    {
+      "chapter": 86,
+      "title": "Chapter 86. The Trial",
+      "units": 260,
+      "needsReview": 35
+    },
+    {
+      "chapter": 87,
+      "title": "Chapter 87. The Challenge",
+      "units": 171,
+      "needsReview": 20
+    },
+    {
+      "chapter": 88,
+      "title": "Chapter 88. The Insult",
+      "units": 244,
+      "needsReview": 31
+    },
+    {
+      "chapter": 89,
+      "title": "Chapter 89. The Night",
+      "units": 177,
+      "needsReview": 19
+    },
+    {
+      "chapter": 90,
+      "title": "Chapter 90. The Meeting",
+      "units": 308,
+      "needsReview": 30
+    },
+    {
+      "chapter": 91,
+      "title": "Chapter 91. Mother and Son",
+      "units": 137,
+      "needsReview": 13
+    },
+    {
+      "chapter": 92,
+      "title": "Chapter 92. The Suicide",
+      "units": 211,
+      "needsReview": 23
+    },
+    {
+      "chapter": 93,
+      "title": "Chapter 93. Valentine",
+      "units": 186,
+      "needsReview": 15
+    },
+    {
+      "chapter": 94,
+      "title": "Chapter 94. Maximilian's Avowal",
+      "units": 294,
+      "needsReview": 40
+    },
+    {
+      "chapter": 95,
+      "title": "Chapter 95. Father and Daughter",
+      "units": 196,
+      "needsReview": 22
+    },
+    {
+      "chapter": 96,
+      "title": "Chapter 96. The Contract",
+      "units": 266,
+      "needsReview": 28
+    },
+    {
+      "chapter": 97,
+      "title": "Chapter 97. The Departure for Belgium",
+      "units": 166,
+      "needsReview": 23
+    },
+    {
+      "chapter": 98,
+      "title": "Chapter 98. The Bell and Bottle Tavern",
+      "units": 256,
+      "needsReview": 40
+    },
+    {
+      "chapter": 99,
+      "title": "Chapter 99. The Law",
+      "units": 225,
+      "needsReview": 23
+    },
+    {
+      "chapter": 100,
+      "title": "Chapter 100. The Apparition",
+      "units": 145,
+      "needsReview": 17
+    },
+    {
+      "chapter": 101,
+      "title": "Chapter 101. Locusta",
+      "units": 125,
+      "needsReview": 19
+    },
+    {
+      "chapter": 102,
+      "title": "Chapter 102. Valentine",
+      "units": 121,
+      "needsReview": 9
+    },
+    {
+      "chapter": 103,
+      "title": "Chapter 103. Maximilian",
+      "units": 208,
+      "needsReview": 29
+    },
+    {
+      "chapter": 104,
+      "title": "Chapter 104. Danglars' Signature",
+      "units": 277,
+      "needsReview": 38
+    },
+    {
+      "chapter": 105,
+      "title": "Chapter 105. The Cemetery of Père-Lachaise",
+      "units": 285,
+      "needsReview": 36
+    },
+    {
+      "chapter": 106,
+      "title": "Chapter 106. Dividing the Proceeds",
+      "units": 353,
+      "needsReview": 31
+    },
+    {
+      "chapter": 107,
+      "title": "Chapter 107. The Lions' Den",
+      "units": 189,
+      "needsReview": 25
+    },
+    {
+      "chapter": 108,
+      "title": "Chapter 108. The Judge",
+      "units": 215,
+      "needsReview": 31
+    },
+    {
+      "chapter": 109,
+      "title": "Chapter 109. The Assizes",
+      "units": 163,
+      "needsReview": 23
+    },
+    {
+      "chapter": 110,
+      "title": "Chapter 110. The Indictment",
+      "units": 168,
+      "needsReview": 20
+    },
+    {
+      "chapter": 111,
+      "title": "Chapter 111. Expiation",
+      "units": 207,
+      "needsReview": 37
+    },
+    {
+      "chapter": 112,
+      "title": "Chapter 112. The Departure",
+      "units": 298,
+      "needsReview": 28
+    },
+    {
+      "chapter": 113,
+      "title": "Chapter 113. The Past",
+      "units": 292,
+      "needsReview": 31
+    },
+    {
+      "chapter": 114,
+      "title": "Chapter 114. Peppino",
+      "units": 242,
+      "needsReview": 23
+    },
+    {
+      "chapter": 115,
+      "title": "Chapter 115. Luigi Vampa's Bill of Fare",
+      "units": 170,
+      "needsReview": 16
+    },
+    {
+      "chapter": 116,
+      "title": "Chapter 116. The Pardon",
+      "units": 140,
+      "needsReview": 18
+    },
+    {
+      "chapter": 117,
+      "title": "Chapter 117. The Fifth of October",
+      "units": 344,
+      "needsReview": 49
+    }
+  ],
+  "needsReview": 3833
+}
